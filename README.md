@@ -48,3 +48,44 @@
 
   ....
 ```
+
+
+### Word group annotation
+
+
+* Example segment of word group XML:
+
+
+```
+<chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Phlm" num="1">
+  <wg.groups>
+    <wg.group xml:id="NT.Phlm.1_wg1">
+      <wg.head>
+        <wg.word xlink:href="NT.Phlm.w1">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phlm.w2">
+                <wg.modifiers>
+                  <wg.qualifier>
+                    <wg.word xlink:href="NT.Phlm.w3">
+                      <wg.modifiers>
+                        <wg.definer>
+                          <wg.word xlink:href="NT.Phlm.w4"/>
+                        </wg.definer>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.qualifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+```
+
+* This is the first word group in Philemon and is represented in the word group box diagrams like this:
+
+![](wg_example.png)
+
+### Clause level
