@@ -89,3 +89,12 @@
 ![](wg_example.png)
 
 ### Clause level
+
+
+
+* This is the first clause in Philemon and is represented in the [clause box diagrams](http://opentext.org/texts/NT/Phlm/view/clause-ch1.v0.html) like this:
+
+![](cl_example.png)
+
+
+
