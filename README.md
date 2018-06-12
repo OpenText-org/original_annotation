@@ -1,5 +1,14 @@
 # OpenText.org Original Annotation
 
+* This repository contains the XML files for the three levels: 1. base [word], 2. word group and 3. clause levels of
+the [OpenText.org model](http://opentext.org/model/introduction.html).
+
+* This annotation was completed in 2006 and was made available for viewing on the [OpenText.org](http://opentext.org) website and also implemented in [Logos bible search software](https://www.logos.com/product/27513/the-opentextorg-syntactically-analyzed-greek-new-testament). 
+
+* The syntactic annotation was carried out over the NA27 eclectic text. Because of copyright the inflected word forms have been excluded from the base level XML files in this repository.
+
+* More details about the annotation model are [available in this article](http://opentext.org/resources/articles/a8.html).
+
 
 
 ## Base level
