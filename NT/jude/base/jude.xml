@@ -1,0 +1,4749 @@
+<!--
+=================================================
+OpenText.org Linguisitc Annotation of the Greek New Testament
+
+Book: 
+Chapter: 1 
+
+Level 1 Word Level, Basic Conformance
+
+Version 0.11 Jan 1, 2006
+
+Copyright (c) 2005-6 OpenText.org
+
+contact: matt@opentext.org
+=================================================		
+		-->
+<book name="Jude">
+  <chapter sID="NT.Jude.1" num="1"/>
+  <verse sID="NT.Jude.1.1" num="1"/>
+  <w xml:id="NT.Jude.w1" ref="NT.Jude.1.1">
+    <pos>
+      <NON num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="*i)ou/das" lex="Ἰούδας"></wf>
+    <sem>
+      <domain majorNum="93" subNum="173 174 488"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w2" ref="NT.Jude.1.1">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+    <sem>
+      <domain majorNum="93" subNum="169"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w3" ref="NT.Jude.1.1">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+    <sem>
+      <domain majorNum="93" subNum="387"/>
+      <domain majorNum="53" subNum="82"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w4" ref="NT.Jude.1.1">
+    <pos>
+      <NON num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="dou=los" lex="δοῦλος"></wf>
+    <sem>
+      <domain majorNum="87" subNum="75"/>
+      <domain majorNum="37" subNum="3"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w5" ref="NT.Jude.1.1">
+    <pos>
+      <NON num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="a)delfo/s" lex="ἀδελφός"></wf>
+    <sem>
+      <domain majorNum="10" subNum="49"/>
+      <domain majorNum="11" subNum="23 25 57 89"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w6" ref="NT.Jude.1.1">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="de/" lex="δέ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="94 87 124"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w7" ref="NT.Jude.1.1">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="*i)a/kwbos" lex="Ἰάκωβος"></wf>
+    <sem>
+      <domain majorNum="93" subNum="158"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w8" ref="NT.Jude.1.1">
+    <pos>
+      <ART num="plur" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w9" ref="NT.Jude.1.1">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)n" lex="ἐν"></wf>
+    <sem>
+      <domain majorNum="83" subNum="13 9 47 23"/>
+      <domain majorNum="13" subNum="8"/>
+      <domain majorNum="84" subNum="22"/>
+      <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+      <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+      <domain majorNum="67" subNum="33 136"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w10" ref="NT.Jude.1.1">
+    <pos>
+      <NON num="sing" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="qeo/s" lex="θεός"></wf>
+    <sem>
+      <domain majorNum="12" subNum="1 22 25"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w11" ref="NT.Jude.1.1">
+    <pos>
+      <NON num="sing" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="path/r" lex="πατήρ"></wf>
+    <sem>
+      <domain majorNum="10" subNum="14 18 20"/>
+      <domain majorNum="12" subNum="12"/>
+      <domain majorNum="87" subNum="48"/>
+      <domain majorNum="11" subNum="26"/>
+      <domain majorNum="58" subNum="64"/>
+      <domain majorNum="36" subNum="8"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w12" ref="NT.Jude.1.1">
+    <pos>
+      <VBP voc="mop" num="plur" cas="dat" gen="mas" tf="per"/>
+    </pos>
+    <wf betaLex="a)gapa/w" lex="ἀγαπάω"></wf>
+    <sem>
+      <domain majorNum="25" subNum="43 44 104"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w13" ref="NT.Jude.1.1">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w14" ref="NT.Jude.1.1">
+    <pos>
+      <NON num="sing" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+    <sem>
+      <domain majorNum="93" subNum="169"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w15" ref="NT.Jude.1.1">
+    <pos>
+      <NON num="sing" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+    <sem>
+      <domain majorNum="93" subNum="387"/>
+      <domain majorNum="53" subNum="82"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w16" ref="NT.Jude.1.1">
+    <pos>
+      <VBP voc="mop" num="plur" cas="dat" gen="mas" tf="per"/>
+    </pos>
+    <wf betaLex="thre/w" lex="τηρέω"></wf>
+    <sem>
+      <domain majorNum="13" subNum="32"/>
+      <domain majorNum="37" subNum="122"/>
+      <domain majorNum="36" subNum="19"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w17" ref="NT.Jude.1.1">
+    <pos>
+      <ADJ num="plur" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="klhto/s" lex="κλητός"></wf>
+    <sem>
+      <domain majorNum="33" subNum="314 318"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.1"/>
+  <verse sID="NT.Jude.1.2" num="2"/>
+  <w xml:id="NT.Jude.w18" ref="NT.Jude.1.2">
+    <pos>
+      <NON num="sing" cas="nom" gen="neu"/>
+    </pos>
+    <wf betaLex="e)/leos" lex="ἔλεος"></wf>
+    <sem>
+      <domain majorNum="88" subNum="76"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w19" ref="NT.Jude.1.2">
+    <pos>
+      <PRO num="plur" cas="dat" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w20" ref="NT.Jude.1.2">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w21" ref="NT.Jude.1.2">
+    <pos>
+      <NON num="sing" cas="nom" gen="fem"/>
+    </pos>
+    <wf betaLex="ei)rh/nh" lex="εἰρήνη"></wf>
+    <sem>
+      <domain majorNum="22" subNum="42"/>
+      <domain majorNum="25" subNum="248"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w22" ref="NT.Jude.1.2">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w23" ref="NT.Jude.1.2">
+    <pos>
+      <NON num="sing" cas="nom" gen="fem"/>
+    </pos>
+    <wf betaLex="a)ga/ph" lex="ἀγάπη"></wf>
+    <sem>
+      <domain majorNum="25" subNum="43"/>
+      <domain majorNum="23" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w24" ref="NT.Jude.1.2">
+    <pos>
+      <VBF num="sing" per="3rd" voc="pas" mod="opt" tf="aor"/>
+    </pos>
+    <wf betaLex="plhqu/nw" lex="πληθύνω"></wf>
+    <sem>
+      <domain majorNum="59" subNum="68 69"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.2"/>
+  <verse sID="NT.Jude.1.3" num="3"/>
+  <w xml:id="NT.Jude.w25" ref="NT.Jude.1.3">
+    <pos>
+      <ADJ num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="a)gaphto/s" lex="ἀγαπητός"></wf>
+    <sem>
+      <domain majorNum="25" subNum="45"/>
+      <domain majorNum="58" subNum="83"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w26" ref="NT.Jude.1.3">
+    <pos>
+      <ADJ num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="pa=s" lex="πᾶς"></wf>
+    <sem>
+      <domain majorNum="59" subNum="23 24"/>
+      <domain majorNum="78" subNum="44"/>
+      <domain majorNum="63" subNum="2"/>
+      <domain majorNum="58" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w27" ref="NT.Jude.1.3">
+    <pos>
+      <NON num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="spoudh/" lex="σπουδή"></wf>
+    <sem>
+      <domain majorNum="68" subNum="79"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w28" ref="NT.Jude.1.3">
+    <pos>
+      <VBP voc="mop" num="sing" cas="nom" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="poie/w" lex="ποιέω"></wf>
+    <sem>
+      <domain majorNum="90" subNum="45"/>
+      <domain majorNum="42" subNum="7"/>
+      <domain majorNum="13" subNum="9"/>
+      <domain majorNum="42" subNum="41 29"/>
+      <domain majorNum="41" subNum="7"/>
+      <domain majorNum="37" subNum="106"/>
+      <domain majorNum="57" subNum="189"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w29" ref="NT.Jude.1.3">
+    <pos>
+      <VBN voc="act" tf="pre"/>
+    </pos>
+    <wf betaLex="gra/fw" lex="γράφω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="61"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w30" ref="NT.Jude.1.3">
+    <pos>
+      <PRO num="plur" cas="dat" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w31" ref="NT.Jude.1.3">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="peri/" lex="περί"></wf>
+    <sem>
+      <domain majorNum="83" subNum="18"/>
+      <domain majorNum="90" subNum="24 39"/>
+      <domain majorNum="67" subNum="35"/>
+      <domain majorNum="89" subNum="36 110 6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w32" ref="NT.Jude.1.3">
+    <pos>
+      <ART num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w33" ref="NT.Jude.1.3">
+    <pos>
+      <ADJ num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="koino/s" lex="κοινός"></wf>
+    <sem>
+      <domain majorNum="57" subNum="9"/>
+      <domain majorNum="53" subNum="39"/>
+      <domain majorNum="65" subNum="15"/>
+      <domain majorNum="89" subNum="118"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w34" ref="NT.Jude.1.3">
+    <pos>
+      <PRO num="plur" cas="gen" per="1st" type="per"/>
+    </pos>
+    <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w35" ref="NT.Jude.1.3">
+    <pos>
+      <NON num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="swthri/a" lex="σωτηρία"></wf>
+    <sem>
+      <domain majorNum="21" subNum="18 25 26"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w36" ref="NT.Jude.1.3">
+    <pos>
+      <NON num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="a)na/gkh" lex="ἀνάγκη"></wf>
+    <sem>
+      <domain majorNum="22" subNum="1"/>
+      <domain majorNum="71" subNum="30 38"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w37" ref="NT.Jude.1.3">
+    <pos>
+      <VBF num="sing" per="1st" voc="act" mod="ind" tf="aor"/>
+    </pos>
+    <wf betaLex="e)/xw" lex="ἔχω"></wf>
+    <sem>
+      <domain majorNum="57" subNum="1"/>
+      <domain majorNum="18" subNum="6"/>
+      <domain majorNum="31" subNum="1"/>
+      <domain majorNum="49" subNum="13"/>
+      <domain majorNum="74" subNum="12"/>
+      <domain majorNum="90" subNum="65"/>
+      <domain majorNum="13" subNum="2"/>
+      <domain majorNum="90" subNum="51 27"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w38" ref="NT.Jude.1.3">
+    <pos>
+      <VBN voc="act" tf="aor"/>
+    </pos>
+    <wf betaLex="gra/fw" lex="γράφω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="61"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w39" ref="NT.Jude.1.3">
+    <pos>
+      <PRO num="plur" cas="dat" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w40" ref="NT.Jude.1.3">
+    <pos>
+      <VBP num="sing" cas="nom" voc="act" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="parakale/w" lex="παρακαλέω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="168 315 310"/>
+      <domain majorNum="25" subNum="150"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w41" ref="NT.Jude.1.3">
+    <pos>
+      <VBN voc="mop" tf="pre"/>
+    </pos>
+    <wf betaLex="e)pagwni/zomai" lex="ἐπαγωνίζομαι"></wf>
+    <sem>
+      <domain majorNum="39" subNum="30"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w42" ref="NT.Jude.1.3">
+    <pos>
+      <ART num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w43" ref="NT.Jude.1.3">
+    <pos>
+      <ADV/>
+    </pos>
+    <wf betaLex="a(/pac" lex="ἅπαξ"></wf>
+    <sem>
+      <domain majorNum="60" subNum="67 68"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w44" ref="NT.Jude.1.3">
+    <pos>
+      <VBP num="sing" cas="dat" voc="pas" gen="fem" tf="aor"/>
+    </pos>
+    <wf betaLex="paradi/dwmi" lex="παραδίδωμι"></wf>
+    <sem>
+      <domain majorNum="57" subNum="77"/>
+      <domain majorNum="37" subNum="111"/>
+      <domain majorNum="33" subNum="237"/>
+      <domain majorNum="13" subNum="142"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w45" ref="NT.Jude.1.3">
+    <pos>
+      <ART num="plur" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w46" ref="NT.Jude.1.3">
+    <pos>
+      <ADJ num="plur" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="a(/gios" lex="ἅγιος"></wf>
+    <sem>
+      <domain majorNum="88" subNum="24"/>
+      <domain majorNum="53" subNum="46"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w47" ref="NT.Jude.1.3">
+    <pos>
+      <NON num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="pi/stis" lex="πίστις"></wf>
+    <sem>
+      <domain majorNum="31" subNum="43 85 88 102 104"/>
+      <domain majorNum="33" subNum="289"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.3"/>
+  <verse sID="NT.Jude.1.4" num="4"/>
+  <w xml:id="NT.Jude.w48" ref="NT.Jude.1.4">
+    <pos>
+      <VBF num="plur" per="3rd" voc="act" mod="ind" tf="aor"/>
+    </pos>
+    <wf betaLex="pareisdu/w" lex="παρεισδύω"></wf>
+    <sem>
+      <domain majorNum="34" subNum="40"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w49" ref="NT.Jude.1.4">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="ga/r" lex="γάρ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="23"/>
+      <domain majorNum="91" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w50" ref="NT.Jude.1.4">
+    <pos>
+      <PRO num="plur" cas="nom" type="ind" gen="mas"/>
+    </pos>
+    <wf betaLex="ti/s" lex="τίς"></wf>
+    <sem>
+      <domain majorNum="92" subNum="14"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w51" ref="NT.Jude.1.4">
+    <pos>
+      <NON num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="a)/nqrwpos" lex="ἄνθρωπος"></wf>
+    <sem>
+      <domain majorNum="9" subNum="1 24"/>
+      <domain majorNum="10" subNum="53"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w52" ref="NT.Jude.1.4">
+    <pos>
+      <ART num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w53" ref="NT.Jude.1.4">
+    <pos>
+      <ADV/>
+    </pos>
+    <wf betaLex="pa/lai" lex="πάλαι"></wf>
+    <sem>
+      <domain majorNum="67" subNum="24 141 22"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w54" ref="NT.Jude.1.4">
+    <pos>
+      <VBP voc="mop" num="plur" cas="nom" gen="mas" tf="per"/>
+    </pos>
+    <wf betaLex="progra/fw" lex="προγράφω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="66 191"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w55" ref="NT.Jude.1.4">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="ei)s" lex="εἰς"></wf>
+    <sem>
+      <domain majorNum="84" subNum="16 22"/>
+      <domain majorNum="83" subNum="47 13 9"/>
+      <domain majorNum="89" subNum="57 48 76"/>
+      <domain majorNum="90" subNum="23 59 30"/>
+      <domain majorNum="78" subNum="51"/>
+      <domain majorNum="13" subNum="62"/>
+      <domain majorNum="67" subNum="117 160 119"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w56" ref="NT.Jude.1.4">
+    <pos>
+      <PRO num="sing" cas="acc" type="dem" gen="neu"/>
+    </pos>
+    <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+    <sem>
+      <domain majorNum="92" subNum="29"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w57" ref="NT.Jude.1.4">
+    <pos>
+      <ART num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w58" ref="NT.Jude.1.4">
+    <pos>
+      <NON num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="kri/ma" lex="κρίμα"></wf>
+    <sem>
+      <domain majorNum="56" subNum="20 22 24 30 2"/>
+      <domain majorNum="30" subNum="110"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w59" ref="NT.Jude.1.4">
+    <pos>
+      <ADJ num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="a)sebh/s" lex="ἀσεβής"></wf>
+    <sem>
+      <domain majorNum="53" subNum="11"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w60" ref="NT.Jude.1.4">
+    <pos>
+      <ART num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w61" ref="NT.Jude.1.4">
+    <pos>
+      <ART num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w62" ref="NT.Jude.1.4">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="qeo/s" lex="θεός"></wf>
+    <sem>
+      <domain majorNum="12" subNum="1 22 25"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w63" ref="NT.Jude.1.4">
+    <pos>
+      <PRO num="plur" cas="gen" per="1st" type="per"/>
+    </pos>
+    <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w64" ref="NT.Jude.1.4">
+    <pos>
+      <NON num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="xa/ris" lex="χάρις"></wf>
+    <sem>
+      <domain majorNum="88" subNum="66"/>
+      <domain majorNum="57" subNum="103"/>
+      <domain majorNum="33" subNum="350"/>
+      <domain majorNum="25" subNum="89"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w65" ref="NT.Jude.1.4">
+    <pos>
+      <VBP num="plur" cas="nom" voc="act" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="metati/qhmi" lex="μετατίθημι"></wf>
+    <sem>
+      <domain majorNum="15" subNum="2"/>
+      <domain majorNum="13" subNum="64"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w66" ref="NT.Jude.1.4">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="ei)s" lex="εἰς"></wf>
+    <sem>
+      <domain majorNum="84" subNum="16 22"/>
+      <domain majorNum="83" subNum="47 13 9"/>
+      <domain majorNum="89" subNum="57 48 76"/>
+      <domain majorNum="90" subNum="23 59 30"/>
+      <domain majorNum="78" subNum="51"/>
+      <domain majorNum="13" subNum="62"/>
+      <domain majorNum="67" subNum="117 160 119"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w67" ref="NT.Jude.1.4">
+    <pos>
+      <NON num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="a)se/lgeia" lex="ἀσέλγεια"></wf>
+    <sem>
+      <domain majorNum="88" subNum="272"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w68" ref="NT.Jude.1.4">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w69" ref="NT.Jude.1.4">
+    <pos>
+      <ART num="sing" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w70" ref="NT.Jude.1.4">
+    <pos>
+      <ADJ num="sing" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="mo/nos" lex="μόνος"></wf>
+    <sem>
+      <domain majorNum="58" subNum="50 51"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w71" ref="NT.Jude.1.4">
+    <pos>
+      <NON num="sing" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="despo/ths" lex="δεσπότης"></wf>
+    <sem>
+      <domain majorNum="37" subNum="63"/>
+      <domain majorNum="57" subNum="13"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w72" ref="NT.Jude.1.4">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w73" ref="NT.Jude.1.4">
+    <pos>
+      <NON num="sing" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="ku/rios" lex="κύριος"></wf>
+    <sem>
+      <domain majorNum="12" subNum="9"/>
+      <domain majorNum="57" subNum="12"/>
+      <domain majorNum="37" subNum="51"/>
+      <domain majorNum="87" subNum="53"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w74" ref="NT.Jude.1.4">
+    <pos>
+      <PRO num="plur" cas="gen" per="1st" type="per"/>
+    </pos>
+    <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w75" ref="NT.Jude.1.4">
+    <pos>
+      <NON num="sing" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+    <sem>
+      <domain majorNum="93" subNum="169"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w76" ref="NT.Jude.1.4">
+    <pos>
+      <NON num="sing" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+    <sem>
+      <domain majorNum="93" subNum="387"/>
+      <domain majorNum="53" subNum="82"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w77" ref="NT.Jude.1.4">
+    <pos>
+      <VBP voc="mop" num="plur" cas="nom" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="a)rne/omai" lex="ἀρνέομαι"></wf>
+    <sem>
+      <domain majorNum="33" subNum="277"/>
+      <domain majorNum="34" subNum="48"/>
+      <domain majorNum="31" subNum="25"/>
+      <domain majorNum="30" subNum="52"/>
+      <domain majorNum="36" subNum="43"/>
+      <domain majorNum="88" subNum="231"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.4"/>
+  <verse sID="NT.Jude.1.5" num="5"/>
+  <w xml:id="NT.Jude.w78" ref="NT.Jude.1.5">
+    <pos>
+      <VBN voc="act" tf="aor"/>
+    </pos>
+    <wf betaLex="u(pomimnh/|skw" lex="ὑπομιμνῄσκω"></wf>
+    <sem>
+      <domain majorNum="29" subNum="10"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w79" ref="NT.Jude.1.5">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="de/" lex="δέ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="94 87 124"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w80" ref="NT.Jude.1.5">
+    <pos>
+      <PRO num="plur" cas="acc" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w81" ref="NT.Jude.1.5">
+    <pos>
+      <VBF voc="mop" num="sing" per="1st" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="bou/lomai" lex="βούλομαι"></wf>
+    <sem>
+      <domain majorNum="25" subNum="3"/>
+      <domain majorNum="30" subNum="56"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w82" ref="NT.Jude.1.5">
+    <pos>
+      <VBP num="plur" cas="acc" voc="act" gen="mas" tf="per"/>
+    </pos>
+    <wf betaLex="o(ra/w" lex="ὁράω"></wf>
+    <sem>
+      <domain majorNum="24" subNum="1"/>
+      <domain majorNum="30" subNum="45"/>
+      <domain majorNum="31" subNum="11"/>
+      <domain majorNum="34" subNum="50"/>
+      <domain majorNum="90" subNum="79"/>
+      <domain majorNum="27" subNum="5"/>
+      <domain majorNum="13" subNum="134"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w83" ref="NT.Jude.1.5">
+    <pos>
+      <PRO num="plur" cas="acc" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w84" ref="NT.Jude.1.5">
+    <pos>
+      <ADJ num="plur" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="pa=s" lex="πᾶς"></wf>
+    <sem>
+      <domain majorNum="59" subNum="23 24"/>
+      <domain majorNum="78" subNum="44"/>
+      <domain majorNum="63" subNum="2"/>
+      <domain majorNum="58" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w85" ref="NT.Jude.1.5">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="o(/ti" lex="ὅτι"></wf>
+    <sem>
+      <domain majorNum="90" subNum="21"/>
+      <domain majorNum="89" subNum="33"/>
+      <domain majorNum="91" subNum="15"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w86" ref="NT.Jude.1.5">
+    <pos>
+      <ART num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w87" ref="NT.Jude.1.5">
+    <pos>
+      <NON num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="ku/rios" lex="κύριος"></wf>
+    <sem>
+      <domain majorNum="12" subNum="9"/>
+      <domain majorNum="57" subNum="12"/>
+      <domain majorNum="37" subNum="51"/>
+      <domain majorNum="87" subNum="53"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w88" ref="NT.Jude.1.5">
+    <pos>
+      <ADV/>
+    </pos>
+    <wf betaLex="a(/pac" lex="ἅπαξ"></wf>
+    <sem>
+      <domain majorNum="60" subNum="67 68"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w89" ref="NT.Jude.1.5">
+    <pos>
+      <NON num="sing" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="lao/s" lex="λαός"></wf>
+    <sem>
+      <domain majorNum="11" subNum="55 12 1"/>
+      <domain majorNum="87" subNum="64"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w90" ref="NT.Jude.1.5">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)k" lex="ἐκ"></wf>
+    <sem>
+      <domain majorNum="84" subNum="4"/>
+      <domain majorNum="89" subNum="25 77 85 121 142"/>
+      <domain majorNum="90" subNum="12 16"/>
+      <domain majorNum="63" subNum="20"/>
+      <domain majorNum="68" subNum="54"/>
+      <domain majorNum="67" subNum="33 131"/>
+      <domain majorNum="57" subNum="162"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w91" ref="NT.Jude.1.5">
+    <pos>
+      <NON num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="gh=" lex="γῆ"></wf>
+    <sem>
+      <domain majorNum="1" subNum="39 60 79"/>
+      <domain majorNum="2" subNum="14"/>
+      <domain majorNum="9" subNum="22"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w92" ref="NT.Jude.1.5">
+    <pos>
+      <NON num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="*ai)/guptos" lex="Αἴγυπτος"></wf>
+    <sem>
+      <domain majorNum="93" subNum="398"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w93" ref="NT.Jude.1.5">
+    <pos>
+      <VBP num="sing" cas="nom" voc="act" gen="mas" tf="aor"/>
+    </pos>
+    <wf betaLex="sw/|zw" lex="σῴζω"></wf>
+    <sem>
+      <domain majorNum="21" subNum="18 27"/>
+      <domain majorNum="23" subNum="136"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w94" ref="NT.Jude.1.5">
+    <pos>
+      <ART num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w95" ref="NT.Jude.1.5">
+    <pos>
+      <ADJ num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="deu/teros" lex="δεύτερος"></wf>
+    <sem>
+      <domain majorNum="60" subNum="49"/>
+      <domain majorNum="67" subNum="50"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w96" ref="NT.Jude.1.5">
+    <pos>
+      <ART num="plur" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w97" ref="NT.Jude.1.5">
+    <pos>
+      <ADV/>
+    </pos>
+    <wf betaLex="mh/" lex="μή"></wf>
+    <sem>
+      <domain majorNum="69" subNum="3 15"/>
+      <domain majorNum="89" subNum="62"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w98" ref="NT.Jude.1.5">
+    <pos>
+      <VBP num="plur" cas="acc" voc="act" gen="mas" tf="aor"/>
+    </pos>
+    <wf betaLex="pisteu/w" lex="πιστεύω"></wf>
+    <sem>
+      <domain majorNum="31" subNum="35 85 102"/>
+      <domain majorNum="35" subNum="50"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w99" ref="NT.Jude.1.5">
+    <pos>
+      <VBF num="sing" per="3rd" voc="act" mod="ind" tf="aor"/>
+    </pos>
+    <wf betaLex="a)po/llumi" lex="ἀπόλλυμι"></wf>
+    <sem>
+      <domain majorNum="20" subNum="31"/>
+      <domain majorNum="57" subNum="67 68"/>
+      <domain majorNum="27" subNum="29"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.5"/>
+  <verse sID="NT.Jude.1.6" num="6"/>
+  <w xml:id="NT.Jude.w100" ref="NT.Jude.1.6">
+    <pos>
+      <NON num="plur" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="a)/ggelos" lex="ἄγγελος"></wf>
+    <sem>
+      <domain majorNum="33" subNum="195"/>
+      <domain majorNum="12" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w101" ref="NT.Jude.1.6">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="te/" lex="τέ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="95 88"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w102" ref="NT.Jude.1.6">
+    <pos>
+      <ART num="plur" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w103" ref="NT.Jude.1.6">
+    <pos>
+      <ADV/>
+    </pos>
+    <wf betaLex="mh/" lex="μή"></wf>
+    <sem>
+      <domain majorNum="69" subNum="3 15"/>
+      <domain majorNum="89" subNum="62"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w104" ref="NT.Jude.1.6">
+    <pos>
+      <VBP num="plur" cas="acc" voc="act" gen="mas" tf="aor"/>
+    </pos>
+    <wf betaLex="thre/w" lex="τηρέω"></wf>
+    <sem>
+      <domain majorNum="13" subNum="32"/>
+      <domain majorNum="37" subNum="122"/>
+      <domain majorNum="36" subNum="19"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w105" ref="NT.Jude.1.6">
+    <pos>
+      <ART num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w106" ref="NT.Jude.1.6">
+    <pos>
+      <PRO num="plur" cas="gen" type="per" gen="mas"/>
+    </pos>
+    <wf betaLex="e(autou=" lex="ἑαυτοῦ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="25"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w107" ref="NT.Jude.1.6">
+    <pos>
+      <NON num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="a)rxh/" lex="ἀρχή"></wf>
+    <sem>
+      <domain majorNum="68" subNum="1"/>
+      <domain majorNum="67" subNum="95"/>
+      <domain majorNum="89" subNum="16"/>
+      <domain majorNum="37" subNum="55 56"/>
+      <domain majorNum="12" subNum="44"/>
+      <domain majorNum="58" subNum="20"/>
+      <domain majorNum="79" subNum="106"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w108" ref="NT.Jude.1.6">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="a)lla/" lex="ἀλλά"></wf>
+    <sem>
+      <domain majorNum="89" subNum="125 96"/>
+      <domain majorNum="91" subNum="2 11"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w109" ref="NT.Jude.1.6">
+    <pos>
+      <VBP num="plur" cas="acc" voc="act" gen="mas" tf="aor"/>
+    </pos>
+    <wf betaLex="a)polei/pw" lex="ἀπολείπω"></wf>
+    <sem>
+      <domain majorNum="85" subNum="65"/>
+      <domain majorNum="15" subNum="59"/>
+      <domain majorNum="13" subNum="140"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w110" ref="NT.Jude.1.6">
+    <pos>
+      <ART num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w111" ref="NT.Jude.1.6">
+    <pos>
+      <ADJ num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="i)/dios" lex="ἴδιος"></wf>
+    <sem>
+      <domain majorNum="57" subNum="4"/>
+      <domain majorNum="58" subNum="47"/>
+      <domain majorNum="92" subNum="21"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w112" ref="NT.Jude.1.6">
+    <pos>
+      <NON num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="oi)khth/rion" lex="οἰκητήριον"></wf>
+    <sem>
+      <domain majorNum="85" subNum="68"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w113" ref="NT.Jude.1.6">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="ei)s" lex="εἰς"></wf>
+    <sem>
+      <domain majorNum="84" subNum="16 22"/>
+      <domain majorNum="83" subNum="47 13 9"/>
+      <domain majorNum="89" subNum="57 48 76"/>
+      <domain majorNum="90" subNum="23 59 30"/>
+      <domain majorNum="78" subNum="51"/>
+      <domain majorNum="13" subNum="62"/>
+      <domain majorNum="67" subNum="117 160 119"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w114" ref="NT.Jude.1.6">
+    <pos>
+      <NON num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="kri/sis" lex="κρίσις"></wf>
+    <sem>
+      <domain majorNum="56" subNum="20 22 1 24 30"/>
+      <domain majorNum="30" subNum="110 111"/>
+      <domain majorNum="38" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w115" ref="NT.Jude.1.6">
+    <pos>
+      <ADJ num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="me/gas" lex="μέγας"></wf>
+    <sem>
+      <domain majorNum="59" subNum="22"/>
+      <domain majorNum="78" subNum="2"/>
+      <domain majorNum="79" subNum="123"/>
+      <domain majorNum="87" subNum="22"/>
+      <domain majorNum="25" subNum="207"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w116" ref="NT.Jude.1.6">
+    <pos>
+      <NON num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="h(me/ra" lex="ἡμέρα"></wf>
+    <sem>
+      <domain majorNum="67" subNum="178 186 142"/>
+      <domain majorNum="14" subNum="40"/>
+      <domain majorNum="56" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w117" ref="NT.Jude.1.6">
+    <pos>
+      <NON num="plur" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="desmo/s" lex="δεσμός"></wf>
+    <sem>
+      <domain majorNum="6" subNum="14"/>
+      <domain majorNum="37" subNum="115"/>
+      <domain majorNum="23" subNum="156"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w118" ref="NT.Jude.1.6">
+    <pos>
+      <ADJ num="plur" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="a)i/+dios" lex="ἀΐδιος"></wf>
+    <sem>
+      <domain majorNum="67" subNum="96"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w119" ref="NT.Jude.1.6">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="u(po/" lex="ὑπό"></wf>
+    <sem>
+      <domain majorNum="83" subNum="51"/>
+      <domain majorNum="37" subNum="7"/>
+      <domain majorNum="90" subNum="1"/>
+      <domain majorNum="89" subNum="26"/>
+      <domain majorNum="67" subNum="161"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w120" ref="NT.Jude.1.6">
+    <pos>
+      <NON num="sing" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="zo/fos" lex="ζόφος"></wf>
+    <sem>
+      <domain majorNum="14" subNum="57"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w121" ref="NT.Jude.1.6">
+    <pos>
+      <VBF num="sing" per="3rd" voc="act" mod="ind" tf="per"/>
+    </pos>
+    <wf betaLex="thre/w" lex="τηρέω"></wf>
+    <sem>
+      <domain majorNum="13" subNum="32"/>
+      <domain majorNum="37" subNum="122"/>
+      <domain majorNum="36" subNum="19"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.6"/>
+  <verse sID="NT.Jude.1.7" num="7"/>
+  <w xml:id="NT.Jude.w122" ref="NT.Jude.1.7">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="w(s" lex="ὡς"></wf>
+    <sem>
+      <domain majorNum="64" subNum="12"/>
+      <domain majorNum="90" subNum="21"/>
+      <domain majorNum="89" subNum="86 37 61 52"/>
+      <domain majorNum="67" subNum="45 139"/>
+      <domain majorNum="78" subNum="42 13"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w123" ref="NT.Jude.1.7">
+    <pos>
+      <NON num="plur" cas="nom" gen="neu"/>
+    </pos>
+    <wf betaLex="*so/doma" lex="Σόδομα"></wf>
+    <sem>
+      <domain majorNum="93" subNum="585"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w124" ref="NT.Jude.1.7">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w125" ref="NT.Jude.1.7">
+    <pos>
+      <NON num="sing" cas="nom" gen="fem"/>
+    </pos>
+    <wf betaLex="*go/morra" lex="Γόμορρα"></wf>
+    <sem>
+      <domain majorNum="93" subNum="454"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w126" ref="NT.Jude.1.7">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w127" ref="NT.Jude.1.7">
+    <pos>
+      <ART num="plur" cas="nom" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w128" ref="NT.Jude.1.7">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="peri/" lex="περί"></wf>
+    <sem>
+      <domain majorNum="83" subNum="18"/>
+      <domain majorNum="90" subNum="24 39"/>
+      <domain majorNum="67" subNum="35"/>
+      <domain majorNum="89" subNum="36 110 6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w129" ref="NT.Jude.1.7">
+    <pos>
+      <PRO num="plur" cas="acc" type="per" gen="fem"/>
+    </pos>
+    <wf betaLex="e(autou=" lex="ἑαυτοῦ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="25"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w130" ref="NT.Jude.1.7">
+    <pos>
+      <NON num="plur" cas="nom" gen="fem"/>
+    </pos>
+    <wf betaLex="po/lis" lex="πόλις"></wf>
+    <sem>
+      <domain majorNum="1" subNum="88 89"/>
+      <domain majorNum="11" subNum="61"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w131" ref="NT.Jude.1.7">
+    <pos>
+      <ART num="sing" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w132" ref="NT.Jude.1.7">
+    <pos>
+      <ADJ num="sing" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="o(/moios" lex="ὅμοιος"></wf>
+    <sem>
+      <domain majorNum="64" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w133" ref="NT.Jude.1.7">
+    <pos>
+      <NON num="sing" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="tro/pos" lex="τρόπος"></wf>
+    <sem>
+      <domain majorNum="16" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w134" ref="NT.Jude.1.7">
+    <pos>
+      <PRO num="plur" cas="dat" type="dem" gen="mas"/>
+    </pos>
+    <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+    <sem>
+      <domain majorNum="92" subNum="29"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w135" ref="NT.Jude.1.7">
+    <pos>
+      <VBP num="plur" cas="nom" voc="act" gen="fem" tf="aor"/>
+    </pos>
+    <wf betaLex="e)kporneu/w" lex="ἐκπορνεύω"></wf>
+    <sem>
+      <domain majorNum="88" subNum="271"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w136" ref="NT.Jude.1.7">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w137" ref="NT.Jude.1.7">
+    <pos>
+      <VBP num="plur" cas="nom" voc="act" gen="fem" tf="aor"/>
+    </pos>
+    <wf betaLex="a)pe/rxomai" lex="ἀπέρχομαι"></wf>
+    <sem>
+      <domain majorNum="15" subNum="37 93"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w138" ref="NT.Jude.1.7">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="o)pi/sw" lex="ὀπίσω"></wf>
+    <sem>
+      <domain majorNum="83" subNum="40"/>
+      <domain majorNum="36" subNum="35"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w139" ref="NT.Jude.1.7">
+    <pos>
+      <NON num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="sa/rc" lex="σάρξ"></wf>
+    <sem>
+      <domain majorNum="8" subNum="63 4"/>
+      <domain majorNum="9" subNum="11 12"/>
+      <domain majorNum="10" subNum="1"/>
+      <domain majorNum="26" subNum="7"/>
+      <domain majorNum="58" subNum="10"/>
+      <domain majorNum="23" subNum="90"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w140" ref="NT.Jude.1.7">
+    <pos>
+      <ADJ num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="e(/teros" lex="ἕτερος"></wf>
+    <sem>
+      <domain majorNum="58" subNum="36 37"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w141" ref="NT.Jude.1.7">
+    <pos>
+      <VBF voc="mop" num="plur" per="3rd" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="pro/keimai" lex="πρόκειμαι"></wf>
+    <sem>
+      <domain majorNum="13" subNum="75 76"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w142" ref="NT.Jude.1.7">
+    <pos>
+      <NON num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="dei=gma" lex="δεῖγμα"></wf>
+    <sem>
+      <domain majorNum="28" subNum="48"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w143" ref="NT.Jude.1.7">
+    <pos>
+      <NON num="sing" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="pu=r" lex="πῦρ"></wf>
+    <sem>
+      <domain majorNum="2" subNum="3 5"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w144" ref="NT.Jude.1.7">
+    <pos>
+      <ADJ num="sing" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="ai)w/nios" lex="αἰώνιος"></wf>
+    <sem>
+      <domain majorNum="67" subNum="96"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w145" ref="NT.Jude.1.7">
+    <pos>
+      <NON num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="di/kh" lex="δίκη"></wf>
+    <sem>
+      <domain majorNum="38" subNum="8"/>
+      <domain majorNum="12" subNum="27"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w146" ref="NT.Jude.1.7">
+    <pos>
+      <VBP num="plur" cas="nom" voc="act" gen="fem" tf="pre"/>
+    </pos>
+    <wf betaLex="u(pe/xw" lex="ὑπέχω"></wf>
+    <sem>
+      <domain majorNum="90" subNum="68"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.7"/>
+  <verse sID="NT.Jude.1.8" num="8"/>
+  <w xml:id="NT.Jude.w147" ref="NT.Jude.1.8">
+    <pos>
+      <ADV/>
+    </pos>
+    <wf betaLex="o(moi/ws" lex="ὁμοίως"></wf>
+    <sem>
+      <domain majorNum="64" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w148" ref="NT.Jude.1.8">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="me/ntoi" lex="μέντοι"></wf>
+    <sem>
+      <domain majorNum="89" subNum="136"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w149" ref="NT.Jude.1.8">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w150" ref="NT.Jude.1.8">
+    <pos>
+      <PRO num="plur" cas="nom" type="dem" gen="mas"/>
+    </pos>
+    <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+    <sem>
+      <domain majorNum="92" subNum="29"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w151" ref="NT.Jude.1.8">
+    <pos>
+      <VBP voc="mop" num="plur" cas="nom" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="e)nupnia/zomai" lex="ἐνυπνιάζομαι"></wf>
+    <sem>
+      <domain majorNum="33" subNum="487"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w152" ref="NT.Jude.1.8">
+    <pos>
+      <NON num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="sa/rc" lex="σάρξ"></wf>
+    <sem>
+      <domain majorNum="8" subNum="63 4"/>
+      <domain majorNum="9" subNum="11 12"/>
+      <domain majorNum="10" subNum="1"/>
+      <domain majorNum="26" subNum="7"/>
+      <domain majorNum="58" subNum="10"/>
+      <domain majorNum="23" subNum="90"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w153" ref="NT.Jude.1.8">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="me/n" lex="μέν"></wf>
+    <sem>
+      <domain majorNum="91" subNum="3 6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w154" ref="NT.Jude.1.8">
+    <pos>
+      <VBF num="plur" per="3rd" voc="act" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="miai/nw" lex="μιαίνω"></wf>
+    <sem>
+      <domain majorNum="88" subNum="260"/>
+      <domain majorNum="53" subNum="34"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w155" ref="NT.Jude.1.8">
+    <pos>
+      <NON num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="kurio/ths" lex="κυριότης"></wf>
+    <sem>
+      <domain majorNum="37" subNum="52"/>
+      <domain majorNum="12" subNum="44"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w156" ref="NT.Jude.1.8">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="de/" lex="δέ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="94 87 124"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w157" ref="NT.Jude.1.8">
+    <pos>
+      <VBF num="plur" per="3rd" voc="act" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="a)qete/w" lex="ἀθετέω"></wf>
+    <sem>
+      <domain majorNum="31" subNum="100"/>
+      <domain majorNum="76" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w158" ref="NT.Jude.1.8">
+    <pos>
+      <NON num="plur" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="do/ca" lex="δόξα"></wf>
+    <sem>
+      <domain majorNum="79" subNum="18"/>
+      <domain majorNum="14" subNum="49"/>
+      <domain majorNum="76" subNum="13"/>
+      <domain majorNum="33" subNum="357"/>
+      <domain majorNum="87" subNum="4"/>
+      <domain majorNum="87" subNum="23"/>
+      <domain majorNum="12" subNum="49"/>
+      <domain majorNum="1" subNum="15"/>
+      <domain majorNum="25" subNum="205"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w159" ref="NT.Jude.1.8">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="de/" lex="δέ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="94 87 124"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w160" ref="NT.Jude.1.8">
+    <pos>
+      <VBF num="plur" per="3rd" voc="act" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="bla/sfhmos" lex="βλάσφημος"></wf>
+    <sem>
+      <domain majorNum="33" subNum="402"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.8"/>
+  <verse sID="NT.Jude.1.9" num="9"/>
+  <w xml:id="NT.Jude.w161" ref="NT.Jude.1.9">
+    <pos>
+      <ART num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w162" ref="NT.Jude.1.9">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="de/" lex="δέ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="94 87 124"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w163" ref="NT.Jude.1.9">
+    <pos>
+      <NON num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="*mixah/l" lex="Μιχαήλ"></wf>
+    <sem>
+      <domain majorNum="93" subNum="263"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w164" ref="NT.Jude.1.9">
+    <pos>
+      <ART num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w165" ref="NT.Jude.1.9">
+    <pos>
+      <NON num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="a)rxa/ggelos" lex="ἀρχάγγελος"></wf>
+    <sem>
+      <domain majorNum="12" subNum="31"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w166" ref="NT.Jude.1.9">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="o(/te" lex="ὅτε"></wf>
+    <sem>
+      <domain majorNum="67" subNum="30 139"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w167" ref="NT.Jude.1.9">
+    <pos>
+      <ART num="sing" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w168" ref="NT.Jude.1.9">
+    <pos>
+      <ADJ num="sing" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="dia/bolos" lex="διάβολος"></wf>
+    <sem>
+      <domain majorNum="12" subNum="34 37"/>
+      <domain majorNum="33" subNum="397"/>
+      <domain majorNum="88" subNum="124"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w169" ref="NT.Jude.1.9">
+    <pos>
+      <VBP voc="mop" num="sing" cas="nom" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="diakri/nw" lex="διακρίνω"></wf>
+    <sem>
+      <domain majorNum="30" subNum="109 99 113"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w170" ref="NT.Jude.1.9">
+    <pos>
+      <VBF voc="mop" num="sing" per="3rd" mod="ind" tf="imp"/>
+    </pos>
+    <wf betaLex="diale/gomai" lex="διαλέγομαι"></wf>
+    <sem>
+      <domain majorNum="33" subNum="446 26"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w171" ref="NT.Jude.1.9">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="peri/" lex="περί"></wf>
+    <sem>
+      <domain majorNum="83" subNum="18"/>
+      <domain majorNum="90" subNum="24 39"/>
+      <domain majorNum="67" subNum="35"/>
+      <domain majorNum="89" subNum="36 110 6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w172" ref="NT.Jude.1.9">
+    <pos>
+      <ART num="sing" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w173" ref="NT.Jude.1.9">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="*mwu+sh=s" lex="Μωψσῆς"></wf>
+    <sem>
+      <domain majorNum="93" subNum="266"/>
+      <domain majorNum="33" subNum="59"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w174" ref="NT.Jude.1.9">
+    <pos>
+      <NON num="sing" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="sw=ma" lex="σῶμα"></wf>
+    <sem>
+      <domain majorNum="8" subNum="1"/>
+      <domain majorNum="9" subNum="8"/>
+      <domain majorNum="11" subNum="34"/>
+      <domain majorNum="87" subNum="78"/>
+      <domain majorNum="58" subNum="66"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w175" ref="NT.Jude.1.9">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="ou)" lex="οὐ"></wf>
+    <sem>
+      <domain majorNum="69" subNum="3 11"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w176" ref="NT.Jude.1.9">
+    <pos>
+      <VBF num="sing" per="3rd" voc="act" mod="ind" tf="aor"/>
+    </pos>
+    <wf betaLex="tolma/w" lex="τολμάω"></wf>
+    <sem>
+      <domain majorNum="25" subNum="161"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w177" ref="NT.Jude.1.9">
+    <pos>
+      <NON num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="kri/sis" lex="κρίσις"></wf>
+    <sem>
+      <domain majorNum="56" subNum="20 22 1 24 30"/>
+      <domain majorNum="30" subNum="110 111"/>
+      <domain majorNum="38" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w178" ref="NT.Jude.1.9">
+    <pos>
+      <VBN voc="act" tf="aor"/>
+    </pos>
+    <wf betaLex="e)pife/rw" lex="ἐπιφέρω"></wf>
+    <sem>
+      <domain majorNum="90" subNum="94"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w179" ref="NT.Jude.1.9">
+    <pos>
+      <NON num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="blasfhmi/a" lex="βλασφημία"></wf>
+    <sem>
+      <domain majorNum="33" subNum="400 401"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w180" ref="NT.Jude.1.9">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="a)lla/" lex="ἀλλά"></wf>
+    <sem>
+      <domain majorNum="89" subNum="125 96"/>
+      <domain majorNum="91" subNum="2 11"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w181" ref="NT.Jude.1.9">
+    <pos>
+      <VBF num="sing" per="3rd" voc="act" mod="ind" tf="aor"/>
+    </pos>
+    <wf betaLex="le/gw" lex="λέγω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="69 129 131 138 140"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w182" ref="NT.Jude.1.9">
+    <pos>
+      <VBF num="sing" per="3rd" voc="act" mod="opt" tf="aor"/>
+    </pos>
+    <wf betaLex="e)pitima/w" lex="ἐπιτιμάω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="419 331"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w183" ref="NT.Jude.1.9">
+    <pos>
+      <PRO num="sing" cas="dat" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w184" ref="NT.Jude.1.9">
+    <pos>
+      <NON num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="ku/rios" lex="κύριος"></wf>
+    <sem>
+      <domain majorNum="12" subNum="9"/>
+      <domain majorNum="57" subNum="12"/>
+      <domain majorNum="37" subNum="51"/>
+      <domain majorNum="87" subNum="53"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.9"/>
+  <verse sID="NT.Jude.1.10" num="10"/>
+  <w xml:id="NT.Jude.w185" ref="NT.Jude.1.10">
+    <pos>
+      <PRO num="plur" cas="nom" type="dem" gen="mas"/>
+    </pos>
+    <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+    <sem>
+      <domain majorNum="92" subNum="29"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w186" ref="NT.Jude.1.10">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="de/" lex="δέ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="94 87 124"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w187" ref="NT.Jude.1.10">
+    <pos>
+      <PRO num="plur" cas="acc" type="rel" gen="neu"/>
+    </pos>
+    <wf betaLex="o(/sos" lex="ὅσος"></wf>
+    <sem>
+      <domain majorNum="59" subNum="7 19"/>
+      <domain majorNum="78" subNum="52"/>
+      <domain majorNum="67" subNum="139"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w188" ref="NT.Jude.1.10">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="me/n" lex="μέν"></wf>
+    <sem>
+      <domain majorNum="91" subNum="3 6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w189" ref="NT.Jude.1.10">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="ou)" lex="οὐ"></wf>
+    <sem>
+      <domain majorNum="69" subNum="3 11"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w190" ref="NT.Jude.1.10">
+    <pos>
+      <VBF num="plur" per="3rd" voc="act" mod="ind" tf="per"/>
+    </pos>
+    <wf betaLex="oi)=da" lex="οἶδα"></wf>
+    <sem>
+      <domain majorNum="28" subNum="1 7"/>
+      <domain majorNum="32" subNum="4"/>
+      <domain majorNum="29" subNum="6"/>
+      <domain majorNum="87" subNum="12"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w191" ref="NT.Jude.1.10">
+    <pos>
+      <VBF num="plur" per="3rd" voc="act" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="bla/sfhmos" lex="βλάσφημος"></wf>
+    <sem>
+      <domain majorNum="33" subNum="402"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w192" ref="NT.Jude.1.10">
+    <pos>
+      <PRO num="plur" cas="acc" type="rel" gen="neu"/>
+    </pos>
+    <wf betaLex="o(/sos" lex="ὅσος"></wf>
+    <sem>
+      <domain majorNum="59" subNum="7 19"/>
+      <domain majorNum="78" subNum="52"/>
+      <domain majorNum="67" subNum="139"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w193" ref="NT.Jude.1.10">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="de/" lex="δέ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="94 87 124"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w194" ref="NT.Jude.1.10">
+    <pos>
+      <ADV/>
+    </pos>
+    <wf betaLex="fusikw=s" lex="φυσικῶς"></wf>
+    <sem>
+      <domain majorNum="58" subNum="9"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w195" ref="NT.Jude.1.10">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="w(s" lex="ὡς"></wf>
+    <sem>
+      <domain majorNum="64" subNum="12"/>
+      <domain majorNum="90" subNum="21"/>
+      <domain majorNum="89" subNum="86 37 61 52"/>
+      <domain majorNum="67" subNum="45 139"/>
+      <domain majorNum="78" subNum="42 13"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w196" ref="NT.Jude.1.10">
+    <pos>
+      <ART num="plur" cas="nom" gen="neu"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w197" ref="NT.Jude.1.10">
+    <pos>
+      <ADJ num="plur" cas="nom" gen="neu"/>
+    </pos>
+    <wf betaLex="a)/logos" lex="ἄλογος"></wf>
+    <sem>
+      <domain majorNum="30" subNum="12"/>
+      <domain majorNum="89" subNum="19"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w198" ref="NT.Jude.1.10">
+    <pos>
+      <NON num="plur" cas="nom" gen="neu"/>
+    </pos>
+    <wf betaLex="zw=|on" lex="ζῷον"></wf>
+    <sem>
+      <domain majorNum="4" subNum="2"/>
+      <domain majorNum="12" subNum="32"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w199" ref="NT.Jude.1.10">
+    <pos>
+      <VBF voc="mop" num="plur" per="3rd" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="e)pi/stamai" lex="ἐπίσταμαι"></wf>
+    <sem>
+      <domain majorNum="28" subNum="3"/>
+      <domain majorNum="32" subNum="3"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w200" ref="NT.Jude.1.10">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)n" lex="ἐν"></wf>
+    <sem>
+      <domain majorNum="83" subNum="13 9 47 23"/>
+      <domain majorNum="13" subNum="8"/>
+      <domain majorNum="84" subNum="22"/>
+      <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+      <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+      <domain majorNum="67" subNum="33 136"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w201" ref="NT.Jude.1.10">
+    <pos>
+      <PRO num="plur" cas="dat" type="dem" gen="neu"/>
+    </pos>
+    <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+    <sem>
+      <domain majorNum="92" subNum="29"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w202" ref="NT.Jude.1.10">
+    <pos>
+      <VBF voc="mop" num="plur" per="3rd" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="fqei/rw" lex="φθείρω"></wf>
+    <sem>
+      <domain majorNum="20" subNum="39 23"/>
+      <domain majorNum="88" subNum="266"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.10"/>
+  <verse sID="NT.Jude.1.11" num="11"/>
+  <w xml:id="NT.Jude.w203" ref="NT.Jude.1.11">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="ou)ai/" lex="οὐαί"></wf>
+    <sem>
+      <domain majorNum="22" subNum="9"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w204" ref="NT.Jude.1.11">
+    <pos>
+      <PRO type="int" num="plur" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="au)to/s" lex="αὐτός"></wf>
+    <sem>
+      <domain majorNum="92" subNum="11 37"/>
+      <domain majorNum="58" subNum="31"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w205" ref="NT.Jude.1.11">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="o(/ti" lex="ὅτι"></wf>
+    <sem>
+      <domain majorNum="90" subNum="21"/>
+      <domain majorNum="89" subNum="33"/>
+      <domain majorNum="91" subNum="15"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w206" ref="NT.Jude.1.11">
+    <pos>
+      <ART num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w207" ref="NT.Jude.1.11">
+    <pos>
+      <NON num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="o(do/s" lex="ὁδός"></wf>
+    <sem>
+      <domain majorNum="1" subNum="99"/>
+      <domain majorNum="15" subNum="19"/>
+      <domain majorNum="41" subNum="16 35"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w208" ref="NT.Jude.1.11">
+    <pos>
+      <ART num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w209" ref="NT.Jude.1.11">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="*ka/i+n" lex="Κάϊν"></wf>
+    <sem>
+      <domain majorNum="93" subNum="206"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w210" ref="NT.Jude.1.11">
+    <pos>
+      <VBF num="plur" per="3rd" voc="pas" mod="ind" tf="aor"/>
+    </pos>
+    <wf betaLex="poreu/omai" lex="πορεύομαι"></wf>
+    <sem>
+      <domain majorNum="15" subNum="10 18 34"/>
+      <domain majorNum="41" subNum="11"/>
+      <domain majorNum="23" subNum="101"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w211" ref="NT.Jude.1.11">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w212" ref="NT.Jude.1.11">
+    <pos>
+      <ART num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w213" ref="NT.Jude.1.11">
+    <pos>
+      <NON num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="pla/nh" lex="πλάνη"></wf>
+    <sem>
+      <domain majorNum="31" subNum="8 10"/>
+      <domain majorNum="88" subNum="262"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w214" ref="NT.Jude.1.11">
+    <pos>
+      <ART num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w215" ref="NT.Jude.1.11">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="*balaa/m" lex="Βαλαάμ"></wf>
+    <sem>
+      <domain majorNum="93" subNum="57"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w216" ref="NT.Jude.1.11">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="misqo/s" lex="μισθός"></wf>
+    <sem>
+      <domain majorNum="57" subNum="173"/>
+      <domain majorNum="38" subNum="14"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w217" ref="NT.Jude.1.11">
+    <pos>
+      <VBF num="plur" per="3rd" voc="pas" mod="ind" tf="aor"/>
+    </pos>
+    <wf betaLex="e)kxe/w" lex="ἐκχέω"></wf>
+    <sem>
+      <domain majorNum="47" subNum="4"/>
+      <domain majorNum="15" subNum="138"/>
+      <domain majorNum="59" subNum="50"/>
+      <domain majorNum="90" subNum="89"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w218" ref="NT.Jude.1.11">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w219" ref="NT.Jude.1.11">
+    <pos>
+      <ART num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w220" ref="NT.Jude.1.11">
+    <pos>
+      <NON num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="a)ntilogi/a" lex="ἀντιλογία"></wf>
+    <sem>
+      <domain majorNum="33" subNum="445 456"/>
+      <domain majorNum="39" subNum="35"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w221" ref="NT.Jude.1.11">
+    <pos>
+      <ART num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w222" ref="NT.Jude.1.11">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="*ko/re" lex="Κόρε"></wf>
+    <sem>
+      <domain majorNum="93" subNum="218"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w223" ref="NT.Jude.1.11">
+    <pos>
+      <VBF num="plur" per="3rd" voc="mid" mod="ind" tf="aor"/>
+    </pos>
+    <wf betaLex="a)po/llumi" lex="ἀπόλλυμι"></wf>
+    <sem>
+      <domain majorNum="20" subNum="31"/>
+      <domain majorNum="57" subNum="67 68"/>
+      <domain majorNum="27" subNum="29"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.11"/>
+  <verse sID="NT.Jude.1.12" num="12"/>
+  <w xml:id="NT.Jude.w224" ref="NT.Jude.1.12">
+    <pos>
+      <PRO num="plur" cas="nom" type="dem" gen="mas"/>
+    </pos>
+    <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+    <sem>
+      <domain majorNum="92" subNum="29"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w225" ref="NT.Jude.1.12">
+    <pos>
+      <VBF augment="-" num="plur" per="3rd" mod="ind"/>
+    </pos>
+    <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+    <sem>
+      <domain majorNum="13" subNum="1 4 69 104"/>
+      <domain majorNum="85" subNum="1"/>
+      <domain majorNum="71" subNum="1"/>
+      <domain majorNum="58" subNum="67 68"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w226" ref="NT.Jude.1.12">
+    <pos>
+      <ART num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w227" ref="NT.Jude.1.12">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)n" lex="ἐν"></wf>
+    <sem>
+      <domain majorNum="83" subNum="13 9 47 23"/>
+      <domain majorNum="13" subNum="8"/>
+      <domain majorNum="84" subNum="22"/>
+      <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+      <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+      <domain majorNum="67" subNum="33 136"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w228" ref="NT.Jude.1.12">
+    <pos>
+      <ART num="plur" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w229" ref="NT.Jude.1.12">
+    <pos>
+      <NON num="plur" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="a)ga/ph" lex="ἀγάπη"></wf>
+    <sem>
+      <domain majorNum="25" subNum="43"/>
+      <domain majorNum="23" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w230" ref="NT.Jude.1.12">
+    <pos>
+      <PRO num="plur" cas="gen" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w231" ref="NT.Jude.1.12">
+    <pos>
+      <NON num="plur" cas="nom" gen="fem"/>
+    </pos>
+    <wf betaLex="spila/s" lex="σπιλάς"></wf>
+    <sem>
+      <domain majorNum="79" subNum="57"/>
+      <domain majorNum="21" subNum="5"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w232" ref="NT.Jude.1.12">
+    <pos>
+      <VBP voc="mop" num="plur" cas="nom" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="suneuwxe/omai" lex="συνευωχέομαι"></wf>
+    <sem>
+      <domain majorNum="23" subNum="14"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w233" ref="NT.Jude.1.12">
+    <pos>
+      <ADV/>
+    </pos>
+    <wf betaLex="a)fo/bws" lex="ἀφόβως"></wf>
+    <sem>
+      <domain majorNum="25" subNum="253"/>
+      <domain majorNum="88" subNum="151"/>
+      <domain majorNum="53" subNum="60"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w234" ref="NT.Jude.1.12">
+    <pos>
+      <PRO num="plur" cas="acc" type="per" gen="mas"/>
+    </pos>
+    <wf betaLex="e(autou=" lex="ἑαυτοῦ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="25"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w235" ref="NT.Jude.1.12">
+    <pos>
+      <VBP num="plur" cas="nom" voc="act" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="poimai/nw" lex="ποιμαίνω"></wf>
+    <sem>
+      <domain majorNum="44" subNum="3"/>
+      <domain majorNum="36" subNum="2"/>
+      <domain majorNum="37" subNum="57"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w236" ref="NT.Jude.1.12">
+    <pos>
+      <NON num="plur" cas="nom" gen="fem"/>
+    </pos>
+    <wf betaLex="nefe/lh" lex="νεφέλη"></wf>
+    <sem>
+      <domain majorNum="1" subNum="34"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w237" ref="NT.Jude.1.12">
+    <pos>
+      <ADJ num="plur" cas="nom" gen="fem"/>
+    </pos>
+    <wf betaLex="a)/nudros" lex="ἄνυδρος"></wf>
+    <sem>
+      <domain majorNum="2" subNum="8"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w238" ref="NT.Jude.1.12">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="u(po/" lex="ὑπό"></wf>
+    <sem>
+      <domain majorNum="83" subNum="51"/>
+      <domain majorNum="37" subNum="7"/>
+      <domain majorNum="90" subNum="1"/>
+      <domain majorNum="89" subNum="26"/>
+      <domain majorNum="67" subNum="161"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w239" ref="NT.Jude.1.12">
+    <pos>
+      <NON num="plur" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="a)/nemos" lex="ἄνεμος"></wf>
+    <sem>
+      <domain majorNum="14" subNum="4"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w240" ref="NT.Jude.1.12">
+    <pos>
+      <VBP voc="mop" num="plur" cas="nom" gen="fem" tf="pre"/>
+    </pos>
+    <wf betaLex="parafe/rw" lex="παραφέρω"></wf>
+    <sem>
+      <domain majorNum="15" subNum="162"/>
+      <domain majorNum="31" subNum="75"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w241" ref="NT.Jude.1.12">
+    <pos>
+      <NON num="plur" cas="nom" gen="neu"/>
+    </pos>
+    <wf betaLex="de/ndron" lex="δένδρον"></wf>
+    <sem>
+      <domain majorNum="3" subNum="2"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w242" ref="NT.Jude.1.12">
+    <pos>
+      <ADJ num="plur" cas="nom" gen="neu"/>
+    </pos>
+    <wf betaLex="fqinopwrino/s" lex="φθινοπωρινός"></wf>
+    <sem>
+      <domain majorNum="67" subNum="164"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w243" ref="NT.Jude.1.12">
+    <pos>
+      <ADJ num="plur" cas="nom" gen="neu"/>
+    </pos>
+    <wf betaLex="a)/karpos" lex="ἄκαρπος"></wf>
+    <sem>
+      <domain majorNum="23" subNum="202"/>
+      <domain majorNum="65" subNum="34"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w244" ref="NT.Jude.1.12">
+    <pos>
+      <ADV/>
+    </pos>
+    <wf betaLex="di/s" lex="δίς"></wf>
+    <sem>
+      <domain majorNum="60" subNum="69"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w245" ref="NT.Jude.1.12">
+    <pos>
+      <VBP num="plur" cas="nom" voc="act" gen="neu" tf="aor"/>
+    </pos>
+    <wf betaLex="a)poqnh/|skw" lex="ἀποθνῄσκω"></wf>
+    <sem>
+      <domain majorNum="23" subNum="99 117"/>
+      <domain majorNum="74" subNum="27"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w246" ref="NT.Jude.1.12">
+    <pos>
+      <VBP num="plur" cas="nom" voc="pas" gen="neu" tf="aor"/>
+    </pos>
+    <wf betaLex="e)krizo/w" lex="ἐκριζόω"></wf>
+    <sem>
+      <domain majorNum="43" subNum="11"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.12"/>
+  <verse sID="NT.Jude.1.13" num="13"/>
+  <w xml:id="NT.Jude.w247" ref="NT.Jude.1.13">
+    <pos>
+      <NON num="plur" cas="nom" gen="neu"/>
+    </pos>
+    <wf betaLex="ku=ma" lex="κῦμα"></wf>
+    <sem>
+      <domain majorNum="14" subNum="25"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w248" ref="NT.Jude.1.13">
+    <pos>
+      <ADJ num="plur" cas="nom" gen="neu"/>
+    </pos>
+    <wf betaLex="a)/grios" lex="ἄγριος"></wf>
+    <sem>
+      <domain majorNum="20" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w249" ref="NT.Jude.1.13">
+    <pos>
+      <NON num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="qa/lassa" lex="θάλασσα"></wf>
+    <sem>
+      <domain majorNum="1" subNum="69 70"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w250" ref="NT.Jude.1.13">
+    <pos>
+      <VBP num="plur" cas="nom" voc="act" gen="neu" tf="pre"/>
+    </pos>
+    <wf betaLex="e)pafri/zw" lex="ἐπαφρίζω"></wf>
+    <sem>
+      <domain majorNum="14" subNum="29"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w251" ref="NT.Jude.1.13">
+    <pos>
+      <ART num="plur" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w252" ref="NT.Jude.1.13">
+    <pos>
+      <PRO num="plur" cas="gen" type="per" gen="neu"/>
+    </pos>
+    <wf betaLex="e(autou=" lex="ἑαυτοῦ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="25"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w253" ref="NT.Jude.1.13">
+    <pos>
+      <NON num="plur" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="ai)sxu/nw" lex="αἰσχύνομαι"></wf>
+    <sem>
+      <domain majorNum="25" subNum="190"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w254" ref="NT.Jude.1.13">
+    <pos>
+      <NON num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="a)sth/r" lex="ἀστήρ"></wf>
+    <sem>
+      <domain majorNum="1" subNum="30"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w255" ref="NT.Jude.1.13">
+    <pos>
+      <ADJ num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="planh/ths" lex="πλανήτης"></wf>
+    <sem>
+      <domain majorNum="15" subNum="26"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w256" ref="NT.Jude.1.13">
+    <pos>
+      <PRO num="plur" cas="dat" type="rel" gen="mas"/>
+    </pos>
+    <wf betaLex="o(/s" lex="ὅς"></wf>
+    <sem>
+      <domain majorNum="92" subNum="27"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w257" ref="NT.Jude.1.13">
+    <pos>
+      <ART num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w258" ref="NT.Jude.1.13">
+    <pos>
+      <NON num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="zo/fos" lex="ζόφος"></wf>
+    <sem>
+      <domain majorNum="14" subNum="57"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w259" ref="NT.Jude.1.13">
+    <pos>
+      <ART num="sing" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w260" ref="NT.Jude.1.13">
+    <pos>
+      <NON num="sing" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="sko/tos" lex="σκότος"></wf>
+    <sem>
+      <domain majorNum="84" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w261" ref="NT.Jude.1.13">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="ei)s" lex="εἰς"></wf>
+    <sem>
+      <domain majorNum="84" subNum="16 22"/>
+      <domain majorNum="83" subNum="47 13 9"/>
+      <domain majorNum="89" subNum="57 48 76"/>
+      <domain majorNum="90" subNum="23 59 30"/>
+      <domain majorNum="78" subNum="51"/>
+      <domain majorNum="13" subNum="62"/>
+      <domain majorNum="67" subNum="117 160 119"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w262" ref="NT.Jude.1.13">
+    <pos>
+      <NON num="sing" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="ai)w/n" lex="αἰών"></wf>
+    <sem>
+      <domain majorNum="67" subNum="143"/>
+      <domain majorNum="1" subNum="2"/>
+      <domain majorNum="41" subNum="38"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w263" ref="NT.Jude.1.13">
+    <pos>
+      <VBF voc="mop" num="sing" per="3rd" mod="ind" tf="per"/>
+    </pos>
+    <wf betaLex="thre/w" lex="τηρέω"></wf>
+    <sem>
+      <domain majorNum="13" subNum="32"/>
+      <domain majorNum="37" subNum="122"/>
+      <domain majorNum="36" subNum="19"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.13"/>
+  <verse sID="NT.Jude.1.14" num="14"/>
+  <w xml:id="NT.Jude.w264" ref="NT.Jude.1.14">
+    <pos>
+      <VBF num="sing" per="3rd" voc="act" mod="ind" tf="aor"/>
+    </pos>
+    <wf betaLex="profhteu/w" lex="προφητεύω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="459"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w265" ref="NT.Jude.1.14">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="de/" lex="δέ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="94 87 124"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w266" ref="NT.Jude.1.14">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w267" ref="NT.Jude.1.14">
+    <pos>
+      <PRO num="plur" cas="dat" type="dem" gen="mas"/>
+    </pos>
+    <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+    <sem>
+      <domain majorNum="92" subNum="29"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w268" ref="NT.Jude.1.14">
+    <pos>
+      <ADJ num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="e(/bdomos" lex="ἕβδομος"></wf>
+    <sem>
+      <domain majorNum="60" subNum="54"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w269" ref="NT.Jude.1.14">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="a)po/" lex="ἀπό"></wf>
+    <sem>
+      <domain majorNum="89" subNum="122 142 25"/>
+      <domain majorNum="90" subNum="15 7 11 19"/>
+      <domain majorNum="84" subNum="3"/>
+      <domain majorNum="63" subNum="20"/>
+      <domain majorNum="67" subNum="131"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w270" ref="NT.Jude.1.14">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="*a)da/m" lex="Ἀδάμ"></wf>
+    <sem>
+      <domain majorNum="93" subNum="11"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w271" ref="NT.Jude.1.14">
+    <pos>
+      <NON num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="*e(nw/x" lex="Ἑνώχ"></wf>
+    <sem>
+      <domain majorNum="93" subNum="117"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w272" ref="NT.Jude.1.14">
+    <pos>
+      <VBP num="sing" cas="nom" voc="act" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="le/gw" lex="λέγω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="69 129 131 138 140"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w273" ref="NT.Jude.1.14">
+    <pos>
+      <VBF num="sing" per="2nd" voc="mid" mod="imp" tf="aor"/>
+    </pos>
+    <wf betaLex="o(ra/w" lex="ὁράω"></wf>
+    <sem>
+      <domain majorNum="24" subNum="1"/>
+      <domain majorNum="30" subNum="45"/>
+      <domain majorNum="31" subNum="11"/>
+      <domain majorNum="34" subNum="50"/>
+      <domain majorNum="90" subNum="79"/>
+      <domain majorNum="27" subNum="5"/>
+      <domain majorNum="13" subNum="134"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w274" ref="NT.Jude.1.14">
+    <pos>
+      <VBF num="sing" per="3rd" voc="act" mod="ind" tf="aor"/>
+    </pos>
+    <wf betaLex="e)/rxomai" lex="ἔρχομαι"></wf>
+    <sem>
+      <domain majorNum="15" subNum="7 81"/>
+      <domain majorNum="13" subNum="50 117"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w275" ref="NT.Jude.1.14">
+    <pos>
+      <NON num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="ku/rios" lex="κύριος"></wf>
+    <sem>
+      <domain majorNum="12" subNum="9"/>
+      <domain majorNum="57" subNum="12"/>
+      <domain majorNum="37" subNum="51"/>
+      <domain majorNum="87" subNum="53"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w276" ref="NT.Jude.1.14">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)n" lex="ἐν"></wf>
+    <sem>
+      <domain majorNum="83" subNum="13 9 47 23"/>
+      <domain majorNum="13" subNum="8"/>
+      <domain majorNum="84" subNum="22"/>
+      <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+      <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+      <domain majorNum="67" subNum="33 136"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w277" ref="NT.Jude.1.14">
+    <pos>
+      <ADJ num="plur" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="a(/gios" lex="ἅγιος"></wf>
+    <sem>
+      <domain majorNum="88" subNum="24"/>
+      <domain majorNum="53" subNum="46"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w278" ref="NT.Jude.1.14">
+    <pos>
+      <NON num="plur" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="muria/s" lex="μυριάς"></wf>
+    <sem>
+      <domain majorNum="60" subNum="45 8"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w279" ref="NT.Jude.1.14">
+    <pos>
+      <PRO type="int" num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="au)to/s" lex="αὐτός"></wf>
+    <sem>
+      <domain majorNum="92" subNum="11 37"/>
+      <domain majorNum="58" subNum="31"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.14"/>
+  <verse sID="NT.Jude.1.15" num="15"/>
+  <w xml:id="NT.Jude.w280" ref="NT.Jude.1.15">
+    <pos>
+      <VBN voc="act" tf="aor"/>
+    </pos>
+    <wf betaLex="poie/w" lex="ποιέω"></wf>
+    <sem>
+      <domain majorNum="90" subNum="45"/>
+      <domain majorNum="42" subNum="7"/>
+      <domain majorNum="13" subNum="9"/>
+      <domain majorNum="42" subNum="41 29"/>
+      <domain majorNum="41" subNum="7"/>
+      <domain majorNum="37" subNum="106"/>
+      <domain majorNum="57" subNum="189"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w281" ref="NT.Jude.1.15">
+    <pos>
+      <NON num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="kri/sis" lex="κρίσις"></wf>
+    <sem>
+      <domain majorNum="56" subNum="20 22 1 24 30"/>
+      <domain majorNum="30" subNum="110 111"/>
+      <domain majorNum="38" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w282" ref="NT.Jude.1.15">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="kata/" lex="κατά"></wf>
+    <sem>
+      <domain majorNum="84" subNum="21 30 31"/>
+      <domain majorNum="83" subNum="45 12 44"/>
+      <domain majorNum="67" subNum="33 35"/>
+      <domain majorNum="90" subNum="29 31"/>
+      <domain majorNum="89" subNum="8 90 4 113"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w283" ref="NT.Jude.1.15">
+    <pos>
+      <ADJ num="plur" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="pa=s" lex="πᾶς"></wf>
+    <sem>
+      <domain majorNum="59" subNum="23 24"/>
+      <domain majorNum="78" subNum="44"/>
+      <domain majorNum="63" subNum="2"/>
+      <domain majorNum="58" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w284" ref="NT.Jude.1.15">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w285" ref="NT.Jude.1.15">
+    <pos>
+      <VBN voc="act" tf="aor"/>
+    </pos>
+    <wf betaLex="e)le/gxw" lex="ἐλέγχω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="417"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w286" ref="NT.Jude.1.15">
+    <pos>
+      <ADJ num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="pa=s" lex="πᾶς"></wf>
+    <sem>
+      <domain majorNum="59" subNum="23 24"/>
+      <domain majorNum="78" subNum="44"/>
+      <domain majorNum="63" subNum="2"/>
+      <domain majorNum="58" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w287" ref="NT.Jude.1.15">
+    <pos>
+      <NON num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="yuxh/" lex="ψυχή"></wf>
+    <sem>
+      <domain majorNum="26" subNum="4"/>
+      <domain majorNum="23" subNum="88"/>
+      <domain majorNum="9" subNum="20"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w288" ref="NT.Jude.1.15">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="peri/" lex="περί"></wf>
+    <sem>
+      <domain majorNum="83" subNum="18"/>
+      <domain majorNum="90" subNum="24 39"/>
+      <domain majorNum="67" subNum="35"/>
+      <domain majorNum="89" subNum="36 110 6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w289" ref="NT.Jude.1.15">
+    <pos>
+      <ADJ num="plur" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="pa=s" lex="πᾶς"></wf>
+    <sem>
+      <domain majorNum="59" subNum="23 24"/>
+      <domain majorNum="78" subNum="44"/>
+      <domain majorNum="63" subNum="2"/>
+      <domain majorNum="58" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w290" ref="NT.Jude.1.15">
+    <pos>
+      <ART num="plur" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w291" ref="NT.Jude.1.15">
+    <pos>
+      <NON num="plur" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="e)/rgon" lex="ἔργον"></wf>
+    <sem>
+      <domain majorNum="42" subNum="11 42 12"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w292" ref="NT.Jude.1.15">
+    <pos>
+      <NON num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="a)se/beia" lex="ἀσέβεια"></wf>
+    <sem>
+      <domain majorNum="53" subNum="10"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w293" ref="NT.Jude.1.15">
+    <pos>
+      <PRO type="int" num="plur" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="au)to/s" lex="αὐτός"></wf>
+    <sem>
+      <domain majorNum="92" subNum="11 37"/>
+      <domain majorNum="58" subNum="31"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w294" ref="NT.Jude.1.15">
+    <pos>
+      <PRO num="plur" cas="gen" type="rel" gen="neu"/>
+    </pos>
+    <wf betaLex="o(/s" lex="ὅς"></wf>
+    <sem>
+      <domain majorNum="92" subNum="27"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w295" ref="NT.Jude.1.15">
+    <pos>
+      <VBF num="plur" per="3rd" voc="act" mod="ind" tf="aor"/>
+    </pos>
+    <wf betaLex="a)sebe/w" lex="ἀσεβέω"></wf>
+    <sem>
+      <domain majorNum="53" subNum="10"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w296" ref="NT.Jude.1.15">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w297" ref="NT.Jude.1.15">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="peri/" lex="περί"></wf>
+    <sem>
+      <domain majorNum="83" subNum="18"/>
+      <domain majorNum="90" subNum="24 39"/>
+      <domain majorNum="67" subNum="35"/>
+      <domain majorNum="89" subNum="36 110 6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w298" ref="NT.Jude.1.15">
+    <pos>
+      <ADJ num="plur" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="pa=s" lex="πᾶς"></wf>
+    <sem>
+      <domain majorNum="59" subNum="23 24"/>
+      <domain majorNum="78" subNum="44"/>
+      <domain majorNum="63" subNum="2"/>
+      <domain majorNum="58" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w299" ref="NT.Jude.1.15">
+    <pos>
+      <ART num="plur" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w300" ref="NT.Jude.1.15">
+    <pos>
+      <ADJ num="plur" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="sklhro/s" lex="σκληρός"></wf>
+    <sem>
+      <domain majorNum="20" subNum="3"/>
+      <domain majorNum="76" subNum="15"/>
+      <domain majorNum="88" subNum="135 136"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w301" ref="NT.Jude.1.15">
+    <pos>
+      <PRO num="plur" cas="gen" type="rel" gen="neu"/>
+    </pos>
+    <wf betaLex="o(/s" lex="ὅς"></wf>
+    <sem>
+      <domain majorNum="92" subNum="27"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w302" ref="NT.Jude.1.15">
+    <pos>
+      <VBF num="plur" per="3rd" voc="act" mod="ind" tf="aor"/>
+    </pos>
+    <wf betaLex="lale/w" lex="λαλέω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="70"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w303" ref="NT.Jude.1.15">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="kata/" lex="κατά"></wf>
+    <sem>
+      <domain majorNum="84" subNum="21 30 31"/>
+      <domain majorNum="83" subNum="45 12 44"/>
+      <domain majorNum="67" subNum="33 35"/>
+      <domain majorNum="90" subNum="29 31"/>
+      <domain majorNum="89" subNum="8 90 4 113"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w304" ref="NT.Jude.1.15">
+    <pos>
+      <PRO type="int" num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="au)to/s" lex="αὐτός"></wf>
+    <sem>
+      <domain majorNum="92" subNum="11 37"/>
+      <domain majorNum="58" subNum="31"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w305" ref="NT.Jude.1.15">
+    <pos>
+      <ADJ num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="a(martwlo/s" lex="ἁμαρτωλός"></wf>
+    <sem>
+      <domain majorNum="88" subNum="294"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w306" ref="NT.Jude.1.15">
+    <pos>
+      <ADJ num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="a)sebh/s" lex="ἀσεβής"></wf>
+    <sem>
+      <domain majorNum="53" subNum="11"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.15"/>
+  <verse sID="NT.Jude.1.16" num="16"/>
+  <w xml:id="NT.Jude.w307" ref="NT.Jude.1.16">
+    <pos>
+      <PRO num="plur" cas="nom" type="dem" gen="mas"/>
+    </pos>
+    <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+    <sem>
+      <domain majorNum="92" subNum="29"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w308" ref="NT.Jude.1.16">
+    <pos>
+      <VBF augment="-" num="plur" per="3rd" mod="ind"/>
+    </pos>
+    <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+    <sem>
+      <domain majorNum="13" subNum="1 4 69 104"/>
+      <domain majorNum="85" subNum="1"/>
+      <domain majorNum="71" subNum="1"/>
+      <domain majorNum="58" subNum="67 68"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w309" ref="NT.Jude.1.16">
+    <pos>
+      <NON num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="goggu/zw" lex="γογγύζω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="382"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w310" ref="NT.Jude.1.16">
+    <pos>
+      <ADJ num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="memyi/moiros" lex="μεμψίμοιρος"></wf>
+    <sem>
+      <domain majorNum="33" subNum="432"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w311" ref="NT.Jude.1.16">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="kata/" lex="κατά"></wf>
+    <sem>
+      <domain majorNum="84" subNum="21 30 31"/>
+      <domain majorNum="83" subNum="45 12 44"/>
+      <domain majorNum="67" subNum="33 35"/>
+      <domain majorNum="90" subNum="29 31"/>
+      <domain majorNum="89" subNum="8 90 4 113"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w312" ref="NT.Jude.1.16">
+    <pos>
+      <ART num="plur" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w313" ref="NT.Jude.1.16">
+    <pos>
+      <NON num="plur" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="e)piqumi/a" lex="ἐπιθυμία"></wf>
+    <sem>
+      <domain majorNum="25" subNum="12 20"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w314" ref="NT.Jude.1.16">
+    <pos>
+      <PRO num="plur" cas="gen" type="per" gen="mas"/>
+    </pos>
+    <wf betaLex="e(autou=" lex="ἑαυτοῦ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="25"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w315" ref="NT.Jude.1.16">
+    <pos>
+      <VBP voc="mop" num="plur" cas="nom" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="poreu/omai" lex="πορεύομαι"></wf>
+    <sem>
+      <domain majorNum="15" subNum="10 18 34"/>
+      <domain majorNum="41" subNum="11"/>
+      <domain majorNum="23" subNum="101"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w316" ref="NT.Jude.1.16">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w317" ref="NT.Jude.1.16">
+    <pos>
+      <ART num="sing" cas="nom" gen="neu"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w318" ref="NT.Jude.1.16">
+    <pos>
+      <NON num="sing" cas="nom" gen="neu"/>
+    </pos>
+    <wf betaLex="sto/ma" lex="στόμα"></wf>
+    <sem>
+      <domain majorNum="8" subNum="19"/>
+      <domain majorNum="33" subNum="74 75 101"/>
+      <domain majorNum="79" subNum="109"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w319" ref="NT.Jude.1.16">
+    <pos>
+      <PRO type="int" num="plur" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="au)to/s" lex="αὐτός"></wf>
+    <sem>
+      <domain majorNum="92" subNum="11 37"/>
+      <domain majorNum="58" subNum="31"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w320" ref="NT.Jude.1.16">
+    <pos>
+      <VBF num="sing" per="3rd" voc="act" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="lale/w" lex="λαλέω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="70"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w321" ref="NT.Jude.1.16">
+    <pos>
+      <ADJ num="plur" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="u(pe/rogkos" lex="ὑπέρογκος"></wf>
+    <sem>
+      <domain majorNum="33" subNum="373"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w322" ref="NT.Jude.1.16">
+    <pos>
+      <VBP num="plur" cas="nom" voc="act" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="qauma/zw" lex="θαυμάζω"></wf>
+    <sem>
+      <domain majorNum="25" subNum="213"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w323" ref="NT.Jude.1.16">
+    <pos>
+      <NON num="plur" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="pro/swpon" lex="πρόσωπον"></wf>
+    <sem>
+      <domain majorNum="8" subNum="18"/>
+      <domain majorNum="9" subNum="9"/>
+      <domain majorNum="79" subNum="93"/>
+      <domain majorNum="24" subNum="24"/>
+      <domain majorNum="85" subNum="26"/>
+      <domain majorNum="83" subNum="33"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w324" ref="NT.Jude.1.16">
+    <pos>
+      <NON num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="w)fe/leia" lex="ὠφέλεια"></wf>
+    <sem>
+      <domain majorNum="65" subNum="41"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w325" ref="NT.Jude.1.16">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="xa/ris" lex="χάρις"></wf>
+    <sem>
+      <domain majorNum="88" subNum="66"/>
+      <domain majorNum="57" subNum="103"/>
+      <domain majorNum="33" subNum="350"/>
+      <domain majorNum="25" subNum="89"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.16"/>
+  <verse sID="NT.Jude.1.17" num="17"/>
+  <w xml:id="NT.Jude.w326" ref="NT.Jude.1.17">
+    <pos>
+      <PRO num="plur" cas="nom" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w327" ref="NT.Jude.1.17">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="de/" lex="δέ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="94 87 124"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w328" ref="NT.Jude.1.17">
+    <pos>
+      <ADJ num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="a)gaphto/s" lex="ἀγαπητός"></wf>
+    <sem>
+      <domain majorNum="25" subNum="45"/>
+      <domain majorNum="58" subNum="83"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w329" ref="NT.Jude.1.17">
+    <pos>
+      <VBF num="plur" per="2nd" voc="pas" mod="imp" tf="aor"/>
+    </pos>
+    <wf betaLex="mimnh/|skomai" lex="μιμνῄσκομαι"></wf>
+    <sem>
+      <domain majorNum="29" subNum="7 16"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w330" ref="NT.Jude.1.17">
+    <pos>
+      <ART num="plur" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w331" ref="NT.Jude.1.17">
+    <pos>
+      <NON num="plur" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="r(h=ma" lex="ῥῆμα"></wf>
+    <sem>
+      <domain majorNum="33" subNum="9 98"/>
+      <domain majorNum="13" subNum="115"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w332" ref="NT.Jude.1.17">
+    <pos>
+      <ART num="plur" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w333" ref="NT.Jude.1.17">
+    <pos>
+      <VBP voc="mop" num="plur" cas="gen" gen="neu" tf="per"/>
+    </pos>
+    <wf betaLex="prole/gw" lex="προλέγω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="86 281 423"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w334" ref="NT.Jude.1.17">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="u(po/" lex="ὑπό"></wf>
+    <sem>
+      <domain majorNum="83" subNum="51"/>
+      <domain majorNum="37" subNum="7"/>
+      <domain majorNum="90" subNum="1"/>
+      <domain majorNum="89" subNum="26"/>
+      <domain majorNum="67" subNum="161"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w335" ref="NT.Jude.1.17">
+    <pos>
+      <ART num="plur" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w336" ref="NT.Jude.1.17">
+    <pos>
+      <NON num="plur" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="a)po/stolos" lex="ἀπόστολος"></wf>
+    <sem>
+      <domain majorNum="53" subNum="73"/>
+      <domain majorNum="33" subNum="194"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w337" ref="NT.Jude.1.17">
+    <pos>
+      <ART num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w338" ref="NT.Jude.1.17">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="ku/rios" lex="κύριος"></wf>
+    <sem>
+      <domain majorNum="12" subNum="9"/>
+      <domain majorNum="57" subNum="12"/>
+      <domain majorNum="37" subNum="51"/>
+      <domain majorNum="87" subNum="53"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w339" ref="NT.Jude.1.17">
+    <pos>
+      <PRO num="plur" cas="gen" per="1st" type="per"/>
+    </pos>
+    <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w340" ref="NT.Jude.1.17">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+    <sem>
+      <domain majorNum="93" subNum="169"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w341" ref="NT.Jude.1.17">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+    <sem>
+      <domain majorNum="93" subNum="387"/>
+      <domain majorNum="53" subNum="82"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.17"/>
+  <verse sID="NT.Jude.1.18" num="18"/>
+  <w xml:id="NT.Jude.w342" ref="NT.Jude.1.18">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="o(/ti" lex="ὅτι"></wf>
+    <sem>
+      <domain majorNum="90" subNum="21"/>
+      <domain majorNum="89" subNum="33"/>
+      <domain majorNum="91" subNum="15"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w343" ref="NT.Jude.1.18">
+    <pos>
+      <VBF num="plur" per="3rd" voc="act" mod="ind" tf="imp"/>
+    </pos>
+    <wf betaLex="le/gw" lex="λέγω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="69 129 131 138 140"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w344" ref="NT.Jude.1.18">
+    <pos>
+      <PRO num="plur" cas="dat" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w345" ref="NT.Jude.1.18">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="o(/ti" lex="ὅτι"></wf>
+    <sem>
+      <domain majorNum="90" subNum="21"/>
+      <domain majorNum="89" subNum="33"/>
+      <domain majorNum="91" subNum="15"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w346" ref="NT.Jude.1.18">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)pi/" lex="ἐπί"></wf>
+    <sem>
+      <domain majorNum="83" subNum="46 23 9 35"/>
+      <domain majorNum="84" subNum="17 20"/>
+      <domain majorNum="90" subNum="17 57 9 34 23 5"/>
+      <domain majorNum="89" subNum="101 27 60 13"/>
+      <domain majorNum="37" subNum="9"/>
+      <domain majorNum="78" subNum="51"/>
+      <domain majorNum="67" subNum="33 136"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w347" ref="NT.Jude.1.18">
+    <pos>
+      <ADJ num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="e)/sxatos" lex="ἔσχατος"></wf>
+    <sem>
+      <domain majorNum="61" subNum="13"/>
+      <domain majorNum="87" subNum="66"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w348" ref="NT.Jude.1.18">
+    <pos>
+      <ART num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w349" ref="NT.Jude.1.18">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="xro/nos" lex="χρόνος"></wf>
+    <sem>
+      <domain majorNum="67" subNum="78 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w350" ref="NT.Jude.1.18">
+    <pos>
+      <VBF augment="-" num="plur" suffix="+" per="3rd" mod="ind"/>
+    </pos>
+    <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+    <sem>
+      <domain majorNum="13" subNum="1 4 69 104"/>
+      <domain majorNum="85" subNum="1"/>
+      <domain majorNum="71" subNum="1"/>
+      <domain majorNum="58" subNum="67 68"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w351" ref="NT.Jude.1.18">
+    <pos>
+      <NON num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="e)mpai/kths" lex="ἐμπαίκτης"></wf>
+    <sem>
+      <domain majorNum="33" subNum="407"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w352" ref="NT.Jude.1.18">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="kata/" lex="κατά"></wf>
+    <sem>
+      <domain majorNum="84" subNum="21 30 31"/>
+      <domain majorNum="83" subNum="45 12 44"/>
+      <domain majorNum="67" subNum="33 35"/>
+      <domain majorNum="90" subNum="29 31"/>
+      <domain majorNum="89" subNum="8 90 4 113"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w353" ref="NT.Jude.1.18">
+    <pos>
+      <ART num="plur" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w354" ref="NT.Jude.1.18">
+    <pos>
+      <PRO num="plur" cas="gen" type="per" gen="mas"/>
+    </pos>
+    <wf betaLex="e(autou=" lex="ἑαυτοῦ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="25"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w355" ref="NT.Jude.1.18">
+    <pos>
+      <NON num="plur" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="e)piqumi/a" lex="ἐπιθυμία"></wf>
+    <sem>
+      <domain majorNum="25" subNum="12 20"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w356" ref="NT.Jude.1.18">
+    <pos>
+      <VBP voc="mop" num="plur" cas="nom" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="poreu/omai" lex="πορεύομαι"></wf>
+    <sem>
+      <domain majorNum="15" subNum="10 18 34"/>
+      <domain majorNum="41" subNum="11"/>
+      <domain majorNum="23" subNum="101"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w357" ref="NT.Jude.1.18">
+    <pos>
+      <ART num="plur" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w358" ref="NT.Jude.1.18">
+    <pos>
+      <NON num="plur" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="a)se/beia" lex="ἀσέβεια"></wf>
+    <sem>
+      <domain majorNum="53" subNum="10"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.18"/>
+  <verse sID="NT.Jude.1.19" num="19"/>
+  <w xml:id="NT.Jude.w359" ref="NT.Jude.1.19">
+    <pos>
+      <PRO num="plur" cas="nom" type="dem" gen="mas"/>
+    </pos>
+    <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+    <sem>
+      <domain majorNum="92" subNum="29"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w360" ref="NT.Jude.1.19">
+    <pos>
+      <VBF augment="-" num="plur" per="3rd" mod="ind"/>
+    </pos>
+    <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+    <sem>
+      <domain majorNum="13" subNum="1 4 69 104"/>
+      <domain majorNum="85" subNum="1"/>
+      <domain majorNum="71" subNum="1"/>
+      <domain majorNum="58" subNum="67 68"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w361" ref="NT.Jude.1.19">
+    <pos>
+      <ART num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w362" ref="NT.Jude.1.19">
+    <pos>
+      <VBP num="plur" cas="nom" voc="act" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="a)podiori/zw" lex="ἀποδιορίζω"></wf>
+    <sem>
+      <domain majorNum="39" subNum="16"/>
+      <domain majorNum="30" subNum="116"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w363" ref="NT.Jude.1.19">
+    <pos>
+      <ADJ num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="yuxiko/s" lex="ψυχικός"></wf>
+    <sem>
+      <domain majorNum="79" subNum="2 5"/>
+      <domain majorNum="41" subNum="41"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w364" ref="NT.Jude.1.19">
+    <pos>
+      <NON num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="pneu=ma" lex="πνεῦμα"></wf>
+    <sem>
+      <domain majorNum="12" subNum="18 33 37 42"/>
+      <domain majorNum="26" subNum="9"/>
+      <domain majorNum="30" subNum="6"/>
+      <domain majorNum="14" subNum="4"/>
+      <domain majorNum="23" subNum="186"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w365" ref="NT.Jude.1.19">
+    <pos>
+      <ADV/>
+    </pos>
+    <wf betaLex="mh/" lex="μή"></wf>
+    <sem>
+      <domain majorNum="69" subNum="3 15"/>
+      <domain majorNum="89" subNum="62"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w366" ref="NT.Jude.1.19">
+    <pos>
+      <VBP num="plur" cas="nom" voc="act" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="e)/xw" lex="ἔχω"></wf>
+    <sem>
+      <domain majorNum="57" subNum="1"/>
+      <domain majorNum="18" subNum="6"/>
+      <domain majorNum="31" subNum="1"/>
+      <domain majorNum="49" subNum="13"/>
+      <domain majorNum="74" subNum="12"/>
+      <domain majorNum="90" subNum="65"/>
+      <domain majorNum="13" subNum="2"/>
+      <domain majorNum="90" subNum="51 27"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.19"/>
+  <verse sID="NT.Jude.1.20" num="20"/>
+  <w xml:id="NT.Jude.w367" ref="NT.Jude.1.20">
+    <pos>
+      <PRO num="plur" cas="nom" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w368" ref="NT.Jude.1.20">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="de/" lex="δέ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="94 87 124"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w369" ref="NT.Jude.1.20">
+    <pos>
+      <ADJ num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="a)gaphto/s" lex="ἀγαπητός"></wf>
+    <sem>
+      <domain majorNum="25" subNum="45"/>
+      <domain majorNum="58" subNum="83"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w370" ref="NT.Jude.1.20">
+    <pos>
+      <VBP num="plur" cas="nom" voc="act" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="e)poikodome/w" lex="ἐποικοδομέω"></wf>
+    <sem>
+      <domain majorNum="45" subNum="5"/>
+      <domain majorNum="74" subNum="15"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w371" ref="NT.Jude.1.20">
+    <pos>
+      <PRO num="plur" cas="acc" type="per" gen="mas"/>
+    </pos>
+    <wf betaLex="e(autou=" lex="ἑαυτοῦ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="25"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w372" ref="NT.Jude.1.20">
+    <pos>
+      <ART num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w373" ref="NT.Jude.1.20">
+    <pos>
+      <ADJ num="sing" cas="dat" type="sup" gen="fem"/>
+    </pos>
+    <wf betaLex="a(/gios" lex="ἅγιος"></wf>
+    <sem>
+      <domain majorNum="88" subNum="24"/>
+      <domain majorNum="53" subNum="46"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w374" ref="NT.Jude.1.20">
+    <pos>
+      <PRO num="plur" cas="gen" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w375" ref="NT.Jude.1.20">
+    <pos>
+      <NON num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="pi/stis" lex="πίστις"></wf>
+    <sem>
+      <domain majorNum="31" subNum="43 85 88 102 104"/>
+      <domain majorNum="33" subNum="289"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w376" ref="NT.Jude.1.20">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)n" lex="ἐν"></wf>
+    <sem>
+      <domain majorNum="83" subNum="13 9 47 23"/>
+      <domain majorNum="13" subNum="8"/>
+      <domain majorNum="84" subNum="22"/>
+      <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+      <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+      <domain majorNum="67" subNum="33 136"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w377" ref="NT.Jude.1.20">
+    <pos>
+      <NON num="sing" cas="dat" gen="neu"/>
+    </pos>
+    <wf betaLex="pneu=ma" lex="πνεῦμα"></wf>
+    <sem>
+      <domain majorNum="12" subNum="18 33 37 42"/>
+      <domain majorNum="26" subNum="9"/>
+      <domain majorNum="30" subNum="6"/>
+      <domain majorNum="14" subNum="4"/>
+      <domain majorNum="23" subNum="186"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w378" ref="NT.Jude.1.20">
+    <pos>
+      <ADJ num="sing" cas="dat" gen="neu"/>
+    </pos>
+    <wf betaLex="a(/gios" lex="ἅγιος"></wf>
+    <sem>
+      <domain majorNum="88" subNum="24"/>
+      <domain majorNum="53" subNum="46"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w379" ref="NT.Jude.1.20">
+    <pos>
+      <VBP voc="mop" num="plur" cas="nom" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="proseu/xomai" lex="προσεύχομαι"></wf>
+    <sem>
+      <domain majorNum="33" subNum="178"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.20"/>
+  <verse sID="NT.Jude.1.21" num="21"/>
+  <w xml:id="NT.Jude.w380" ref="NT.Jude.1.21">
+    <pos>
+      <PRO num="plur" cas="acc" type="per" gen="mas"/>
+    </pos>
+    <wf betaLex="e(autou=" lex="ἑαυτοῦ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="25"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w381" ref="NT.Jude.1.21">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)n" lex="ἐν"></wf>
+    <sem>
+      <domain majorNum="83" subNum="13 9 47 23"/>
+      <domain majorNum="13" subNum="8"/>
+      <domain majorNum="84" subNum="22"/>
+      <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+      <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+      <domain majorNum="67" subNum="33 136"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w382" ref="NT.Jude.1.21">
+    <pos>
+      <NON num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="a)ga/ph" lex="ἀγάπη"></wf>
+    <sem>
+      <domain majorNum="25" subNum="43"/>
+      <domain majorNum="23" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w383" ref="NT.Jude.1.21">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="qeo/s" lex="θεός"></wf>
+    <sem>
+      <domain majorNum="12" subNum="1 22 25"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w384" ref="NT.Jude.1.21">
+    <pos>
+      <VBF num="plur" per="2nd" voc="act" mod="imp" tf="aor"/>
+    </pos>
+    <wf betaLex="thre/w" lex="τηρέω"></wf>
+    <sem>
+      <domain majorNum="13" subNum="32"/>
+      <domain majorNum="37" subNum="122"/>
+      <domain majorNum="36" subNum="19"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w385" ref="NT.Jude.1.21">
+    <pos>
+      <VBP voc="mop" num="plur" cas="nom" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="prosde/xomai" lex="προσδέχομαι"></wf>
+    <sem>
+      <domain majorNum="31" subNum="53"/>
+      <domain majorNum="34" subNum="53"/>
+      <domain majorNum="85" subNum="60"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w386" ref="NT.Jude.1.21">
+    <pos>
+      <ART num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w387" ref="NT.Jude.1.21">
+    <pos>
+      <NON num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="e)/leos" lex="ἔλεος"></wf>
+    <sem>
+      <domain majorNum="88" subNum="76"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w388" ref="NT.Jude.1.21">
+    <pos>
+      <ART num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w389" ref="NT.Jude.1.21">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="ku/rios" lex="κύριος"></wf>
+    <sem>
+      <domain majorNum="12" subNum="9"/>
+      <domain majorNum="57" subNum="12"/>
+      <domain majorNum="37" subNum="51"/>
+      <domain majorNum="87" subNum="53"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w390" ref="NT.Jude.1.21">
+    <pos>
+      <PRO num="plur" cas="gen" per="1st" type="per"/>
+    </pos>
+    <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w391" ref="NT.Jude.1.21">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+    <sem>
+      <domain majorNum="93" subNum="169"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w392" ref="NT.Jude.1.21">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+    <sem>
+      <domain majorNum="93" subNum="387"/>
+      <domain majorNum="53" subNum="82"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w393" ref="NT.Jude.1.21">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="ei)s" lex="εἰς"></wf>
+    <sem>
+      <domain majorNum="84" subNum="16 22"/>
+      <domain majorNum="83" subNum="47 13 9"/>
+      <domain majorNum="89" subNum="57 48 76"/>
+      <domain majorNum="90" subNum="23 59 30"/>
+      <domain majorNum="78" subNum="51"/>
+      <domain majorNum="13" subNum="62"/>
+      <domain majorNum="67" subNum="117 160 119"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w394" ref="NT.Jude.1.21">
+    <pos>
+      <NON num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="zwh/" lex="ζωή"></wf>
+    <sem>
+      <domain majorNum="23" subNum="88"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w395" ref="NT.Jude.1.21">
+    <pos>
+      <ADJ num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="ai)w/nios" lex="αἰώνιος"></wf>
+    <sem>
+      <domain majorNum="67" subNum="96"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.21"/>
+  <verse sID="NT.Jude.1.22" num="22"/>
+  <w xml:id="NT.Jude.w396" ref="NT.Jude.1.22">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w397" ref="NT.Jude.1.22">
+    <pos>
+      <PRO num="plur" cas="acc" type="rel" gen="mas"/>
+    </pos>
+    <wf betaLex="ou)=s" lex="οὖς"></wf>
+    <sem>
+      <domain majorNum="8" subNum="24"/>
+      <domain majorNum="24" subNum="54"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w398" ref="NT.Jude.1.22">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="me/n" lex="μέν"></wf>
+    <sem>
+      <domain majorNum="91" subNum="3 6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w399" ref="NT.Jude.1.22">
+    <pos>
+      <VBF num="plur" per="2nd" voc="act" mod="ioi" tf="pre"/>
+    </pos>
+    <wf betaLex="e)lea/w" lex="ἐλεάω"></wf>
+    <sem>
+      <domain majorNum="88" subNum="76"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w400" ref="NT.Jude.1.22">
+    <pos>
+      <VBP voc="mop" num="plur" cas="acc" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="diakri/nw" lex="διακρίνω"></wf>
+    <sem>
+      <domain majorNum="30" subNum="109 99 113"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.22"/>
+  <verse sID="NT.Jude.1.23" num="23"/>
+  <w xml:id="NT.Jude.w401" ref="NT.Jude.1.23">
+    <pos>
+      <PRO num="plur" cas="acc" type="rel" gen="mas"/>
+    </pos>
+    <wf betaLex="ou)=s" lex="οὖς"></wf>
+    <sem>
+      <domain majorNum="8" subNum="24"/>
+      <domain majorNum="24" subNum="54"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w402" ref="NT.Jude.1.23">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="de/" lex="δέ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="94 87 124"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w403" ref="NT.Jude.1.23">
+    <pos>
+      <VBF num="plur" per="2nd" voc="act" mod="ioi" tf="pre"/>
+    </pos>
+    <wf betaLex="sw/|zw" lex="σῴζω"></wf>
+    <sem>
+      <domain majorNum="21" subNum="18 27"/>
+      <domain majorNum="23" subNum="136"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w404" ref="NT.Jude.1.23">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)k" lex="ἐκ"></wf>
+    <sem>
+      <domain majorNum="84" subNum="4"/>
+      <domain majorNum="89" subNum="25 77 85 121 142"/>
+      <domain majorNum="90" subNum="12 16"/>
+      <domain majorNum="63" subNum="20"/>
+      <domain majorNum="68" subNum="54"/>
+      <domain majorNum="67" subNum="33 131"/>
+      <domain majorNum="57" subNum="162"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w405" ref="NT.Jude.1.23">
+    <pos>
+      <NON num="sing" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="pu=r" lex="πῦρ"></wf>
+    <sem>
+      <domain majorNum="2" subNum="3 5"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w406" ref="NT.Jude.1.23">
+    <pos>
+      <VBP num="plur" cas="nom" voc="act" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="a(rpa/zw" lex="ἁρπάζω"></wf>
+    <sem>
+      <domain majorNum="18" subNum="4"/>
+      <domain majorNum="39" subNum="49"/>
+      <domain majorNum="57" subNum="235"/>
+      <domain majorNum="37" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w407" ref="NT.Jude.1.23">
+    <pos>
+      <PRO num="plur" cas="acc" type="rel" gen="mas"/>
+    </pos>
+    <wf betaLex="ou)=s" lex="οὖς"></wf>
+    <sem>
+      <domain majorNum="8" subNum="24"/>
+      <domain majorNum="24" subNum="54"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w408" ref="NT.Jude.1.23">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="de/" lex="δέ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="94 87 124"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w409" ref="NT.Jude.1.23">
+    <pos>
+      <VBF num="plur" per="2nd" voc="act" mod="ioi" tf="pre"/>
+    </pos>
+    <wf betaLex="e)lea/w" lex="ἐλεάω"></wf>
+    <sem>
+      <domain majorNum="88" subNum="76"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w410" ref="NT.Jude.1.23">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)n" lex="ἐν"></wf>
+    <sem>
+      <domain majorNum="83" subNum="13 9 47 23"/>
+      <domain majorNum="13" subNum="8"/>
+      <domain majorNum="84" subNum="22"/>
+      <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+      <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+      <domain majorNum="67" subNum="33 136"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w411" ref="NT.Jude.1.23">
+    <pos>
+      <NON num="sing" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="fo/bos" lex="φόβος"></wf>
+    <sem>
+      <domain majorNum="25" subNum="251 254"/>
+      <domain majorNum="53" subNum="59"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w412" ref="NT.Jude.1.23">
+    <pos>
+      <VBP num="plur" cas="nom" voc="act" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="mise/w" lex="μισέω"></wf>
+    <sem>
+      <domain majorNum="88" subNum="198"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w413" ref="NT.Jude.1.23">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w414" ref="NT.Jude.1.23">
+    <pos>
+      <ART num="sing" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w415" ref="NT.Jude.1.23">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="a)po/" lex="ἀπό"></wf>
+    <sem>
+      <domain majorNum="89" subNum="122 142 25"/>
+      <domain majorNum="90" subNum="15 7 11 19"/>
+      <domain majorNum="84" subNum="3"/>
+      <domain majorNum="63" subNum="20"/>
+      <domain majorNum="67" subNum="131"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w416" ref="NT.Jude.1.23">
+    <pos>
+      <ART num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w417" ref="NT.Jude.1.23">
+    <pos>
+      <NON num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="sa/rc" lex="σάρξ"></wf>
+    <sem>
+      <domain majorNum="8" subNum="63 4"/>
+      <domain majorNum="9" subNum="11 12"/>
+      <domain majorNum="10" subNum="1"/>
+      <domain majorNum="26" subNum="7"/>
+      <domain majorNum="58" subNum="10"/>
+      <domain majorNum="23" subNum="90"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w418" ref="NT.Jude.1.23">
+    <pos>
+      <VBP voc="mop" num="sing" cas="acc" gen="mas" tf="per"/>
+    </pos>
+    <wf betaLex="spilo/w" lex="σπιλόω"></wf>
+    <sem>
+      <domain majorNum="79" subNum="58"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w419" ref="NT.Jude.1.23">
+    <pos>
+      <NON num="sing" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="xitw/n" lex="χιτών"></wf>
+    <sem>
+      <domain majorNum="6" subNum="176 162"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.23"/>
+  <verse sID="NT.Jude.1.24" num="24"/>
+  <w xml:id="NT.Jude.w420" ref="NT.Jude.1.24">
+    <pos>
+      <ART num="sing" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w421" ref="NT.Jude.1.24">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="de/" lex="δέ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="94 87 124"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w422" ref="NT.Jude.1.24">
+    <pos>
+      <VBP voc="mop" num="sing" cas="dat" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="du/namai" lex="δύναμαι"></wf>
+    <sem>
+      <domain majorNum="74" subNum="5"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w423" ref="NT.Jude.1.24">
+    <pos>
+      <VBN voc="act" tf="aor"/>
+    </pos>
+    <wf betaLex="fula/ssw" lex="φυλάσσω"></wf>
+    <sem>
+      <domain majorNum="37" subNum="120"/>
+      <domain majorNum="36" subNum="19"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w424" ref="NT.Jude.1.24">
+    <pos>
+      <PRO num="plur" cas="acc" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w425" ref="NT.Jude.1.24">
+    <pos>
+      <ADJ num="plur" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="a)/ptaistos" lex="ἄπταιστος"></wf>
+    <sem>
+      <domain majorNum="88" subNum="292"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w426" ref="NT.Jude.1.24">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w427" ref="NT.Jude.1.24">
+    <pos>
+      <VBN voc="act" tf="aor"/>
+    </pos>
+    <wf betaLex="i(/sthmi" lex="ἵστημι"></wf>
+    <sem>
+      <domain majorNum="85" subNum="40"/>
+      <domain majorNum="76" subNum="20 21"/>
+      <domain majorNum="57" subNum="158"/>
+      <domain majorNum="30" subNum="87"/>
+      <domain majorNum="33" subNum="343"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w428" ref="NT.Jude.1.24">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="katenw/pion" lex="κατενώπιον"></wf>
+    <sem>
+      <domain majorNum="83" subNum="33"/>
+      <domain majorNum="90" subNum="20"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w429" ref="NT.Jude.1.24">
+    <pos>
+      <ART num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w430" ref="NT.Jude.1.24">
+    <pos>
+      <NON num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="do/ca" lex="δόξα"></wf>
+    <sem>
+      <domain majorNum="79" subNum="18"/>
+      <domain majorNum="14" subNum="49"/>
+      <domain majorNum="76" subNum="13"/>
+      <domain majorNum="33" subNum="357"/>
+      <domain majorNum="87" subNum="4"/>
+      <domain majorNum="87" subNum="23"/>
+      <domain majorNum="12" subNum="49"/>
+      <domain majorNum="1" subNum="15"/>
+      <domain majorNum="25" subNum="205"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w431" ref="NT.Jude.1.24">
+    <pos>
+      <PRO type="int" num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="au)to/s" lex="αὐτός"></wf>
+    <sem>
+      <domain majorNum="92" subNum="11 37"/>
+      <domain majorNum="58" subNum="31"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w432" ref="NT.Jude.1.24">
+    <pos>
+      <ADJ num="plur" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="a)/mwmos" lex="ἄμωμος"></wf>
+    <sem>
+      <domain majorNum="79" subNum="61"/>
+      <domain majorNum="88" subNum="34"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w433" ref="NT.Jude.1.24">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)n" lex="ἐν"></wf>
+    <sem>
+      <domain majorNum="83" subNum="13 9 47 23"/>
+      <domain majorNum="13" subNum="8"/>
+      <domain majorNum="84" subNum="22"/>
+      <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+      <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+      <domain majorNum="67" subNum="33 136"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w434" ref="NT.Jude.1.24">
+    <pos>
+      <NON num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="a)gallia/w" lex="ἀγαλλιάω"></wf>
+    <sem>
+      <domain majorNum="25" subNum="133"/>
+    </sem>
+  </w>
+  <verse eID="NT.Jude.1.24"/>
+  <verse sID="NT.Jude.1.25" num="25"/>
+  <w xml:id="NT.Jude.w435" ref="NT.Jude.1.25">
+    <pos>
+      <ADJ num="sing" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="mo/nos" lex="μόνος"></wf>
+    <sem>
+      <domain majorNum="58" subNum="50 51"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w436" ref="NT.Jude.1.25">
+    <pos>
+      <NON num="sing" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="qeo/s" lex="θεός"></wf>
+    <sem>
+      <domain majorNum="12" subNum="1 22 25"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w437" ref="NT.Jude.1.25">
+    <pos>
+      <NON num="sing" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="swth/r" lex="σωτήρ"></wf>
+    <sem>
+      <domain majorNum="21" subNum="22 31"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w438" ref="NT.Jude.1.25">
+    <pos>
+      <PRO num="plur" cas="gen" per="1st" type="per"/>
+    </pos>
+    <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w439" ref="NT.Jude.1.25">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="dia/" lex="διά"></wf>
+    <sem>
+      <domain majorNum="90" subNum="4 8 38 44"/>
+      <domain majorNum="89" subNum="76 26"/>
+      <domain majorNum="84" subNum="29 32"/>
+      <domain majorNum="67" subNum="136 140"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w440" ref="NT.Jude.1.25">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+    <sem>
+      <domain majorNum="93" subNum="169"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w441" ref="NT.Jude.1.25">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+    <sem>
+      <domain majorNum="93" subNum="387"/>
+      <domain majorNum="53" subNum="82"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w442" ref="NT.Jude.1.25">
+    <pos>
+      <ART num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w443" ref="NT.Jude.1.25">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="ku/rios" lex="κύριος"></wf>
+    <sem>
+      <domain majorNum="12" subNum="9"/>
+      <domain majorNum="57" subNum="12"/>
+      <domain majorNum="37" subNum="51"/>
+      <domain majorNum="87" subNum="53"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w444" ref="NT.Jude.1.25">
+    <pos>
+      <PRO num="plur" cas="gen" per="1st" type="per"/>
+    </pos>
+    <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w445" ref="NT.Jude.1.25">
+    <pos>
+      <NON num="sing" cas="nom" gen="fem"/>
+    </pos>
+    <wf betaLex="do/ca" lex="δόξα"></wf>
+    <sem>
+      <domain majorNum="79" subNum="18"/>
+      <domain majorNum="14" subNum="49"/>
+      <domain majorNum="76" subNum="13"/>
+      <domain majorNum="33" subNum="357"/>
+      <domain majorNum="87" subNum="4"/>
+      <domain majorNum="87" subNum="23"/>
+      <domain majorNum="12" subNum="49"/>
+      <domain majorNum="1" subNum="15"/>
+      <domain majorNum="25" subNum="205"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w446" ref="NT.Jude.1.25">
+    <pos>
+      <NON num="sing" cas="nom" gen="fem"/>
+    </pos>
+    <wf betaLex="megalwsu/nh" lex="μεγαλωσύνη"></wf>
+    <sem>
+      <domain majorNum="87" subNum="21"/>
+      <domain majorNum="12" subNum="5"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w447" ref="NT.Jude.1.25">
+    <pos>
+      <NON num="sing" cas="nom" gen="neu"/>
+    </pos>
+    <wf betaLex="kra/tos" lex="κράτος"></wf>
+    <sem>
+      <domain majorNum="76" subNum="6 7"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w448" ref="NT.Jude.1.25">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w449" ref="NT.Jude.1.25">
+    <pos>
+      <NON num="sing" cas="nom" gen="fem"/>
+    </pos>
+    <wf betaLex="e)cousi/a" lex="ἐξουσία"></wf>
+    <sem>
+      <domain majorNum="37" subNum="35 36 37 38 13"/>
+      <domain majorNum="76" subNum="12"/>
+      <domain majorNum="12" subNum="44"/>
+      <domain majorNum="30" subNum="122"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w450" ref="NT.Jude.1.25">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="pro/s" lex="πρός"></wf>
+    <sem>
+      <domain majorNum="84" subNum="18 23"/>
+      <domain majorNum="83" subNum="24 9"/>
+      <domain majorNum="90" subNum="58 25"/>
+      <domain majorNum="89" subNum="112 60 44 9 7"/>
+      <domain majorNum="67" subNum="162 16"/>
+      <domain majorNum="78" subNum="51"/>
+      <domain majorNum="90" subNum="20 33"/>
+      <domain majorNum="64" subNum="17"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w451" ref="NT.Jude.1.25">
+    <pos>
+      <ADJ num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="pa=s" lex="πᾶς"></wf>
+    <sem>
+      <domain majorNum="59" subNum="23 24"/>
+      <domain majorNum="78" subNum="44"/>
+      <domain majorNum="63" subNum="2"/>
+      <domain majorNum="58" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w452" ref="NT.Jude.1.25">
+    <pos>
+      <ART num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w453" ref="NT.Jude.1.25">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="ai)w/n" lex="αἰών"></wf>
+    <sem>
+      <domain majorNum="67" subNum="143"/>
+      <domain majorNum="1" subNum="2"/>
+      <domain majorNum="41" subNum="38"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w454" ref="NT.Jude.1.25">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w455" ref="NT.Jude.1.25">
+    <pos>
+      <ADV/>
+    </pos>
+    <wf betaLex="nu=n" lex="νῦν"></wf>
+    <sem>
+      <domain majorNum="67" subNum="38 39"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w456" ref="NT.Jude.1.25">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w457" ref="NT.Jude.1.25">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="ei)s" lex="εἰς"></wf>
+    <sem>
+      <domain majorNum="84" subNum="16 22"/>
+      <domain majorNum="83" subNum="47 13 9"/>
+      <domain majorNum="89" subNum="57 48 76"/>
+      <domain majorNum="90" subNum="23 59 30"/>
+      <domain majorNum="78" subNum="51"/>
+      <domain majorNum="13" subNum="62"/>
+      <domain majorNum="67" subNum="117 160 119"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w458" ref="NT.Jude.1.25">
+    <pos>
+      <ADJ num="plur" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="pa=s" lex="πᾶς"></wf>
+    <sem>
+      <domain majorNum="59" subNum="23 24"/>
+      <domain majorNum="78" subNum="44"/>
+      <domain majorNum="63" subNum="2"/>
+      <domain majorNum="58" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w459" ref="NT.Jude.1.25">
+    <pos>
+      <ART num="plur" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w460" ref="NT.Jude.1.25">
+    <pos>
+      <NON num="plur" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="ai)w/n" lex="αἰών"></wf>
+    <sem>
+      <domain majorNum="67" subNum="143"/>
+      <domain majorNum="1" subNum="2"/>
+      <domain majorNum="41" subNum="38"/>
+    </sem>
+  </w>
+  <w xml:id="NT.Jude.w461" ref="NT.Jude.1.25">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf foreign="Aramaic" lex=""></wf>
+    <sem/>
+  </w>
+  <verse eID="NT.Jude.1.25"/>
+  <chapter eID="NT.Jude.1"/>
+</book>

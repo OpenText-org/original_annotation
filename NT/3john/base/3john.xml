@@ -1,0 +1,2288 @@
+<!--
+=================================================
+OpenText.org Linguisitc Annotation of the Greek New Testament
+
+Book: 
+Chapter: 1 
+
+Level 1 Word Level, Basic Conformance
+
+Version 0.11 Jan 1, 2006
+
+Copyright (c) 2005-6 OpenText.org
+
+contact: matt@opentext.org
+=================================================		
+		-->
+<book name="3Joh">
+  <chapter sID="NT.3Joh.1" num="1"/>
+  <verse sID="NT.3Joh.1.1" num="1"/>
+  <w xml:id="NT.3Joh.w1" ref="NT.3Joh.1.1">
+    <pos>
+      <ART num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w2" ref="NT.3Joh.1.1">
+    <pos>
+      <ADJ num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="presbu/teros" lex="πρεσβύτερος"></wf>
+    <sem>
+      <domain majorNum="67" subNum="102 27"/>
+      <domain majorNum="9" subNum="31" select="1"/>
+      <domain majorNum="53" subNum="77"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w3" ref="NT.3Joh.1.1">
+    <pos>
+      <NON num="sing" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="*ga/i+os" lex="Γάϊος"></wf>
+    <sem>
+      <domain majorNum="93" subNum="83"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w4" ref="NT.3Joh.1.1">
+    <pos>
+      <ART num="sing" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w5" ref="NT.3Joh.1.1">
+    <pos>
+      <ADJ num="sing" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="a)gaphto/s" lex="ἀγαπητός"></wf>
+    <sem>
+      <domain majorNum="25" subNum="45" select="1"/>
+      <domain majorNum="58" subNum="83"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w6" ref="NT.3Joh.1.1">
+    <pos>
+      <PRO num="sing" cas="acc" type="rel" gen="mas"/>
+    </pos>
+    <wf betaLex="o(/s" lex="ὅς"></wf>
+    <sem>
+      <domain majorNum="92" subNum="27"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w7" ref="NT.3Joh.1.1">
+    <pos>
+      <PRO num="sing" cas="nom" per="1st" type="per"/>
+    </pos>
+    <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w8" ref="NT.3Joh.1.1">
+    <pos>
+      <VBF num="sing" per="1st" voc="act" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="a)gapa/w" lex="ἀγαπάω"></wf>
+    <sem>
+      <domain majorNum="25" subNum="43 44 104"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w9" ref="NT.3Joh.1.1">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)n" lex="ἐν"></wf>
+    <sem>
+      <domain majorNum="83" subNum="13 9 47 23"/>
+      <domain majorNum="13" subNum="8"/>
+      <domain majorNum="84" subNum="22"/>
+      <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+      <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+      <domain majorNum="67" subNum="33 136"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w10" ref="NT.3Joh.1.1">
+    <pos>
+      <NON num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="a)lh/qeia" lex="ἀλήθεια"></wf>
+    <sem>
+      <domain majorNum="72" subNum="2"/>
+    </sem>
+  </w>
+  <verse eID="NT.3Joh.1.1"/>
+  <verse sID="NT.3Joh.1.2" num="2"/>
+  <w xml:id="NT.3Joh.w11" ref="NT.3Joh.1.2">
+    <pos>
+      <ADJ num="sing" cas="voc" gen="mas"/>
+    </pos>
+    <wf betaLex="a)gaphto/s" lex="ἀγαπητός"></wf>
+    <sem>
+      <domain majorNum="25" subNum="45" select="1"/>
+      <domain majorNum="58" subNum="83"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w12" ref="NT.3Joh.1.2">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="peri/" lex="περί"></wf>
+    <sem>
+      <domain majorNum="83" subNum="18"/>
+      <domain majorNum="90" subNum="24 39"/>
+      <domain majorNum="67" subNum="35"/>
+      <domain majorNum="89" subNum="36 110 6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w13" ref="NT.3Joh.1.2">
+    <pos>
+      <ADJ num="plur" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="pa=s" lex="πᾶς"></wf>
+    <sem>
+      <domain majorNum="59" subNum="23 24"/>
+      <domain majorNum="78" subNum="44"/>
+      <domain majorNum="63" subNum="2" select="1"/>
+      <domain majorNum="58" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w14" ref="NT.3Joh.1.2">
+    <pos>
+      <VBF num="sing" per="1st" voc="mop" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="eu)/xomai" lex="εὔχομαι"></wf>
+    <sem>
+      <domain majorNum="33" subNum="178"/>
+      <domain majorNum="25" subNum="6" select="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w15" ref="NT.3Joh.1.2">
+    <pos>
+      <PRO num="sing" cas="acc" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w16" ref="NT.3Joh.1.2">
+    <pos>
+      <VBN voc="mop" tf="pre"/>
+    </pos>
+    <wf betaLex="eu)odo/omai" lex="εὐοδόομαι"></wf>
+    <sem>
+      <domain majorNum="22" subNum="47" select="1"/>
+      <domain majorNum="57" subNum="64"/>
+      <domain majorNum="68" subNum="30"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w17" ref="NT.3Joh.1.2">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93" select="1"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w18" ref="NT.3Joh.1.2">
+    <pos>
+      <VBN voc="act" tf="pre"/>
+    </pos>
+    <wf betaLex="u(giai/nw" lex="ὑγιαίνω"></wf>
+    <sem>
+      <domain majorNum="23" subNum="129" select="1"/>
+      <domain majorNum="72" subNum="15"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w19" ref="NT.3Joh.1.2">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kaqw/s" lex="καθώς"></wf>
+    <sem>
+      <domain majorNum="78" subNum="53"/>
+      <domain majorNum="89" subNum="34 86"/>
+      <domain majorNum="64" subNum="14"/>
+      <domain majorNum="67" subNum="33"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w20" ref="NT.3Joh.1.2">
+    <pos>
+      <VBF voc="mop" num="sing" per="3rd" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="eu)odo/omai" lex="εὐοδόομαι"></wf>
+    <sem>
+      <domain majorNum="22" subNum="47" select="1"/>
+      <domain majorNum="57" subNum="64"/>
+      <domain majorNum="68" subNum="30"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w21" ref="NT.3Joh.1.2">
+    <pos>
+      <PRO num="sing" cas="gen" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w22" ref="NT.3Joh.1.2">
+    <pos>
+      <ART num="sing" cas="nom" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w23" ref="NT.3Joh.1.2">
+    <pos>
+      <NON num="sing" cas="nom" gen="fem"/>
+    </pos>
+    <wf betaLex="yuxh/" lex="ψυχή"></wf>
+    <sem>
+      <domain majorNum="26" subNum="4" select="1"/>
+      <domain majorNum="23" subNum="88"/>
+      <domain majorNum="9" subNum="20"/>
+    </sem>
+  </w>
+  <verse eID="NT.3Joh.1.2"/>
+  <verse sID="NT.3Joh.1.3" num="3"/>
+  <w xml:id="NT.3Joh.w24" ref="NT.3Joh.1.3">
+    <pos>
+      <VBF num="sing" per="1st" voc="pas" mod="ind" tf="aor"/>
+    </pos>
+    <wf betaLex="xai/rw" lex="χαίρω"></wf>
+    <sem>
+      <domain majorNum="25" subNum="125" select="1"/>
+      <domain majorNum="33" subNum="22"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w25" ref="NT.3Joh.1.3">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="ga/r" lex="γάρ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="23"/>
+      <domain majorNum="91" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w26" ref="NT.3Joh.1.3">
+    <pos>
+      <ADV/>
+    </pos>
+    <wf betaLex="li/an" lex="λίαν"></wf>
+    <sem>
+      <domain majorNum="78" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w27" ref="NT.3Joh.1.3">
+    <pos>
+      <VBP voc="mop" num="plur" cas="gen" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="e)/rxomai" lex="ἔρχομαι"></wf>
+    <sem>
+      <domain majorNum="15" subNum="7 81" select="1"/>
+      <domain majorNum="13" subNum="50 117"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w28" ref="NT.3Joh.1.3">
+    <pos>
+      <NON num="plur" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="a)delfo/s" lex="ἀδελφός"></wf>
+    <sem>
+      <domain majorNum="10" subNum="49"/>
+      <domain majorNum="11" subNum="23 25 57 89" select="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w29" ref="NT.3Joh.1.3">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93" select="1"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w30" ref="NT.3Joh.1.3">
+    <pos>
+      <VBP num="plur" cas="gen" voc="act" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="marture/w" lex="μαρτυρέω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="223 319"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w31" ref="NT.3Joh.1.3">
+    <pos>
+      <PRO num="sing" cas="gen" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w32" ref="NT.3Joh.1.3">
+    <pos>
+      <ART num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w33" ref="NT.3Joh.1.3">
+    <pos>
+      <NON num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="a)lh/qeia" lex="ἀλήθεια"></wf>
+    <sem>
+      <domain majorNum="72" subNum="2"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w34" ref="NT.3Joh.1.3">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kaqw/s" lex="καθώς"></wf>
+    <sem>
+      <domain majorNum="78" subNum="53"/>
+      <domain majorNum="89" subNum="34 86"/>
+      <domain majorNum="64" subNum="14"/>
+      <domain majorNum="67" subNum="33"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w35" ref="NT.3Joh.1.3">
+    <pos>
+      <PRO num="sing" cas="nom" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w36" ref="NT.3Joh.1.3">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)n" lex="ἐν"></wf>
+    <sem>
+      <domain majorNum="83" subNum="13 9 47 23"/>
+      <domain majorNum="13" subNum="8"/>
+      <domain majorNum="84" subNum="22"/>
+      <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+      <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+      <domain majorNum="67" subNum="33 136"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w37" ref="NT.3Joh.1.3">
+    <pos>
+      <NON num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="a)lh/qeia" lex="ἀλήθεια"></wf>
+    <sem>
+      <domain majorNum="72" subNum="2"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w38" ref="NT.3Joh.1.3">
+    <pos>
+      <VBF num="sing" per="2nd" voc="act" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="peripate/w" lex="περιπατέω"></wf>
+    <sem>
+      <domain majorNum="15" subNum="227"/>
+      <domain majorNum="41" subNum="11" select="1"/>
+    </sem>
+  </w>
+  <verse eID="NT.3Joh.1.3"/>
+  <verse sID="NT.3Joh.1.4" num="4"/>
+  <w xml:id="NT.3Joh.w39" ref="NT.3Joh.1.4">
+    <pos>
+      <ADJ num="sing" cas="acc" type="com" gen="fem"/>
+    </pos>
+    <wf betaLex="mei/zwn" lex="μείζων"></wf>
+    <sem>
+      <domain majorNum="59" subNum="22"/>
+      <domain majorNum="78" subNum="2" select="1"/>
+      <domain majorNum="79" subNum="123"/>
+      <domain majorNum="87" subNum="22"/>
+      <domain majorNum="25" subNum="207"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w40" ref="NT.3Joh.1.4">
+    <pos>
+      <PRO num="plur" cas="gen" type="dem" gen="neu"/>
+    </pos>
+    <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+    <sem>
+      <domain majorNum="92" subNum="29"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w41" ref="NT.3Joh.1.4">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="ou)" lex="οὐ"></wf>
+    <sem>
+      <domain majorNum="69" subNum="3 11"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w42" ref="NT.3Joh.1.4">
+    <pos>
+      <VBF num="sing" per="1st" voc="act" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="e)/xw" lex="ἔχω"></wf>
+    <sem>
+      <domain majorNum="57" subNum="1" select="1"/>
+      <domain majorNum="18" subNum="6"/>
+      <domain majorNum="31" subNum="1"/>
+      <domain majorNum="49" subNum="13"/>
+      <domain majorNum="74" subNum="12"/>
+      <domain majorNum="90" subNum="65"/>
+      <domain majorNum="13" subNum="2"/>
+      <domain majorNum="90" subNum="51 27"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w43" ref="NT.3Joh.1.4">
+    <pos>
+      <NON num="sing" cas="acc" gen="fem"/>
+    </pos>
+    <wf betaLex="xara/" lex="χαρά"></wf>
+    <sem>
+      <domain majorNum="25" subNum="123 124"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w44" ref="NT.3Joh.1.4">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="i(/na" lex="ἵνα"></wf>
+    <sem>
+      <domain majorNum="89" subNum="59 49" select="1"/>
+      <domain majorNum="90" subNum="22"/>
+      <domain majorNum="91" subNum="15"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w45" ref="NT.3Joh.1.4">
+    <pos>
+      <VBF num="sing" per="1st" voc="act" mod="sub" tf="pre"/>
+    </pos>
+    <wf betaLex="a)kou/w" lex="ἀκούω"></wf>
+    <sem>
+      <domain majorNum="24" subNum="52 58" select="1"/>
+      <domain majorNum="33" subNum="212"/>
+      <domain majorNum="31" subNum="56"/>
+      <domain majorNum="36" subNum="14"/>
+      <domain majorNum="32" subNum="1"/>
+      <domain majorNum="56" subNum="13"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w46" ref="NT.3Joh.1.4">
+    <pos>
+      <ART num="plur" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w47" ref="NT.3Joh.1.4">
+    <pos>
+      <ADJ num="plur" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="e)mo/s" lex="ἐμός"></wf>
+    <sem>
+      <domain majorNum="92" subNum="2"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w48" ref="NT.3Joh.1.4">
+    <pos>
+      <NON num="plur" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="te/knon" lex="τέκνον"></wf>
+    <sem>
+      <domain majorNum="10" subNum="36 28" select="1"/>
+      <domain majorNum="11" subNum="63"/>
+      <domain majorNum="9" subNum="46"/>
+      <domain majorNum="36" subNum="40"/>
+      <domain majorNum="58" subNum="26"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w49" ref="NT.3Joh.1.4">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)n" lex="ἐν"></wf>
+    <sem>
+      <domain majorNum="83" subNum="13 9 47 23"/>
+      <domain majorNum="13" subNum="8"/>
+      <domain majorNum="84" subNum="22"/>
+      <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+      <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+      <domain majorNum="67" subNum="33 136"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w50" ref="NT.3Joh.1.4">
+    <pos>
+      <ART num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w51" ref="NT.3Joh.1.4">
+    <pos>
+      <NON num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="a)lh/qeia" lex="ἀλήθεια"></wf>
+    <sem>
+      <domain majorNum="72" subNum="2"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w52" ref="NT.3Joh.1.4">
+    <pos>
+      <VBP num="plur" cas="acc" voc="act" gen="neu" tf="pre"/>
+    </pos>
+    <wf betaLex="peripate/w" lex="περιπατέω"></wf>
+    <sem>
+      <domain majorNum="15" subNum="227"/>
+      <domain majorNum="41" subNum="11" select="1"/>
+    </sem>
+  </w>
+  <verse eID="NT.3Joh.1.4"/>
+  <verse sID="NT.3Joh.1.5" num="5"/>
+  <w xml:id="NT.3Joh.w53" ref="NT.3Joh.1.5">
+    <pos>
+      <ADJ num="sing" cas="voc" gen="mas"/>
+    </pos>
+    <wf betaLex="a)gaphto/s" lex="ἀγαπητός"></wf>
+    <sem>
+      <domain majorNum="25" subNum="45" select="1"/>
+      <domain majorNum="58" subNum="83"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w54" ref="NT.3Joh.1.5">
+    <pos>
+      <ADJ num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="pisto/s" lex="πιστός"></wf>
+    <sem>
+      <domain majorNum="31" subNum="86 87" select="1"/>
+      <domain majorNum="71" subNum="17"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w55" ref="NT.3Joh.1.5">
+    <pos>
+      <VBF num="sing" per="2nd" voc="act" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="poie/w" lex="ποιέω"></wf>
+    <sem>
+      <domain majorNum="90" subNum="45"/>
+      <domain majorNum="42" subNum="7 41 29" select="1"/>
+      <domain majorNum="13" subNum="9"/>
+      <domain majorNum="41" subNum="7"/>
+      <domain majorNum="37" subNum="106"/>
+      <domain majorNum="57" subNum="189"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w56" ref="NT.3Joh.1.5">
+    <pos>
+      <PRO num="sing" cas="acc" type="rel" gen="neu"/>
+    </pos>
+    <wf betaLex="o(/s" lex="ὅς"></wf>
+    <sem>
+      <domain majorNum="92" subNum="27"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w57" ref="NT.3Joh.1.5">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="e)a/n" lex="ἐάν"></wf>
+    <sem>
+      <domain majorNum="89" subNum="67"/>
+      <domain majorNum="67" subNum="32"/>
+      <domain majorNum="71" subNum="8"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w58" ref="NT.3Joh.1.5">
+    <pos>
+      <VBF num="sing" per="2nd" voc="mid" mod="sub" tf="aor"/>
+    </pos>
+    <wf betaLex="e)rga/zomai" lex="ἐργάζομαι"></wf>
+    <sem>
+      <domain majorNum="42" subNum="41" select="1"/>
+      <domain majorNum="57" subNum="198"/>
+      <domain majorNum="90" subNum="47"/>
+      <domain majorNum="13" subNum="9"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w59" ref="NT.3Joh.1.5">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="ei)s" lex="εἰς"></wf>
+    <sem>
+      <domain majorNum="84" subNum="16 22"/>
+      <domain majorNum="83" subNum="47 13 9"/>
+      <domain majorNum="89" subNum="57 48 76"/>
+      <domain majorNum="90" subNum="23 59 30"/>
+      <domain majorNum="78" subNum="51"/>
+      <domain majorNum="13" subNum="62"/>
+      <domain majorNum="67" subNum="117 160 119"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w60" ref="NT.3Joh.1.5">
+    <pos>
+      <ART num="plur" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w61" ref="NT.3Joh.1.5">
+    <pos>
+      <NON num="plur" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="a)delfo/s" lex="ἀδελφός"></wf>
+    <sem>
+      <domain majorNum="10" subNum="49"/>
+      <domain majorNum="11" subNum="23 25 57 89" select="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w62" ref="NT.3Joh.1.5">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93" select="1"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w63" ref="NT.3Joh.1.5">
+    <pos>
+      <PRO num="sing" cas="acc" type="dem" gen="neu"/>
+    </pos>
+    <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+    <sem>
+      <domain majorNum="92" subNum="29"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w64" ref="NT.3Joh.1.5">
+    <pos>
+      <ADJ num="plur" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="ce/nos" lex="ξένος"></wf>
+    <sem>
+      <domain majorNum="11" subNum="73" select="1"/>
+      <domain majorNum="34" subNum="60"/>
+    </sem>
+  </w>
+  <verse eID="NT.3Joh.1.5"/>
+  <verse sID="NT.3Joh.1.6" num="6"/>
+  <w xml:id="NT.3Joh.w65" ref="NT.3Joh.1.6">
+    <pos>
+      <PRO num="plur" cas="nom" type="rel" gen="mas"/>
+    </pos>
+    <wf betaLex="o(/s" lex="ὅς"></wf>
+    <sem>
+      <domain majorNum="92" subNum="27"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w66" ref="NT.3Joh.1.6">
+    <pos>
+      <VBF num="plur" per="3rd" voc="act" mod="ind" tf="aor"/>
+    </pos>
+    <wf betaLex="marture/w" lex="μαρτυρέω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="223 319"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w67" ref="NT.3Joh.1.6">
+    <pos>
+      <PRO num="sing" cas="gen" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w68" ref="NT.3Joh.1.6">
+    <pos>
+      <ART num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w69" ref="NT.3Joh.1.6">
+    <pos>
+      <NON num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="a)ga/ph" lex="ἀγάπη"></wf>
+    <sem>
+      <domain majorNum="25" subNum="43" select="1"/>
+      <domain majorNum="23" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w70" ref="NT.3Joh.1.6">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)nw/pion" lex="ἐνώπιον"></wf>
+    <sem>
+      <domain majorNum="83" subNum="33"/>
+      <domain majorNum="90" subNum="20"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w71" ref="NT.3Joh.1.6">
+    <pos>
+      <NON num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="e)kklhsi/a" lex="ἐκκλησία"></wf>
+    <sem>
+      <domain majorNum="11" subNum="32 33 78"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w72" ref="NT.3Joh.1.6">
+    <pos>
+      <PRO num="plur" cas="acc" type="rel" gen="mas"/>
+    </pos>
+    <wf betaLex="ou)=s" lex="οὖς"></wf>
+    <sem>
+      <domain majorNum="92" subNum="27"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w73" ref="NT.3Joh.1.6">
+    <pos>
+      <ADV/>
+    </pos>
+    <wf betaLex="kalw=s" lex="καλῶς"></wf>
+    <sem>
+      <domain majorNum="88" subNum="4" select="1"/>
+      <domain majorNum="65" subNum="23"/>
+      <domain majorNum="72" subNum="12"/>
+      <domain majorNum="87" subNum="25"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w74" ref="NT.3Joh.1.6">
+    <pos>
+      <VBF num="sing" per="2nd" voc="act" mod="ind" tf="fut"/>
+    </pos>
+    <wf betaLex="poie/w" lex="ποιέω"></wf>
+    <sem>
+      <domain majorNum="90" subNum="45"/>
+      <domain majorNum="42" subNum="7 41 29" select="1"/>
+      <domain majorNum="13" subNum="9"/>
+      <domain majorNum="41" subNum="7"/>
+      <domain majorNum="37" subNum="106"/>
+      <domain majorNum="57" subNum="189"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w75" ref="NT.3Joh.1.6">
+    <pos>
+      <VBP num="sing" cas="nom" voc="act" gen="mas" tf="aor"/>
+    </pos>
+    <wf betaLex="prope/mpw" lex="προπέμπω"></wf>
+    <sem>
+      <domain majorNum="15" subNum="72 155"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w76" ref="NT.3Joh.1.6">
+    <pos>
+      <ADV/>
+    </pos>
+    <wf betaLex="a)ci/ws" lex="ἀξίως"></wf>
+    <sem>
+      <domain majorNum="65" subNum="17"/>
+      <domain majorNum="66" subNum="6" select="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w77" ref="NT.3Joh.1.6">
+    <pos>
+      <ART num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w78" ref="NT.3Joh.1.6">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="qeo/s" lex="θεός"></wf>
+    <sem>
+      <domain majorNum="12" subNum="1 22 25"/>
+    </sem>
+  </w>
+  <verse eID="NT.3Joh.1.6"/>
+  <verse sID="NT.3Joh.1.7" num="7"/>
+  <w xml:id="NT.3Joh.w79" ref="NT.3Joh.1.7">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="u(pe/r" lex="ὑπέρ"></wf>
+    <sem>
+      <domain majorNum="90" subNum="36 24"/>
+      <domain majorNum="78" subNum="29"/>
+      <domain majorNum="87" subNum="30"/>
+      <domain majorNum="89" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w80" ref="NT.3Joh.1.7">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="ga/r" lex="γάρ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="23"/>
+      <domain majorNum="91" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w81" ref="NT.3Joh.1.7">
+    <pos>
+      <ART num="sing" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w82" ref="NT.3Joh.1.7">
+    <pos>
+      <NON num="sing" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="o)/noma" lex="ὄνομα"></wf>
+    <sem>
+      <domain majorNum="33" subNum="126 265" select="1"/>
+      <domain majorNum="9" subNum="19" select="1"/>
+      <domain majorNum="58" subNum="22"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w83" ref="NT.3Joh.1.7">
+    <pos>
+      <VBF num="plur" per="3rd" voc="act" mod="ind" tf="aor"/>
+    </pos>
+    <wf betaLex="e)ce/rxomai" lex="ἐξέρχομαι"></wf>
+    <sem>
+      <domain majorNum="15" subNum="40" select="1"/>
+      <domain majorNum="13" subNum="93"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w84" ref="NT.3Joh.1.7">
+    <pos>
+      <ADJ num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="mhdei/s" lex="μηδείς"></wf>
+    <sem>
+      <domain majorNum="92" subNum="23"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w85" ref="NT.3Joh.1.7">
+    <pos>
+      <VBP num="plur" cas="nom" voc="act" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="lamba/nw" lex="λαμβάνω"></wf>
+    <sem>
+      <domain majorNum="18" subNum="1"/>
+      <domain majorNum="57" subNum="55 125 65" select="1"/>
+      <domain majorNum="30" subNum="86"/>
+      <domain majorNum="31" subNum="50"/>
+      <domain majorNum="88" subNum="146"/>
+      <domain majorNum="90" subNum="63 85 48"/>
+      <domain majorNum="49" subNum="10"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w86" ref="NT.3Joh.1.7">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="a)po/" lex="ἀπό"></wf>
+    <sem>
+      <domain majorNum="89" subNum="122 142 25"/>
+      <domain majorNum="90" subNum="15 7 11 19"/>
+      <domain majorNum="84" subNum="3"/>
+      <domain majorNum="63" subNum="20"/>
+      <domain majorNum="67" subNum="131"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w87" ref="NT.3Joh.1.7">
+    <pos>
+      <ART num="plur" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w88" ref="NT.3Joh.1.7">
+    <pos>
+      <ADJ num="plur" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="e)qniko/s" lex="ἐθνικός"></wf>
+    <sem>
+      <domain majorNum="11" subNum="38"/>
+    </sem>
+  </w>
+  <verse eID="NT.3Joh.1.7"/>
+  <verse sID="NT.3Joh.1.8" num="8"/>
+  <w xml:id="NT.3Joh.w89" ref="NT.3Joh.1.8">
+    <pos>
+      <PRO num="plur" cas="nom" per="1st" type="per"/>
+    </pos>
+    <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w90" ref="NT.3Joh.1.8">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="ou)=n" lex="οὖν"></wf>
+    <sem>
+      <domain majorNum="89" subNum="50 127"/>
+      <domain majorNum="91" subNum="7"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w91" ref="NT.3Joh.1.8">
+    <pos>
+      <VBF num="plur" per="1st" voc="act" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="o)fei/lw" lex="ὀφείλω"></wf>
+    <sem>
+      <domain majorNum="57" subNum="219"/>
+      <domain majorNum="71" subNum="35 25" select="1"/>
+      <domain majorNum="88" subNum="298"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w92" ref="NT.3Joh.1.8">
+    <pos>
+      <VBN voc="act" tf="pre"/>
+    </pos>
+    <wf betaLex="u(polamba/nw" lex="ὑπολαμβάνω"></wf>
+    <sem>
+      <domain majorNum="15" subNum="102"/>
+      <domain majorNum="33" subNum="187"/>
+      <domain majorNum="35" subNum="1" select="1"/>
+      <domain majorNum="31" subNum="29"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w93" ref="NT.3Joh.1.8">
+    <pos>
+      <ART num="plur" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w94" ref="NT.3Joh.1.8">
+    <pos>
+      <PRO num="plur" cas="acc" type="dem" gen="mas"/>
+    </pos>
+    <wf betaLex="toiou=tos" lex="τοιοῦτος"></wf>
+    <sem>
+      <domain majorNum="64" subNum="2"/>
+      <domain majorNum="92" subNum="31"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w95" ref="NT.3Joh.1.8">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="i(/na" lex="ἵνα"></wf>
+    <sem>
+      <domain majorNum="89" subNum="59 49" select="1"/>
+      <domain majorNum="90" subNum="22"/>
+      <domain majorNum="91" subNum="15"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w96" ref="NT.3Joh.1.8">
+    <pos>
+      <ADJ num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="sunergo/s" lex="συνεργός"></wf>
+    <sem>
+      <domain majorNum="42" subNum="44"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w97" ref="NT.3Joh.1.8">
+    <pos>
+      <VBF voc="mop" num="plur" per="1st" mod="sub" tf="pre"/>
+    </pos>
+    <wf betaLex="gi/nomai" lex="γίνομαι"></wf>
+    <sem>
+      <domain majorNum="13" subNum="80 3 48 107" select="1"/>
+      <domain majorNum="15" subNum="1"/>
+      <domain majorNum="57" subNum="2"/>
+      <domain majorNum="41" subNum="1"/>
+      <domain majorNum="85" subNum="6 7"/>
+      <domain majorNum="91" subNum="5"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w98" ref="NT.3Joh.1.8">
+    <pos>
+      <ART num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w99" ref="NT.3Joh.1.8">
+    <pos>
+      <NON num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="a)lh/qeia" lex="ἀλήθεια"></wf>
+    <sem>
+      <domain majorNum="72" subNum="2"/>
+    </sem>
+  </w>
+  <verse eID="NT.3Joh.1.8"/>
+  <verse sID="NT.3Joh.1.9" num="9"/>
+  <w xml:id="NT.3Joh.w100" ref="NT.3Joh.1.9">
+    <pos>
+      <VBF num="sing" per="1st" voc="act" mod="ind" tf="aor"/>
+    </pos>
+    <wf betaLex="gra/fw" lex="γράφω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="61"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w101" ref="NT.3Joh.1.9">
+    <pos>
+      <PRO num="sing" cas="acc" type="ind" gen="neu"/>
+    </pos>
+    <wf betaLex="ti/s" lex="τίς"></wf>
+    <sem>
+      <domain majorNum="92" subNum="14"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w102" ref="NT.3Joh.1.9">
+    <pos>
+      <ART num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w103" ref="NT.3Joh.1.9">
+    <pos>
+      <NON num="sing" cas="dat" gen="fem"/>
+    </pos>
+    <wf betaLex="e)kklhsi/a" lex="ἐκκλησία"></wf>
+    <sem>
+      <domain majorNum="11" subNum="32 33 78"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w104" ref="NT.3Joh.1.9">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="a)lla/" lex="ἀλλά"></wf>
+    <sem>
+      <domain majorNum="89" subNum="125 96"/>
+      <domain majorNum="91" subNum="2 11"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w105" ref="NT.3Joh.1.9">
+    <pos>
+      <ART num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w106" ref="NT.3Joh.1.9">
+    <pos>
+      <VBP num="sing" cas="nom" voc="act" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="filoprwteu/w" lex="φιλοπρωτεύω"></wf>
+    <sem>
+      <domain majorNum="25" subNum="110"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w107" ref="NT.3Joh.1.9">
+    <pos>
+      <PRO num="plur" cas="gen" type="int" gen="mas"/>
+    </pos>
+    <wf betaLex="au)to/s" lex="αὐτός"></wf>
+    <sem>
+      <domain majorNum="92" subNum="11 37"/>
+      <domain majorNum="58" subNum="31"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w108" ref="NT.3Joh.1.9">
+    <pos>
+      <NON num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="*diotre/fhs" lex="Διοτρέφης"></wf>
+    <sem>
+      <domain majorNum="93" subNum="99"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w109" ref="NT.3Joh.1.9">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="ou)" lex="οὐ"></wf>
+    <sem>
+      <domain majorNum="69" subNum="3 11"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w110" ref="NT.3Joh.1.9">
+    <pos>
+      <VBF voc="mop" num="sing" per="3rd" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="e)pide/xomai" lex="ἐπιδέχομαι"></wf>
+    <sem>
+      <domain majorNum="34" subNum="53" select="1"/>
+      <domain majorNum="36" subNum="14"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w111" ref="NT.3Joh.1.9">
+    <pos>
+      <PRO num="plur" cas="acc" per="1st" type="per"/>
+    </pos>
+    <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="1"/>
+    </sem>
+  </w>
+  <verse eID="NT.3Joh.1.9"/>
+  <verse sID="NT.3Joh.1.10" num="10"/>
+  <w xml:id="NT.3Joh.w112" ref="NT.3Joh.1.10">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="dia/" lex="διά"></wf>
+    <sem>
+      <domain majorNum="90" subNum="4 8 38 44"/>
+      <domain majorNum="89" subNum="76 26"/>
+      <domain majorNum="84" subNum="29 32"/>
+      <domain majorNum="67" subNum="136 140"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w113" ref="NT.3Joh.1.10">
+    <pos>
+      <PRO num="sing" cas="acc" type="dem" gen="neu"/>
+    </pos>
+    <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+    <sem>
+      <domain majorNum="92" subNum="29"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w114" ref="NT.3Joh.1.10">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="e)a/n" lex="ἐάν"></wf>
+    <sem>
+      <domain majorNum="89" subNum="67"/>
+      <domain majorNum="67" subNum="32"/>
+      <domain majorNum="71" subNum="8"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w115" ref="NT.3Joh.1.10">
+    <pos>
+      <VBF num="sing" per="1st" voc="act" mod="sub" tf="aor"/>
+    </pos>
+    <wf betaLex="e)/rxomai" lex="ἔρχομαι"></wf>
+    <sem>
+      <domain majorNum="15" subNum="7 81" select="1"/>
+      <domain majorNum="13" subNum="50 117"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w116" ref="NT.3Joh.1.10">
+    <pos>
+      <VBF num="sing" per="1st" voc="act" mod="ind" tf="fut"/>
+    </pos>
+    <wf betaLex="u(pomimnh/|skw" lex="ὑπομιμνῄσκω"></wf>
+    <sem>
+      <domain majorNum="29" subNum="10"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w117" ref="NT.3Joh.1.10">
+    <pos>
+      <PRO num="sing" cas="gen" type="int" gen="mas"/>
+    </pos>
+    <wf betaLex="au)to/s" lex="αὐτός"></wf>
+    <sem>
+      <domain majorNum="92" subNum="11 37"/>
+      <domain majorNum="58" subNum="31"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w118" ref="NT.3Joh.1.10">
+    <pos>
+      <ART num="plur" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w119" ref="NT.3Joh.1.10">
+    <pos>
+      <NON num="plur" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="e)/rgon" lex="ἔργον"></wf>
+    <sem>
+      <domain majorNum="42" subNum="11 42 12"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w120" ref="NT.3Joh.1.10">
+    <pos>
+      <PRO num="plur" cas="acc" type="rel" gen="neu"/>
+    </pos>
+    <wf betaLex="o(/s" lex="ὅς"></wf>
+    <sem>
+      <domain majorNum="92" subNum="27"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w121" ref="NT.3Joh.1.10">
+    <pos>
+      <VBF num="sing" per="3rd" voc="act" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="poie/w" lex="ποιέω"></wf>
+    <sem>
+      <domain majorNum="90" subNum="45"/>
+      <domain majorNum="42" subNum="7 41 29" select="1"/>
+      <domain majorNum="13" subNum="9"/>
+      <domain majorNum="41" subNum="7"/>
+      <domain majorNum="37" subNum="106"/>
+      <domain majorNum="57" subNum="189"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w122" ref="NT.3Joh.1.10">
+    <pos>
+      <NON num="plur" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="lo/gos" lex="λόγος"></wf>
+    <sem>
+      <domain majorNum="33" subNum="98 99 260 51 100" select="1"/>
+      <domain majorNum="57" subNum="228"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w123" ref="NT.3Joh.1.10">
+    <pos>
+      <ADJ num="plur" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="ponhro/s" lex="πονηρός"></wf>
+    <sem>
+      <domain majorNum="88" subNum="110 314" select="1"/>
+      <domain majorNum="65" subNum="27"/>
+      <domain majorNum="23" subNum="149"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w124" ref="NT.3Joh.1.10">
+    <pos>
+      <VBP num="sing" cas="nom" voc="act" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="fluare/w" lex="φλυαρέω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="374"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w125" ref="NT.3Joh.1.10">
+    <pos>
+      <PRO num="plur" cas="acc" per="1st" type="per"/>
+    </pos>
+    <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w126" ref="NT.3Joh.1.10">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93" select="1"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w127" ref="NT.3Joh.1.10">
+    <pos>
+      <ADV/>
+    </pos>
+    <wf betaLex="mh/" lex="μή"></wf>
+    <sem>
+      <domain majorNum="69" subNum="3 15" select="1"/>
+      <domain majorNum="89" subNum="62"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w128" ref="NT.3Joh.1.10">
+    <pos>
+      <VBP voc="mop" num="sing" cas="nom" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="a)rke/w" lex="ἀρκέω"></wf>
+    <sem>
+      <domain majorNum="59" subNum="46"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w129" ref="NT.3Joh.1.10">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)pi/" lex="ἐπί"></wf>
+    <sem>
+      <domain majorNum="83" subNum="46 23 9 35"/>
+      <domain majorNum="84" subNum="17 20"/>
+      <domain majorNum="90" subNum="17 57 9 34 23 5"/>
+      <domain majorNum="89" subNum="101 27 60 13"/>
+      <domain majorNum="37" subNum="9"/>
+      <domain majorNum="78" subNum="51"/>
+      <domain majorNum="67" subNum="33 136"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w130" ref="NT.3Joh.1.10">
+    <pos>
+      <PRO num="plur" cas="dat" type="dem" gen="neu"/>
+    </pos>
+    <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+    <sem>
+      <domain majorNum="92" subNum="29"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w131" ref="NT.3Joh.1.10">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="ou)/te" lex="οὔτε"></wf>
+    <sem>
+      <domain majorNum="69" subNum="9"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w132" ref="NT.3Joh.1.10">
+    <pos>
+      <PRO num="sing" cas="nom" type="int" gen="mas"/>
+    </pos>
+    <wf betaLex="au)to/s" lex="αὐτός"></wf>
+    <sem>
+      <domain majorNum="92" subNum="11 37"/>
+      <domain majorNum="58" subNum="31"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w133" ref="NT.3Joh.1.10">
+    <pos>
+      <VBF voc="mop" num="sing" per="3rd" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="e)pide/xomai" lex="ἐπιδέχομαι"></wf>
+    <sem>
+      <domain majorNum="34" subNum="53" select="1"/>
+      <domain majorNum="36" subNum="14"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w134" ref="NT.3Joh.1.10">
+    <pos>
+      <ART num="plur" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w135" ref="NT.3Joh.1.10">
+    <pos>
+      <NON num="plur" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="a)delfo/s" lex="ἀδελφός"></wf>
+    <sem>
+      <domain majorNum="10" subNum="49"/>
+      <domain majorNum="11" subNum="23 25 57 89" select="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w136" ref="NT.3Joh.1.10">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93" select="1"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w137" ref="NT.3Joh.1.10">
+    <pos>
+      <ART num="plur" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w138" ref="NT.3Joh.1.10">
+    <pos>
+      <VBP voc="mop" num="plur" cas="acc" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="bou/lomai" lex="βούλομαι"></wf>
+    <sem>
+      <domain majorNum="25" subNum="3" select="1"/>
+      <domain majorNum="30" subNum="56"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w139" ref="NT.3Joh.1.10">
+    <pos>
+      <VBF num="sing" per="3rd" voc="act" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="kwlu/w" lex="κωλύω"></wf>
+    <sem>
+      <domain majorNum="13" subNum="146"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w140" ref="NT.3Joh.1.10">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93" select="1"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w141" ref="NT.3Joh.1.10">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)k" lex="ἐκ"></wf>
+    <sem>
+      <domain majorNum="84" subNum="4"/>
+      <domain majorNum="89" subNum="25 77 85 121 142"/>
+      <domain majorNum="90" subNum="12 16"/>
+      <domain majorNum="63" subNum="20"/>
+      <domain majorNum="68" subNum="54"/>
+      <domain majorNum="67" subNum="33 131"/>
+      <domain majorNum="57" subNum="162"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w142" ref="NT.3Joh.1.10">
+    <pos>
+      <ART num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w143" ref="NT.3Joh.1.10">
+    <pos>
+      <NON num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="e)kklhsi/a" lex="ἐκκλησία"></wf>
+    <sem>
+      <domain majorNum="11" subNum="32 33 78"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w144" ref="NT.3Joh.1.10">
+    <pos>
+      <VBF num="sing" per="3rd" voc="act" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="e)kba/llw" lex="ἐκβάλλω"></wf>
+    <sem>
+      <domain majorNum="15" subNum="220 44 68 174"/>
+      <domain majorNum="53" subNum="102" select="1"/>
+      <domain majorNum="13" subNum="68"/>
+    </sem>
+  </w>
+  <verse eID="NT.3Joh.1.10"/>
+  <verse sID="NT.3Joh.1.11" num="11"/>
+  <w xml:id="NT.3Joh.w145" ref="NT.3Joh.1.11">
+    <pos>
+      <ADJ num="sing" cas="voc" gen="mas"/>
+    </pos>
+    <wf betaLex="a)gaphto/s" lex="ἀγαπητός"></wf>
+    <sem>
+      <domain majorNum="25" subNum="45" select="1"/>
+      <domain majorNum="58" subNum="83"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w146" ref="NT.3Joh.1.11">
+    <pos>
+      <ADV/>
+    </pos>
+    <wf betaLex="mh/" lex="μή"></wf>
+    <sem>
+      <domain majorNum="69" subNum="3 15" select="1"/>
+      <domain majorNum="89" subNum="62"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w147" ref="NT.3Joh.1.11">
+    <pos>
+      <VBF voc="mop" num="sing" per="2nd" mod="imp" tf="pre"/>
+    </pos>
+    <wf betaLex="mime/omai" lex="μιμέομαι"></wf>
+    <sem>
+      <domain majorNum="41" subNum="44"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w148" ref="NT.3Joh.1.11">
+    <pos>
+      <ART num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w149" ref="NT.3Joh.1.11">
+    <pos>
+      <ADJ num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="kako/s" lex="κακός"></wf>
+    <sem>
+      <domain majorNum="88" subNum="106" select="1"/>
+      <domain majorNum="65" subNum="26"/>
+      <domain majorNum="20" subNum="18"/>
+      <domain majorNum="72" subNum="22"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w150" ref="NT.3Joh.1.11">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="a)lla/" lex="ἀλλά"></wf>
+    <sem>
+      <domain majorNum="89" subNum="125 96"/>
+      <domain majorNum="91" subNum="2 11"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w151" ref="NT.3Joh.1.11">
+    <pos>
+      <ART num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w152" ref="NT.3Joh.1.11">
+    <pos>
+      <ADJ num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="a)gaqo/s" lex="ἀγαθός"></wf>
+    <sem>
+      <domain majorNum="88" subNum="1" select="1"/>
+      <domain majorNum="65" subNum="20"/>
+      <domain majorNum="57" subNum="110"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w153" ref="NT.3Joh.1.11">
+    <pos>
+      <ART num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w154" ref="NT.3Joh.1.11">
+    <pos>
+      <VBP num="sing" cas="nom" voc="act" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="a)gaqopoie/w" lex="ἀγαθοποιέω"></wf>
+    <sem>
+      <domain majorNum="88" subNum="3"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w155" ref="NT.3Joh.1.11">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="e)k" lex="ἐκ"></wf>
+    <sem>
+      <domain majorNum="84" subNum="4"/>
+      <domain majorNum="89" subNum="25 77 85 121 142"/>
+      <domain majorNum="90" subNum="12 16"/>
+      <domain majorNum="63" subNum="20"/>
+      <domain majorNum="68" subNum="54"/>
+      <domain majorNum="67" subNum="33 131"/>
+      <domain majorNum="57" subNum="162"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w156" ref="NT.3Joh.1.11">
+    <pos>
+      <ART num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w157" ref="NT.3Joh.1.11">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="qeo/s" lex="θεός"></wf>
+    <sem>
+      <domain majorNum="12" subNum="1 22 25"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w158" ref="NT.3Joh.1.11">
+    <pos>
+      <VBF augment="-" num="sing" per="3rd" mod="ind"/>
+    </pos>
+    <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+    <sem>
+      <domain majorNum="13" subNum="1 4 69 104" select="1"/>
+      <domain majorNum="85" subNum="1"/>
+      <domain majorNum="71" subNum="1"/>
+      <domain majorNum="58" subNum="67 68"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w159" ref="NT.3Joh.1.11">
+    <pos>
+      <ART num="sing" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w160" ref="NT.3Joh.1.11">
+    <pos>
+      <VBP num="sing" cas="nom" voc="act" gen="mas" tf="pre"/>
+    </pos>
+    <wf betaLex="kakopoie/w" lex="κακοποιέω"></wf>
+    <sem>
+      <domain majorNum="88" subNum="112" select="1"/>
+      <domain majorNum="20" subNum="12"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w161" ref="NT.3Joh.1.11">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="ou)" lex="οὐ"></wf>
+    <sem>
+      <domain majorNum="69" subNum="3 11"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w162" ref="NT.3Joh.1.11">
+    <pos>
+      <VBF num="sing" per="3rd" voc="act" mod="ind" tf="per"/>
+    </pos>
+    <wf betaLex="o(ra/w" lex="ὁράω"></wf>
+    <sem>
+      <domain majorNum="24" subNum="1" select="1"/>
+      <domain majorNum="30" subNum="45"/>
+      <domain majorNum="31" subNum="11"/>
+      <domain majorNum="34" subNum="50"/>
+      <domain majorNum="90" subNum="79"/>
+      <domain majorNum="27" subNum="5"/>
+      <domain majorNum="13" subNum="134"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w163" ref="NT.3Joh.1.11">
+    <pos>
+      <ART num="sing" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w164" ref="NT.3Joh.1.11">
+    <pos>
+      <NON num="sing" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="qeo/s" lex="θεός"></wf>
+    <sem>
+      <domain majorNum="12" subNum="1 22 25"/>
+    </sem>
+  </w>
+  <verse eID="NT.3Joh.1.11"/>
+  <verse sID="NT.3Joh.1.12" num="12"/>
+  <w xml:id="NT.3Joh.w165" ref="NT.3Joh.1.12">
+    <pos>
+      <NON num="sing" cas="dat" gen="mas"/>
+    </pos>
+    <wf betaLex="*dhmh/trios" lex="Δημήτριος"></wf>
+    <sem>
+      <domain majorNum="93" subNum="93"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w166" ref="NT.3Joh.1.12">
+    <pos>
+      <VBF voc="mop" num="sing" per="3rd" mod="ind" tf="per"/>
+    </pos>
+    <wf betaLex="marture/w" lex="μαρτυρέω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="223 319"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w167" ref="NT.3Joh.1.12">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="u(po/" lex="ὑπό"></wf>
+    <sem>
+      <domain majorNum="83" subNum="51"/>
+      <domain majorNum="37" subNum="7"/>
+      <domain majorNum="90" subNum="1"/>
+      <domain majorNum="89" subNum="26"/>
+      <domain majorNum="67" subNum="161"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w168" ref="NT.3Joh.1.12">
+    <pos>
+      <ADJ num="plur" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="pa=s" lex="πᾶς"></wf>
+    <sem>
+      <domain majorNum="59" subNum="23 24"/>
+      <domain majorNum="78" subNum="44"/>
+      <domain majorNum="63" subNum="2" select="1"/>
+      <domain majorNum="58" subNum="28"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w169" ref="NT.3Joh.1.12">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93" select="1"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w170" ref="NT.3Joh.1.12">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="u(po/" lex="ὑπό"></wf>
+    <sem>
+      <domain majorNum="83" subNum="51"/>
+      <domain majorNum="37" subNum="7"/>
+      <domain majorNum="90" subNum="1"/>
+      <domain majorNum="89" subNum="26"/>
+      <domain majorNum="67" subNum="161"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w171" ref="NT.3Joh.1.12">
+    <pos>
+      <PRO num="sing" cas="gen" type="int" gen="fem"/>
+    </pos>
+    <wf betaLex="au)to/s" lex="αὐτός"></wf>
+    <sem>
+      <domain majorNum="92" subNum="11 37"/>
+      <domain majorNum="58" subNum="31"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w172" ref="NT.3Joh.1.12">
+    <pos>
+      <ART num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w173" ref="NT.3Joh.1.12">
+    <pos>
+      <NON num="sing" cas="gen" gen="fem"/>
+    </pos>
+    <wf betaLex="a)lh/qeia" lex="ἀλήθεια"></wf>
+    <sem>
+      <domain majorNum="72" subNum="2"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w174" ref="NT.3Joh.1.12">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93" select="1"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w175" ref="NT.3Joh.1.12">
+    <pos>
+      <PRO num="plur" cas="nom" per="1st" type="per"/>
+    </pos>
+    <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w176" ref="NT.3Joh.1.12">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="de/" lex="δέ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="94 87 124"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w177" ref="NT.3Joh.1.12">
+    <pos>
+      <VBF num="plur" per="1st" voc="act" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="marture/w" lex="μαρτυρέω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="223 319"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w178" ref="NT.3Joh.1.12">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93" select="1"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w179" ref="NT.3Joh.1.12">
+    <pos>
+      <VBF num="sing" per="2nd" voc="act" mod="ind" tf="per"/>
+    </pos>
+    <wf betaLex="oi)=da" lex="οἶδα"></wf>
+    <sem>
+      <domain majorNum="28" subNum="1 7" select="1"/>
+      <domain majorNum="32" subNum="4"/>
+      <domain majorNum="29" subNum="6"/>
+      <domain majorNum="87" subNum="12"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w180" ref="NT.3Joh.1.12">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="o(/ti" lex="ὅτι"></wf>
+    <sem>
+      <domain majorNum="90" subNum="21"/>
+      <domain majorNum="89" subNum="33"/>
+      <domain majorNum="91" subNum="15"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w181" ref="NT.3Joh.1.12">
+    <pos>
+      <ART num="sing" cas="nom" gen="fem"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w182" ref="NT.3Joh.1.12">
+    <pos>
+      <NON num="sing" cas="nom" gen="fem"/>
+    </pos>
+    <wf betaLex="martu/rion" lex="μαρτύριον"></wf>
+    <sem>
+      <domain majorNum="33" subNum="262 264 265"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w183" ref="NT.3Joh.1.12">
+    <pos>
+      <PRO num="plur" cas="gen" per="1st" type="per"/>
+    </pos>
+    <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w184" ref="NT.3Joh.1.12">
+    <pos>
+      <ADJ num="sing" cas="nom" gen="fem"/>
+    </pos>
+    <wf betaLex="a)lhqh/s" lex="ἀληθής"></wf>
+    <sem>
+      <domain majorNum="72" subNum="1" select="1"/>
+      <domain majorNum="70" subNum="3"/>
+      <domain majorNum="88" subNum="39"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w185" ref="NT.3Joh.1.12">
+    <pos>
+      <VBF augment="-" num="sing" per="3rd" mod="ind"/>
+    </pos>
+    <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+    <sem>
+      <domain majorNum="13" subNum="1 4 69 104" select="1"/>
+      <domain majorNum="85" subNum="1"/>
+      <domain majorNum="71" subNum="1"/>
+      <domain majorNum="58" subNum="67 68"/>
+    </sem>
+  </w>
+  <verse eID="NT.3Joh.1.12"/>
+  <verse sID="NT.3Joh.1.13" num="13"/>
+  <w xml:id="NT.3Joh.w186" ref="NT.3Joh.1.13">
+    <pos>
+      <ADJ num="plur" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="polu/s" lex="πολύς"></wf>
+    <sem>
+      <domain majorNum="59" subNum="1 11" select="1"/>
+      <domain majorNum="78" subNum="3"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w187" ref="NT.3Joh.1.13">
+    <pos>
+      <VBF num="sing" per="1st" voc="act" mod="ind" tf="imp"/>
+    </pos>
+    <wf betaLex="e)/xw" lex="ἔχω"></wf>
+    <sem>
+      <domain majorNum="57" subNum="1" select="1"/>
+      <domain majorNum="18" subNum="6"/>
+      <domain majorNum="31" subNum="1"/>
+      <domain majorNum="49" subNum="13"/>
+      <domain majorNum="74" subNum="12"/>
+      <domain majorNum="90" subNum="65"/>
+      <domain majorNum="13" subNum="2"/>
+      <domain majorNum="90" subNum="51 27"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w188" ref="NT.3Joh.1.13">
+    <pos>
+      <VBN voc="act" tf="aor"/>
+    </pos>
+    <wf betaLex="gra/fw" lex="γράφω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="61"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w189" ref="NT.3Joh.1.13">
+    <pos>
+      <PRO num="sing" cas="dat" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="8"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w190" ref="NT.3Joh.1.13">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="a)lla/" lex="ἀλλά"></wf>
+    <sem>
+      <domain majorNum="89" subNum="125 96"/>
+      <domain majorNum="91" subNum="2 11"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w191" ref="NT.3Joh.1.13">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="ou)" lex="οὐ"></wf>
+    <sem>
+      <domain majorNum="69" subNum="3 11"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w192" ref="NT.3Joh.1.13">
+    <pos>
+      <VBF num="sing" per="1st" voc="act" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="qe/lw" lex="θέλω"></wf>
+    <sem>
+      <domain majorNum="30" subNum="58"/>
+      <domain majorNum="31" subNum="4"/>
+      <domain majorNum="25" subNum="1 102" select="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w193" ref="NT.3Joh.1.13">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="dia/" lex="διά"></wf>
+    <sem>
+      <domain majorNum="90" subNum="4 8 38 44"/>
+      <domain majorNum="89" subNum="76 26"/>
+      <domain majorNum="84" subNum="29 32"/>
+      <domain majorNum="67" subNum="136 140"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w194" ref="NT.3Joh.1.13">
+    <pos>
+      <ADJ num="sing" cas="gen" gen="neu"/>
+    </pos>
+    <wf betaLex="me/las" lex="μέλας"></wf>
+    <sem>
+      <domain majorNum="79" subNum="26"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w195" ref="NT.3Joh.1.13">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93" select="1"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w196" ref="NT.3Joh.1.13">
+    <pos>
+      <NON num="sing" cas="gen" gen="mas"/>
+    </pos>
+    <wf betaLex="ka/lamos" lex="κάλαμος"></wf>
+    <sem>
+      <domain majorNum="3" subNum="19 55"/>
+      <domain majorNum="6" subNum="56 213" select="1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w197" ref="NT.3Joh.1.13">
+    <pos>
+      <PRO num="sing" cas="dat" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="8"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w198" ref="NT.3Joh.1.13">
+    <pos>
+      <VBN voc="act" tf="pre"/>
+    </pos>
+    <wf betaLex="gra/fw" lex="γράφω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="61"/>
+    </sem>
+  </w>
+  <verse eID="NT.3Joh.1.13"/>
+  <verse sID="NT.3Joh.1.14" num="14"/>
+  <w xml:id="NT.3Joh.w199" ref="NT.3Joh.1.14">
+    <pos>
+      <VBF num="sing" per="1st" voc="act" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="e)lpi/zw" lex="ἐλπίζω"></wf>
+    <sem>
+      <domain majorNum="25" subNum="59" select="1"/>
+      <domain majorNum="30" subNum="54"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w200" ref="NT.3Joh.1.14">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="de/" lex="δέ"></wf>
+    <sem>
+      <domain majorNum="89" subNum="94 87 124"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w201" ref="NT.3Joh.1.14">
+    <pos>
+      <ADV/>
+    </pos>
+    <wf betaLex="eu)qe/ws" lex="εὐθέως"></wf>
+    <sem>
+      <domain majorNum="67" subNum="53"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w202" ref="NT.3Joh.1.14">
+    <pos>
+      <PRO num="sing" cas="acc" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w203" ref="NT.3Joh.1.14">
+    <pos>
+      <VBN voc="act" tf="aor"/>
+    </pos>
+    <wf betaLex="o(ra/w" lex="ὁράω"></wf>
+    <sem>
+      <domain majorNum="24" subNum="1" select="1"/>
+      <domain majorNum="30" subNum="45"/>
+      <domain majorNum="31" subNum="11"/>
+      <domain majorNum="34" subNum="50"/>
+      <domain majorNum="90" subNum="79"/>
+      <domain majorNum="27" subNum="5"/>
+      <domain majorNum="13" subNum="134"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w204" ref="NT.3Joh.1.14">
+    <pos>
+      <PAR/>
+    </pos>
+    <wf betaLex="kai/" lex="καί"></wf>
+    <sem>
+      <domain majorNum="89" subNum="92 87 93" select="1"/>
+      <domain majorNum="91" subNum="12 1"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w205" ref="NT.3Joh.1.14">
+    <pos>
+      <NON num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="sto/ma" lex="στόμα"></wf>
+    <sem>
+      <domain majorNum="8" subNum="19"/>
+      <domain majorNum="33" subNum="74 75 101" select="1"/>
+      <domain majorNum="79" subNum="109"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w206" ref="NT.3Joh.1.14">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="pro/s" lex="πρός"></wf>
+    <sem>
+      <domain majorNum="84" subNum="18 23"/>
+      <domain majorNum="83" subNum="24 9"/>
+      <domain majorNum="90" subNum="58 25"/>
+      <domain majorNum="89" subNum="112 60 44 9 7"/>
+      <domain majorNum="67" subNum="162 16"/>
+      <domain majorNum="78" subNum="51"/>
+      <domain majorNum="90" subNum="20 33"/>
+      <domain majorNum="64" subNum="17"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w207" ref="NT.3Joh.1.14">
+    <pos>
+      <NON num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="sto/ma" lex="στόμα"></wf>
+    <sem>
+      <domain majorNum="8" subNum="19"/>
+      <domain majorNum="33" subNum="74 75 101" select="1"/>
+      <domain majorNum="79" subNum="109"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w208" ref="NT.3Joh.1.14">
+    <pos>
+      <VBF num="plur" per="1st" voc="act" mod="ind" tf="fut"/>
+    </pos>
+    <wf betaLex="lale/w" lex="λαλέω"></wf>
+    <sem>
+      <domain majorNum="33" subNum="70"/>
+    </sem>
+  </w>
+  <verse eID="NT.3Joh.1.14"/>
+  <verse sID="NT.3Joh.1.15" num="15"/>
+  <w xml:id="NT.3Joh.w209" ref="NT.3Joh.1.15">
+    <pos>
+      <NON num="sing" cas="nom" gen="fem"/>
+    </pos>
+    <wf betaLex="ei)rh/nh" lex="εἰρήνη"></wf>
+    <sem>
+      <domain majorNum="22" subNum="42" select="1"/>
+      <domain majorNum="25" subNum="248"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w210" ref="NT.3Joh.1.15">
+    <pos>
+      <PRO num="sing" cas="dat" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="8"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w211" ref="NT.3Joh.1.15">
+    <pos>
+      <VBF voc="mop" num="plur" per="3rd" mod="ind" tf="pre"/>
+    </pos>
+    <wf betaLex="a)spa/zomai" lex="ἀσπάζομαι"></wf>
+    <sem>
+      <domain majorNum="33" subNum="20" select="1"/>
+      <domain majorNum="25" subNum="130"/>
+      <domain majorNum="34" subNum="55"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w212" ref="NT.3Joh.1.15">
+    <pos>
+      <PRO num="sing" cas="acc" per="2nd" type="per"/>
+    </pos>
+    <wf betaLex="su/" lex="σύ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="6"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w213" ref="NT.3Joh.1.15">
+    <pos>
+      <ART num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w214" ref="NT.3Joh.1.15">
+    <pos>
+      <ADJ num="plur" cas="nom" gen="mas"/>
+    </pos>
+    <wf betaLex="fi/los" lex="φίλος"></wf>
+    <sem>
+      <domain majorNum="34" subNum="11"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w215" ref="NT.3Joh.1.15">
+    <pos>
+      <VBF voc="mop" num="sing" per="2nd" mod="imp" tf="pre"/>
+    </pos>
+    <wf betaLex="a)spa/zomai" lex="ἀσπάζομαι"></wf>
+    <sem>
+      <domain majorNum="33" subNum="20" select="1"/>
+      <domain majorNum="25" subNum="130"/>
+      <domain majorNum="34" subNum="55"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w216" ref="NT.3Joh.1.15">
+    <pos>
+      <ART num="plur" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="o(" lex="ὁ"></wf>
+    <sem>
+      <domain majorNum="92" subNum="24"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w217" ref="NT.3Joh.1.15">
+    <pos>
+      <ADJ num="plur" cas="acc" gen="mas"/>
+    </pos>
+    <wf betaLex="fi/los" lex="φίλος"></wf>
+    <sem>
+      <domain majorNum="34" subNum="11"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w218" ref="NT.3Joh.1.15">
+    <pos>
+      <PRP/>
+    </pos>
+    <wf betaLex="kata/" lex="κατά"></wf>
+    <sem>
+      <domain majorNum="84" subNum="21 30 31"/>
+      <domain majorNum="83" subNum="45 12 44"/>
+      <domain majorNum="67" subNum="33 35"/>
+      <domain majorNum="90" subNum="29 31"/>
+      <domain majorNum="89" subNum="8 90 4 113"/>
+    </sem>
+  </w>
+  <w xml:id="NT.3Joh.w219" ref="NT.3Joh.1.15">
+    <pos>
+      <NON num="sing" cas="acc" gen="neu"/>
+    </pos>
+    <wf betaLex="o)/noma" lex="ὄνομα"></wf>
+    <sem>
+      <domain majorNum="33" subNum="126 265" select="1"/>
+      <domain majorNum="9" subNum="19" select="1"/>
+      <domain majorNum="58" subNum="22"/>
+    </sem>
+  </w>
+  <verse eID="NT.3Joh.1.15"/>
+  <chapter eID="NT.3Joh.1"/>
+</book>
