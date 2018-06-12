@@ -82,6 +82,8 @@
         </wg.word>
       </wg.head>
     </wg.group>
+
+    ...
 ```
 
 * This is the first word group in Philemon and is represented in the [word group box diagrams](http://opentext.org/texts/NT/Phlm/view/wordgroup-ch1.v0.html) like this:
@@ -89,6 +91,52 @@
 ![](wg_example.png)
 
 ### Clause level
+
+* Example segment of word group XML:
+
+
+```
+		-->
+<chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Phlm" num="1">
+  <cl.clause xml:id="NT.Phlm.1_c1" level="primary" structure="S-C">
+    <cl.S>
+      <w xlink:href="NT.Phlm.w1"/>
+      <w xlink:href="NT.Phlm.w2"/>
+      <w xlink:href="NT.Phlm.w3"/>
+      <w xlink:href="NT.Phlm.w4"/>
+      <w xlink:href="NT.Phlm.w5"/>
+      <w xlink:href="NT.Phlm.w6"/>
+      <w xlink:href="NT.Phlm.w7"/>
+      <w xlink:href="NT.Phlm.w8"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Phlm.w9"/>
+      <w xlink:href="NT.Phlm.w10"/>
+      <w xlink:href="NT.Phlm.w11"/>
+      <w xlink:href="NT.Phlm.w12"/>
+      <w xlink:href="NT.Phlm.w13"/>
+      <w xlink:href="NT.Phlm.w14"/>
+      <w xlink:href="NT.Phlm.w15"/>
+      <w xlink:href="NT.Phlm.w16"/>
+      <w xlink:href="NT.Phlm.w17"/>
+      <w xlink:href="NT.Phlm.w18"/>
+      <w xlink:href="NT.Phlm.w19"/>
+      <w xlink:href="NT.Phlm.w20"/>
+      <w xlink:href="NT.Phlm.w21"/>
+      <w xlink:href="NT.Phlm.w22"/>
+      <w xlink:href="NT.Phlm.w23"/>
+      <w xlink:href="NT.Phlm.w24"/>
+      <w xlink:href="NT.Phlm.w25"/>
+      <w xlink:href="NT.Phlm.w26"/>
+      <w xlink:href="NT.Phlm.w27"/>
+      <w xlink:href="NT.Phlm.w28"/>
+      <w xlink:href="NT.Phlm.w29"/>
+    </cl.C>
+  </cl.clause>
+
+  ...
+
+```
 
 
 
