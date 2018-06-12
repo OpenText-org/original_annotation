@@ -2,6 +2,16 @@
 
 
 
+## Base level
+
+* The base level XML contains:
+	1. milestone elements for **chapter** and **verse** segments
+	2. `<w>` word elements that contain:
+		1. part-of-speech information `<pos>`
+		2. word form information `<wf>` - **N.B.** for copyright reasons inflected forms are missing*
+		3. semantic domain informaion `<sem>`
+
+* Example segment of base XML:
 
 ```
 <book name="Phlm">
@@ -35,4 +45,6 @@
       <domain majorNum="53" subNum="82"/>
     </sem>
   </w>
+
+  ....
 ```
