@@ -84,7 +84,7 @@
     </wg.group>
 ```
 
-* This is the first word group in Philemon and is represented in the word group box diagrams like this:
+* This is the first word group in Philemon and is represented in the [word group box diagrams](http://opentext.org/texts/NT/Phlm/view/wordgroup-ch1.v0.html) like this:
 
 ![](wg_example.png)
 
