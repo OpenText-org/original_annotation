@@ -14,4 +14,995 @@ Copyright (c) 2005-6 OpenText.org
 
 contact: matt@opentext.org
 =================================================		
-		--><chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Matt" num="28"><cl.clause xml:id="NT.Matt.28_c1" level="secondary" connect="NT.Matt.28_c2" structure="A-(conj)-P-A"><cl.A><w xlink:href="NT.Mat.w18018"/><pl.conj type="embed" parent="NT.Matt.28_c1"><w xlink:href="NT.Mat.w18019"/></pl.conj><w xlink:href="NT.Mat.w18020"/></cl.A><cl.P><w xlink:href="NT.Mat.w18021"/><w xlink:href="NT.Mat.w18022"/></cl.P><cl.A><w xlink:href="NT.Mat.w18023"/><w xlink:href="NT.Mat.w18024"/><w xlink:href="NT.Mat.w18025"/></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c2" level="primary" structure="P-S-A"><cl.P><w xlink:href="NT.Mat.w18026"/></cl.P><cl.S><w xlink:href="NT.Mat.w18027"/><w xlink:href="NT.Mat.w18028"/><w xlink:href="NT.Mat.w18029"/><w xlink:href="NT.Mat.w18030"/><w xlink:href="NT.Mat.w18031"/><w xlink:href="NT.Mat.w18032"/><w xlink:href="NT.Mat.w18033"/></cl.S><cl.A><cl.clause xml:id="NT.Matt.28_c3" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Mat.w18034"/></cl.P><cl.C><w xlink:href="NT.Mat.w18035"/><w xlink:href="NT.Mat.w18036"/></cl.C></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c4" level="primary" connect="NT.Matt.28_c2" structure="conj-P"><pl.conj><w xlink:href="NT.Mat.w18037"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18038"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c5" level="primary" connect="NT.Matt.28_c4" structure="S-(P)"><cl.S><w xlink:href="NT.Mat.w18039"/><cl.P type="embed" parent="NT.Matt.28_c5"><w xlink:href="NT.Mat.w18040"/></cl.P><w xlink:href="NT.Mat.w18041"/></cl.S></cl.clause><cl.clause xml:id="NT.Matt.28_c6" level="primary" connect="NT.Matt.28_c5" structure="S-(conj)-A-P-C"><cl.S><w xlink:href="NT.Mat.w18042"/><pl.conj type="embed" parent="NT.Matt.28_c6"><w xlink:href="NT.Mat.w18043"/></pl.conj><w xlink:href="NT.Mat.w18044"/></cl.S><cl.A><cl.clause xml:id="NT.Matt.28_c7" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Mat.w18045"/></cl.P><cl.A><w xlink:href="NT.Mat.w18046"/><w xlink:href="NT.Mat.w18047"/></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c8" level="embedded" structure="conj-P"><pl.conj><w xlink:href="NT.Mat.w18048"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18049"/></cl.P></cl.clause></cl.A><cl.P><w xlink:href="NT.Mat.w18050"/></cl.P><cl.C><w xlink:href="NT.Mat.w18051"/><w xlink:href="NT.Mat.w18052"/></cl.C></cl.clause><cl.clause xml:id="NT.Matt.28_c9" level="primary" connect="NT.Matt.28_c6" structure="conj-P-A"><pl.conj><w xlink:href="NT.Mat.w18053"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18054"/></cl.P><cl.A><w xlink:href="NT.Mat.w18055"/><w xlink:href="NT.Mat.w18056"/></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c10" level="primary" connect="NT.Matt.28_c9" structure="P-conj-S-A"><cl.P><w xlink:href="NT.Mat.w18057"/></cl.P><pl.conj><w xlink:href="NT.Mat.w18058"/></pl.conj><cl.S><w xlink:href="NT.Mat.w18059"/><w xlink:href="NT.Mat.w18060"/><w xlink:href="NT.Mat.w18061"/></cl.S><cl.A><w xlink:href="NT.Mat.w18062"/><w xlink:href="NT.Mat.w18063"/></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c11" level="primary" connect="NT.Matt.28_c10" structure="conj-S-C-A"><pl.conj><w xlink:href="NT.Mat.w18064"/></pl.conj><cl.S><w xlink:href="NT.Mat.w18065"/><w xlink:href="NT.Mat.w18066"/><w xlink:href="NT.Mat.w18067"/></cl.S><cl.C><w xlink:href="NT.Mat.w18068"/></cl.C><cl.A><w xlink:href="NT.Mat.w18069"/><w xlink:href="NT.Mat.w18070"/></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c12" level="primary" connect="NT.Matt.28_c11" structure="A-(conj)-P-S"><cl.A><w xlink:href="NT.Mat.w18071"/><pl.conj type="embed" parent="NT.Matt.28_c12"><w xlink:href="NT.Mat.w18072"/></pl.conj><w xlink:href="NT.Mat.w18073"/><w xlink:href="NT.Mat.w18074"/><w xlink:href="NT.Mat.w18075"/></cl.A><cl.P><w xlink:href="NT.Mat.w18076"/></cl.P><cl.S><cl.clause xml:id="NT.Matt.28_c13" level="embedded" structure="P"><cl.P><w xlink:href="NT.Mat.w18077"/><w xlink:href="NT.Mat.w18078"/></cl.P></cl.clause></cl.S></cl.clause><cl.clause xml:id="NT.Matt.28_c14" level="primary" connect="NT.Matt.28_c12" structure="conj-P-A"><pl.conj><w xlink:href="NT.Mat.w18079"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18080"/></cl.P><cl.A><w xlink:href="NT.Mat.w18081"/><w xlink:href="NT.Mat.w18082"/></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c15" level="primary" connect="NT.Matt.28_c14" structure="A-conj-S-P-C"><cl.A><cl.clause xml:id="NT.Matt.28_c16" level="embedded" structure="P"><cl.P><w xlink:href="NT.Mat.w18083"/></cl.P></cl.clause></cl.A><pl.conj><w xlink:href="NT.Mat.w18084"/></pl.conj><cl.S><w xlink:href="NT.Mat.w18085"/><w xlink:href="NT.Mat.w18086"/></cl.S><cl.P><w xlink:href="NT.Mat.w18087"/></cl.P><cl.C><w xlink:href="NT.Mat.w18088"/><w xlink:href="NT.Mat.w18089"/></cl.C></cl.clause><cl.clause xml:id="NT.Matt.28_c17" level="primary" projected="yes" connect="NT.Matt.28_c15" structure="A-P-S"><cl.A><w xlink:href="NT.Mat.w18090"/></cl.A><cl.P><w xlink:href="NT.Mat.w18091"/></cl.P><cl.S><w xlink:href="NT.Mat.w18092"/></cl.S></cl.clause><cl.clause xml:id="NT.Matt.28_c18" level="primary" projected="yes" connect="NT.Matt.28_c17" structure="P-conj"><cl.P><w xlink:href="NT.Mat.w18093"/></cl.P><pl.conj><w xlink:href="NT.Mat.w18094"/></pl.conj></cl.clause><cl.clause xml:id="NT.Matt.28_c19" level="secondary" projected="yes" connect="NT.Matt.28_c18" structure="conj-C-P"><pl.conj><w xlink:href="NT.Mat.w18095"/></pl.conj><cl.C><w xlink:href="NT.Mat.w18096"/><cl.clause xml:id="NT.Matt.28_c20" level="embedded" structure="P"><cl.P><w xlink:href="NT.Mat.w18097"/><w xlink:href="NT.Mat.w18098"/></cl.P></cl.clause></cl.C><cl.P><w xlink:href="NT.Mat.w18099"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c21" level="primary" projected="yes" connect="NT.Matt.28_c18" structure="A-P-A"><cl.A><w xlink:href="NT.Mat.w18100"/></cl.A><cl.P><w xlink:href="NT.Mat.w18101"/></cl.P><cl.A><w xlink:href="NT.Mat.w18102"/></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c22" level="primary" projected="yes" connect="NT.Matt.28_c21" structure="P-conj"><cl.P><w xlink:href="NT.Mat.w18103"/></cl.P><pl.conj><w xlink:href="NT.Mat.w18104"/></pl.conj></cl.clause><cl.clause xml:id="NT.Matt.28_c23" level="secondary" projected="yes" connect="NT.Matt.28_c22" structure="conj-P"><pl.conj><w xlink:href="NT.Mat.w18105"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18106"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c24" level="primary" projected="yes" connect="NT.Matt.28_c22" structure="P"><cl.P><w xlink:href="NT.Mat.w18107"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c25" level="primary" projected="yes" connect="NT.Matt.28_c24" structure="P-C"><cl.P><w xlink:href="NT.Mat.w18108"/></cl.P><cl.C><w xlink:href="NT.Mat.w18109"/><w xlink:href="NT.Mat.w18110"/></cl.C></cl.clause><cl.clause xml:id="NT.Matt.28_c26" level="secondary" projected="yes" connect="NT.Matt.28_c25" structure="conj-P"><pl.conj><w xlink:href="NT.Mat.w18111"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18112"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c27" level="primary" projected="yes" connect="NT.Matt.28_c25" structure="conj-A-P-C"><pl.conj><w xlink:href="NT.Mat.w18113"/></pl.conj><cl.A><cl.clause xml:id="NT.Matt.28_c28" level="embedded" structure="conj-P"><pl.conj><w xlink:href="NT.Mat.w18114"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18115"/></cl.P></cl.clause></cl.A><cl.P><w xlink:href="NT.Mat.w18116"/></cl.P><cl.C><w xlink:href="NT.Mat.w18117"/><w xlink:href="NT.Mat.w18118"/><w xlink:href="NT.Mat.w18119"/></cl.C></cl.clause><cl.clause xml:id="NT.Matt.28_c29" level="primary" projected="yes" connect="NT.Matt.28_c27" structure="conj-P-A"><pl.conj><w xlink:href="NT.Mat.w18120"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18121"/></cl.P><cl.A><w xlink:href="NT.Mat.w18122"/><w xlink:href="NT.Mat.w18123"/><w xlink:href="NT.Mat.w18124"/></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c30" level="primary" projected="yes" connect="NT.Matt.28_c27" structure="conj-P"><pl.conj><w xlink:href="NT.Mat.w18125"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18126"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c31" level="primary" projected="yes" connect="NT.Matt.28_c30" structure="P-C-A"><cl.P><w xlink:href="NT.Mat.w18127"/></cl.P><cl.C><w xlink:href="NT.Mat.w18128"/></cl.C><cl.A><w xlink:href="NT.Mat.w18129"/><w xlink:href="NT.Mat.w18130"/><w xlink:href="NT.Mat.w18131"/></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c32" level="primary" projected="yes" connect="NT.Matt.28_c31" structure="A-C-P"><cl.A><w xlink:href="NT.Mat.w18132"/></cl.A><cl.C><w xlink:href="NT.Mat.w18133"/></cl.C><cl.P><w xlink:href="NT.Mat.w18134"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c33" level="primary" projected="yes" connect="NT.Matt.28_c32" structure="P"><cl.P><w xlink:href="NT.Mat.w18135"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c34" level="primary" projected="yes" connect="NT.Matt.28_c33" structure="P-C"><cl.P><w xlink:href="NT.Mat.w18136"/></cl.P><cl.C><w xlink:href="NT.Mat.w18137"/></cl.C></cl.clause><cl.clause xml:id="NT.Matt.28_c35" level="primary" connect="NT.Matt.28_c15" structure="conj-A-P-A"><pl.conj><w xlink:href="NT.Mat.w18138"/></pl.conj><cl.A><cl.clause xml:id="NT.Matt.28_c36" level="embedded" structure="P-A-A-A"><cl.P><w xlink:href="NT.Mat.w18139"/></cl.P><cl.A><w xlink:href="NT.Mat.w18140"/></cl.A><cl.A><w xlink:href="NT.Mat.w18141"/><w xlink:href="NT.Mat.w18142"/><w xlink:href="NT.Mat.w18143"/></cl.A><cl.A><w xlink:href="NT.Mat.w18144"/><w xlink:href="NT.Mat.w18145"/><w xlink:href="NT.Mat.w18146"/><w xlink:href="NT.Mat.w18147"/><w xlink:href="NT.Mat.w18148"/></cl.A></cl.clause></cl.A><cl.P><w xlink:href="NT.Mat.w18149"/></cl.P><cl.A><cl.clause xml:id="NT.Matt.28_c37" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Mat.w18150"/></cl.P><cl.C><w xlink:href="NT.Mat.w18151"/><w xlink:href="NT.Mat.w18152"/><w xlink:href="NT.Mat.w18153"/></cl.C></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c38" level="primary" connect="NT.Matt.28_c35" structure="conj-P"><pl.conj><w xlink:href="NT.Mat.w18154"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18155"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c39" level="primary" connect="NT.Matt.28_c38" structure="S-P-C-A"><cl.S><w xlink:href="NT.Mat.w18156"/></cl.S><cl.P><w xlink:href="NT.Mat.w18157"/></cl.P><cl.C><w xlink:href="NT.Mat.w18158"/></cl.C><cl.A><cl.clause xml:id="NT.Matt.28_c40" level="embedded" structure="P"><cl.P><w xlink:href="NT.Mat.w18159"/></cl.P></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c41" level="primary" projected="yes" connect="NT.Matt.28_c39" structure="P"><cl.P><w xlink:href="NT.Mat.w18160"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c42" level="primary" connect="NT.Matt.28_c39" structure="S-conj-A-P-C"><cl.S><w xlink:href="NT.Mat.w18161"/></cl.S><pl.conj><w xlink:href="NT.Mat.w18162"/></pl.conj><cl.A><cl.clause xml:id="NT.Matt.28_c43" level="embedded" structure="P"><cl.P><w xlink:href="NT.Mat.w18163"/></cl.P></cl.clause></cl.A><cl.P><w xlink:href="NT.Mat.w18164"/></cl.P><cl.C><w xlink:href="NT.Mat.w18165"/><w xlink:href="NT.Mat.w18166"/><w xlink:href="NT.Mat.w18167"/></cl.C></cl.clause><cl.clause xml:id="NT.Matt.28_c44" level="primary" connect="NT.Matt.28_c42" structure="conj-P-C"><pl.conj><w xlink:href="NT.Mat.w18168"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18169"/></cl.P><cl.C><w xlink:href="NT.Mat.w18170"/></cl.C></cl.clause><cl.clause xml:id="NT.Matt.28_c45" level="primary" connect="NT.Matt.28_c44" structure="A-P-C-S"><cl.A><w xlink:href="NT.Mat.w18171"/></cl.A><cl.P><w xlink:href="NT.Mat.w18172"/></cl.P><cl.C><w xlink:href="NT.Mat.w18173"/></cl.C><cl.S><w xlink:href="NT.Mat.w18174"/><w xlink:href="NT.Mat.w18175"/></cl.S></cl.clause><cl.clause xml:id="NT.Matt.28_c46" level="primary" projected="yes" connect="NT.Matt.28_c45" structure="A-P"><cl.A><w xlink:href="NT.Mat.w18176"/></cl.A><cl.P><w xlink:href="NT.Mat.w18177"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c47" level="primary" projected="yes" connect="NT.Matt.28_c46" structure="P"><cl.P><w xlink:href="NT.Mat.w18178"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c48" level="primary" projected="yes" connect="NT.Matt.28_c47" structure="P-C"><cl.P><w xlink:href="NT.Mat.w18179"/></cl.P><cl.C><w xlink:href="NT.Mat.w18180"/><w xlink:href="NT.Mat.w18181"/><w xlink:href="NT.Mat.w18182"/></cl.C></cl.clause><cl.clause xml:id="NT.Matt.28_c49" level="secondary" projected="yes" connect="NT.Matt.28_c48" structure="conj-P-A"><pl.conj><w xlink:href="NT.Mat.w18183"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18184"/></cl.P><cl.A><w xlink:href="NT.Mat.w18185"/><w xlink:href="NT.Mat.w18186"/><w xlink:href="NT.Mat.w18187"/></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c50" level="primary" projected="yes" connect="NT.Matt.28_c48" structure="A-C-P"><cl.A><w xlink:href="NT.Mat.w18188"/></cl.A><cl.C><w xlink:href="NT.Mat.w18189"/></cl.C><cl.P><w xlink:href="NT.Mat.w18190"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c51" level="secondary" connect="NT.Matt.28_c52" structure="P-conj-S"><cl.P><w xlink:href="NT.Mat.w18191"/></cl.P><pl.conj><w xlink:href="NT.Mat.w18192"/></pl.conj><cl.S><w xlink:href="NT.Mat.w18193"/></cl.S></cl.clause><cl.clause xml:id="NT.Matt.28_c52" level="primary" connect="NT.Matt.28_c45" structure="P"><cl.P><w xlink:href="NT.Mat.w18194"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c53" level="primary" connect="NT.Matt.28_c52" structure="S-A-P-C-C"><cl.S><w xlink:href="NT.Mat.w18195"/><w xlink:href="NT.Mat.w18196"/><w xlink:href="NT.Mat.w18197"/></cl.S><cl.A><cl.clause xml:id="NT.Matt.28_c54" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Mat.w18198"/></cl.P><cl.A><w xlink:href="NT.Mat.w18199"/><w xlink:href="NT.Mat.w18200"/><w xlink:href="NT.Mat.w18201"/></cl.A></cl.clause></cl.A><cl.P><w xlink:href="NT.Mat.w18202"/></cl.P><cl.C><w xlink:href="NT.Mat.w18203"/><w xlink:href="NT.Mat.w18204"/></cl.C><cl.C><cl.clause xml:id="NT.Matt.28_c55" level="embedded" structure="P"><cl.P><w xlink:href="NT.Mat.w18205"/><w xlink:href="NT.Mat.w18206"/><w xlink:href="NT.Mat.w18207"/></cl.P></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Matt.28_c56" level="primary" connect="NT.Matt.28_c53" structure="conj-A-C-P-C-A"><pl.conj><w xlink:href="NT.Mat.w18208"/></pl.conj><cl.A><cl.clause xml:id="NT.Matt.28_c57" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Mat.w18209"/></cl.P><cl.A><w xlink:href="NT.Mat.w18210"/><w xlink:href="NT.Mat.w18211"/><w xlink:href="NT.Mat.w18212"/></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c58" level="embedded" structure="C-conj-P"><cl.C><w xlink:href="NT.Mat.w18213"/></cl.C><pl.conj><w xlink:href="NT.Mat.w18214"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18215"/></cl.P></cl.clause></cl.A><cl.C><w xlink:href="NT.Mat.w18216"/><w xlink:href="NT.Mat.w18217"/></cl.C><cl.P><w xlink:href="NT.Mat.w18218"/></cl.P><cl.C><w xlink:href="NT.Mat.w18219"/><w xlink:href="NT.Mat.w18220"/></cl.C><cl.A><cl.clause xml:id="NT.Matt.28_c59" level="embedded" structure="P"><cl.P><w xlink:href="NT.Mat.w18221"/></cl.P></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c60" level="primary" projected="yes" connect="NT.Matt.28_c56" structure="P"><cl.P><w xlink:href="NT.Mat.w18222"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c61" level="primary" projected="yes" connect="NT.Matt.28_c60" structure="conj-S-A-P-C"><pl.conj><w xlink:href="NT.Mat.w18223"/></pl.conj><cl.S><w xlink:href="NT.Mat.w18224"/><w xlink:href="NT.Mat.w18225"/><w xlink:href="NT.Mat.w18226"/></cl.S><cl.A><cl.clause xml:id="NT.Matt.28_c62" level="embedded" structure="A-P"><cl.A><w xlink:href="NT.Mat.w18227"/></cl.A><cl.P><w xlink:href="NT.Mat.w18228"/></cl.P></cl.clause></cl.A><cl.P><w xlink:href="NT.Mat.w18229"/></cl.P><cl.C><w xlink:href="NT.Mat.w18230"/></cl.C></cl.clause><cl.clause xml:id="NT.Matt.28_c63" level="secondary" projected="yes" connect="NT.Matt.28_c61" structure="S-P"><cl.S><w xlink:href="NT.Mat.w18231"/></cl.S><cl.P><w xlink:href="NT.Mat.w18232"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c64" level="secondary" projected="yes" connect="NT.Matt.28_c65" structure="conj-conj-P-S-A"><pl.conj><w xlink:href="NT.Mat.w18233"/></pl.conj><pl.conj><w xlink:href="NT.Mat.w18234"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18235"/></cl.P><cl.S><w xlink:href="NT.Mat.w18236"/></cl.S><cl.A><w xlink:href="NT.Mat.w18237"/><w xlink:href="NT.Mat.w18238"/><w xlink:href="NT.Mat.w18239"/></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c65" level="primary" projected="yes" connect="NT.Matt.28_c60" structure="S-P-C"><cl.S><w xlink:href="NT.Mat.w18240"/></cl.S><cl.P><w xlink:href="NT.Mat.w18241"/></cl.P><cl.C><w xlink:href="NT.Mat.w18242"/></cl.C></cl.clause><cl.clause xml:id="NT.Matt.28_c66" level="primary" projected="yes" connect="NT.Matt.28_c65" structure="conj-C-C-P"><pl.conj><w xlink:href="NT.Mat.w18243"/></pl.conj><cl.C><w xlink:href="NT.Mat.w18244"/></cl.C><cl.C><w xlink:href="NT.Mat.w18245"/></cl.C><cl.P><w xlink:href="NT.Mat.w18246"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c67" level="primary" connect="NT.Matt.28_c56" structure="S-conj-A-P"><cl.S><w xlink:href="NT.Mat.w18247"/></cl.S><pl.conj><w xlink:href="NT.Mat.w18248"/></pl.conj><cl.A><cl.clause xml:id="NT.Matt.28_c68" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Mat.w18249"/></cl.P><cl.C><w xlink:href="NT.Mat.w18250"/><w xlink:href="NT.Mat.w18251"/></cl.C></cl.clause></cl.A><cl.P><w xlink:href="NT.Mat.w18252"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c69" level="secondary" connect="NT.Matt.28_c67" structure="conj-P"><pl.conj><w xlink:href="NT.Mat.w18253"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18254"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c70" level="primary" connect="NT.Matt.28_c67" structure="conj-P-S-A-A"><pl.conj><w xlink:href="NT.Mat.w18255"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18256"/></cl.P><cl.S><w xlink:href="NT.Mat.w18257"/><w xlink:href="NT.Mat.w18258"/><w xlink:href="NT.Mat.w18259"/></cl.S><cl.A><w xlink:href="NT.Mat.w18260"/><w xlink:href="NT.Mat.w18261"/></cl.A><cl.A><w xlink:href="NT.Mat.w18262"/><w xlink:href="NT.Mat.w18263"/><w xlink:href="NT.Mat.w18264"/><w xlink:href="NT.Mat.w18265"/></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c71" level="primary" connect="NT.Matt.28_c70" structure="S-(conj)-P-A-A"><cl.S><w xlink:href="NT.Mat.w18266"/><pl.conj type="embed" parent="NT.Matt.28_c71"><w xlink:href="NT.Mat.w18267"/></pl.conj><w xlink:href="NT.Mat.w18268"/><w xlink:href="NT.Mat.w18269"/></cl.S><cl.P><w xlink:href="NT.Mat.w18270"/></cl.P><cl.A><w xlink:href="NT.Mat.w18271"/><w xlink:href="NT.Mat.w18272"/><w xlink:href="NT.Mat.w18273"/></cl.A><cl.A><w xlink:href="NT.Mat.w18274"/><w xlink:href="NT.Mat.w18275"/><w xlink:href="NT.Mat.w18276"/><cl.clause xml:id="NT.Matt.28_c72" level="embedded" structure="C-P-C-S"><cl.C><w xlink:href="NT.Mat.w18277"/></cl.C><cl.P><w xlink:href="NT.Mat.w18278"/></cl.P><cl.C><w xlink:href="NT.Mat.w18279"/></cl.C><cl.S><w xlink:href="NT.Mat.w18280"/><w xlink:href="NT.Mat.w18281"/></cl.S></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c73" level="primary" connect="NT.Matt.28_c71" structure="conj-A-P"><pl.conj><w xlink:href="NT.Mat.w18282"/></pl.conj><cl.A><cl.clause xml:id="NT.Matt.28_c74" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Mat.w18283"/></cl.P><cl.C><w xlink:href="NT.Mat.w18284"/></cl.C></cl.clause></cl.A><cl.P><w xlink:href="NT.Mat.w18285"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c75" level="primary" connect="NT.Matt.28_c73" structure="S-conj-P"><cl.S><w xlink:href="NT.Mat.w18286"/></cl.S><pl.conj><w xlink:href="NT.Mat.w18287"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18288"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c76" level="primary" connect="NT.Matt.28_c75" structure="conj-A-S-P-C-A"><pl.conj><w xlink:href="NT.Mat.w18289"/></pl.conj><cl.A><cl.clause xml:id="NT.Matt.28_c77" level="embedded" structure="P"><cl.P><w xlink:href="NT.Mat.w18290"/></cl.P></cl.clause></cl.A><cl.S><w xlink:href="NT.Mat.w18291"/><w xlink:href="NT.Mat.w18292"/></cl.S><cl.P><w xlink:href="NT.Mat.w18293"/></cl.P><cl.C><w xlink:href="NT.Mat.w18294"/></cl.C><cl.A><cl.clause xml:id="NT.Matt.28_c78" level="embedded" structure="P"><cl.P><w xlink:href="NT.Mat.w18295"/></cl.P></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c79" level="primary" projected="yes" connect="NT.Matt.28_c76" structure="P-C-S-A"><cl.P><w xlink:href="NT.Mat.w18296"/></cl.P><cl.C><w xlink:href="NT.Mat.w18297"/></cl.C><cl.S><w xlink:href="NT.Mat.w18298"/><w xlink:href="NT.Mat.w18299"/></cl.S><cl.A><w xlink:href="NT.Mat.w18300"/><w xlink:href="NT.Mat.w18301"/><w xlink:href="NT.Mat.w18302"/><w xlink:href="NT.Mat.w18303"/><w xlink:href="NT.Mat.w18304"/><w xlink:href="NT.Mat.w18305"/></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c80" level="primary" projected="yes" connect="NT.Matt.28_c79" structure="A-conj-P-C-A-A"><cl.A><cl.clause xml:id="NT.Matt.28_c81" level="embedded" structure="P"><cl.P><w xlink:href="NT.Mat.w18306"/></cl.P></cl.clause></cl.A><pl.conj><w xlink:href="NT.Mat.w18307"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18308"/></cl.P><cl.C><w xlink:href="NT.Mat.w18309"/><w xlink:href="NT.Mat.w18310"/><w xlink:href="NT.Mat.w18311"/></cl.C><cl.A><cl.clause xml:id="NT.Matt.28_c82" level="embedded" structure="P-C-A"><cl.P><w xlink:href="NT.Mat.w18312"/></cl.P><cl.C><w xlink:href="NT.Mat.w18313"/></cl.C><cl.A><w xlink:href="NT.Mat.w18314"/><w xlink:href="NT.Mat.w18315"/><w xlink:href="NT.Mat.w18316"/><w xlink:href="NT.Mat.w18317"/><w xlink:href="NT.Mat.w18318"/><w xlink:href="NT.Mat.w18319"/><w xlink:href="NT.Mat.w18320"/><w xlink:href="NT.Mat.w18321"/><w xlink:href="NT.Mat.w18322"/><w xlink:href="NT.Mat.w18323"/><w xlink:href="NT.Mat.w18324"/><w xlink:href="NT.Mat.w18325"/></cl.A></cl.clause></cl.A><cl.A><cl.clause xml:id="NT.Matt.28_c83" level="embedded" structure="P-C-C"><cl.P><w xlink:href="NT.Mat.w18326"/></cl.P><cl.C><w xlink:href="NT.Mat.w18327"/></cl.C><cl.C><cl.clause xml:id="NT.Matt.28_c84" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Mat.w18328"/></cl.P><cl.C><w xlink:href="NT.Mat.w18329"/><cl.clause xml:id="NT.Matt.28_c85" level="embedded" structure="C-P-C"><cl.C><w xlink:href="NT.Mat.w18330"/></cl.C><cl.P><w xlink:href="NT.Mat.w18331"/></cl.P><cl.C><w xlink:href="NT.Mat.w18332"/></cl.C></cl.clause></cl.C></cl.clause></cl.C></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Matt.28_c86" level="primary" projected="yes" connect="NT.Matt.28_c80" structure="conj-P"><pl.conj><w xlink:href="NT.Mat.w18333"/></pl.conj><cl.P><w xlink:href="NT.Mat.w18334"/></cl.P></cl.clause><cl.clause xml:id="NT.Matt.28_c87" level="primary" projected="yes" connect="NT.Matt.28_c86" structure="S-A-P-A-A"><cl.S><w xlink:href="NT.Mat.w18335"/></cl.S><cl.A><w xlink:href="NT.Mat.w18336"/><w xlink:href="NT.Mat.w18337"/></cl.A><cl.P><w xlink:href="NT.Mat.w18338"/></cl.P><cl.A><w xlink:href="NT.Mat.w18339"/><w xlink:href="NT.Mat.w18340"/><w xlink:href="NT.Mat.w18341"/></cl.A><cl.A><w xlink:href="NT.Mat.w18342"/><w xlink:href="NT.Mat.w18343"/><w xlink:href="NT.Mat.w18344"/><w xlink:href="NT.Mat.w18345"/><w xlink:href="NT.Mat.w18346"/></cl.A></cl.clause></chapter>
+		-->
+<chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Matt" num="28">
+  <cl.clause xml:id="NT.Matt.28_c1" level="secondary" connect="NT.Matt.28_c2" structure="A-(conj)-P-A">
+    <cl.A>
+      <w xlink:href="NT.Mat.w18018"/>
+      <pl.conj type="embed" parent="NT.Matt.28_c1">
+        <w xlink:href="NT.Mat.w18019"/>
+      </pl.conj>
+      <w xlink:href="NT.Mat.w18020"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18021"/>
+      <w xlink:href="NT.Mat.w18022"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18023"/>
+      <w xlink:href="NT.Mat.w18024"/>
+      <w xlink:href="NT.Mat.w18025"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c2" level="primary" structure="P-S-A">
+    <cl.P>
+      <w xlink:href="NT.Mat.w18026"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Mat.w18027"/>
+      <w xlink:href="NT.Mat.w18028"/>
+      <w xlink:href="NT.Mat.w18029"/>
+      <w xlink:href="NT.Mat.w18030"/>
+      <w xlink:href="NT.Mat.w18031"/>
+      <w xlink:href="NT.Mat.w18032"/>
+      <w xlink:href="NT.Mat.w18033"/>
+    </cl.S>
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c3" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18034"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Mat.w18035"/>
+          <w xlink:href="NT.Mat.w18036"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c4" level="primary" connect="NT.Matt.28_c2" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18037"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18038"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c5" level="primary" connect="NT.Matt.28_c4" structure="S-(P)">
+    <cl.S>
+      <w xlink:href="NT.Mat.w18039"/>
+      <cl.P type="embed" parent="NT.Matt.28_c5">
+        <w xlink:href="NT.Mat.w18040"/>
+      </cl.P>
+      <w xlink:href="NT.Mat.w18041"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c6" level="primary" connect="NT.Matt.28_c5" structure="S-(conj)-A-P-C">
+    <cl.S>
+      <w xlink:href="NT.Mat.w18042"/>
+      <pl.conj type="embed" parent="NT.Matt.28_c6">
+        <w xlink:href="NT.Mat.w18043"/>
+      </pl.conj>
+      <w xlink:href="NT.Mat.w18044"/>
+    </cl.S>
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c7" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18045"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Mat.w18046"/>
+          <w xlink:href="NT.Mat.w18047"/>
+        </cl.A>
+      </cl.clause>
+      <cl.clause xml:id="NT.Matt.28_c8" level="embedded" structure="conj-P">
+        <pl.conj>
+          <w xlink:href="NT.Mat.w18048"/>
+        </pl.conj>
+        <cl.P>
+          <w xlink:href="NT.Mat.w18049"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18050"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18051"/>
+      <w xlink:href="NT.Mat.w18052"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c9" level="primary" connect="NT.Matt.28_c6" structure="conj-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18053"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18054"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18055"/>
+      <w xlink:href="NT.Mat.w18056"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c10" level="primary" connect="NT.Matt.28_c9" structure="P-conj-S-A">
+    <cl.P>
+      <w xlink:href="NT.Mat.w18057"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18058"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Mat.w18059"/>
+      <w xlink:href="NT.Mat.w18060"/>
+      <w xlink:href="NT.Mat.w18061"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18062"/>
+      <w xlink:href="NT.Mat.w18063"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c11" level="primary" connect="NT.Matt.28_c10" structure="conj-S-C-A">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18064"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Mat.w18065"/>
+      <w xlink:href="NT.Mat.w18066"/>
+      <w xlink:href="NT.Mat.w18067"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18068"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18069"/>
+      <w xlink:href="NT.Mat.w18070"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c12" level="primary" connect="NT.Matt.28_c11" structure="A-(conj)-P-S">
+    <cl.A>
+      <w xlink:href="NT.Mat.w18071"/>
+      <pl.conj type="embed" parent="NT.Matt.28_c12">
+        <w xlink:href="NT.Mat.w18072"/>
+      </pl.conj>
+      <w xlink:href="NT.Mat.w18073"/>
+      <w xlink:href="NT.Mat.w18074"/>
+      <w xlink:href="NT.Mat.w18075"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18076"/>
+    </cl.P>
+    <cl.S>
+      <cl.clause xml:id="NT.Matt.28_c13" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18077"/>
+          <w xlink:href="NT.Mat.w18078"/>
+        </cl.P>
+      </cl.clause>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c14" level="primary" connect="NT.Matt.28_c12" structure="conj-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18079"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18080"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18081"/>
+      <w xlink:href="NT.Mat.w18082"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c15" level="primary" connect="NT.Matt.28_c14" structure="A-conj-S-P-C">
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c16" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18083"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18084"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Mat.w18085"/>
+      <w xlink:href="NT.Mat.w18086"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18087"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18088"/>
+      <w xlink:href="NT.Mat.w18089"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c17" level="primary" projected="yes" connect="NT.Matt.28_c15" structure="A-P-S">
+    <cl.A>
+      <w xlink:href="NT.Mat.w18090"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18091"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Mat.w18092"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c18" level="primary" projected="yes" connect="NT.Matt.28_c17" structure="P-conj">
+    <cl.P>
+      <w xlink:href="NT.Mat.w18093"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18094"/>
+    </pl.conj>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c19" level="secondary" projected="yes" connect="NT.Matt.28_c18" structure="conj-C-P">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18095"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18096"/>
+      <cl.clause xml:id="NT.Matt.28_c20" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18097"/>
+          <w xlink:href="NT.Mat.w18098"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18099"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c21" level="primary" projected="yes" connect="NT.Matt.28_c18" structure="A-P-A">
+    <cl.A>
+      <w xlink:href="NT.Mat.w18100"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18101"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18102"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c22" level="primary" projected="yes" connect="NT.Matt.28_c21" structure="P-conj">
+    <cl.P>
+      <w xlink:href="NT.Mat.w18103"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18104"/>
+    </pl.conj>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c23" level="secondary" projected="yes" connect="NT.Matt.28_c22" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18105"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18106"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c24" level="primary" projected="yes" connect="NT.Matt.28_c22" structure="P">
+    <cl.P>
+      <w xlink:href="NT.Mat.w18107"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c25" level="primary" projected="yes" connect="NT.Matt.28_c24" structure="P-C">
+    <cl.P>
+      <w xlink:href="NT.Mat.w18108"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18109"/>
+      <w xlink:href="NT.Mat.w18110"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c26" level="secondary" projected="yes" connect="NT.Matt.28_c25" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18111"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18112"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c27" level="primary" projected="yes" connect="NT.Matt.28_c25" structure="conj-A-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18113"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c28" level="embedded" structure="conj-P">
+        <pl.conj>
+          <w xlink:href="NT.Mat.w18114"/>
+        </pl.conj>
+        <cl.P>
+          <w xlink:href="NT.Mat.w18115"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18116"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18117"/>
+      <w xlink:href="NT.Mat.w18118"/>
+      <w xlink:href="NT.Mat.w18119"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c29" level="primary" projected="yes" connect="NT.Matt.28_c27" structure="conj-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18120"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18121"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18122"/>
+      <w xlink:href="NT.Mat.w18123"/>
+      <w xlink:href="NT.Mat.w18124"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c30" level="primary" projected="yes" connect="NT.Matt.28_c27" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18125"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18126"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c31" level="primary" projected="yes" connect="NT.Matt.28_c30" structure="P-C-A">
+    <cl.P>
+      <w xlink:href="NT.Mat.w18127"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18128"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18129"/>
+      <w xlink:href="NT.Mat.w18130"/>
+      <w xlink:href="NT.Mat.w18131"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c32" level="primary" projected="yes" connect="NT.Matt.28_c31" structure="A-C-P">
+    <cl.A>
+      <w xlink:href="NT.Mat.w18132"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18133"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18134"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c33" level="primary" projected="yes" connect="NT.Matt.28_c32" structure="P">
+    <cl.P>
+      <w xlink:href="NT.Mat.w18135"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c34" level="primary" projected="yes" connect="NT.Matt.28_c33" structure="P-C">
+    <cl.P>
+      <w xlink:href="NT.Mat.w18136"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18137"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c35" level="primary" connect="NT.Matt.28_c15" structure="conj-A-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18138"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c36" level="embedded" structure="P-A-A-A">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18139"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Mat.w18140"/>
+        </cl.A>
+        <cl.A>
+          <w xlink:href="NT.Mat.w18141"/>
+          <w xlink:href="NT.Mat.w18142"/>
+          <w xlink:href="NT.Mat.w18143"/>
+        </cl.A>
+        <cl.A>
+          <w xlink:href="NT.Mat.w18144"/>
+          <w xlink:href="NT.Mat.w18145"/>
+          <w xlink:href="NT.Mat.w18146"/>
+          <w xlink:href="NT.Mat.w18147"/>
+          <w xlink:href="NT.Mat.w18148"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18149"/>
+    </cl.P>
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c37" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18150"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Mat.w18151"/>
+          <w xlink:href="NT.Mat.w18152"/>
+          <w xlink:href="NT.Mat.w18153"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c38" level="primary" connect="NT.Matt.28_c35" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18154"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18155"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c39" level="primary" connect="NT.Matt.28_c38" structure="S-P-C-A">
+    <cl.S>
+      <w xlink:href="NT.Mat.w18156"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18157"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18158"/>
+    </cl.C>
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c40" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18159"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c41" level="primary" projected="yes" connect="NT.Matt.28_c39" structure="P">
+    <cl.P>
+      <w xlink:href="NT.Mat.w18160"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c42" level="primary" connect="NT.Matt.28_c39" structure="S-conj-A-P-C">
+    <cl.S>
+      <w xlink:href="NT.Mat.w18161"/>
+    </cl.S>
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18162"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c43" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18163"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18164"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18165"/>
+      <w xlink:href="NT.Mat.w18166"/>
+      <w xlink:href="NT.Mat.w18167"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c44" level="primary" connect="NT.Matt.28_c42" structure="conj-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18168"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18169"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18170"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c45" level="primary" connect="NT.Matt.28_c44" structure="A-P-C-S">
+    <cl.A>
+      <w xlink:href="NT.Mat.w18171"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18172"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18173"/>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.Mat.w18174"/>
+      <w xlink:href="NT.Mat.w18175"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c46" level="primary" projected="yes" connect="NT.Matt.28_c45" structure="A-P">
+    <cl.A>
+      <w xlink:href="NT.Mat.w18176"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18177"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c47" level="primary" projected="yes" connect="NT.Matt.28_c46" structure="P">
+    <cl.P>
+      <w xlink:href="NT.Mat.w18178"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c48" level="primary" projected="yes" connect="NT.Matt.28_c47" structure="P-C">
+    <cl.P>
+      <w xlink:href="NT.Mat.w18179"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18180"/>
+      <w xlink:href="NT.Mat.w18181"/>
+      <w xlink:href="NT.Mat.w18182"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c49" level="secondary" projected="yes" connect="NT.Matt.28_c48" structure="conj-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18183"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18184"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18185"/>
+      <w xlink:href="NT.Mat.w18186"/>
+      <w xlink:href="NT.Mat.w18187"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c50" level="primary" projected="yes" connect="NT.Matt.28_c48" structure="A-C-P">
+    <cl.A>
+      <w xlink:href="NT.Mat.w18188"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18189"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18190"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c51" level="secondary" connect="NT.Matt.28_c52" structure="P-conj-S">
+    <cl.P>
+      <w xlink:href="NT.Mat.w18191"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18192"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Mat.w18193"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c52" level="primary" connect="NT.Matt.28_c45" structure="P">
+    <cl.P>
+      <w xlink:href="NT.Mat.w18194"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c53" level="primary" connect="NT.Matt.28_c52" structure="S-A-P-C-C">
+    <cl.S>
+      <w xlink:href="NT.Mat.w18195"/>
+      <w xlink:href="NT.Mat.w18196"/>
+      <w xlink:href="NT.Mat.w18197"/>
+    </cl.S>
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c54" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18198"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Mat.w18199"/>
+          <w xlink:href="NT.Mat.w18200"/>
+          <w xlink:href="NT.Mat.w18201"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18202"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18203"/>
+      <w xlink:href="NT.Mat.w18204"/>
+    </cl.C>
+    <cl.C>
+      <cl.clause xml:id="NT.Matt.28_c55" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18205"/>
+          <w xlink:href="NT.Mat.w18206"/>
+          <w xlink:href="NT.Mat.w18207"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c56" level="primary" connect="NT.Matt.28_c53" structure="conj-A-C-P-C-A">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18208"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c57" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18209"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Mat.w18210"/>
+          <w xlink:href="NT.Mat.w18211"/>
+          <w xlink:href="NT.Mat.w18212"/>
+        </cl.A>
+      </cl.clause>
+      <cl.clause xml:id="NT.Matt.28_c58" level="embedded" structure="C-conj-P">
+        <cl.C>
+          <w xlink:href="NT.Mat.w18213"/>
+        </cl.C>
+        <pl.conj>
+          <w xlink:href="NT.Mat.w18214"/>
+        </pl.conj>
+        <cl.P>
+          <w xlink:href="NT.Mat.w18215"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18216"/>
+      <w xlink:href="NT.Mat.w18217"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18218"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18219"/>
+      <w xlink:href="NT.Mat.w18220"/>
+    </cl.C>
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c59" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18221"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c60" level="primary" projected="yes" connect="NT.Matt.28_c56" structure="P">
+    <cl.P>
+      <w xlink:href="NT.Mat.w18222"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c61" level="primary" projected="yes" connect="NT.Matt.28_c60" structure="conj-S-A-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18223"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Mat.w18224"/>
+      <w xlink:href="NT.Mat.w18225"/>
+      <w xlink:href="NT.Mat.w18226"/>
+    </cl.S>
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c62" level="embedded" structure="A-P">
+        <cl.A>
+          <w xlink:href="NT.Mat.w18227"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Mat.w18228"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18229"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18230"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c63" level="secondary" projected="yes" connect="NT.Matt.28_c61" structure="S-P">
+    <cl.S>
+      <w xlink:href="NT.Mat.w18231"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18232"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c64" level="secondary" projected="yes" connect="NT.Matt.28_c65" structure="conj-conj-P-S-A">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18233"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18234"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18235"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Mat.w18236"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18237"/>
+      <w xlink:href="NT.Mat.w18238"/>
+      <w xlink:href="NT.Mat.w18239"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c65" level="primary" projected="yes" connect="NT.Matt.28_c60" structure="S-P-C">
+    <cl.S>
+      <w xlink:href="NT.Mat.w18240"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18241"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18242"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c66" level="primary" projected="yes" connect="NT.Matt.28_c65" structure="conj-C-C-P">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18243"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18244"/>
+    </cl.C>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18245"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18246"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c67" level="primary" connect="NT.Matt.28_c56" structure="S-conj-A-P">
+    <cl.S>
+      <w xlink:href="NT.Mat.w18247"/>
+    </cl.S>
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18248"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c68" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18249"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Mat.w18250"/>
+          <w xlink:href="NT.Mat.w18251"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18252"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c69" level="secondary" connect="NT.Matt.28_c67" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18253"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18254"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c70" level="primary" connect="NT.Matt.28_c67" structure="conj-P-S-A-A">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18255"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18256"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Mat.w18257"/>
+      <w xlink:href="NT.Mat.w18258"/>
+      <w xlink:href="NT.Mat.w18259"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18260"/>
+      <w xlink:href="NT.Mat.w18261"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18262"/>
+      <w xlink:href="NT.Mat.w18263"/>
+      <w xlink:href="NT.Mat.w18264"/>
+      <w xlink:href="NT.Mat.w18265"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c71" level="primary" connect="NT.Matt.28_c70" structure="S-(conj)-P-A-A">
+    <cl.S>
+      <w xlink:href="NT.Mat.w18266"/>
+      <pl.conj type="embed" parent="NT.Matt.28_c71">
+        <w xlink:href="NT.Mat.w18267"/>
+      </pl.conj>
+      <w xlink:href="NT.Mat.w18268"/>
+      <w xlink:href="NT.Mat.w18269"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18270"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18271"/>
+      <w xlink:href="NT.Mat.w18272"/>
+      <w xlink:href="NT.Mat.w18273"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18274"/>
+      <w xlink:href="NT.Mat.w18275"/>
+      <w xlink:href="NT.Mat.w18276"/>
+      <cl.clause xml:id="NT.Matt.28_c72" level="embedded" structure="C-P-C-S">
+        <cl.C>
+          <w xlink:href="NT.Mat.w18277"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.Mat.w18278"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Mat.w18279"/>
+        </cl.C>
+        <cl.S>
+          <w xlink:href="NT.Mat.w18280"/>
+          <w xlink:href="NT.Mat.w18281"/>
+        </cl.S>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c73" level="primary" connect="NT.Matt.28_c71" structure="conj-A-P">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18282"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c74" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18283"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Mat.w18284"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18285"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c75" level="primary" connect="NT.Matt.28_c73" structure="S-conj-P">
+    <cl.S>
+      <w xlink:href="NT.Mat.w18286"/>
+    </cl.S>
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18287"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18288"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c76" level="primary" connect="NT.Matt.28_c75" structure="conj-A-S-P-C-A">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18289"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c77" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18290"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Mat.w18291"/>
+      <w xlink:href="NT.Mat.w18292"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18293"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18294"/>
+    </cl.C>
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c78" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18295"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c79" level="primary" projected="yes" connect="NT.Matt.28_c76" structure="P-C-S-A">
+    <cl.P>
+      <w xlink:href="NT.Mat.w18296"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18297"/>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.Mat.w18298"/>
+      <w xlink:href="NT.Mat.w18299"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18300"/>
+      <w xlink:href="NT.Mat.w18301"/>
+      <w xlink:href="NT.Mat.w18302"/>
+      <w xlink:href="NT.Mat.w18303"/>
+      <w xlink:href="NT.Mat.w18304"/>
+      <w xlink:href="NT.Mat.w18305"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c80" level="primary" projected="yes" connect="NT.Matt.28_c79" structure="A-conj-P-C-A-A">
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c81" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18306"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18307"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18308"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Mat.w18309"/>
+      <w xlink:href="NT.Mat.w18310"/>
+      <w xlink:href="NT.Mat.w18311"/>
+    </cl.C>
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c82" level="embedded" structure="P-C-A">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18312"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Mat.w18313"/>
+        </cl.C>
+        <cl.A>
+          <w xlink:href="NT.Mat.w18314"/>
+          <w xlink:href="NT.Mat.w18315"/>
+          <w xlink:href="NT.Mat.w18316"/>
+          <w xlink:href="NT.Mat.w18317"/>
+          <w xlink:href="NT.Mat.w18318"/>
+          <w xlink:href="NT.Mat.w18319"/>
+          <w xlink:href="NT.Mat.w18320"/>
+          <w xlink:href="NT.Mat.w18321"/>
+          <w xlink:href="NT.Mat.w18322"/>
+          <w xlink:href="NT.Mat.w18323"/>
+          <w xlink:href="NT.Mat.w18324"/>
+          <w xlink:href="NT.Mat.w18325"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.Matt.28_c83" level="embedded" structure="P-C-C">
+        <cl.P>
+          <w xlink:href="NT.Mat.w18326"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Mat.w18327"/>
+        </cl.C>
+        <cl.C>
+          <cl.clause xml:id="NT.Matt.28_c84" level="embedded" structure="P-C">
+            <cl.P>
+              <w xlink:href="NT.Mat.w18328"/>
+            </cl.P>
+            <cl.C>
+              <w xlink:href="NT.Mat.w18329"/>
+              <cl.clause xml:id="NT.Matt.28_c85" level="embedded" structure="C-P-C">
+                <cl.C>
+                  <w xlink:href="NT.Mat.w18330"/>
+                </cl.C>
+                <cl.P>
+                  <w xlink:href="NT.Mat.w18331"/>
+                </cl.P>
+                <cl.C>
+                  <w xlink:href="NT.Mat.w18332"/>
+                </cl.C>
+              </cl.clause>
+            </cl.C>
+          </cl.clause>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c86" level="primary" projected="yes" connect="NT.Matt.28_c80" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Mat.w18333"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18334"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Matt.28_c87" level="primary" projected="yes" connect="NT.Matt.28_c86" structure="S-A-P-A-A">
+    <cl.S>
+      <w xlink:href="NT.Mat.w18335"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18336"/>
+      <w xlink:href="NT.Mat.w18337"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Mat.w18338"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18339"/>
+      <w xlink:href="NT.Mat.w18340"/>
+      <w xlink:href="NT.Mat.w18341"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Mat.w18342"/>
+      <w xlink:href="NT.Mat.w18343"/>
+      <w xlink:href="NT.Mat.w18344"/>
+      <w xlink:href="NT.Mat.w18345"/>
+      <w xlink:href="NT.Mat.w18346"/>
+    </cl.A>
+  </cl.clause>
+</chapter>

@@ -14,4 +14,2446 @@ Copyright (c) 2005-6 OpenText.org
 
 contact: matt@opentext.org
 =================================================		
-		--><chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Phil" num="1"><wg.groups><wg.group xml:id="NT.Phil.1_wg1"><wg.head><wg.word xlink:href="NT.Phil.w1"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg2"><wg.connector><wg.word xlink:href="NT.Phil.w2"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w3"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Phil.w4"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Phil.w5"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Phil.w6"/></wg.definer></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg3"><wg.head><wg.word xlink:href="NT.Phil.w9"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w8"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Phil.w7"/><cl.clause xlink:href="NT.Phil.1_c2"><wg.group xml:id="NT.Phil.1_wg4"><wg.head><wg.word xlink:href="NT.Phil.w14"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w13"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg5"><wg.head><wg.word xlink:href="NT.Phil.w16"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w15"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group></cl.clause></wg.definer><wg.relator><wg.word xlink:href="NT.Phil.w11"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w10"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Phil.w12"/></wg.definer></wg.modifiers></wg.word></wg.relator></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg6"><wg.head><wg.word xlink:href="NT.Phil.w18"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w17"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg7"><wg.connector><wg.word xlink:href="NT.Phil.w19"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w20"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg8"><wg.head><wg.word xlink:href="NT.Phil.w21"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg9"><wg.head><wg.word xlink:href="NT.Phil.w22"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg10"><wg.connector><wg.word xlink:href="NT.Phil.w23"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w24"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg11"><wg.head><wg.word xlink:href="NT.Phil.w26"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w25"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Phil.w27"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Phil.w28"/></wg.qualifier></wg.modifiers></wg.word></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg12"><wg.connector><wg.word xlink:href="NT.Phil.w29"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w30"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Phil.w31"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Phil.w32"/></wg.definer></wg.modifiers></wg.word></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg13"><wg.head><wg.word xlink:href="NT.Phil.w33"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg14"><wg.head><wg.word xlink:href="NT.Phil.w35"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w34"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w36"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg15"><wg.head><wg.word xlink:href="NT.Phil.w40"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w37"/><wg.word xlink:href="NT.Phil.w39"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Phil.w38"/></wg.definer><wg.qualifier><wg.word xlink:href="NT.Phil.w41"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg16"><wg.head><wg.word xlink:href="NT.Phil.w42"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg17"><wg.head><wg.word xlink:href="NT.Phil.w45"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w43"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Phil.w44"/></wg.definer><wg.qualifier><wg.word xlink:href="NT.Phil.w46"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg18"><wg.head><wg.word xlink:href="NT.Phil.w49"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w47"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Phil.w48"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg19"><wg.head><wg.word xlink:href="NT.Phil.w51"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w50"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg20"><wg.head><wg.word xlink:href="NT.Phil.w53"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w52"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg21"><wg.head><wg.word xlink:href="NT.Phil.w54"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg22"><wg.head><wg.word xlink:href="NT.Phil.w57"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w55"/><wg.word xlink:href="NT.Phil.w56"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w58"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg23"><wg.head><wg.word xlink:href="NT.Phil.w61"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w59"/><wg.word xlink:href="NT.Phil.w60"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg24"><wg.head><wg.word xlink:href="NT.Phil.w65"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w62"/><wg.word xlink:href="NT.Phil.w63"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Phil.w64"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg25"><wg.head><wg.word xlink:href="NT.Phil.w68"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w66"/><wg.word xlink:href="NT.Phil.w67"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg26"><wg.head><wg.word xlink:href="NT.Phil.w69"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg27"><wg.head><wg.word xlink:href="NT.Phil.w71"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Phil.w70"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg28"><wg.head><wg.word xlink:href="NT.Phil.w72"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg29"><wg.head><wg.word xlink:href="NT.Phil.w74"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w73"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg30"><wg.head><wg.word xlink:href="NT.Phil.w76"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w75"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg31"><wg.head><wg.word xlink:href="NT.Phil.w77"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Phil.w78"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg32"><wg.head><wg.word xlink:href="NT.Phil.w79"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg33"><wg.head><wg.word xlink:href="NT.Phil.w81"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w80"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w82"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Phil.w83"/></wg.definer></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg34"><wg.head><wg.word xlink:href="NT.Phil.w84"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg35"><wg.head><wg.word xlink:href="NT.Phil.w85"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg36"><wg.head><wg.word xlink:href="NT.Phil.w86"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg37"><wg.head><wg.word xlink:href="NT.Phil.w87"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg38"><wg.head><wg.word xlink:href="NT.Phil.w88"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg39"><wg.head><wg.word xlink:href="NT.Phil.w89"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg40"><wg.head><wg.word xlink:href="NT.Phil.w92"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w90"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Phil.w91"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg41"><wg.head><wg.word xlink:href="NT.Phil.w95"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w93"/><wg.word xlink:href="NT.Phil.w94"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg42"><wg.head><wg.word xlink:href="NT.Phil.w96"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg43"><wg.head><wg.word xlink:href="NT.Phil.w99"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w97"/><wg.word xlink:href="NT.Phil.w98"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg44"><wg.head><wg.word xlink:href="NT.Phil.w100"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg45"><wg.connector><wg.word xlink:href="NT.Phil.w102"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w104"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w101"/><wg.word xlink:href="NT.Phil.w103"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w105"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg46"><wg.connector><wg.word xlink:href="NT.Phil.w106"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w109"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w107"/><wg.word xlink:href="NT.Phil.w108"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg47"><wg.connector><wg.word xlink:href="NT.Phil.w110"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w111"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Phil.w113"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w112"/></wg.specifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg48"><wg.head><wg.word xlink:href="NT.Phil.w114"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Phil.w115"/><wg.word xlink:href="NT.Phil.w117"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w116"/></wg.specifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg49"><wg.head><wg.word xlink:href="NT.Phil.w119"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Phil.w118"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg50"><wg.head><wg.word xlink:href="NT.Phil.w120"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg51"><wg.head><wg.word xlink:href="NT.Phil.w121"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Phil.w123"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg52"><wg.head><wg.word xlink:href="NT.Phil.w122"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg53"><wg.head><wg.word xlink:href="NT.Phil.w125"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w124"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg54"><wg.head><wg.word xlink:href="NT.Phil.w126"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg55"><wg.head><wg.word xlink:href="NT.Phil.w127"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg56"><wg.head><wg.word xlink:href="NT.Phil.w129"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Phil.w128"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg57"><wg.head><wg.word xlink:href="NT.Phil.w131"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w130"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w132"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Phil.w133"/></wg.definer></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg58"><wg.head><wg.word xlink:href="NT.Phil.w134"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg59"><wg.head><wg.word xlink:href="NT.Phil.w135"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg60"><wg.head><wg.word xlink:href="NT.Phil.w136"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg61"><wg.head><wg.word xlink:href="NT.Phil.w137"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg62"><wg.head><wg.word xlink:href="NT.Phil.w139"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w138"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w140"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg63"><wg.head><wg.word xlink:href="NT.Phil.w141"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg64"><wg.head><wg.word xlink:href="NT.Phil.w142"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg65"><wg.connector><wg.word xlink:href="NT.Phil.w143"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w144"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg66"><wg.head><wg.word xlink:href="NT.Phil.w145"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg67"><wg.head><wg.word xlink:href="NT.Phil.w147"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w146"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg68"><wg.connector><wg.word xlink:href="NT.Phil.w148"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w150"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Phil.w149"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg69"><wg.head><wg.word xlink:href="NT.Phil.w153"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w151"/><wg.word xlink:href="NT.Phil.w152"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg70"><wg.head><wg.word xlink:href="NT.Phil.w154"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg71"><wg.head><wg.word xlink:href="NT.Phil.w156"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w155"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg72"><wg.head><wg.word xlink:href="NT.Phil.w157"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg73"><wg.head><wg.word xlink:href="NT.Phil.w158"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg74"><wg.head><wg.word xlink:href="NT.Phil.w159"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg75"><wg.connector><wg.word xlink:href="NT.Phil.w160"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w161"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg76"><wg.head><wg.word xlink:href="NT.Phil.w163"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w162"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w164"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg77"><wg.head><wg.word xlink:href="NT.Phil.w165"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg78"><wg.head><wg.word xlink:href="NT.Phil.w166"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Phil.w168"><wg.modifiers><wg.relator><wg.word xlink:href="NT.Phil.w170"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w169"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Phil.w171"/></wg.definer></wg.modifiers></wg.word></wg.relator></wg.modifiers></wg.word></wg.definer><wg.qualifier><wg.word xlink:href="NT.Phil.w167"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg79"><wg.head><wg.word xlink:href="NT.Phil.w173"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w172"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg80"><wg.connector><wg.word xlink:href="NT.Phil.w174"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w175"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Phil.w176"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg81"><wg.head><wg.word xlink:href="NT.Phil.w177"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg82"><wg.head><wg.word xlink:href="NT.Phil.w178"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg83"><wg.head><wg.word xlink:href="NT.Phil.w179"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg84"><wg.head><wg.word xlink:href="NT.Phil.w180"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg85"><wg.head><wg.word xlink:href="NT.Phil.w181"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg86"><wg.head><wg.word xlink:href="NT.Phil.w182"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg87"><wg.head><wg.word xlink:href="NT.Phil.w183"><wg.modifiers><wg.relator><wg.word xlink:href="NT.Phil.w185"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w184"/></wg.specifier></wg.modifiers></wg.word></wg.relator></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg88"><wg.head><wg.word xlink:href="NT.Phil.w186"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg89"><wg.head><wg.word xlink:href="NT.Phil.w188"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w187"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w190"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w189"/></wg.specifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg90"><wg.head><wg.word xlink:href="NT.Phil.w191"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg91"><wg.head><wg.word xlink:href="NT.Phil.w192"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg92"><wg.head><wg.word xlink:href="NT.Phil.w194"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w193"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w195"/></wg.qualifier><wg.relator><wg.word xlink:href="NT.Phil.w198"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w197"/></wg.specifier></wg.modifiers></wg.word></wg.relator></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg93"><wg.head><wg.word xlink:href="NT.Phil.w196"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg94"><wg.head><wg.word xlink:href="NT.Phil.w199"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg95"><wg.head><wg.word xlink:href="NT.Phil.w203"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w200"/><wg.word xlink:href="NT.Phil.w202"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Phil.w201"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg96"><wg.connector><wg.word xlink:href="NT.Phil.w204"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w206"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w205"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Phil.w207"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg97"><wg.head><wg.word xlink:href="NT.Phil.w208"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg98"><wg.head><wg.word xlink:href="NT.Phil.w210"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w209"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w212"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w211"/></wg.specifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg99"><wg.head><wg.word xlink:href="NT.Phil.w214"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w213"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg100"><wg.head><wg.word xlink:href="NT.Phil.w215"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg101"><wg.head><wg.word xlink:href="NT.Phil.w217"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w216"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w218"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg102"><wg.head><wg.word xlink:href="NT.Phil.w219"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg103"><wg.head><wg.word xlink:href="NT.Phil.w220"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg104"><wg.head><wg.word xlink:href="NT.Phil.w221"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg105"><wg.head><wg.word xlink:href="NT.Phil.w223"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w222"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg106"><wg.head><wg.word xlink:href="NT.Phil.w224"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg107"><wg.head><wg.word xlink:href="NT.Phil.w225"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg108"><wg.head><wg.word xlink:href="NT.Phil.w226"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg109"><wg.head><wg.word xlink:href="NT.Phil.w227"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg110"><wg.head><wg.word xlink:href="NT.Phil.w229"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w228"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg111"><wg.connector><wg.word xlink:href="NT.Phil.w230"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w231"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg112"><wg.head><wg.word xlink:href="NT.Phil.w232"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg113"><wg.head><wg.word xlink:href="NT.Phil.w233"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg114"><wg.head><wg.word xlink:href="NT.Phil.w234"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg115"><wg.head><wg.word xlink:href="NT.Phil.w236"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w235"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg116"><wg.head><wg.word xlink:href="NT.Phil.w238"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w237"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg117"><wg.head><wg.word xlink:href="NT.Phil.w239"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg118"><wg.head><wg.word xlink:href="NT.Phil.w240"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg119"><wg.head><wg.word xlink:href="NT.Phil.w241"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg120"><wg.head><wg.word xlink:href="NT.Phil.w243"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w242"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg121"><wg.head><wg.word xlink:href="NT.Phil.w244"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg122"><wg.head><wg.word xlink:href="NT.Phil.w245"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg123"><wg.head><wg.word xlink:href="NT.Phil.w247"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w246"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w249"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w248"/></wg.specifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg124"><wg.head><wg.word xlink:href="NT.Phil.w250"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg125"><wg.head><wg.word xlink:href="NT.Phil.w251"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg126"><wg.head><wg.word xlink:href="NT.Phil.w252"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg127"><wg.head><wg.word xlink:href="NT.Phil.w254"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w253"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg128"><wg.head><wg.word xlink:href="NT.Phil.w256"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w255"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg129"><wg.head><wg.word xlink:href="NT.Phil.w257"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg130"><wg.head><wg.word xlink:href="NT.Phil.w259"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Phil.w258"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg131"><wg.head><wg.word xlink:href="NT.Phil.w260"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg132"><wg.head><wg.word xlink:href="NT.Phil.w261"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg133"><wg.head><wg.word xlink:href="NT.Phil.w262"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg134"><wg.head><wg.word xlink:href="NT.Phil.w264"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w263"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w265"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg135"><wg.head><wg.word xlink:href="NT.Phil.w266"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg136"><wg.head><wg.word xlink:href="NT.Phil.w267"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg137"><wg.head><wg.word xlink:href="NT.Phil.w268"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg138"><wg.head><wg.word xlink:href="NT.Phil.w269"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg139"><wg.head><wg.word xlink:href="NT.Phil.w271"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w270"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg140"><wg.connector><wg.word xlink:href="NT.Phil.w272"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w273"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg141"><wg.connector><wg.word xlink:href="NT.Phil.w274"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w275"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg142"><wg.head><wg.word xlink:href="NT.Phil.w276"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg143"><wg.head><wg.word xlink:href="NT.Phil.w277"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg144"><wg.head><wg.word xlink:href="NT.Phil.w278"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg145"><wg.head><wg.word xlink:href="NT.Phil.w280"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w279"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg146"><wg.head><wg.word xlink:href="NT.Phil.w281"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg147"><wg.head><wg.word xlink:href="NT.Phil.w282"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg148"><wg.head><wg.word xlink:href="NT.Phil.w283"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg149"><wg.head><wg.word xlink:href="NT.Phil.w284"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg150"><wg.head><wg.word xlink:href="NT.Phil.w285"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg151"><wg.head><wg.word xlink:href="NT.Phil.w286"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg152"><wg.head><wg.word xlink:href="NT.Phil.w287"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg153"><wg.head><wg.word xlink:href="NT.Phil.w288"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg154"><wg.head><wg.word xlink:href="NT.Phil.w289"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg155"><wg.head><wg.word xlink:href="NT.Phil.w290"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg156"><wg.head><wg.word xlink:href="NT.Phil.w292"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w291"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg157"><wg.head><wg.word xlink:href="NT.Phil.w296"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w293"/><wg.word xlink:href="NT.Phil.w294"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w295"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg158"><wg.connector><wg.word xlink:href="NT.Phil.w297"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w298"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Phil.w300"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w299"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w301"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Phil.w302"/></wg.definer></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg159"><wg.head><wg.word xlink:href="NT.Phil.w305"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w303"/><wg.word xlink:href="NT.Phil.w304"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg160"><wg.connector><wg.word xlink:href="NT.Phil.w306"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w307"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Phil.w308"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg161"><wg.head><wg.word xlink:href="NT.Phil.w309"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg162"><wg.head><wg.word xlink:href="NT.Phil.w311"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w310"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg163"><wg.head><wg.word xlink:href="NT.Phil.w312"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg164"><wg.head><wg.word xlink:href="NT.Phil.w313"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg165"><wg.head><wg.word xlink:href="NT.Phil.w316"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w314"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Phil.w315"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg166"><wg.head><wg.word xlink:href="NT.Phil.w318"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w317"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg167"><wg.connector><wg.word xlink:href="NT.Phil.w319"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w320"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg168"><wg.head><wg.word xlink:href="NT.Phil.w321"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg169"><wg.head><wg.word xlink:href="NT.Phil.w322"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg170"><wg.head><wg.word xlink:href="NT.Phil.w325"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w323"/><wg.word xlink:href="NT.Phil.w324"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w326"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg171"><wg.connector><wg.word xlink:href="NT.Phil.w327"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w329"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w328"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg172"><wg.connector><wg.word xlink:href="NT.Phil.w330"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w332"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w331"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg173"><wg.head><wg.word xlink:href="NT.Phil.w333"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg174"><wg.head><wg.word xlink:href="NT.Phil.w334"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg175"><wg.head><wg.word xlink:href="NT.Phil.w336"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w335"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg176"><wg.head><wg.word xlink:href="NT.Phil.w337"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg177"><wg.head><wg.word xlink:href="NT.Phil.w338"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg178"><wg.head><wg.word xlink:href="NT.Phil.w340"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w339"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg179"><wg.head><wg.word xlink:href="NT.Phil.w341"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg180"><wg.head><wg.word xlink:href="NT.Phil.w342"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg181"><wg.head><wg.word xlink:href="NT.Phil.w343"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg182"><wg.head><wg.word xlink:href="NT.Phil.w345"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w344"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg183"><wg.head><wg.word xlink:href="NT.Phil.w347"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w346"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg184"><wg.head><wg.word xlink:href="NT.Phil.w348"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg185"><wg.head><wg.word xlink:href="NT.Phil.w349"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg186"><wg.head><wg.word xlink:href="NT.Phil.w350"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Phil.w351"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg187"><wg.head><wg.word xlink:href="NT.Phil.w352"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg188"><wg.head><wg.word xlink:href="NT.Phil.w353"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg189"><wg.head><wg.word xlink:href="NT.Phil.w354"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg190"><wg.head><wg.word xlink:href="NT.Phil.w355"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg191"><wg.head><wg.word xlink:href="NT.Phil.w356"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg192"><wg.head><wg.word xlink:href="NT.Phil.w357"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg193"><wg.head><wg.word xlink:href="NT.Phil.w358"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg194"><wg.head><wg.word xlink:href="NT.Phil.w361"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w359"/><wg.word xlink:href="NT.Phil.w360"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg195"><wg.head><wg.word xlink:href="NT.Phil.w363"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w362"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg196"><wg.head><wg.word xlink:href="NT.Phil.w364"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg197"><wg.head><wg.word xlink:href="NT.Phil.w367"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w365"/><wg.word xlink:href="NT.Phil.w366"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg198"><wg.head><wg.word xlink:href="NT.Phil.w368"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg199"><wg.head><wg.word xlink:href="NT.Phil.w370"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w369"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg200"><wg.head><wg.word xlink:href="NT.Phil.w371"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg201"><wg.head><wg.word xlink:href="NT.Phil.w373"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg202"><wg.head><wg.word xlink:href="NT.Phil.w374"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Phil.w372"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg203"><wg.head><wg.word xlink:href="NT.Phil.w375"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg204"><wg.head><wg.word xlink:href="NT.Phil.w377"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg205"><wg.head><wg.word xlink:href="NT.Phil.w378"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w376"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg206"><wg.head><wg.word xlink:href="NT.Phil.w381"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w379"/><wg.word xlink:href="NT.Phil.w380"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg207"><wg.head><wg.word xlink:href="NT.Phil.w382"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg208"><wg.head><wg.word xlink:href="NT.Phil.w384"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w383"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg209"><wg.head><wg.word xlink:href="NT.Phil.w385"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg210"><wg.head><wg.word xlink:href="NT.Phil.w386"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg211"><wg.head><wg.word xlink:href="NT.Phil.w387"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg212"><wg.head><wg.word xlink:href="NT.Phil.w388"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg213"><wg.head><wg.word xlink:href="NT.Phil.w389"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg214"><wg.head><wg.word xlink:href="NT.Phil.w390"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg215"><wg.head><wg.word xlink:href="NT.Phil.w391"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg216"><wg.head><wg.word xlink:href="NT.Phil.w392"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg217"><wg.head><wg.word xlink:href="NT.Phil.w394"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w393"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg218"><wg.head><wg.word xlink:href="NT.Phil.w398"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w395"/><wg.word xlink:href="NT.Phil.w396"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w397"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg219"><wg.connector><wg.word xlink:href="NT.Phil.w399"/></wg.connector><wg.head><wg.word xlink:href="NT.Phil.w400"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Phil.w402"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w401"/></wg.specifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg220"><wg.head><wg.word xlink:href="NT.Phil.w403"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg221"><wg.head><wg.word xlink:href="NT.Phil.w405"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w404"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w406"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg222"><wg.head><wg.word xlink:href="NT.Phil.w407"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg223"><wg.head><wg.word xlink:href="NT.Phil.w409"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w408"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w410"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg224"><wg.head><wg.word xlink:href="NT.Phil.w412"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w411"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg225"><wg.head><wg.word xlink:href="NT.Phil.w416"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w413"/><wg.word xlink:href="NT.Phil.w414"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Phil.w415"/><wg.word xlink:href="NT.Phil.w417"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg226"><wg.head><wg.word xlink:href="NT.Phil.w419"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w418"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg227"><wg.head><wg.word xlink:href="NT.Phil.w420"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg228"><wg.head><wg.word xlink:href="NT.Phil.w421"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Phil.w423"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w422"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w425"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w424"/></wg.specifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg229"><wg.head><wg.word xlink:href="NT.Phil.w426"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg230"><wg.head><wg.word xlink:href="NT.Phil.w427"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg231"><wg.head><wg.word xlink:href="NT.Phil.w428"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg232"><wg.head><wg.word xlink:href="NT.Phil.w429"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg233"><wg.head><wg.word xlink:href="NT.Phil.w430"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg234"><wg.head><wg.word xlink:href="NT.Phil.w431"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg235"><wg.head><wg.word xlink:href="NT.Phil.w432"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg236"><wg.head><wg.word xlink:href="NT.Phil.w433"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg237"><wg.head><wg.word xlink:href="NT.Phil.w434"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg238"><wg.head><wg.word xlink:href="NT.Phil.w435"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg239"><wg.head><wg.word xlink:href="NT.Phil.w436"><wg.modifiers><wg.relator><wg.word xlink:href="NT.Phil.w438"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w437"/></wg.specifier></wg.modifiers></wg.word></wg.relator></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg240"><wg.head><wg.word xlink:href="NT.Phil.w439"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg241"><wg.head><wg.word xlink:href="NT.Phil.w440"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg242"><wg.head><wg.word xlink:href="NT.Phil.w443"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w441"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Phil.w442"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg243"><wg.head><wg.word xlink:href="NT.Phil.w445"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Phil.w444"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg244"><wg.head><wg.word xlink:href="NT.Phil.w446"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg245"><wg.head><wg.word xlink:href="NT.Phil.w448"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w447"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Phil.w450"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w449"/></wg.specifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg246"><wg.head><wg.word xlink:href="NT.Phil.w451"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg247"><wg.head><wg.word xlink:href="NT.Phil.w452"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg248"><wg.head><wg.word xlink:href="NT.Phil.w453"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg249"><wg.head><wg.word xlink:href="NT.Phil.w455"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w454"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg250"><wg.head><wg.word xlink:href="NT.Phil.w458"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w456"/><wg.word xlink:href="NT.Phil.w457"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg251"><wg.head><wg.word xlink:href="NT.Phil.w459"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg252"><wg.head><wg.word xlink:href="NT.Phil.w460"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg253"><wg.head><wg.word xlink:href="NT.Phil.w461"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg254"><wg.head><wg.word xlink:href="NT.Phil.w462"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Phil.w463"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg255"><wg.head><wg.word xlink:href="NT.Phil.w465"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg256"><wg.head><wg.word xlink:href="NT.Phil.w466"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Phil.w464"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg257"><wg.head><wg.word xlink:href="NT.Phil.w467"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg258"><wg.head><wg.word xlink:href="NT.Phil.w468"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg259"><wg.head><wg.word xlink:href="NT.Phil.w470"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w469"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg260"><wg.head><wg.word xlink:href="NT.Phil.w471"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg261"><wg.head><wg.word xlink:href="NT.Phil.w472"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg262"><wg.head><wg.word xlink:href="NT.Phil.w473"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg263"><wg.head><wg.word xlink:href="NT.Phil.w474"><wg.modifiers><wg.definer><cl.clause xlink:href="NT.Phil.1_c78"><wg.group xml:id="NT.Phil.1_wg264"><wg.head><wg.word xlink:href="NT.Phil.w477"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg265"><wg.head><wg.word xlink:href="NT.Phil.w478"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg266"><wg.head><wg.word xlink:href="NT.Phil.w481"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w480"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg267"><wg.head><wg.word xlink:href="NT.Phil.w482"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w479"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group></cl.clause><cl.clause xlink:href="NT.Phil.1_c79"><wg.group xml:id="NT.Phil.1_wg268"><wg.head><wg.word xlink:href="NT.Phil.w483"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg269"><wg.head><wg.word xlink:href="NT.Phil.w484"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg270"><wg.head><wg.word xlink:href="NT.Phil.w487"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w486"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg271"><wg.head><wg.word xlink:href="NT.Phil.w488"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w485"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group></cl.clause></wg.definer><wg.relator><wg.word xlink:href="NT.Phil.w476"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w475"/></wg.specifier></wg.modifiers></wg.word></wg.relator></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg272"><wg.head><wg.word xlink:href="NT.Phil.w491"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w489"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Phil.w490"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg273"><wg.head><wg.word xlink:href="NT.Phil.w492"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg274"><wg.head><wg.word xlink:href="NT.Phil.w493"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg275"><wg.head><wg.word xlink:href="NT.Phil.w494"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg276"><wg.head><wg.word xlink:href="NT.Phil.w496"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w495"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg277"><wg.head><wg.word xlink:href="NT.Phil.w497"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg278"><wg.head><wg.word xlink:href="NT.Phil.w498"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg279"><wg.head><wg.word xlink:href="NT.Phil.w499"/></wg.head></wg.group><wg.group xml:id="NT.Phil.1_wg280"><wg.head><wg.word xlink:href="NT.Phil.w501"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Phil.w500"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group></wg.groups></chapter>
+		-->
+<chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Phil" num="1">
+  <wg.groups>
+    <wg.group xml:id="NT.Phil.1_wg1">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w1"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg2">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w2"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w3">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w4">
+                <wg.modifiers>
+                  <wg.qualifier>
+                    <wg.word xlink:href="NT.Phil.w5">
+                      <wg.modifiers>
+                        <wg.definer>
+                          <wg.word xlink:href="NT.Phil.w6"/>
+                        </wg.definer>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.qualifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg3">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w9">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w8"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w7"/>
+              <cl.clause xlink:href="NT.Phil.1_c2">
+                <wg.group xml:id="NT.Phil.1_wg4">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Phil.w14">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Phil.w13"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Phil.1_wg5">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Phil.w16">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Phil.w15"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+              </cl.clause>
+            </wg.definer>
+            <wg.relator>
+              <wg.word xlink:href="NT.Phil.w11">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Phil.w10"/>
+                  </wg.specifier>
+                  <wg.definer>
+                    <wg.word xlink:href="NT.Phil.w12"/>
+                  </wg.definer>
+                </wg.modifiers>
+              </wg.word>
+            </wg.relator>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg6">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w18">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w17"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg7">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w19"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w20"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg8">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w21"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg9">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w22"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg10">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w23"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w24"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg11">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w26">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w25"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w27">
+                <wg.modifiers>
+                  <wg.qualifier>
+                    <wg.word xlink:href="NT.Phil.w28"/>
+                  </wg.qualifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg12">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w29"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w30">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w31">
+                <wg.modifiers>
+                  <wg.definer>
+                    <wg.word xlink:href="NT.Phil.w32"/>
+                  </wg.definer>
+                </wg.modifiers>
+              </wg.word>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg13">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w33"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg14">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w35">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w34"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w36"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg15">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w40">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w37"/>
+              <wg.word xlink:href="NT.Phil.w39"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w38"/>
+            </wg.definer>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w41"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg16">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w42"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg17">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w45">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w43"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w44"/>
+            </wg.definer>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w46"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg18">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w49">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w47"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w48"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg19">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w51">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w50"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg20">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w53">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w52"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg21">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w54"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg22">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w57">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w55"/>
+              <wg.word xlink:href="NT.Phil.w56"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w58"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg23">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w61">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w59"/>
+              <wg.word xlink:href="NT.Phil.w60"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg24">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w65">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w62"/>
+              <wg.word xlink:href="NT.Phil.w63"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w64"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg25">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w68">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w66"/>
+              <wg.word xlink:href="NT.Phil.w67"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg26">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w69"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg27">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w71">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w70"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg28">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w72"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg29">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w74">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w73"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg30">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w76">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w75"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg31">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w77">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w78"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg32">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w79"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg33">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w81">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w80"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w82">
+                <wg.modifiers>
+                  <wg.definer>
+                    <wg.word xlink:href="NT.Phil.w83"/>
+                  </wg.definer>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg34">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w84"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg35">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w85"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg36">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w86"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg37">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w87"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg38">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w88"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg39">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w89"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg40">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w92">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w90"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w91"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg41">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w95">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w93"/>
+              <wg.word xlink:href="NT.Phil.w94"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg42">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w96"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg43">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w99">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w97"/>
+              <wg.word xlink:href="NT.Phil.w98"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg44">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w100"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg45">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w102"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w104">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w101"/>
+              <wg.word xlink:href="NT.Phil.w103"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w105"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg46">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w106"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w109">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w107"/>
+              <wg.word xlink:href="NT.Phil.w108"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg47">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w110"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w111">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w113">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Phil.w112"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg48">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w114">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w115"/>
+              <wg.word xlink:href="NT.Phil.w117">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Phil.w116"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg49">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w119">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w118"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg50">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w120"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg51">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w121">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w123"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg52">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w122"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg53">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w125">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w124"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg54">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w126"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg55">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w127"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg56">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w129">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w128"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg57">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w131">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w130"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w132">
+                <wg.modifiers>
+                  <wg.definer>
+                    <wg.word xlink:href="NT.Phil.w133"/>
+                  </wg.definer>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg58">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w134"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg59">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w135"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg60">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w136"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg61">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w137"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg62">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w139">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w138"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w140"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg63">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w141"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg64">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w142"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg65">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w143"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w144"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg66">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w145"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg67">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w147">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w146"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg68">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w148"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w150">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w149"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg69">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w153">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w151"/>
+              <wg.word xlink:href="NT.Phil.w152"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg70">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w154"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg71">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w156">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w155"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg72">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w157"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg73">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w158"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg74">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w159"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg75">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w160"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w161"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg76">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w163">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w162"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w164"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg77">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w165"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg78">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w166">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w168">
+                <wg.modifiers>
+                  <wg.relator>
+                    <wg.word xlink:href="NT.Phil.w170">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Phil.w169"/>
+                        </wg.specifier>
+                        <wg.definer>
+                          <wg.word xlink:href="NT.Phil.w171"/>
+                        </wg.definer>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.relator>
+                </wg.modifiers>
+              </wg.word>
+            </wg.definer>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w167"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg79">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w173">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w172"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg80">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w174"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w175">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w176"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg81">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w177"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg82">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w178"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg83">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w179"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg84">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w180"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg85">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w181"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg86">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w182"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg87">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w183">
+          <wg.modifiers>
+            <wg.relator>
+              <wg.word xlink:href="NT.Phil.w185">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Phil.w184"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.relator>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg88">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w186"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg89">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w188">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w187"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w190">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Phil.w189"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg90">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w191"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg91">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w192"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg92">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w194">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w193"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w195"/>
+            </wg.qualifier>
+            <wg.relator>
+              <wg.word xlink:href="NT.Phil.w198">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Phil.w197"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.relator>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg93">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w196"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg94">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w199"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg95">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w203">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w200"/>
+              <wg.word xlink:href="NT.Phil.w202"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w201"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg96">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w204"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w206">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w205"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w207"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg97">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w208"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg98">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w210">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w209"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w212">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Phil.w211"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg99">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w214">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w213"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg100">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w215"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg101">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w217">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w216"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w218"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg102">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w219"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg103">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w220"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg104">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w221"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg105">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w223">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w222"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg106">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w224"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg107">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w225"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg108">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w226"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg109">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w227"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg110">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w229">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w228"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg111">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w230"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w231"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg112">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w232"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg113">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w233"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg114">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w234"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg115">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w236">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w235"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg116">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w238">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w237"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg117">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w239"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg118">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w240"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg119">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w241"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg120">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w243">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w242"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg121">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w244"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg122">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w245"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg123">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w247">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w246"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w249">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Phil.w248"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg124">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w250"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg125">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w251"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg126">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w252"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg127">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w254">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w253"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg128">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w256">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w255"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg129">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w257"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg130">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w259">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w258"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg131">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w260"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg132">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w261"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg133">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w262"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg134">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w264">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w263"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w265"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg135">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w266"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg136">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w267"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg137">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w268"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg138">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w269"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg139">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w271">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w270"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg140">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w272"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w273"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg141">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w274"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w275"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg142">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w276"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg143">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w277"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg144">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w278"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg145">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w280">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w279"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg146">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w281"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg147">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w282"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg148">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w283"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg149">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w284"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg150">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w285"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg151">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w286"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg152">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w287"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg153">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w288"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg154">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w289"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg155">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w290"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg156">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w292">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w291"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg157">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w296">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w293"/>
+              <wg.word xlink:href="NT.Phil.w294"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w295"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg158">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w297"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w298">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w300">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Phil.w299"/>
+                  </wg.specifier>
+                  <wg.qualifier>
+                    <wg.word xlink:href="NT.Phil.w301">
+                      <wg.modifiers>
+                        <wg.definer>
+                          <wg.word xlink:href="NT.Phil.w302"/>
+                        </wg.definer>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.qualifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg159">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w305">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w303"/>
+              <wg.word xlink:href="NT.Phil.w304"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg160">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w306"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w307">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w308"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg161">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w309"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg162">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w311">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w310"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg163">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w312"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg164">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w313"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg165">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w316">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w314"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w315"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg166">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w318">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w317"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg167">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w319"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w320"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg168">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w321"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg169">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w322"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg170">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w325">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w323"/>
+              <wg.word xlink:href="NT.Phil.w324"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w326"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg171">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w327"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w329">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w328"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg172">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w330"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w332">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w331"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg173">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w333"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg174">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w334"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg175">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w336">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w335"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg176">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w337"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg177">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w338"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg178">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w340">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w339"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg179">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w341"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg180">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w342"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg181">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w343"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg182">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w345">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w344"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg183">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w347">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w346"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg184">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w348"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg185">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w349"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg186">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w350">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w351"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg187">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w352"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg188">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w353"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg189">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w354"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg190">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w355"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg191">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w356"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg192">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w357"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg193">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w358"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg194">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w361">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w359"/>
+              <wg.word xlink:href="NT.Phil.w360"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg195">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w363">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w362"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg196">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w364"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg197">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w367">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w365"/>
+              <wg.word xlink:href="NT.Phil.w366"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg198">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w368"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg199">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w370">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w369"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg200">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w371"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg201">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w373"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg202">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w374">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w372"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg203">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w375"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg204">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w377"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg205">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w378">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w376"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg206">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w381">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w379"/>
+              <wg.word xlink:href="NT.Phil.w380"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg207">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w382"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg208">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w384">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w383"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg209">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w385"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg210">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w386"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg211">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w387"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg212">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w388"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg213">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w389"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg214">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w390"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg215">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w391"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg216">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w392"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg217">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w394">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w393"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg218">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w398">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w395"/>
+              <wg.word xlink:href="NT.Phil.w396"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w397"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg219">
+      <wg.connector>
+        <wg.word xlink:href="NT.Phil.w399"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w400">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w402">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Phil.w401"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg220">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w403"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg221">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w405">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w404"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w406"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg222">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w407"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg223">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w409">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w408"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w410"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg224">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w412">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w411"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg225">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w416">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w413"/>
+              <wg.word xlink:href="NT.Phil.w414"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w415"/>
+              <wg.word xlink:href="NT.Phil.w417"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg226">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w419">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w418"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg227">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w420"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg228">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w421">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w423">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Phil.w422"/>
+                  </wg.specifier>
+                  <wg.qualifier>
+                    <wg.word xlink:href="NT.Phil.w425">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Phil.w424"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.qualifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg229">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w426"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg230">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w427"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg231">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w428"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg232">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w429"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg233">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w430"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg234">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w431"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg235">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w432"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg236">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w433"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg237">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w434"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg238">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w435"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg239">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w436">
+          <wg.modifiers>
+            <wg.relator>
+              <wg.word xlink:href="NT.Phil.w438">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Phil.w437"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.relator>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg240">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w439"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg241">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w440"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg242">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w443">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w441"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w442"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg243">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w445">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w444"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg244">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w446"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg245">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w448">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w447"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w450">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Phil.w449"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg246">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w451"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg247">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w452"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg248">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w453"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg249">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w455">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w454"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg250">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w458">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w456"/>
+              <wg.word xlink:href="NT.Phil.w457"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg251">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w459"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg252">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w460"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg253">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w461"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg254">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w462">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w463"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg255">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w465"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg256">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w466">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Phil.w464"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg257">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w467"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg258">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w468"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg259">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w470">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w469"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg260">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w471"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg261">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w472"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg262">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w473"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg263">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w474">
+          <wg.modifiers>
+            <wg.definer>
+              <cl.clause xlink:href="NT.Phil.1_c78">
+                <wg.group xml:id="NT.Phil.1_wg264">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Phil.w477"/>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Phil.1_wg265">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Phil.w478"/>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Phil.1_wg266">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Phil.w481">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Phil.w480"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Phil.1_wg267">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Phil.w482">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Phil.w479"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+              </cl.clause>
+              <cl.clause xlink:href="NT.Phil.1_c79">
+                <wg.group xml:id="NT.Phil.1_wg268">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Phil.w483"/>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Phil.1_wg269">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Phil.w484"/>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Phil.1_wg270">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Phil.w487">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Phil.w486"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Phil.1_wg271">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Phil.w488">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Phil.w485"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+              </cl.clause>
+            </wg.definer>
+            <wg.relator>
+              <wg.word xlink:href="NT.Phil.w476">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Phil.w475"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.relator>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg272">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w491">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w489"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Phil.w490"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg273">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w492"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg274">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w493"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg275">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w494"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg276">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w496">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w495"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg277">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w497"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg278">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w498"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg279">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w499"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Phil.1_wg280">
+      <wg.head>
+        <wg.word xlink:href="NT.Phil.w501">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Phil.w500"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+  </wg.groups>
+</chapter>

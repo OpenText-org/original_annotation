@@ -14,4 +14,765 @@ Copyright (c) 2005-6 OpenText.org
 
 contact: matt@opentext.org
 =================================================		
-		--><chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Jam" num="3"><cl.clause xml:id="NT.Jam.3_c1" level="primary" structure="A-S-C-P-add-A"><cl.A><w xlink:href="NT.Jam.w823"/></cl.A><cl.S><w xlink:href="NT.Jam.w824"/></cl.S><cl.C><w xlink:href="NT.Jam.w825"/></cl.C><cl.P><w xlink:href="NT.Jam.w826"/></cl.P><cl.add><w xlink:href="NT.Jam.w827"/><w xlink:href="NT.Jam.w828"/></cl.add><cl.A><cl.clause xml:id="NT.Jam.3_c2" level="embedded" structure="P"><cl.P><w xlink:href="NT.Jam.w829"/></cl.P></cl.clause><cl.clause xml:id="NT.Jam.3_c3" level="embedded" structure="conj-C-P"><pl.conj><w xlink:href="NT.Jam.w830"/></pl.conj><cl.C><w xlink:href="NT.Jam.w831"/><w xlink:href="NT.Jam.w832"/></cl.C><cl.P><w xlink:href="NT.Jam.w833"/></cl.P></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Jam.3_c4" level="primary" connect="NT.Jam.3_c1" structure="A-conj-P-S"><cl.A><w xlink:href="NT.Jam.w834"/></cl.A><pl.conj><w xlink:href="NT.Jam.w835"/></pl.conj><cl.P><w xlink:href="NT.Jam.w836"/></cl.P><cl.S><w xlink:href="NT.Jam.w837"/></cl.S></cl.clause><cl.clause xml:id="NT.Jam.3_c5" level="secondary" connect="NT.Jam.3_c6" structure="conj-S-A-A-P"><pl.conj><w xlink:href="NT.Jam.w838"/></pl.conj><cl.S><w xlink:href="NT.Jam.w839"/></cl.S><cl.A><w xlink:href="NT.Jam.w840"/><w xlink:href="NT.Jam.w841"/></cl.A><cl.A><w xlink:href="NT.Jam.w842"/></cl.A><cl.P><w xlink:href="NT.Jam.w843"/></cl.P></cl.clause><cl.clause xml:id="NT.Jam.3_c6" level="primary" connect="NT.Jam.3_c4" structure="S-C"><cl.S><w xlink:href="NT.Jam.w844"/></cl.S><cl.C><w xlink:href="NT.Jam.w845"/><w xlink:href="NT.Jam.w846"/><w xlink:href="NT.Jam.w847"/><cl.clause xml:id="NT.Jam.3_c7" level="embedded" structure="P-conj-C"><cl.P><w xlink:href="NT.Jam.w848"/></cl.P><pl.conj><w xlink:href="NT.Jam.w849"/></pl.conj><cl.C><w xlink:href="NT.Jam.w850"/><w xlink:href="NT.Jam.w851"/><w xlink:href="NT.Jam.w852"/></cl.C></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Jam.3_c8" level="secondary" connect="NT.Jam.3_c10" structure="conj-conj-A-(C)-P-A"><pl.conj><w xlink:href="NT.Jam.w853"/></pl.conj><pl.conj><w xlink:href="NT.Jam.w854"/></pl.conj><cl.A><w xlink:href="NT.Jam.w855"/><w xlink:href="NT.Jam.w856"/><cl.C type="embed" parent="NT.Jam.3_c8"><w xlink:href="NT.Jam.w857"/><w xlink:href="NT.Jam.w858"/></cl.C><w xlink:href="NT.Jam.w859"/><w xlink:href="NT.Jam.w860"/><w xlink:href="NT.Jam.w861"/></cl.A><cl.P><w xlink:href="NT.Jam.w862"/></cl.P><cl.A><cl.clause xml:id="NT.Jam.3_c9" level="embedded" structure="P-S-C"><cl.P><w xlink:href="NT.Jam.w863"/><w xlink:href="NT.Jam.w864"/><w xlink:href="NT.Jam.w865"/></cl.P><cl.S><w xlink:href="NT.Jam.w866"/></cl.S><cl.C><w xlink:href="NT.Jam.w867"/></cl.C></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Jam.3_c10" level="primary" connect="NT.Jam.3_c6" structure="conj-C-P"><pl.conj><w xlink:href="NT.Jam.w868"/></pl.conj><cl.C><w xlink:href="NT.Jam.w869"/><w xlink:href="NT.Jam.w870"/><w xlink:href="NT.Jam.w871"/><w xlink:href="NT.Jam.w872"/></cl.C><cl.P><w xlink:href="NT.Jam.w873"/></cl.P></cl.clause><cl.clause xml:id="NT.Jam.3_c11" level="primary" connect="NT.Jam.3_c10" structure="P"><cl.P><w xlink:href="NT.Jam.w874"/></cl.P></cl.clause><cl.clause xml:id="NT.Jam.3_c12" level="primary" connect="NT.Jam.3_c11" structure="conj-S-A-P-A"><pl.conj><w xlink:href="NT.Jam.w875"/></pl.conj><cl.S><w xlink:href="NT.Jam.w876"/><w xlink:href="NT.Jam.w877"/></cl.S><cl.A><cl.clause xml:id="NT.Jam.3_c13" level="embedded" structure="C-P"><cl.C><w xlink:href="NT.Jam.w878"/></cl.C><cl.P><w xlink:href="NT.Jam.w879"/></cl.P></cl.clause><cl.clause xml:id="NT.Jam.3_c14" level="embedded" structure="conj-A-P"><pl.conj><w xlink:href="NT.Jam.w880"/></pl.conj><cl.A><w xlink:href="NT.Jam.w881"/><w xlink:href="NT.Jam.w882"/><w xlink:href="NT.Jam.w883"/></cl.A><cl.P><w xlink:href="NT.Jam.w884"/></cl.P></cl.clause></cl.A><cl.P><w xlink:href="NT.Jam.w885"/></cl.P><cl.A><w xlink:href="NT.Jam.w886"/><w xlink:href="NT.Jam.w887"/><w xlink:href="NT.Jam.w888"/></cl.A></cl.clause><cl.clause xml:id="NT.Jam.3_c15" level="secondary" connect="NT.Jam.3_c12" structure="conj-S-P"><pl.conj><w xlink:href="NT.Jam.w889"/></pl.conj><cl.S><w xlink:href="NT.Jam.w890"/><w xlink:href="NT.Jam.w891"/><cl.clause xml:id="NT.Jam.3_c16" level="embedded" structure="P"><cl.P><w xlink:href="NT.Jam.w892"/><w xlink:href="NT.Jam.w893"/></cl.P></cl.clause></cl.S><cl.P><w xlink:href="NT.Jam.w894"/></cl.P></cl.clause><cl.clause xml:id="NT.Jam.3_c17" level="primary" connect="NT.Jam.3_c12" structure="A-conj-S-C-P"><cl.A><w xlink:href="NT.Jam.w895"/></cl.A><pl.conj><w xlink:href="NT.Jam.w896"/></pl.conj><cl.S><w xlink:href="NT.Jam.w897"/><w xlink:href="NT.Jam.w898"/></cl.S><cl.C><w xlink:href="NT.Jam.w899"/><w xlink:href="NT.Jam.w900"/></cl.C><cl.P><w xlink:href="NT.Jam.w901"/></cl.P></cl.clause><cl.clause xml:id="NT.Jam.3_c18" level="primary" connect="NT.Jam.3_c17" structure="conj-C-P"><pl.conj><w xlink:href="NT.Jam.w902"/></pl.conj><cl.C><w xlink:href="NT.Jam.w903"/></cl.C><cl.P><w xlink:href="NT.Jam.w904"/></cl.P></cl.clause><cl.clause xml:id="NT.Jam.3_c19" level="primary" connect="NT.Jam.3_c18" structure="P"><cl.P><w xlink:href="NT.Jam.w905"/></cl.P></cl.clause><cl.clause xml:id="NT.Jam.3_c20" level="primary" connect="NT.Jam.3_c19" structure="S-C-P"><cl.S><w xlink:href="NT.Jam.w906"/><w xlink:href="NT.Jam.w907"/></cl.S><cl.C><w xlink:href="NT.Jam.w908"/><w xlink:href="NT.Jam.w909"/></cl.C><cl.P><w xlink:href="NT.Jam.w910"/></cl.P></cl.clause><cl.clause xml:id="NT.Jam.3_c21" level="primary" connect="NT.Jam.3_c20" structure="conj-S-C"><pl.conj><w xlink:href="NT.Jam.w911"/></pl.conj><cl.S><w xlink:href="NT.Jam.w912"/><w xlink:href="NT.Jam.w913"/></cl.S><cl.C><w xlink:href="NT.Jam.w914"/></cl.C></cl.clause><cl.clause xml:id="NT.Jam.3_c22" level="primary" connect="NT.Jam.3_c21" structure="C-S-(P)-(A)"><cl.C><w xlink:href="NT.Jam.w915"/><w xlink:href="NT.Jam.w916"/><w xlink:href="NT.Jam.w917"/><w xlink:href="NT.Jam.w918"/></cl.C><cl.S><w xlink:href="NT.Jam.w919"/><w xlink:href="NT.Jam.w920"/><cl.P type="embed" parent="NT.Jam.3_c22"><w xlink:href="NT.Jam.w921"/></cl.P><cl.A type="embed" parent="NT.Jam.3_c22"><w xlink:href="NT.Jam.w922"/><w xlink:href="NT.Jam.w923"/><w xlink:href="NT.Jam.w924"/><w xlink:href="NT.Jam.w925"/></cl.A><cl.clause xml:id="NT.Jam.3_c23" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Jam.w926"/><w xlink:href="NT.Jam.w927"/></cl.P><cl.C><w xlink:href="NT.Jam.w928"/><w xlink:href="NT.Jam.w929"/><w xlink:href="NT.Jam.w930"/></cl.C></cl.clause><cl.clause xml:id="NT.Jam.3_c24" level="embedded" structure="conj-P-C"><pl.conj><w xlink:href="NT.Jam.w931"/></pl.conj><cl.P><w xlink:href="NT.Jam.w932"/></cl.P><cl.C><w xlink:href="NT.Jam.w933"/><w xlink:href="NT.Jam.w934"/><w xlink:href="NT.Jam.w935"/><w xlink:href="NT.Jam.w936"/></cl.C></cl.clause><cl.clause xml:id="NT.Jam.3_c25" level="embedded" structure="conj-P-A"><pl.conj><w xlink:href="NT.Jam.w937"/></pl.conj><cl.P><w xlink:href="NT.Jam.w938"/></cl.P><cl.A><w xlink:href="NT.Jam.w939"/><w xlink:href="NT.Jam.w940"/><w xlink:href="NT.Jam.w941"/></cl.A></cl.clause></cl.S></cl.clause><cl.clause xml:id="NT.Jam.3_c26" level="primary" connect="NT.Jam.3_c22" structure="S-(conj)-P"><cl.S><w xlink:href="NT.Jam.w942"/><pl.conj type="embed" parent="NT.Jam.3_c26"><w xlink:href="NT.Jam.w943"/></pl.conj><w xlink:href="NT.Jam.w944"/><w xlink:href="NT.Jam.w945"/><w xlink:href="NT.Jam.w946"/><w xlink:href="NT.Jam.w947"/><w xlink:href="NT.Jam.w948"/><w xlink:href="NT.Jam.w949"/><w xlink:href="NT.Jam.w950"/><w xlink:href="NT.Jam.w951"/><w xlink:href="NT.Jam.w952"/></cl.S><cl.P><w xlink:href="NT.Jam.w953"/></cl.P></cl.clause><cl.clause xml:id="NT.Jam.3_c27" level="primary" connect="NT.Jam.3_c26" structure="conj-P-A"><pl.conj><w xlink:href="NT.Jam.w954"/></pl.conj><cl.P><w xlink:href="NT.Jam.w955"/></cl.P><cl.A><w xlink:href="NT.Jam.w956"/><w xlink:href="NT.Jam.w957"/><w xlink:href="NT.Jam.w958"/><w xlink:href="NT.Jam.w959"/></cl.A></cl.clause><cl.clause xml:id="NT.Jam.3_c28" level="primary" connect="NT.Jam.3_c27" structure="C-(conj)-S-(C)-(P)"><cl.C><w xlink:href="NT.Jam.w960"/><pl.conj type="embed" parent="NT.Jam.3_c28"><w xlink:href="NT.Jam.w961"/></pl.conj><w xlink:href="NT.Jam.w962"/></cl.C><cl.S><w xlink:href="NT.Jam.w963"/><cl.C type="embed" parent="NT.Jam.3_c28"><cl.clause xml:id="NT.Jam.3_c29" level="embedded" structure="P"><cl.P><w xlink:href="NT.Jam.w964"/></cl.P></cl.clause></cl.C><cl.P type="embed" parent="NT.Jam.3_c28"><w xlink:href="NT.Jam.w965"/></cl.P><w xlink:href="NT.Jam.w966"/></cl.S></cl.clause><cl.clause xml:id="NT.Jam.3_c30" level="primary" connect="NT.Jam.3_c28" structure="C"><cl.C><w xlink:href="NT.Jam.w967"/><w xlink:href="NT.Jam.w968"/><w xlink:href="NT.Jam.w969"/><w xlink:href="NT.Jam.w970"/><w xlink:href="NT.Jam.w971"/></cl.C></cl.clause><cl.clause xml:id="NT.Jam.3_c31" level="primary" connect="NT.Jam.3_c30" structure="A-P-C"><cl.A><w xlink:href="NT.Jam.w972"/><w xlink:href="NT.Jam.w973"/></cl.A><cl.P><w xlink:href="NT.Jam.w974"/></cl.P><cl.C><w xlink:href="NT.Jam.w975"/><w xlink:href="NT.Jam.w976"/><w xlink:href="NT.Jam.w977"/><w xlink:href="NT.Jam.w978"/></cl.C></cl.clause><cl.clause xml:id="NT.Jam.3_c32" level="primary" connect="NT.Jam.3_c31" structure="conj-A-P-C"><pl.conj><w xlink:href="NT.Jam.w979"/></pl.conj><cl.A><w xlink:href="NT.Jam.w980"/><w xlink:href="NT.Jam.w981"/></cl.A><cl.P><w xlink:href="NT.Jam.w982"/></cl.P><cl.C><w xlink:href="NT.Jam.w983"/><w xlink:href="NT.Jam.w984"/><cl.clause xml:id="NT.Jam.3_c33" level="embedded" structure="P-(A)"><cl.P><w xlink:href="NT.Jam.w985"/><cl.A type="embed" parent="NT.Jam.3_c33"><w xlink:href="NT.Jam.w986"/><w xlink:href="NT.Jam.w987"/><w xlink:href="NT.Jam.w988"/></cl.A><w xlink:href="NT.Jam.w989"/></cl.P></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Jam.3_c34" level="primary" connect="NT.Jam.3_c32" structure="A-P-S"><cl.A><w xlink:href="NT.Jam.w990"/><w xlink:href="NT.Jam.w991"/><w xlink:href="NT.Jam.w992"/><w xlink:href="NT.Jam.w993"/></cl.A><cl.P><w xlink:href="NT.Jam.w994"/></cl.P><cl.S><w xlink:href="NT.Jam.w995"/><w xlink:href="NT.Jam.w996"/><w xlink:href="NT.Jam.w997"/></cl.S></cl.clause><cl.clause xml:id="NT.Jam.3_c35" level="primary" connect="NT.Jam.3_c34" structure="A-P-add-S"><cl.A><w xlink:href="NT.Jam.w998"/></cl.A><cl.P><w xlink:href="NT.Jam.w999"/></cl.P><cl.add><w xlink:href="NT.Jam.w1000"/><w xlink:href="NT.Jam.w1001"/></cl.add><cl.S><cl.clause xml:id="NT.Jam.3_c36" level="embedded" structure="S-A-P"><cl.S><w xlink:href="NT.Jam.w1002"/></cl.S><cl.A><w xlink:href="NT.Jam.w1003"/></cl.A><cl.P><w xlink:href="NT.Jam.w1004"/></cl.P></cl.clause></cl.S></cl.clause><cl.clause xml:id="NT.Jam.3_c37" level="primary" connect="NT.Jam.3_c35" structure="A-S-A-P-C"><cl.A><w xlink:href="NT.Jam.w1005"/></cl.A><cl.S><w xlink:href="NT.Jam.w1006"/><w xlink:href="NT.Jam.w1007"/></cl.S><cl.A><w xlink:href="NT.Jam.w1008"/><w xlink:href="NT.Jam.w1009"/><w xlink:href="NT.Jam.w1010"/><w xlink:href="NT.Jam.w1011"/></cl.A><cl.P><w xlink:href="NT.Jam.w1012"/></cl.P><cl.C><w xlink:href="NT.Jam.w1013"/><w xlink:href="NT.Jam.w1014"/><w xlink:href="NT.Jam.w1015"/><w xlink:href="NT.Jam.w1016"/><w xlink:href="NT.Jam.w1017"/></cl.C></cl.clause><cl.clause xml:id="NT.Jam.3_c38" level="primary" connect="NT.Jam.3_c37" structure="A-P-add-S-C"><cl.A><w xlink:href="NT.Jam.w1018"/></cl.A><cl.P><w xlink:href="NT.Jam.w1019"/></cl.P><cl.add><w xlink:href="NT.Jam.w1020"/><w xlink:href="NT.Jam.w1021"/></cl.add><cl.S><w xlink:href="NT.Jam.w1022"/></cl.S><cl.C><cl.clause xml:id="NT.Jam.3_c39" level="embedded" structure="C-P"><cl.C><w xlink:href="NT.Jam.w1023"/></cl.C><cl.P><w xlink:href="NT.Jam.w1024"/></cl.P></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Jam.3_c40" level="primary" connect="NT.Jam.3_c38" structure="conj-S-C"><pl.conj><w xlink:href="NT.Jam.w1025"/></pl.conj><cl.S><w xlink:href="NT.Jam.w1026"/></cl.S><cl.C><cl.clause xml:id="NT.Jam.3_c41" level="embedded" structure="C"><cl.C><w xlink:href="NT.Jam.w1027"/></cl.C></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Jam.3_c42" level="primary" connect="NT.Jam.3_c40" structure="A-S-C"><cl.A><w xlink:href="NT.Jam.w1028"/></cl.A><cl.S><w xlink:href="NT.Jam.w1029"/></cl.S><cl.C><cl.clause xml:id="NT.Jam.3_c43" level="embedded" structure="C-(P)"><cl.C><w xlink:href="NT.Jam.w1030"/><cl.P type="embed" parent="NT.Jam.3_c43"><w xlink:href="NT.Jam.w1031"/></cl.P><w xlink:href="NT.Jam.w1032"/></cl.C></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Jam.3_c44" level="primary" connect="NT.Jam.3_c42" structure="C-S"><cl.C><w xlink:href="NT.Jam.w1033"/></cl.C><cl.S><w xlink:href="NT.Jam.w1034"/><w xlink:href="NT.Jam.w1035"/><w xlink:href="NT.Jam.w1036"/><w xlink:href="NT.Jam.w1037"/><w xlink:href="NT.Jam.w1038"/></cl.S></cl.clause><cl.clause xml:id="NT.Jam.3_c45" level="primary" connect="NT.Jam.3_c44" structure="P-A-C-A"><cl.P><w xlink:href="NT.Jam.w1039"/></cl.P><cl.A><w xlink:href="NT.Jam.w1040"/><w xlink:href="NT.Jam.w1041"/><w xlink:href="NT.Jam.w1042"/><w xlink:href="NT.Jam.w1043"/></cl.A><cl.C><w xlink:href="NT.Jam.w1044"/><w xlink:href="NT.Jam.w1045"/><w xlink:href="NT.Jam.w1046"/></cl.C><cl.A><w xlink:href="NT.Jam.w1047"/><w xlink:href="NT.Jam.w1048"/><w xlink:href="NT.Jam.w1049"/></cl.A></cl.clause><cl.clause xml:id="NT.Jam.3_c46" level="secondary" connect="NT.Jam.3_c47" structure="conj-conj-C-(P)-A"><pl.conj><w xlink:href="NT.Jam.w1050"/></pl.conj><pl.conj><w xlink:href="NT.Jam.w1051"/></pl.conj><cl.C><w xlink:href="NT.Jam.w1052"/><w xlink:href="NT.Jam.w1053"/><cl.P type="embed" parent="NT.Jam.3_c46"><w xlink:href="NT.Jam.w1054"/></cl.P><w xlink:href="NT.Jam.w1055"/><w xlink:href="NT.Jam.w1056"/></cl.C><cl.A><w xlink:href="NT.Jam.w1057"/><w xlink:href="NT.Jam.w1058"/><w xlink:href="NT.Jam.w1059"/><w xlink:href="NT.Jam.w1060"/></cl.A></cl.clause><cl.clause xml:id="NT.Jam.3_c47" level="primary" connect="NT.Jam.3_c45" structure="A-P"><cl.A><w xlink:href="NT.Jam.w1061"/></cl.A><cl.P><w xlink:href="NT.Jam.w1062"/></cl.P></cl.clause><cl.clause xml:id="NT.Jam.3_c48" level="primary" connect="NT.Jam.3_c47" structure="conj-P-A"><pl.conj><w xlink:href="NT.Jam.w1063"/></pl.conj><cl.P><w xlink:href="NT.Jam.w1064"/></cl.P><cl.A><w xlink:href="NT.Jam.w1065"/><w xlink:href="NT.Jam.w1066"/><w xlink:href="NT.Jam.w1067"/></cl.A></cl.clause><cl.clause xml:id="NT.Jam.3_c49" level="primary" connect="NT.Jam.3_c48" structure="A-P-S-C"><cl.A><w xlink:href="NT.Jam.w1068"/></cl.A><cl.P><w xlink:href="NT.Jam.w1069"/></cl.P><cl.S><w xlink:href="NT.Jam.w1070"/></cl.S><cl.C><w xlink:href="NT.Jam.w1071"/><w xlink:href="NT.Jam.w1072"/><cl.clause xml:id="NT.Jam.3_c50" level="embedded" structure="A-P"><cl.A><w xlink:href="NT.Jam.w1073"/></cl.A><cl.P><w xlink:href="NT.Jam.w1074"/></cl.P></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Jam.3_c51" level="primary" connect="NT.Jam.3_c49" structure="conj-C"><pl.conj><w xlink:href="NT.Jam.w1075"/></pl.conj><cl.C><w xlink:href="NT.Jam.w1076"/><w xlink:href="NT.Jam.w1077"/><w xlink:href="NT.Jam.w1078"/></cl.C></cl.clause><cl.clause xml:id="NT.Jam.3_c52" level="secondary" connect="NT.Jam.3_c53" structure="conj-conj-S"><pl.conj><w xlink:href="NT.Jam.w1079"/></pl.conj><pl.conj><w xlink:href="NT.Jam.w1080"/></pl.conj><cl.S><w xlink:href="NT.Jam.w1081"/><w xlink:href="NT.Jam.w1082"/><w xlink:href="NT.Jam.w1083"/></cl.S></cl.clause><cl.clause xml:id="NT.Jam.3_c53" level="primary" connect="NT.Jam.3_c51" structure="A-S"><cl.A><w xlink:href="NT.Jam.w1084"/></cl.A><cl.S><w xlink:href="NT.Jam.w1085"/><w xlink:href="NT.Jam.w1086"/><w xlink:href="NT.Jam.w1087"/><w xlink:href="NT.Jam.w1088"/><w xlink:href="NT.Jam.w1089"/></cl.S></cl.clause><cl.clause xml:id="NT.Jam.3_c54" level="primary" connect="NT.Jam.3_c53" structure="S-(conj)-A-conj-C-P"><cl.S><w xlink:href="NT.Jam.w1090"/><pl.conj type="embed" parent="NT.Jam.3_c54"><w xlink:href="NT.Jam.w1091"/></pl.conj><w xlink:href="NT.Jam.w1092"/><w xlink:href="NT.Jam.w1093"/></cl.S><cl.A><w xlink:href="NT.Jam.w1094"/></cl.A><pl.conj><w xlink:href="NT.Jam.w1095"/></pl.conj><cl.C><w xlink:href="NT.Jam.w1096"/></cl.C><cl.P><w xlink:href="NT.Jam.w1097"/></cl.P></cl.clause><cl.clause xml:id="NT.Jam.3_c55" level="primary" connect="NT.Jam.3_c54" structure="A-C"><cl.A><w xlink:href="NT.Jam.w1098"/></cl.A><cl.C><w xlink:href="NT.Jam.w1099"/><w xlink:href="NT.Jam.w1100"/><w xlink:href="NT.Jam.w1101"/><w xlink:href="NT.Jam.w1102"/><w xlink:href="NT.Jam.w1103"/><w xlink:href="NT.Jam.w1104"/><w xlink:href="NT.Jam.w1105"/><w xlink:href="NT.Jam.w1106"/><w xlink:href="NT.Jam.w1107"/><w xlink:href="NT.Jam.w1108"/></cl.C></cl.clause><cl.clause xml:id="NT.Jam.3_c56" level="primary" connect="NT.Jam.3_c55" structure="S-(conj)-A-P-C"><cl.S><w xlink:href="NT.Jam.w1109"/><pl.conj type="embed" parent="NT.Jam.3_c56"><w xlink:href="NT.Jam.w1110"/></pl.conj><w xlink:href="NT.Jam.w1111"/></cl.S><cl.A><w xlink:href="NT.Jam.w1112"/><w xlink:href="NT.Jam.w1113"/></cl.A><cl.P><w xlink:href="NT.Jam.w1114"/></cl.P><cl.C><cl.clause xml:id="NT.Jam.3_c57" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Jam.w1115"/><w xlink:href="NT.Jam.w1116"/></cl.P><cl.C><w xlink:href="NT.Jam.w1117"/></cl.C></cl.clause></cl.C></cl.clause></chapter>
+		-->
+<chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Jam" num="3">
+  <cl.clause xml:id="NT.Jam.3_c1" level="primary" structure="A-S-C-P-add-A">
+    <cl.A>
+      <w xlink:href="NT.Jam.w823"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Jam.w824"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Jam.w825"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Jam.w826"/>
+    </cl.P>
+    <cl.add>
+      <w xlink:href="NT.Jam.w827"/>
+      <w xlink:href="NT.Jam.w828"/>
+    </cl.add>
+    <cl.A>
+      <cl.clause xml:id="NT.Jam.3_c2" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Jam.w829"/>
+        </cl.P>
+      </cl.clause>
+      <cl.clause xml:id="NT.Jam.3_c3" level="embedded" structure="conj-C-P">
+        <pl.conj>
+          <w xlink:href="NT.Jam.w830"/>
+        </pl.conj>
+        <cl.C>
+          <w xlink:href="NT.Jam.w831"/>
+          <w xlink:href="NT.Jam.w832"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.Jam.w833"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c4" level="primary" connect="NT.Jam.3_c1" structure="A-conj-P-S">
+    <cl.A>
+      <w xlink:href="NT.Jam.w834"/>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.Jam.w835"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Jam.w836"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Jam.w837"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c5" level="secondary" connect="NT.Jam.3_c6" structure="conj-S-A-A-P">
+    <pl.conj>
+      <w xlink:href="NT.Jam.w838"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Jam.w839"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Jam.w840"/>
+      <w xlink:href="NT.Jam.w841"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Jam.w842"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Jam.w843"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c6" level="primary" connect="NT.Jam.3_c4" structure="S-C">
+    <cl.S>
+      <w xlink:href="NT.Jam.w844"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Jam.w845"/>
+      <w xlink:href="NT.Jam.w846"/>
+      <w xlink:href="NT.Jam.w847"/>
+      <cl.clause xml:id="NT.Jam.3_c7" level="embedded" structure="P-conj-C">
+        <cl.P>
+          <w xlink:href="NT.Jam.w848"/>
+        </cl.P>
+        <pl.conj>
+          <w xlink:href="NT.Jam.w849"/>
+        </pl.conj>
+        <cl.C>
+          <w xlink:href="NT.Jam.w850"/>
+          <w xlink:href="NT.Jam.w851"/>
+          <w xlink:href="NT.Jam.w852"/>
+        </cl.C>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c8" level="secondary" connect="NT.Jam.3_c10" structure="conj-conj-A-(C)-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Jam.w853"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Jam.w854"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Jam.w855"/>
+      <w xlink:href="NT.Jam.w856"/>
+      <cl.C type="embed" parent="NT.Jam.3_c8">
+        <w xlink:href="NT.Jam.w857"/>
+        <w xlink:href="NT.Jam.w858"/>
+      </cl.C>
+      <w xlink:href="NT.Jam.w859"/>
+      <w xlink:href="NT.Jam.w860"/>
+      <w xlink:href="NT.Jam.w861"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Jam.w862"/>
+    </cl.P>
+    <cl.A>
+      <cl.clause xml:id="NT.Jam.3_c9" level="embedded" structure="P-S-C">
+        <cl.P>
+          <w xlink:href="NT.Jam.w863"/>
+          <w xlink:href="NT.Jam.w864"/>
+          <w xlink:href="NT.Jam.w865"/>
+        </cl.P>
+        <cl.S>
+          <w xlink:href="NT.Jam.w866"/>
+        </cl.S>
+        <cl.C>
+          <w xlink:href="NT.Jam.w867"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c10" level="primary" connect="NT.Jam.3_c6" structure="conj-C-P">
+    <pl.conj>
+      <w xlink:href="NT.Jam.w868"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Jam.w869"/>
+      <w xlink:href="NT.Jam.w870"/>
+      <w xlink:href="NT.Jam.w871"/>
+      <w xlink:href="NT.Jam.w872"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Jam.w873"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c11" level="primary" connect="NT.Jam.3_c10" structure="P">
+    <cl.P>
+      <w xlink:href="NT.Jam.w874"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c12" level="primary" connect="NT.Jam.3_c11" structure="conj-S-A-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Jam.w875"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Jam.w876"/>
+      <w xlink:href="NT.Jam.w877"/>
+    </cl.S>
+    <cl.A>
+      <cl.clause xml:id="NT.Jam.3_c13" level="embedded" structure="C-P">
+        <cl.C>
+          <w xlink:href="NT.Jam.w878"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.Jam.w879"/>
+        </cl.P>
+      </cl.clause>
+      <cl.clause xml:id="NT.Jam.3_c14" level="embedded" structure="conj-A-P">
+        <pl.conj>
+          <w xlink:href="NT.Jam.w880"/>
+        </pl.conj>
+        <cl.A>
+          <w xlink:href="NT.Jam.w881"/>
+          <w xlink:href="NT.Jam.w882"/>
+          <w xlink:href="NT.Jam.w883"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Jam.w884"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Jam.w885"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Jam.w886"/>
+      <w xlink:href="NT.Jam.w887"/>
+      <w xlink:href="NT.Jam.w888"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c15" level="secondary" connect="NT.Jam.3_c12" structure="conj-S-P">
+    <pl.conj>
+      <w xlink:href="NT.Jam.w889"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Jam.w890"/>
+      <w xlink:href="NT.Jam.w891"/>
+      <cl.clause xml:id="NT.Jam.3_c16" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Jam.w892"/>
+          <w xlink:href="NT.Jam.w893"/>
+        </cl.P>
+      </cl.clause>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Jam.w894"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c17" level="primary" connect="NT.Jam.3_c12" structure="A-conj-S-C-P">
+    <cl.A>
+      <w xlink:href="NT.Jam.w895"/>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.Jam.w896"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Jam.w897"/>
+      <w xlink:href="NT.Jam.w898"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Jam.w899"/>
+      <w xlink:href="NT.Jam.w900"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Jam.w901"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c18" level="primary" connect="NT.Jam.3_c17" structure="conj-C-P">
+    <pl.conj>
+      <w xlink:href="NT.Jam.w902"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Jam.w903"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Jam.w904"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c19" level="primary" connect="NT.Jam.3_c18" structure="P">
+    <cl.P>
+      <w xlink:href="NT.Jam.w905"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c20" level="primary" connect="NT.Jam.3_c19" structure="S-C-P">
+    <cl.S>
+      <w xlink:href="NT.Jam.w906"/>
+      <w xlink:href="NT.Jam.w907"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Jam.w908"/>
+      <w xlink:href="NT.Jam.w909"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Jam.w910"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c21" level="primary" connect="NT.Jam.3_c20" structure="conj-S-C">
+    <pl.conj>
+      <w xlink:href="NT.Jam.w911"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Jam.w912"/>
+      <w xlink:href="NT.Jam.w913"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Jam.w914"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c22" level="primary" connect="NT.Jam.3_c21" structure="C-S-(P)-(A)">
+    <cl.C>
+      <w xlink:href="NT.Jam.w915"/>
+      <w xlink:href="NT.Jam.w916"/>
+      <w xlink:href="NT.Jam.w917"/>
+      <w xlink:href="NT.Jam.w918"/>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.Jam.w919"/>
+      <w xlink:href="NT.Jam.w920"/>
+      <cl.P type="embed" parent="NT.Jam.3_c22">
+        <w xlink:href="NT.Jam.w921"/>
+      </cl.P>
+      <cl.A type="embed" parent="NT.Jam.3_c22">
+        <w xlink:href="NT.Jam.w922"/>
+        <w xlink:href="NT.Jam.w923"/>
+        <w xlink:href="NT.Jam.w924"/>
+        <w xlink:href="NT.Jam.w925"/>
+      </cl.A>
+      <cl.clause xml:id="NT.Jam.3_c23" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Jam.w926"/>
+          <w xlink:href="NT.Jam.w927"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Jam.w928"/>
+          <w xlink:href="NT.Jam.w929"/>
+          <w xlink:href="NT.Jam.w930"/>
+        </cl.C>
+      </cl.clause>
+      <cl.clause xml:id="NT.Jam.3_c24" level="embedded" structure="conj-P-C">
+        <pl.conj>
+          <w xlink:href="NT.Jam.w931"/>
+        </pl.conj>
+        <cl.P>
+          <w xlink:href="NT.Jam.w932"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Jam.w933"/>
+          <w xlink:href="NT.Jam.w934"/>
+          <w xlink:href="NT.Jam.w935"/>
+          <w xlink:href="NT.Jam.w936"/>
+        </cl.C>
+      </cl.clause>
+      <cl.clause xml:id="NT.Jam.3_c25" level="embedded" structure="conj-P-A">
+        <pl.conj>
+          <w xlink:href="NT.Jam.w937"/>
+        </pl.conj>
+        <cl.P>
+          <w xlink:href="NT.Jam.w938"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Jam.w939"/>
+          <w xlink:href="NT.Jam.w940"/>
+          <w xlink:href="NT.Jam.w941"/>
+        </cl.A>
+      </cl.clause>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c26" level="primary" connect="NT.Jam.3_c22" structure="S-(conj)-P">
+    <cl.S>
+      <w xlink:href="NT.Jam.w942"/>
+      <pl.conj type="embed" parent="NT.Jam.3_c26">
+        <w xlink:href="NT.Jam.w943"/>
+      </pl.conj>
+      <w xlink:href="NT.Jam.w944"/>
+      <w xlink:href="NT.Jam.w945"/>
+      <w xlink:href="NT.Jam.w946"/>
+      <w xlink:href="NT.Jam.w947"/>
+      <w xlink:href="NT.Jam.w948"/>
+      <w xlink:href="NT.Jam.w949"/>
+      <w xlink:href="NT.Jam.w950"/>
+      <w xlink:href="NT.Jam.w951"/>
+      <w xlink:href="NT.Jam.w952"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Jam.w953"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c27" level="primary" connect="NT.Jam.3_c26" structure="conj-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Jam.w954"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Jam.w955"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Jam.w956"/>
+      <w xlink:href="NT.Jam.w957"/>
+      <w xlink:href="NT.Jam.w958"/>
+      <w xlink:href="NT.Jam.w959"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c28" level="primary" connect="NT.Jam.3_c27" structure="C-(conj)-S-(C)-(P)">
+    <cl.C>
+      <w xlink:href="NT.Jam.w960"/>
+      <pl.conj type="embed" parent="NT.Jam.3_c28">
+        <w xlink:href="NT.Jam.w961"/>
+      </pl.conj>
+      <w xlink:href="NT.Jam.w962"/>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.Jam.w963"/>
+      <cl.C type="embed" parent="NT.Jam.3_c28">
+        <cl.clause xml:id="NT.Jam.3_c29" level="embedded" structure="P">
+          <cl.P>
+            <w xlink:href="NT.Jam.w964"/>
+          </cl.P>
+        </cl.clause>
+      </cl.C>
+      <cl.P type="embed" parent="NT.Jam.3_c28">
+        <w xlink:href="NT.Jam.w965"/>
+      </cl.P>
+      <w xlink:href="NT.Jam.w966"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c30" level="primary" connect="NT.Jam.3_c28" structure="C">
+    <cl.C>
+      <w xlink:href="NT.Jam.w967"/>
+      <w xlink:href="NT.Jam.w968"/>
+      <w xlink:href="NT.Jam.w969"/>
+      <w xlink:href="NT.Jam.w970"/>
+      <w xlink:href="NT.Jam.w971"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c31" level="primary" connect="NT.Jam.3_c30" structure="A-P-C">
+    <cl.A>
+      <w xlink:href="NT.Jam.w972"/>
+      <w xlink:href="NT.Jam.w973"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Jam.w974"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Jam.w975"/>
+      <w xlink:href="NT.Jam.w976"/>
+      <w xlink:href="NT.Jam.w977"/>
+      <w xlink:href="NT.Jam.w978"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c32" level="primary" connect="NT.Jam.3_c31" structure="conj-A-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Jam.w979"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Jam.w980"/>
+      <w xlink:href="NT.Jam.w981"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Jam.w982"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Jam.w983"/>
+      <w xlink:href="NT.Jam.w984"/>
+      <cl.clause xml:id="NT.Jam.3_c33" level="embedded" structure="P-(A)">
+        <cl.P>
+          <w xlink:href="NT.Jam.w985"/>
+          <cl.A type="embed" parent="NT.Jam.3_c33">
+            <w xlink:href="NT.Jam.w986"/>
+            <w xlink:href="NT.Jam.w987"/>
+            <w xlink:href="NT.Jam.w988"/>
+          </cl.A>
+          <w xlink:href="NT.Jam.w989"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c34" level="primary" connect="NT.Jam.3_c32" structure="A-P-S">
+    <cl.A>
+      <w xlink:href="NT.Jam.w990"/>
+      <w xlink:href="NT.Jam.w991"/>
+      <w xlink:href="NT.Jam.w992"/>
+      <w xlink:href="NT.Jam.w993"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Jam.w994"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Jam.w995"/>
+      <w xlink:href="NT.Jam.w996"/>
+      <w xlink:href="NT.Jam.w997"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c35" level="primary" connect="NT.Jam.3_c34" structure="A-P-add-S">
+    <cl.A>
+      <w xlink:href="NT.Jam.w998"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Jam.w999"/>
+    </cl.P>
+    <cl.add>
+      <w xlink:href="NT.Jam.w1000"/>
+      <w xlink:href="NT.Jam.w1001"/>
+    </cl.add>
+    <cl.S>
+      <cl.clause xml:id="NT.Jam.3_c36" level="embedded" structure="S-A-P">
+        <cl.S>
+          <w xlink:href="NT.Jam.w1002"/>
+        </cl.S>
+        <cl.A>
+          <w xlink:href="NT.Jam.w1003"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Jam.w1004"/>
+        </cl.P>
+      </cl.clause>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c37" level="primary" connect="NT.Jam.3_c35" structure="A-S-A-P-C">
+    <cl.A>
+      <w xlink:href="NT.Jam.w1005"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Jam.w1006"/>
+      <w xlink:href="NT.Jam.w1007"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Jam.w1008"/>
+      <w xlink:href="NT.Jam.w1009"/>
+      <w xlink:href="NT.Jam.w1010"/>
+      <w xlink:href="NT.Jam.w1011"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Jam.w1012"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Jam.w1013"/>
+      <w xlink:href="NT.Jam.w1014"/>
+      <w xlink:href="NT.Jam.w1015"/>
+      <w xlink:href="NT.Jam.w1016"/>
+      <w xlink:href="NT.Jam.w1017"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c38" level="primary" connect="NT.Jam.3_c37" structure="A-P-add-S-C">
+    <cl.A>
+      <w xlink:href="NT.Jam.w1018"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Jam.w1019"/>
+    </cl.P>
+    <cl.add>
+      <w xlink:href="NT.Jam.w1020"/>
+      <w xlink:href="NT.Jam.w1021"/>
+    </cl.add>
+    <cl.S>
+      <w xlink:href="NT.Jam.w1022"/>
+    </cl.S>
+    <cl.C>
+      <cl.clause xml:id="NT.Jam.3_c39" level="embedded" structure="C-P">
+        <cl.C>
+          <w xlink:href="NT.Jam.w1023"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.Jam.w1024"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c40" level="primary" connect="NT.Jam.3_c38" structure="conj-S-C">
+    <pl.conj>
+      <w xlink:href="NT.Jam.w1025"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Jam.w1026"/>
+    </cl.S>
+    <cl.C>
+      <cl.clause xml:id="NT.Jam.3_c41" level="embedded" structure="C">
+        <cl.C>
+          <w xlink:href="NT.Jam.w1027"/>
+        </cl.C>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c42" level="primary" connect="NT.Jam.3_c40" structure="A-S-C">
+    <cl.A>
+      <w xlink:href="NT.Jam.w1028"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Jam.w1029"/>
+    </cl.S>
+    <cl.C>
+      <cl.clause xml:id="NT.Jam.3_c43" level="embedded" structure="C-(P)">
+        <cl.C>
+          <w xlink:href="NT.Jam.w1030"/>
+          <cl.P type="embed" parent="NT.Jam.3_c43">
+            <w xlink:href="NT.Jam.w1031"/>
+          </cl.P>
+          <w xlink:href="NT.Jam.w1032"/>
+        </cl.C>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c44" level="primary" connect="NT.Jam.3_c42" structure="C-S">
+    <cl.C>
+      <w xlink:href="NT.Jam.w1033"/>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.Jam.w1034"/>
+      <w xlink:href="NT.Jam.w1035"/>
+      <w xlink:href="NT.Jam.w1036"/>
+      <w xlink:href="NT.Jam.w1037"/>
+      <w xlink:href="NT.Jam.w1038"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c45" level="primary" connect="NT.Jam.3_c44" structure="P-A-C-A">
+    <cl.P>
+      <w xlink:href="NT.Jam.w1039"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Jam.w1040"/>
+      <w xlink:href="NT.Jam.w1041"/>
+      <w xlink:href="NT.Jam.w1042"/>
+      <w xlink:href="NT.Jam.w1043"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.Jam.w1044"/>
+      <w xlink:href="NT.Jam.w1045"/>
+      <w xlink:href="NT.Jam.w1046"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Jam.w1047"/>
+      <w xlink:href="NT.Jam.w1048"/>
+      <w xlink:href="NT.Jam.w1049"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c46" level="secondary" connect="NT.Jam.3_c47" structure="conj-conj-C-(P)-A">
+    <pl.conj>
+      <w xlink:href="NT.Jam.w1050"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Jam.w1051"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Jam.w1052"/>
+      <w xlink:href="NT.Jam.w1053"/>
+      <cl.P type="embed" parent="NT.Jam.3_c46">
+        <w xlink:href="NT.Jam.w1054"/>
+      </cl.P>
+      <w xlink:href="NT.Jam.w1055"/>
+      <w xlink:href="NT.Jam.w1056"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Jam.w1057"/>
+      <w xlink:href="NT.Jam.w1058"/>
+      <w xlink:href="NT.Jam.w1059"/>
+      <w xlink:href="NT.Jam.w1060"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c47" level="primary" connect="NT.Jam.3_c45" structure="A-P">
+    <cl.A>
+      <w xlink:href="NT.Jam.w1061"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Jam.w1062"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c48" level="primary" connect="NT.Jam.3_c47" structure="conj-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Jam.w1063"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Jam.w1064"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Jam.w1065"/>
+      <w xlink:href="NT.Jam.w1066"/>
+      <w xlink:href="NT.Jam.w1067"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c49" level="primary" connect="NT.Jam.3_c48" structure="A-P-S-C">
+    <cl.A>
+      <w xlink:href="NT.Jam.w1068"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Jam.w1069"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Jam.w1070"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Jam.w1071"/>
+      <w xlink:href="NT.Jam.w1072"/>
+      <cl.clause xml:id="NT.Jam.3_c50" level="embedded" structure="A-P">
+        <cl.A>
+          <w xlink:href="NT.Jam.w1073"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Jam.w1074"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c51" level="primary" connect="NT.Jam.3_c49" structure="conj-C">
+    <pl.conj>
+      <w xlink:href="NT.Jam.w1075"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Jam.w1076"/>
+      <w xlink:href="NT.Jam.w1077"/>
+      <w xlink:href="NT.Jam.w1078"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c52" level="secondary" connect="NT.Jam.3_c53" structure="conj-conj-S">
+    <pl.conj>
+      <w xlink:href="NT.Jam.w1079"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Jam.w1080"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Jam.w1081"/>
+      <w xlink:href="NT.Jam.w1082"/>
+      <w xlink:href="NT.Jam.w1083"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c53" level="primary" connect="NT.Jam.3_c51" structure="A-S">
+    <cl.A>
+      <w xlink:href="NT.Jam.w1084"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Jam.w1085"/>
+      <w xlink:href="NT.Jam.w1086"/>
+      <w xlink:href="NT.Jam.w1087"/>
+      <w xlink:href="NT.Jam.w1088"/>
+      <w xlink:href="NT.Jam.w1089"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c54" level="primary" connect="NT.Jam.3_c53" structure="S-(conj)-A-conj-C-P">
+    <cl.S>
+      <w xlink:href="NT.Jam.w1090"/>
+      <pl.conj type="embed" parent="NT.Jam.3_c54">
+        <w xlink:href="NT.Jam.w1091"/>
+      </pl.conj>
+      <w xlink:href="NT.Jam.w1092"/>
+      <w xlink:href="NT.Jam.w1093"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Jam.w1094"/>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.Jam.w1095"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Jam.w1096"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Jam.w1097"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c55" level="primary" connect="NT.Jam.3_c54" structure="A-C">
+    <cl.A>
+      <w xlink:href="NT.Jam.w1098"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.Jam.w1099"/>
+      <w xlink:href="NT.Jam.w1100"/>
+      <w xlink:href="NT.Jam.w1101"/>
+      <w xlink:href="NT.Jam.w1102"/>
+      <w xlink:href="NT.Jam.w1103"/>
+      <w xlink:href="NT.Jam.w1104"/>
+      <w xlink:href="NT.Jam.w1105"/>
+      <w xlink:href="NT.Jam.w1106"/>
+      <w xlink:href="NT.Jam.w1107"/>
+      <w xlink:href="NT.Jam.w1108"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Jam.3_c56" level="primary" connect="NT.Jam.3_c55" structure="S-(conj)-A-P-C">
+    <cl.S>
+      <w xlink:href="NT.Jam.w1109"/>
+      <pl.conj type="embed" parent="NT.Jam.3_c56">
+        <w xlink:href="NT.Jam.w1110"/>
+      </pl.conj>
+      <w xlink:href="NT.Jam.w1111"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Jam.w1112"/>
+      <w xlink:href="NT.Jam.w1113"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Jam.w1114"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.Jam.3_c57" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Jam.w1115"/>
+          <w xlink:href="NT.Jam.w1116"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Jam.w1117"/>
+        </cl.C>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+</chapter>

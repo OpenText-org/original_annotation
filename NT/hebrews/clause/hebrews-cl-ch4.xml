@@ -14,4 +14,769 @@ Copyright (c) 2005-6 OpenText.org
 
 contact: matt@opentext.org
 =================================================		
-		--><chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Heb" num="4"><cl.clause xml:id="NT.Heb.4_c1" level="primary" structure="P-conj"><cl.P><w xlink:href="NT.Heb.w853"/></cl.P><pl.conj><w xlink:href="NT.Heb.w854"/></pl.conj></cl.clause><cl.clause xml:id="NT.Heb.4_c2" level="secondary" connect="NT.Heb.4_c1" structure="conj-P-S-C"><pl.conj><w xlink:href="NT.Heb.w855"/></pl.conj><pl.gap><cl.clause xml:id="NT.Heb.4_c3" level="secondary2" structure="P-S" connect="NT.NT.Heb.4_c2"><cl.P><w xlink:href="NT.Heb.w856"/></cl.P><cl.S><w xlink:href="NT.Heb.w857"/><cl.clause xml:id="NT.Heb.4_c4" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Heb.w858"/></cl.P><cl.A><w xlink:href="NT.Heb.w859"/><w xlink:href="NT.Heb.w860"/><w xlink:href="NT.Heb.w861"/><w xlink:href="NT.Heb.w862"/></cl.A></cl.clause></cl.S></cl.clause></pl.gap><cl.P><w xlink:href="NT.Heb.w863"/></cl.P><cl.S><w xlink:href="NT.Heb.w864"/><w xlink:href="NT.Heb.w865"/><w xlink:href="NT.Heb.w866"/></cl.S><cl.C><cl.clause xml:id="NT.Heb.4_c5" level="embedded" structure="P"><cl.P><w xlink:href="NT.Heb.w867"/></cl.P></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Heb.4_c6" level="primary" connect="NT.Heb.4_c1" structure="conj-conj-P-C"><pl.conj><w xlink:href="NT.Heb.w868"/></pl.conj><pl.conj><w xlink:href="NT.Heb.w869"/></pl.conj><cl.P><w xlink:href="NT.Heb.w870"/></cl.P><cl.C><cl.clause xml:id="NT.Heb.4_c7" level="embedded" structure="P"><cl.P><w xlink:href="NT.Heb.w871"/></cl.P></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Heb.4_c8" level="secondary" connect="NT.Heb.4_c6" structure="conj-S"><pl.conj><w xlink:href="NT.Heb.w872"/></pl.conj><cl.S><w xlink:href="NT.Heb.w873"/></cl.S></cl.clause><cl.clause xml:id="NT.Heb.4_c9" level="primary" connect="NT.Heb.4_c6" structure="conj-A-P-S-C-A"><pl.conj><w xlink:href="NT.Heb.w874"/></pl.conj><cl.A><w xlink:href="NT.Heb.w875"/></cl.A><cl.P><w xlink:href="NT.Heb.w876"/></cl.P><cl.S><w xlink:href="NT.Heb.w877"/><w xlink:href="NT.Heb.w878"/><w xlink:href="NT.Heb.w879"/><w xlink:href="NT.Heb.w880"/></cl.S><cl.C><w xlink:href="NT.Heb.w881"/></cl.C><cl.A><cl.clause xml:id="NT.Heb.4_c10" level="embedded" structure="A-P-A-C"><cl.A><w xlink:href="NT.Heb.w882"/></cl.A><cl.P><w xlink:href="NT.Heb.w883"/></cl.P><cl.A><w xlink:href="NT.Heb.w884"/><w xlink:href="NT.Heb.w885"/></cl.A><cl.C><cl.clause xml:id="NT.Heb.4_c11" level="embedded" structure="P"><cl.P><w xlink:href="NT.Heb.w886"/><w xlink:href="NT.Heb.w887"/></cl.P></cl.clause></cl.C></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Heb.4_c12" level="primary" connect="NT.Heb.4_c9" structure="P-conj-A-S"><cl.P><w xlink:href="NT.Heb.w888"/></cl.P><pl.conj><w xlink:href="NT.Heb.w889"/></pl.conj><cl.A><w xlink:href="NT.Heb.w890"/><w xlink:href="NT.Heb.w891"/><w xlink:href="NT.Heb.w892"/></cl.A><cl.S><cl.clause xml:id="NT.Heb.4_c13" level="embedded" structure="P"><cl.P><w xlink:href="NT.Heb.w893"/><w xlink:href="NT.Heb.w894"/></cl.P></cl.clause></cl.S></cl.clause><cl.clause xml:id="NT.Heb.4_c14" level="secondary" connect="NT.Heb.4_c12" structure="conj-P"><pl.conj><w xlink:href="NT.Heb.w895"/></pl.conj><cl.P><w xlink:href="NT.Heb.w896"/></cl.P></cl.clause><cl.clause xml:id="NT.Heb.4_c15" level="secondary2" projected="yes" connect="NT.Heb.4_c14" structure="conj-P-A"><pl.conj><w xlink:href="NT.Heb.w897"/></pl.conj><cl.P><w xlink:href="NT.Heb.w898"/></cl.P><cl.A><w xlink:href="NT.Heb.w899"/><w xlink:href="NT.Heb.w900"/><w xlink:href="NT.Heb.w901"/><w xlink:href="NT.Heb.w902"/></cl.A></cl.clause><cl.clause xml:id="NT.Heb.4_c16" level="secondary2" projected="yes" connect="NT.Heb.4_c15" structure="conj-P-A"><pl.conj><w xlink:href="NT.Heb.w903"/></pl.conj><cl.P><w xlink:href="NT.Heb.w904"/></cl.P><cl.A><w xlink:href="NT.Heb.w905"/><w xlink:href="NT.Heb.w906"/><w xlink:href="NT.Heb.w907"/><w xlink:href="NT.Heb.w908"/></cl.A></cl.clause><cl.clause xml:id="NT.Heb.4_c17" level="secondary2" connect="NT.Heb.4_c16" structure="A-S-A-P"><cl.A><w xlink:href="NT.Heb.w909"/></cl.A><cl.S><w xlink:href="NT.Heb.w910"/><w xlink:href="NT.Heb.w911"/></cl.S><cl.A><w xlink:href="NT.Heb.w912"/><w xlink:href="NT.Heb.w913"/><w xlink:href="NT.Heb.w914"/></cl.A><cl.P><w xlink:href="NT.Heb.w915"/></cl.P></cl.clause><cl.clause xml:id="NT.Heb.4_c18" level="primary" connect="NT.Heb.4_c12" structure="P-conj-A-A"><cl.P><w xlink:href="NT.Heb.w916"/></cl.P><pl.conj><w xlink:href="NT.Heb.w917"/></pl.conj><cl.A><w xlink:href="NT.Heb.w918"/></cl.A><cl.A><w xlink:href="NT.Heb.w919"/><w xlink:href="NT.Heb.w920"/><w xlink:href="NT.Heb.w921"/></cl.A></cl.clause><cl.clause xml:id="NT.Heb.4_c19" level="primary" projected="yes" connect="NT.Heb.4_c18" structure="A-conj-P-S-A-A"><cl.A><w xlink:href="NT.Heb.w922"/></cl.A><pl.conj><w xlink:href="NT.Heb.w923"/></pl.conj><cl.P><w xlink:href="NT.Heb.w924"/></cl.P><cl.S><w xlink:href="NT.Heb.w925"/><w xlink:href="NT.Heb.w926"/></cl.S><cl.A><w xlink:href="NT.Heb.w927"/><w xlink:href="NT.Heb.w928"/><w xlink:href="NT.Heb.w929"/><w xlink:href="NT.Heb.w930"/><w xlink:href="NT.Heb.w931"/></cl.A><cl.A><w xlink:href="NT.Heb.w932"/><w xlink:href="NT.Heb.w933"/><w xlink:href="NT.Heb.w934"/><w xlink:href="NT.Heb.w935"/><w xlink:href="NT.Heb.w936"/></cl.A></cl.clause><cl.clause xml:id="NT.Heb.4_c20" level="primary" connect="NT.Heb.4_c18" structure="conj-A-A"><pl.conj><w xlink:href="NT.Heb.w937"/></pl.conj><cl.A><w xlink:href="NT.Heb.w938"/><w xlink:href="NT.Heb.w939"/></cl.A><cl.A><w xlink:href="NT.Heb.w940"/></cl.A></cl.clause><cl.clause xml:id="NT.Heb.4_c21" level="secondary" projected="yes" connect="NT.Heb.4_c20" structure="conj-P-A"><pl.conj><w xlink:href="NT.Heb.w941"/></pl.conj><cl.P><w xlink:href="NT.Heb.w942"/></cl.P><cl.A><w xlink:href="NT.Heb.w943"/><w xlink:href="NT.Heb.w944"/><w xlink:href="NT.Heb.w945"/><w xlink:href="NT.Heb.w946"/></cl.A></cl.clause><cl.clause xml:id="NT.Heb.4_c22" level="secondary" connect="NT.Heb.4_c26" structure="conj-conj-P-S"><pl.conj><w xlink:href="NT.Heb.w947"/></pl.conj><pl.conj><w xlink:href="NT.Heb.w948"/></pl.conj><cl.P><w xlink:href="NT.Heb.w949"/></cl.P><cl.S><cl.clause xml:id="NT.Heb.4_c23" level="embedded" structure="S-P-A"><cl.S><w xlink:href="NT.Heb.w950"/></cl.S><cl.P><w xlink:href="NT.Heb.w951"/></cl.P><cl.A><w xlink:href="NT.Heb.w952"/><w xlink:href="NT.Heb.w953"/></cl.A></cl.clause></cl.S></cl.clause><cl.clause xml:id="NT.Heb.4_c24" level="secondary" connect="NT.Heb.4_c22" structure="conj-S-A-P-A"><pl.conj><w xlink:href="NT.Heb.w954"/></pl.conj><cl.S><cl.clause xml:id="NT.Heb.4_c25" level="embedded" structure="P-(A)"><cl.P><w xlink:href="NT.Heb.w955"/><cl.A type="embed" parent="NT.Heb.4_c25"><w xlink:href="NT.Heb.w956"/></cl.A><w xlink:href="NT.Heb.w957"/></cl.P></cl.clause></cl.S><cl.A><w xlink:href="NT.Heb.w958"/></cl.A><cl.P><w xlink:href="NT.Heb.w959"/></cl.P><cl.A><w xlink:href="NT.Heb.w960"/><w xlink:href="NT.Heb.w961"/></cl.A></cl.clause><cl.clause xml:id="NT.Heb.4_c26" level="primary" connect="NT.Heb.4_c20" structure="A-C-(P)-C-A"><cl.A><w xlink:href="NT.Heb.w962"/></cl.A><cl.C><w xlink:href="NT.Heb.w963"/><cl.P type="embed" parent="NT.Heb.4_c26"><w xlink:href="NT.Heb.w964"/></cl.P><w xlink:href="NT.Heb.w965"/></cl.C><cl.C><w xlink:href="NT.Heb.w966"/></cl.C><cl.A><cl.clause xml:id="NT.Heb.4_c27" level="embedded" structure="A-P-A"><cl.A><w xlink:href="NT.Heb.w967"/><w xlink:href="NT.Heb.w968"/></cl.A><cl.P><w xlink:href="NT.Heb.w969"/></cl.P><cl.A><w xlink:href="NT.Heb.w970"/><w xlink:href="NT.Heb.w971"/><w xlink:href="NT.Heb.w972"/></cl.A></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Heb.4_c28" level="secondary" connect="NT.Heb.4_c26" structure="conj-P"><pl.conj><w xlink:href="NT.Heb.w973"/></pl.conj><cl.P><w xlink:href="NT.Heb.w974"/></cl.P></cl.clause><cl.clause xml:id="NT.Heb.4_c29" level="secondary" projected="yes" connect="NT.Heb.4_c30" structure="A-conj-C-P"><cl.A><w xlink:href="NT.Heb.w975"/></cl.A><pl.conj><w xlink:href="NT.Heb.w976"/></pl.conj><cl.C><w xlink:href="NT.Heb.w977"/><w xlink:href="NT.Heb.w978"/><w xlink:href="NT.Heb.w979"/></cl.C><cl.P><w xlink:href="NT.Heb.w980"/></cl.P></cl.clause><cl.clause xml:id="NT.Heb.4_c30" level="primary" projected="yes" connect="NT.Heb.4_c26" structure="A-P-C"><cl.A><w xlink:href="NT.Heb.w981"/></cl.A><cl.P><w xlink:href="NT.Heb.w982"/></cl.P><cl.C><w xlink:href="NT.Heb.w983"/><w xlink:href="NT.Heb.w984"/><w xlink:href="NT.Heb.w985"/></cl.C></cl.clause><cl.clause xml:id="NT.Heb.4_c31" level="secondary" connect="NT.Heb.4_c32" structure="conj-conj-C-S-P"><pl.conj><w xlink:href="NT.Heb.w986"/></pl.conj><pl.conj><w xlink:href="NT.Heb.w987"/></pl.conj><cl.C><w xlink:href="NT.Heb.w988"/></cl.C><cl.S><w xlink:href="NT.Heb.w989"/></cl.S><cl.P><w xlink:href="NT.Heb.w990"/></cl.P></cl.clause><cl.clause xml:id="NT.Heb.4_c32" level="primary" connect="NT.Heb.4_c26" structure="A-A-A-P-A"><cl.A><w xlink:href="NT.Heb.w991"/></cl.A><cl.A><w xlink:href="NT.Heb.w992"/></cl.A><cl.A><w xlink:href="NT.Heb.w993"/><w xlink:href="NT.Heb.w994"/></cl.A><cl.P><w xlink:href="NT.Heb.w995"/></cl.P><cl.A><w xlink:href="NT.Heb.w996"/><w xlink:href="NT.Heb.w997"/><w xlink:href="NT.Heb.w998"/></cl.A></cl.clause><cl.clause xml:id="NT.Heb.4_c33" level="primary" connect="NT.Heb.4_c32" structure="conj-P-S-C"><pl.conj><w xlink:href="NT.Heb.w999"/></pl.conj><cl.P><w xlink:href="NT.Heb.w1000"/></cl.P><cl.S><w xlink:href="NT.Heb.w1001"/></cl.S><cl.C><w xlink:href="NT.Heb.w1002"/><w xlink:href="NT.Heb.w1003"/><w xlink:href="NT.Heb.w1004"/><w xlink:href="NT.Heb.w1005"/></cl.C></cl.clause><cl.clause xml:id="NT.Heb.4_c34" level="primary" connect="NT.Heb.4_c33" structure="S-(conj)-(conj)-P-A"><cl.S><cl.clause xml:id="NT.Heb.4_c35" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Heb.w1006"/><w xlink:href="NT.Heb.w1008"/></cl.P><cl.A><w xlink:href="NT.Heb.w1009"/><w xlink:href="NT.Heb.w1010"/><w xlink:href="NT.Heb.w1011"/><w xlink:href="NT.Heb.w1012"/></cl.A></cl.clause><pl.conj type="embed" parent="NT.Heb.4_c34"><w xlink:href="NT.Heb.w1007"/></pl.conj><pl.conj type="embed" parent="NT.Heb.4_c34"><w xlink:href="NT.Heb.w1013"/></pl.conj><w xlink:href="NT.Heb.w1014"/></cl.S><cl.P><w xlink:href="NT.Heb.w1015"/></cl.P><cl.A><w xlink:href="NT.Heb.w1016"/><w xlink:href="NT.Heb.w1017"/><w xlink:href="NT.Heb.w1018"/><w xlink:href="NT.Heb.w1019"/></cl.A></cl.clause><cl.clause xml:id="NT.Heb.4_c36" level="secondary" connect="NT.Heb.4_c34" structure="conj-A-S"><pl.conj><w xlink:href="NT.Heb.w1020"/></pl.conj><cl.A><w xlink:href="NT.Heb.w1021"/><w xlink:href="NT.Heb.w1022"/><w xlink:href="NT.Heb.w1023"/></cl.A><cl.S><w xlink:href="NT.Heb.w1024"/><w xlink:href="NT.Heb.w1025"/></cl.S></cl.clause><cl.clause xml:id="NT.Heb.4_c37" level="primary" connect="NT.Heb.4_c34" structure="P-conj-C"><cl.P><w xlink:href="NT.Heb.w1026"/></cl.P><pl.conj><w xlink:href="NT.Heb.w1027"/></pl.conj><cl.C><cl.clause xml:id="NT.Heb.4_c38" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Heb.w1028"/></cl.P><cl.A><w xlink:href="NT.Heb.w1029"/><w xlink:href="NT.Heb.w1030"/><w xlink:href="NT.Heb.w1031"/><w xlink:href="NT.Heb.w1032"/></cl.A></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Heb.4_c39" level="secondary" connect="NT.Heb.4_c37" structure="conj-A-A-(S)-(P)"><pl.conj><w xlink:href="NT.Heb.w1033"/></pl.conj><cl.A><w xlink:href="NT.Heb.w1034"/></cl.A><cl.A><w xlink:href="NT.Heb.w1035"/><w xlink:href="NT.Heb.w1036"/><w xlink:href="NT.Heb.w1037"/><cl.S type="embed" parent="NT.Heb.4_c39"><w xlink:href="NT.Heb.w1038"/></cl.S><w xlink:href="NT.Heb.w1039"/><cl.P type="embed" parent="NT.Heb.4_c39"><w xlink:href="NT.Heb.w1040"/></cl.P><w xlink:href="NT.Heb.w1041"/><w xlink:href="NT.Heb.w1042"/></cl.A></cl.clause><cl.clause xml:id="NT.Heb.4_c40" level="primary" connect="NT.Heb.4_c37" structure="C-(conj)-(S)"><cl.C><cl.clause xml:id="NT.Heb.4_c41" level="embedded" structure="P"><cl.P><w xlink:href="NT.Heb.w1043"/></cl.P></cl.clause><pl.conj type="embed" parent="NT.Heb.4_c40"><w xlink:href="NT.Heb.w1044"/></pl.conj><cl.S type="embed" parent="NT.Heb.4_c40"><w xlink:href="NT.Heb.w1045"/><w xlink:href="NT.Heb.w1046"/><w xlink:href="NT.Heb.w1047"/><w xlink:href="NT.Heb.w1048"/></cl.S><w xlink:href="NT.Heb.w1049"/><w xlink:href="NT.Heb.w1050"/><w xlink:href="NT.Heb.w1051"/><w xlink:href="NT.Heb.w1052"/><w xlink:href="NT.Heb.w1053"/><w xlink:href="NT.Heb.w1054"/><w xlink:href="NT.Heb.w1055"/><w xlink:href="NT.Heb.w1056"/><w xlink:href="NT.Heb.w1057"/><cl.clause xml:id="NT.Heb.4_c42" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Heb.w1058"/></cl.P><cl.A><w xlink:href="NT.Heb.w1059"/><w xlink:href="NT.Heb.w1060"/><w xlink:href="NT.Heb.w1061"/><w xlink:href="NT.Heb.w1062"/><w xlink:href="NT.Heb.w1063"/><w xlink:href="NT.Heb.w1064"/><w xlink:href="NT.Heb.w1065"/><w xlink:href="NT.Heb.w1066"/><w xlink:href="NT.Heb.w1067"/></cl.A></cl.clause><w xlink:href="NT.Heb.w1068"/><w xlink:href="NT.Heb.w1069"/><w xlink:href="NT.Heb.w1070"/><w xlink:href="NT.Heb.w1071"/><w xlink:href="NT.Heb.w1072"/><w xlink:href="NT.Heb.w1073"/></cl.C></cl.clause><cl.clause xml:id="NT.Heb.4_c43" level="primary" connect="NT.Heb.4_c40" structure="conj-A-P-S-C-A"><pl.conj><w xlink:href="NT.Heb.w1074"/></pl.conj><cl.A><w xlink:href="NT.Heb.w1075"/></cl.A><cl.P><w xlink:href="NT.Heb.w1076"/></cl.P><cl.S><w xlink:href="NT.Heb.w1077"/></cl.S><cl.C><w xlink:href="NT.Heb.w1078"/></cl.C><cl.A><w xlink:href="NT.Heb.w1079"/><w xlink:href="NT.Heb.w1080"/></cl.A></cl.clause><cl.clause xml:id="NT.Heb.4_c44" level="primary" connect="NT.Heb.4_c43" structure="S-conj-C"><cl.S><w xlink:href="NT.Heb.w1081"/></cl.S><pl.conj><w xlink:href="NT.Heb.w1082"/></pl.conj><cl.C><w xlink:href="NT.Heb.w1083"/><w xlink:href="NT.Heb.w1084"/><cl.clause xml:id="NT.Heb.4_c45" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Heb.w1085"/></cl.P><cl.C><w xlink:href="NT.Heb.w1086"/><w xlink:href="NT.Heb.w1087"/><w xlink:href="NT.Heb.w1088"/></cl.C></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Heb.4_c46" level="secondary" connect="NT.Heb.4_c44" structure="A-S"><cl.A><w xlink:href="NT.Heb.w1089"/><w xlink:href="NT.Heb.w1090"/></cl.A><cl.S><w xlink:href="NT.Heb.w1091"/><w xlink:href="NT.Heb.w1092"/><w xlink:href="NT.Heb.w1093"/></cl.S></cl.clause><cl.clause xml:id="NT.Heb.4_c47" level="primary" connect="NT.Heb.4_c44" structure="A-(conj)-P-C"><cl.A><cl.clause xml:id="NT.Heb.4_c48" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Heb.w1094"/></cl.P><cl.C><w xlink:href="NT.Heb.w1096"/><w xlink:href="NT.Heb.w1097"/><cl.clause xml:id="NT.Heb.4_c49" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Heb.w1098"/></cl.P><cl.A><w xlink:href="NT.Heb.w1099"/><w xlink:href="NT.Heb.w1100"/></cl.A></cl.clause><w xlink:href="NT.Heb.w1101"/><w xlink:href="NT.Heb.w1102"/><w xlink:href="NT.Heb.w1103"/><w xlink:href="NT.Heb.w1104"/><w xlink:href="NT.Heb.w1105"/></cl.C></cl.clause><pl.conj type="embed" parent="NT.Heb.4_c47"><w xlink:href="NT.Heb.w1095"/></pl.conj></cl.A><cl.P><w xlink:href="NT.Heb.w1106"/></cl.P><cl.C><w xlink:href="NT.Heb.w1107"/><w xlink:href="NT.Heb.w1108"/></cl.C></cl.clause><cl.clause xml:id="NT.Heb.4_c50" level="primary" connect="NT.Heb.4_c47" structure="A-conj-P-C"><cl.A><w xlink:href="NT.Heb.w1109"/></cl.A><pl.conj><w xlink:href="NT.Heb.w1110"/></pl.conj><cl.P><w xlink:href="NT.Heb.w1111"/></cl.P><cl.C><w xlink:href="NT.Heb.w1112"/><cl.clause xml:id="NT.Heb.4_c51" level="embedded" structure="A-P-C"><cl.A><w xlink:href="NT.Heb.w1113"/></cl.A><cl.P><w xlink:href="NT.Heb.w1114"/></cl.P><cl.C><cl.clause xml:id="NT.Heb.4_c52" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Heb.w1115"/></cl.P><cl.A><w xlink:href="NT.Heb.w1116"/><w xlink:href="NT.Heb.w1117"/><w xlink:href="NT.Heb.w1118"/></cl.A></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Heb.4_c53" level="embedded" structure="P-conj-A-A-A"><cl.P><w xlink:href="NT.Heb.w1119"/></cl.P><pl.conj><w xlink:href="NT.Heb.w1120"/></pl.conj><cl.A><w xlink:href="NT.Heb.w1121"/><w xlink:href="NT.Heb.w1122"/></cl.A><cl.A><w xlink:href="NT.Heb.w1123"/><w xlink:href="NT.Heb.w1124"/></cl.A><cl.A><w xlink:href="NT.Heb.w1125"/><w xlink:href="NT.Heb.w1126"/></cl.A></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Heb.4_c54" level="primary" connect="NT.Heb.4_c50" structure="P-conj-A-C"><cl.P><w xlink:href="NT.Heb.w1127"/></cl.P><pl.conj><w xlink:href="NT.Heb.w1128"/></pl.conj><cl.A><w xlink:href="NT.Heb.w1129"/><w xlink:href="NT.Heb.w1130"/></cl.A><cl.C><w xlink:href="NT.Heb.w1131"/><w xlink:href="NT.Heb.w1132"/><w xlink:href="NT.Heb.w1133"/><w xlink:href="NT.Heb.w1134"/></cl.C></cl.clause><cl.clause xml:id="NT.Heb.4_c55" level="secondary" connect="NT.Heb.4_c54" structure="conj-P-C"><pl.conj><w xlink:href="NT.Heb.w1135"/></pl.conj><cl.P><w xlink:href="NT.Heb.w1136"/></cl.P><cl.C><w xlink:href="NT.Heb.w1137"/></cl.C></cl.clause><cl.clause xml:id="NT.Heb.4_c56" level="secondary" connect="NT.Heb.4_c55" structure="conj-C-P-A"><pl.conj><w xlink:href="NT.Heb.w1138"/></pl.conj><cl.C><w xlink:href="NT.Heb.w1139"/></cl.C><cl.P><w xlink:href="NT.Heb.w1140"/></cl.P><cl.A><w xlink:href="NT.Heb.w1141"/><w xlink:href="NT.Heb.w1142"/><w xlink:href="NT.Heb.w1143"/></cl.A></cl.clause></chapter>
+		-->
+<chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Heb" num="4">
+  <cl.clause xml:id="NT.Heb.4_c1" level="primary" structure="P-conj">
+    <cl.P>
+      <w xlink:href="NT.Heb.w853"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Heb.w854"/>
+    </pl.conj>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c2" level="secondary" connect="NT.Heb.4_c1" structure="conj-P-S-C">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w855"/>
+    </pl.conj>
+    <pl.gap>
+      <cl.clause xml:id="NT.Heb.4_c3" level="secondary2" structure="P-S" connect="NT.NT.Heb.4_c2">
+        <cl.P>
+          <w xlink:href="NT.Heb.w856"/>
+        </cl.P>
+        <cl.S>
+          <w xlink:href="NT.Heb.w857"/>
+          <cl.clause xml:id="NT.Heb.4_c4" level="embedded" structure="P-A">
+            <cl.P>
+              <w xlink:href="NT.Heb.w858"/>
+            </cl.P>
+            <cl.A>
+              <w xlink:href="NT.Heb.w859"/>
+              <w xlink:href="NT.Heb.w860"/>
+              <w xlink:href="NT.Heb.w861"/>
+              <w xlink:href="NT.Heb.w862"/>
+            </cl.A>
+          </cl.clause>
+        </cl.S>
+      </cl.clause>
+    </pl.gap>
+    <cl.P>
+      <w xlink:href="NT.Heb.w863"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Heb.w864"/>
+      <w xlink:href="NT.Heb.w865"/>
+      <w xlink:href="NT.Heb.w866"/>
+    </cl.S>
+    <cl.C>
+      <cl.clause xml:id="NT.Heb.4_c5" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Heb.w867"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c6" level="primary" connect="NT.Heb.4_c1" structure="conj-conj-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w868"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Heb.w869"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Heb.w870"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.Heb.4_c7" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Heb.w871"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c8" level="secondary" connect="NT.Heb.4_c6" structure="conj-S">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w872"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Heb.w873"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c9" level="primary" connect="NT.Heb.4_c6" structure="conj-A-P-S-C-A">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w874"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Heb.w875"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Heb.w876"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Heb.w877"/>
+      <w xlink:href="NT.Heb.w878"/>
+      <w xlink:href="NT.Heb.w879"/>
+      <w xlink:href="NT.Heb.w880"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Heb.w881"/>
+    </cl.C>
+    <cl.A>
+      <cl.clause xml:id="NT.Heb.4_c10" level="embedded" structure="A-P-A-C">
+        <cl.A>
+          <w xlink:href="NT.Heb.w882"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Heb.w883"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Heb.w884"/>
+          <w xlink:href="NT.Heb.w885"/>
+        </cl.A>
+        <cl.C>
+          <cl.clause xml:id="NT.Heb.4_c11" level="embedded" structure="P">
+            <cl.P>
+              <w xlink:href="NT.Heb.w886"/>
+              <w xlink:href="NT.Heb.w887"/>
+            </cl.P>
+          </cl.clause>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c12" level="primary" connect="NT.Heb.4_c9" structure="P-conj-A-S">
+    <cl.P>
+      <w xlink:href="NT.Heb.w888"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Heb.w889"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Heb.w890"/>
+      <w xlink:href="NT.Heb.w891"/>
+      <w xlink:href="NT.Heb.w892"/>
+    </cl.A>
+    <cl.S>
+      <cl.clause xml:id="NT.Heb.4_c13" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Heb.w893"/>
+          <w xlink:href="NT.Heb.w894"/>
+        </cl.P>
+      </cl.clause>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c14" level="secondary" connect="NT.Heb.4_c12" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w895"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Heb.w896"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c15" level="secondary2" projected="yes" connect="NT.Heb.4_c14" structure="conj-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w897"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Heb.w898"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Heb.w899"/>
+      <w xlink:href="NT.Heb.w900"/>
+      <w xlink:href="NT.Heb.w901"/>
+      <w xlink:href="NT.Heb.w902"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c16" level="secondary2" projected="yes" connect="NT.Heb.4_c15" structure="conj-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w903"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Heb.w904"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Heb.w905"/>
+      <w xlink:href="NT.Heb.w906"/>
+      <w xlink:href="NT.Heb.w907"/>
+      <w xlink:href="NT.Heb.w908"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c17" level="secondary2" connect="NT.Heb.4_c16" structure="A-S-A-P">
+    <cl.A>
+      <w xlink:href="NT.Heb.w909"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Heb.w910"/>
+      <w xlink:href="NT.Heb.w911"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Heb.w912"/>
+      <w xlink:href="NT.Heb.w913"/>
+      <w xlink:href="NT.Heb.w914"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Heb.w915"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c18" level="primary" connect="NT.Heb.4_c12" structure="P-conj-A-A">
+    <cl.P>
+      <w xlink:href="NT.Heb.w916"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Heb.w917"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Heb.w918"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Heb.w919"/>
+      <w xlink:href="NT.Heb.w920"/>
+      <w xlink:href="NT.Heb.w921"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c19" level="primary" projected="yes" connect="NT.Heb.4_c18" structure="A-conj-P-S-A-A">
+    <cl.A>
+      <w xlink:href="NT.Heb.w922"/>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.Heb.w923"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Heb.w924"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Heb.w925"/>
+      <w xlink:href="NT.Heb.w926"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Heb.w927"/>
+      <w xlink:href="NT.Heb.w928"/>
+      <w xlink:href="NT.Heb.w929"/>
+      <w xlink:href="NT.Heb.w930"/>
+      <w xlink:href="NT.Heb.w931"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Heb.w932"/>
+      <w xlink:href="NT.Heb.w933"/>
+      <w xlink:href="NT.Heb.w934"/>
+      <w xlink:href="NT.Heb.w935"/>
+      <w xlink:href="NT.Heb.w936"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c20" level="primary" connect="NT.Heb.4_c18" structure="conj-A-A">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w937"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Heb.w938"/>
+      <w xlink:href="NT.Heb.w939"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Heb.w940"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c21" level="secondary" projected="yes" connect="NT.Heb.4_c20" structure="conj-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w941"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Heb.w942"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Heb.w943"/>
+      <w xlink:href="NT.Heb.w944"/>
+      <w xlink:href="NT.Heb.w945"/>
+      <w xlink:href="NT.Heb.w946"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c22" level="secondary" connect="NT.Heb.4_c26" structure="conj-conj-P-S">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w947"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Heb.w948"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Heb.w949"/>
+    </cl.P>
+    <cl.S>
+      <cl.clause xml:id="NT.Heb.4_c23" level="embedded" structure="S-P-A">
+        <cl.S>
+          <w xlink:href="NT.Heb.w950"/>
+        </cl.S>
+        <cl.P>
+          <w xlink:href="NT.Heb.w951"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Heb.w952"/>
+          <w xlink:href="NT.Heb.w953"/>
+        </cl.A>
+      </cl.clause>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c24" level="secondary" connect="NT.Heb.4_c22" structure="conj-S-A-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w954"/>
+    </pl.conj>
+    <cl.S>
+      <cl.clause xml:id="NT.Heb.4_c25" level="embedded" structure="P-(A)">
+        <cl.P>
+          <w xlink:href="NT.Heb.w955"/>
+          <cl.A type="embed" parent="NT.Heb.4_c25">
+            <w xlink:href="NT.Heb.w956"/>
+          </cl.A>
+          <w xlink:href="NT.Heb.w957"/>
+        </cl.P>
+      </cl.clause>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Heb.w958"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Heb.w959"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Heb.w960"/>
+      <w xlink:href="NT.Heb.w961"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c26" level="primary" connect="NT.Heb.4_c20" structure="A-C-(P)-C-A">
+    <cl.A>
+      <w xlink:href="NT.Heb.w962"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.Heb.w963"/>
+      <cl.P type="embed" parent="NT.Heb.4_c26">
+        <w xlink:href="NT.Heb.w964"/>
+      </cl.P>
+      <w xlink:href="NT.Heb.w965"/>
+    </cl.C>
+    <cl.C>
+      <w xlink:href="NT.Heb.w966"/>
+    </cl.C>
+    <cl.A>
+      <cl.clause xml:id="NT.Heb.4_c27" level="embedded" structure="A-P-A">
+        <cl.A>
+          <w xlink:href="NT.Heb.w967"/>
+          <w xlink:href="NT.Heb.w968"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Heb.w969"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Heb.w970"/>
+          <w xlink:href="NT.Heb.w971"/>
+          <w xlink:href="NT.Heb.w972"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c28" level="secondary" connect="NT.Heb.4_c26" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w973"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Heb.w974"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c29" level="secondary" projected="yes" connect="NT.Heb.4_c30" structure="A-conj-C-P">
+    <cl.A>
+      <w xlink:href="NT.Heb.w975"/>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.Heb.w976"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Heb.w977"/>
+      <w xlink:href="NT.Heb.w978"/>
+      <w xlink:href="NT.Heb.w979"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Heb.w980"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c30" level="primary" projected="yes" connect="NT.Heb.4_c26" structure="A-P-C">
+    <cl.A>
+      <w xlink:href="NT.Heb.w981"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Heb.w982"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Heb.w983"/>
+      <w xlink:href="NT.Heb.w984"/>
+      <w xlink:href="NT.Heb.w985"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c31" level="secondary" connect="NT.Heb.4_c32" structure="conj-conj-C-S-P">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w986"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Heb.w987"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Heb.w988"/>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.Heb.w989"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Heb.w990"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c32" level="primary" connect="NT.Heb.4_c26" structure="A-A-A-P-A">
+    <cl.A>
+      <w xlink:href="NT.Heb.w991"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Heb.w992"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Heb.w993"/>
+      <w xlink:href="NT.Heb.w994"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Heb.w995"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Heb.w996"/>
+      <w xlink:href="NT.Heb.w997"/>
+      <w xlink:href="NT.Heb.w998"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c33" level="primary" connect="NT.Heb.4_c32" structure="conj-P-S-C">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w999"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Heb.w1000"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Heb.w1001"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Heb.w1002"/>
+      <w xlink:href="NT.Heb.w1003"/>
+      <w xlink:href="NT.Heb.w1004"/>
+      <w xlink:href="NT.Heb.w1005"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c34" level="primary" connect="NT.Heb.4_c33" structure="S-(conj)-(conj)-P-A">
+    <cl.S>
+      <cl.clause xml:id="NT.Heb.4_c35" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Heb.w1006"/>
+          <w xlink:href="NT.Heb.w1008"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Heb.w1009"/>
+          <w xlink:href="NT.Heb.w1010"/>
+          <w xlink:href="NT.Heb.w1011"/>
+          <w xlink:href="NT.Heb.w1012"/>
+        </cl.A>
+      </cl.clause>
+      <pl.conj type="embed" parent="NT.Heb.4_c34">
+        <w xlink:href="NT.Heb.w1007"/>
+      </pl.conj>
+      <pl.conj type="embed" parent="NT.Heb.4_c34">
+        <w xlink:href="NT.Heb.w1013"/>
+      </pl.conj>
+      <w xlink:href="NT.Heb.w1014"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Heb.w1015"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Heb.w1016"/>
+      <w xlink:href="NT.Heb.w1017"/>
+      <w xlink:href="NT.Heb.w1018"/>
+      <w xlink:href="NT.Heb.w1019"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c36" level="secondary" connect="NT.Heb.4_c34" structure="conj-A-S">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w1020"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Heb.w1021"/>
+      <w xlink:href="NT.Heb.w1022"/>
+      <w xlink:href="NT.Heb.w1023"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Heb.w1024"/>
+      <w xlink:href="NT.Heb.w1025"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c37" level="primary" connect="NT.Heb.4_c34" structure="P-conj-C">
+    <cl.P>
+      <w xlink:href="NT.Heb.w1026"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Heb.w1027"/>
+    </pl.conj>
+    <cl.C>
+      <cl.clause xml:id="NT.Heb.4_c38" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Heb.w1028"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Heb.w1029"/>
+          <w xlink:href="NT.Heb.w1030"/>
+          <w xlink:href="NT.Heb.w1031"/>
+          <w xlink:href="NT.Heb.w1032"/>
+        </cl.A>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c39" level="secondary" connect="NT.Heb.4_c37" structure="conj-A-A-(S)-(P)">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w1033"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Heb.w1034"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Heb.w1035"/>
+      <w xlink:href="NT.Heb.w1036"/>
+      <w xlink:href="NT.Heb.w1037"/>
+      <cl.S type="embed" parent="NT.Heb.4_c39">
+        <w xlink:href="NT.Heb.w1038"/>
+      </cl.S>
+      <w xlink:href="NT.Heb.w1039"/>
+      <cl.P type="embed" parent="NT.Heb.4_c39">
+        <w xlink:href="NT.Heb.w1040"/>
+      </cl.P>
+      <w xlink:href="NT.Heb.w1041"/>
+      <w xlink:href="NT.Heb.w1042"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c40" level="primary" connect="NT.Heb.4_c37" structure="C-(conj)-(S)">
+    <cl.C>
+      <cl.clause xml:id="NT.Heb.4_c41" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Heb.w1043"/>
+        </cl.P>
+      </cl.clause>
+      <pl.conj type="embed" parent="NT.Heb.4_c40">
+        <w xlink:href="NT.Heb.w1044"/>
+      </pl.conj>
+      <cl.S type="embed" parent="NT.Heb.4_c40">
+        <w xlink:href="NT.Heb.w1045"/>
+        <w xlink:href="NT.Heb.w1046"/>
+        <w xlink:href="NT.Heb.w1047"/>
+        <w xlink:href="NT.Heb.w1048"/>
+      </cl.S>
+      <w xlink:href="NT.Heb.w1049"/>
+      <w xlink:href="NT.Heb.w1050"/>
+      <w xlink:href="NT.Heb.w1051"/>
+      <w xlink:href="NT.Heb.w1052"/>
+      <w xlink:href="NT.Heb.w1053"/>
+      <w xlink:href="NT.Heb.w1054"/>
+      <w xlink:href="NT.Heb.w1055"/>
+      <w xlink:href="NT.Heb.w1056"/>
+      <w xlink:href="NT.Heb.w1057"/>
+      <cl.clause xml:id="NT.Heb.4_c42" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Heb.w1058"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Heb.w1059"/>
+          <w xlink:href="NT.Heb.w1060"/>
+          <w xlink:href="NT.Heb.w1061"/>
+          <w xlink:href="NT.Heb.w1062"/>
+          <w xlink:href="NT.Heb.w1063"/>
+          <w xlink:href="NT.Heb.w1064"/>
+          <w xlink:href="NT.Heb.w1065"/>
+          <w xlink:href="NT.Heb.w1066"/>
+          <w xlink:href="NT.Heb.w1067"/>
+        </cl.A>
+      </cl.clause>
+      <w xlink:href="NT.Heb.w1068"/>
+      <w xlink:href="NT.Heb.w1069"/>
+      <w xlink:href="NT.Heb.w1070"/>
+      <w xlink:href="NT.Heb.w1071"/>
+      <w xlink:href="NT.Heb.w1072"/>
+      <w xlink:href="NT.Heb.w1073"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c43" level="primary" connect="NT.Heb.4_c40" structure="conj-A-P-S-C-A">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w1074"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Heb.w1075"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Heb.w1076"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Heb.w1077"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Heb.w1078"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Heb.w1079"/>
+      <w xlink:href="NT.Heb.w1080"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c44" level="primary" connect="NT.Heb.4_c43" structure="S-conj-C">
+    <cl.S>
+      <w xlink:href="NT.Heb.w1081"/>
+    </cl.S>
+    <pl.conj>
+      <w xlink:href="NT.Heb.w1082"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Heb.w1083"/>
+      <w xlink:href="NT.Heb.w1084"/>
+      <cl.clause xml:id="NT.Heb.4_c45" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Heb.w1085"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Heb.w1086"/>
+          <w xlink:href="NT.Heb.w1087"/>
+          <w xlink:href="NT.Heb.w1088"/>
+        </cl.C>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c46" level="secondary" connect="NT.Heb.4_c44" structure="A-S">
+    <cl.A>
+      <w xlink:href="NT.Heb.w1089"/>
+      <w xlink:href="NT.Heb.w1090"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Heb.w1091"/>
+      <w xlink:href="NT.Heb.w1092"/>
+      <w xlink:href="NT.Heb.w1093"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c47" level="primary" connect="NT.Heb.4_c44" structure="A-(conj)-P-C">
+    <cl.A>
+      <cl.clause xml:id="NT.Heb.4_c48" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Heb.w1094"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Heb.w1096"/>
+          <w xlink:href="NT.Heb.w1097"/>
+          <cl.clause xml:id="NT.Heb.4_c49" level="embedded" structure="P-A">
+            <cl.P>
+              <w xlink:href="NT.Heb.w1098"/>
+            </cl.P>
+            <cl.A>
+              <w xlink:href="NT.Heb.w1099"/>
+              <w xlink:href="NT.Heb.w1100"/>
+            </cl.A>
+          </cl.clause>
+          <w xlink:href="NT.Heb.w1101"/>
+          <w xlink:href="NT.Heb.w1102"/>
+          <w xlink:href="NT.Heb.w1103"/>
+          <w xlink:href="NT.Heb.w1104"/>
+          <w xlink:href="NT.Heb.w1105"/>
+        </cl.C>
+      </cl.clause>
+      <pl.conj type="embed" parent="NT.Heb.4_c47">
+        <w xlink:href="NT.Heb.w1095"/>
+      </pl.conj>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Heb.w1106"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Heb.w1107"/>
+      <w xlink:href="NT.Heb.w1108"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c50" level="primary" connect="NT.Heb.4_c47" structure="A-conj-P-C">
+    <cl.A>
+      <w xlink:href="NT.Heb.w1109"/>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.Heb.w1110"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Heb.w1111"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Heb.w1112"/>
+      <cl.clause xml:id="NT.Heb.4_c51" level="embedded" structure="A-P-C">
+        <cl.A>
+          <w xlink:href="NT.Heb.w1113"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Heb.w1114"/>
+        </cl.P>
+        <cl.C>
+          <cl.clause xml:id="NT.Heb.4_c52" level="embedded" structure="P-A">
+            <cl.P>
+              <w xlink:href="NT.Heb.w1115"/>
+            </cl.P>
+            <cl.A>
+              <w xlink:href="NT.Heb.w1116"/>
+              <w xlink:href="NT.Heb.w1117"/>
+              <w xlink:href="NT.Heb.w1118"/>
+            </cl.A>
+          </cl.clause>
+        </cl.C>
+      </cl.clause>
+      <cl.clause xml:id="NT.Heb.4_c53" level="embedded" structure="P-conj-A-A-A">
+        <cl.P>
+          <w xlink:href="NT.Heb.w1119"/>
+        </cl.P>
+        <pl.conj>
+          <w xlink:href="NT.Heb.w1120"/>
+        </pl.conj>
+        <cl.A>
+          <w xlink:href="NT.Heb.w1121"/>
+          <w xlink:href="NT.Heb.w1122"/>
+        </cl.A>
+        <cl.A>
+          <w xlink:href="NT.Heb.w1123"/>
+          <w xlink:href="NT.Heb.w1124"/>
+        </cl.A>
+        <cl.A>
+          <w xlink:href="NT.Heb.w1125"/>
+          <w xlink:href="NT.Heb.w1126"/>
+        </cl.A>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c54" level="primary" connect="NT.Heb.4_c50" structure="P-conj-A-C">
+    <cl.P>
+      <w xlink:href="NT.Heb.w1127"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Heb.w1128"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Heb.w1129"/>
+      <w xlink:href="NT.Heb.w1130"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.Heb.w1131"/>
+      <w xlink:href="NT.Heb.w1132"/>
+      <w xlink:href="NT.Heb.w1133"/>
+      <w xlink:href="NT.Heb.w1134"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c55" level="secondary" connect="NT.Heb.4_c54" structure="conj-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w1135"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Heb.w1136"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Heb.w1137"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Heb.4_c56" level="secondary" connect="NT.Heb.4_c55" structure="conj-C-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Heb.w1138"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Heb.w1139"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Heb.w1140"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Heb.w1141"/>
+      <w xlink:href="NT.Heb.w1142"/>
+      <w xlink:href="NT.Heb.w1143"/>
+    </cl.A>
+  </cl.clause>
+</chapter>

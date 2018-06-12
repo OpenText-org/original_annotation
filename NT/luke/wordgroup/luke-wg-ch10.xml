@@ -14,4 +14,3863 @@ Copyright (c) 2005-6 OpenText.org
 
 contact: matt@opentext.org
 =================================================		
-		--><chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Luk" num="10"><wg.groups><wg.group xml:id="NT.Luk.10_wg1"><wg.head><wg.word xlink:href="NT.Luk.w8199"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg2"><wg.head><wg.word xlink:href="NT.Luk.w8200"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8198"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg3"><wg.head><wg.word xlink:href="NT.Luk.w8201"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg4"><wg.head><wg.word xlink:href="NT.Luk.w8203"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8202"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg5"><wg.head><wg.word xlink:href="NT.Luk.w8204"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Luk.w8205"/><wg.word xlink:href="NT.Luk.w8206"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg6"><wg.head><wg.word xlink:href="NT.Luk.w8207"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg7"><wg.head><wg.word xlink:href="NT.Luk.w8208"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg8"><wg.head><wg.word xlink:href="NT.Luk.w8209"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg9"><wg.head><wg.word xlink:href="NT.Luk.w8211"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8210"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg10"><wg.head><wg.word xlink:href="NT.Luk.w8212"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg11"><wg.head><wg.word xlink:href="NT.Luk.w8214"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8213"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8215"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg12"><wg.head><wg.word xlink:href="NT.Luk.w8218"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8216"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8217"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg13"><wg.connector><wg.word xlink:href="NT.Luk.w8219"/></wg.connector><wg.head><wg.word xlink:href="NT.Luk.w8220"><wg.modifiers><wg.definer><cl.clause xlink:href="NT.Luk.10_c3"><wg.group xml:id="NT.Luk.10_wg14"><wg.head><wg.word xlink:href="NT.Luk.w8221"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg15"><wg.head><wg.word xlink:href="NT.Luk.w8222"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg16"><wg.head><wg.word xlink:href="NT.Luk.w8223"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg17"><wg.head><wg.word xlink:href="NT.Luk.w8224"/></wg.head></wg.group></cl.clause></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg18"><wg.head><wg.word xlink:href="NT.Luk.w8225"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg19"><wg.head><wg.word xlink:href="NT.Luk.w8226"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg20"><wg.head><wg.word xlink:href="NT.Luk.w8228"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8227"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg21"><wg.head><wg.word xlink:href="NT.Luk.w8230"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg22"><wg.head><wg.word xlink:href="NT.Luk.w8231"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8229"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg23"><wg.head><wg.word xlink:href="NT.Luk.w8232"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg24"><wg.head><wg.word xlink:href="NT.Luk.w8234"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg25"><wg.head><wg.word xlink:href="NT.Luk.w8235"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8233"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg26"><wg.head><wg.word xlink:href="NT.Luk.w8236"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg27"><wg.head><wg.word xlink:href="NT.Luk.w8237"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg28"><wg.head><wg.word xlink:href="NT.Luk.w8238"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg29"><wg.head><wg.word xlink:href="NT.Luk.w8240"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8239"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8242"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8241"/></wg.specifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg30"><wg.head><wg.word xlink:href="NT.Luk.w8243"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg31"><wg.head><wg.word xlink:href="NT.Luk.w8244"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg32"><wg.head><wg.word xlink:href="NT.Luk.w8245"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg33"><wg.head><wg.word xlink:href="NT.Luk.w8248"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8246"/><wg.word xlink:href="NT.Luk.w8247"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8249"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg34"><wg.head><wg.word xlink:href="NT.Luk.w8250"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg35"><wg.head><wg.word xlink:href="NT.Luk.w8251"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg36"><wg.head><wg.word xlink:href="NT.Luk.w8252"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg37"><wg.head><wg.word xlink:href="NT.Luk.w8253"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg38"><wg.head><wg.word xlink:href="NT.Luk.w8254"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg39"><wg.head><wg.word xlink:href="NT.Luk.w8255"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg40"><wg.head><wg.word xlink:href="NT.Luk.w8257"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8256"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8258"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg41"><wg.head><wg.word xlink:href="NT.Luk.w8259"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg42"><wg.head><wg.word xlink:href="NT.Luk.w8260"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg43"><wg.head><wg.word xlink:href="NT.Luk.w8261"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg44"><wg.head><wg.word xlink:href="NT.Luk.w8262"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg45"><wg.head><wg.word xlink:href="NT.Luk.w8263"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg46"><wg.head><wg.word xlink:href="NT.Luk.w8264"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg47"><wg.head><wg.word xlink:href="NT.Luk.w8265"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg48"><wg.head><wg.word xlink:href="NT.Luk.w8266"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg49"><wg.head><wg.word xlink:href="NT.Luk.w8267"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg50"><wg.head><wg.word xlink:href="NT.Luk.w8270"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8268"/><wg.word xlink:href="NT.Luk.w8269"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg51"><wg.head><wg.word xlink:href="NT.Luk.w8271"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg52"><wg.head><wg.word xlink:href="NT.Luk.w8273"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8272"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg53"><wg.head><wg.word xlink:href="NT.Luk.w8274"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg54"><wg.head><wg.word xlink:href="NT.Luk.w8275"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg55"><wg.head><wg.word xlink:href="NT.Luk.w8276"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg56"><wg.head><wg.word xlink:href="NT.Luk.w8277"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg57"><wg.head><wg.word xlink:href="NT.Luk.w8278"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg58"><wg.head><wg.word xlink:href="NT.Luk.w8279"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg59"><wg.head><wg.word xlink:href="NT.Luk.w8280"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg60"><wg.head><wg.word xlink:href="NT.Luk.w8282"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8281"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8283"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg61"><wg.head><wg.word xlink:href="NT.Luk.w8284"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg62"><wg.head><wg.word xlink:href="NT.Luk.w8285"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg63"><wg.head><wg.word xlink:href="NT.Luk.w8286"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg64"><wg.head><wg.word xlink:href="NT.Luk.w8287"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg65"><wg.head><wg.word xlink:href="NT.Luk.w8288"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Luk.w8289"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg66"><wg.head><wg.word xlink:href="NT.Luk.w8290"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg67"><wg.head><wg.word xlink:href="NT.Luk.w8292"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8291"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg68"><wg.head><wg.word xlink:href="NT.Luk.w8294"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8293"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8295"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg69"><wg.head><wg.word xlink:href="NT.Luk.w8296"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg70"><wg.head><wg.word xlink:href="NT.Luk.w8297"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg71"><wg.head><wg.word xlink:href="NT.Luk.w8298"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg72"><wg.head><wg.word xlink:href="NT.Luk.w8299"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg73"><wg.head><wg.word xlink:href="NT.Luk.w8301"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8300"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg74"><wg.head><wg.word xlink:href="NT.Luk.w8302"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg75"><wg.head><wg.word xlink:href="NT.Luk.w8305"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg76"><wg.head><wg.word xlink:href="NT.Luk.w8307"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8303"/><wg.word xlink:href="NT.Luk.w8306"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8304"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg77"><wg.head><wg.word xlink:href="NT.Luk.w8308"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg78"><wg.head><wg.word xlink:href="NT.Luk.w8309"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg79"><wg.head><wg.word xlink:href="NT.Luk.w8310"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg80"><wg.head><wg.word xlink:href="NT.Luk.w8311"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg81"><wg.head><wg.word xlink:href="NT.Luk.w8312"><wg.modifiers><wg.relator><wg.word xlink:href="NT.Luk.w8314"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8313"/></wg.specifier></wg.modifiers></wg.word></wg.relator></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg82"><wg.head><wg.word xlink:href="NT.Luk.w8315"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Luk.w8320"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8319"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8321"/></wg.qualifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg83"><wg.head><wg.word xlink:href="NT.Luk.w8316"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg84"><wg.head><wg.word xlink:href="NT.Luk.w8318"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8317"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg85"><wg.head><wg.word xlink:href="NT.Luk.w8322"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg86"><wg.head><wg.word xlink:href="NT.Luk.w8323"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg87"><wg.head><wg.word xlink:href="NT.Luk.w8325"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8324"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg88"><wg.head><wg.word xlink:href="NT.Luk.w8327"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8326"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg89"><wg.head><wg.word xlink:href="NT.Luk.w8328"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg90"><wg.head><wg.word xlink:href="NT.Luk.w8330"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8329"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8332"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg91"><wg.head><wg.word xlink:href="NT.Luk.w8331"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg92"><wg.head><wg.word xlink:href="NT.Luk.w8333"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg93"><wg.head><wg.word xlink:href="NT.Luk.w8334"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg94"><wg.head><wg.word xlink:href="NT.Luk.w8335"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg95"><wg.head><wg.word xlink:href="NT.Luk.w8336"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg96"><wg.head><wg.word xlink:href="NT.Luk.w8337"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg97"><wg.head><wg.word xlink:href="NT.Luk.w8339"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8338"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg98"><wg.head><wg.word xlink:href="NT.Luk.w8340"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg99"><wg.head><wg.word xlink:href="NT.Luk.w8341"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg100"><wg.head><wg.word xlink:href="NT.Luk.w8342"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg101"><wg.head><wg.word xlink:href="NT.Luk.w8346"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8343"/></wg.specifier><wg.relator><wg.word xlink:href="NT.Luk.w8345"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8344"/></wg.specifier></wg.modifiers></wg.word></wg.relator></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg102"><wg.head><wg.word xlink:href="NT.Luk.w8347"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg103"><wg.head><wg.word xlink:href="NT.Luk.w8348"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg104"><wg.head><wg.word xlink:href="NT.Luk.w8349"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg105"><wg.head><wg.word xlink:href="NT.Luk.w8350"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg106"><wg.head><wg.word xlink:href="NT.Luk.w8352"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8351"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg107"><wg.head><wg.word xlink:href="NT.Luk.w8354"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8353"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8356"><wg.connector><wg.word xlink:href="NT.Luk.w8355"/></wg.connector></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg108"><wg.head><wg.word xlink:href="NT.Luk.w8358"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8357"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8361"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg109"><wg.head><wg.word xlink:href="NT.Luk.w8359"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg110"><wg.head><wg.word xlink:href="NT.Luk.w8360"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg111"><wg.head><wg.word xlink:href="NT.Luk.w8362"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg112"><wg.head><wg.word xlink:href="NT.Luk.w8363"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg113"><wg.head><wg.word xlink:href="NT.Luk.w8364"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg114"><wg.head><wg.word xlink:href="NT.Luk.w8365"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg115"><wg.head><wg.word xlink:href="NT.Luk.w8366"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg116"><wg.head><wg.word xlink:href="NT.Luk.w8367"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg117"><wg.head><wg.word xlink:href="NT.Luk.w8370"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8368"/><wg.word xlink:href="NT.Luk.w8369"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8371"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg118"><wg.head><wg.word xlink:href="NT.Luk.w8372"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg119"><wg.head><wg.word xlink:href="NT.Luk.w8373"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg120"><wg.head><wg.word xlink:href="NT.Luk.w8375"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8374"/></wg.specifier><wg.definer><cl.clause xlink:href="NT.Luk.10_c42"><wg.group xml:id="NT.Luk.10_wg121"><wg.head><wg.word xlink:href="NT.Luk.w8377"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8376"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg122"><wg.head><wg.word xlink:href="NT.Luk.w8378"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg123"><wg.head><wg.word xlink:href="NT.Luk.w8381"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8379"/><wg.word xlink:href="NT.Luk.w8380"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8382"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg124"><wg.head><wg.word xlink:href="NT.Luk.w8385"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8383"/><wg.word xlink:href="NT.Luk.w8384"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group></cl.clause></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg125"><wg.head><wg.word xlink:href="NT.Luk.w8386"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg126"><wg.head><wg.word xlink:href="NT.Luk.w8387"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg127"><wg.head><wg.word xlink:href="NT.Luk.w8388"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg128"><wg.head><wg.word xlink:href="NT.Luk.w8389"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg129"><wg.head><wg.word xlink:href="NT.Luk.w8390"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg130"><wg.head><wg.word xlink:href="NT.Luk.w8391"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg131"><wg.head><wg.word xlink:href="NT.Luk.w8392"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg132"><wg.head><wg.word xlink:href="NT.Luk.w8394"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8393"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8396"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8395"/></wg.specifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg133"><wg.head><wg.word xlink:href="NT.Luk.w8397"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg134"><wg.head><wg.word xlink:href="NT.Luk.w8398"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg135"><wg.head><wg.word xlink:href="NT.Luk.w8399"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg136"><wg.head><wg.word xlink:href="NT.Luk.w8403"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8401"/><wg.word xlink:href="NT.Luk.w8402"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8404"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg137"><wg.head><wg.word xlink:href="NT.Luk.w8405"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Luk.w8400"/><wg.word xlink:href="NT.Luk.w8409"><wg.connector><wg.word xlink:href="NT.Luk.w8407"/></wg.connector><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8408"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8410"/></wg.definer></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg138"><wg.head><wg.word xlink:href="NT.Luk.w8406"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg139"><wg.head><wg.word xlink:href="NT.Luk.w8411"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg140"><wg.head><wg.word xlink:href="NT.Luk.w8412"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg141"><wg.head><wg.word xlink:href="NT.Luk.w8413"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg142"><wg.head><wg.word xlink:href="NT.Luk.w8414"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg143"><wg.head><wg.word xlink:href="NT.Luk.w8415"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg144"><wg.head><wg.word xlink:href="NT.Luk.w8416"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg145"><wg.head><wg.word xlink:href="NT.Luk.w8417"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg146"><wg.head><wg.word xlink:href="NT.Luk.w8418"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg147"><wg.head><wg.word xlink:href="NT.Luk.w8420"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8419"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg148"><wg.connector><wg.word xlink:href="NT.Luk.w8421"/></wg.connector><wg.head><wg.word xlink:href="NT.Luk.w8422"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg149"><wg.head><wg.word xlink:href="NT.Luk.w8423"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg150"><wg.head><wg.word xlink:href="NT.Luk.w8425"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8424"/></wg.specifier><wg.definer><cl.clause xlink:href="NT.Luk.10_c50"><wg.group xml:id="NT.Luk.10_wg151"><wg.head><wg.word xlink:href="NT.Luk.w8427"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8426"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg152"><wg.head><wg.word xlink:href="NT.Luk.w8429"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8428"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group></cl.clause></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg153"><wg.head><wg.word xlink:href="NT.Luk.w8430"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg154"><wg.head><wg.word xlink:href="NT.Luk.w8431"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg155"><wg.head><wg.word xlink:href="NT.Luk.w8433"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8432"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg156"><wg.connector><wg.word xlink:href="NT.Luk.w8434"/></wg.connector><wg.head><wg.word xlink:href="NT.Luk.w8435"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg157"><wg.head><wg.word xlink:href="NT.Luk.w8436"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg158"><wg.head><wg.word xlink:href="NT.Luk.w8437"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg159"><wg.head><wg.word xlink:href="NT.Luk.w8438"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg160"><wg.head><wg.word xlink:href="NT.Luk.w8442"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Luk.w8439"/><wg.word xlink:href="NT.Luk.w8441"><wg.connector><wg.word xlink:href="NT.Luk.w8440"/></wg.connector></wg.word><wg.word xlink:href="NT.Luk.w8448"><wg.connector><wg.word xlink:href="NT.Luk.w8447"/></wg.connector></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg161"><wg.head><wg.word xlink:href="NT.Luk.w8443"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg162"><wg.head><wg.word xlink:href="NT.Luk.w8446"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8444"/><wg.word xlink:href="NT.Luk.w8445"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg163"><wg.head><wg.word xlink:href="NT.Luk.w8449"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg164"><wg.head><wg.word xlink:href="NT.Luk.w8450"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg165"><wg.head><wg.word xlink:href="NT.Luk.w8451"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg166"><wg.head><wg.word xlink:href="NT.Luk.w8452"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg167"><wg.head><wg.word xlink:href="NT.Luk.w8454"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8453"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg168"><wg.head><wg.word xlink:href="NT.Luk.w8455"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg169"><wg.head><wg.word xlink:href="NT.Luk.w8458"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8456"/><wg.word xlink:href="NT.Luk.w8457"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg170"><wg.head><wg.word xlink:href="NT.Luk.w8459"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg171"><wg.head><wg.word xlink:href="NT.Luk.w8461"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8460"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg172"><wg.head><wg.word xlink:href="NT.Luk.w8462"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg173"><wg.head><wg.word xlink:href="NT.Luk.w8463"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg174"><wg.head><wg.word xlink:href="NT.Luk.w8464"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg175"><wg.head><wg.word xlink:href="NT.Luk.w8465"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg176"><wg.head><wg.word xlink:href="NT.Luk.w8467"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8466"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg177"><wg.head><wg.word xlink:href="NT.Luk.w8468"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg178"><wg.head><wg.word xlink:href="NT.Luk.w8469"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg179"><wg.head><wg.word xlink:href="NT.Luk.w8470"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg180"><wg.head><wg.word xlink:href="NT.Luk.w8473"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg181"><wg.head><wg.word xlink:href="NT.Luk.w8474"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8471"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg182"><wg.head><wg.word xlink:href="NT.Luk.w8472"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg183"><wg.head><wg.word xlink:href="NT.Luk.w8475"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg184"><wg.head><wg.word xlink:href="NT.Luk.w8477"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8476"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg185"><wg.head><wg.word xlink:href="NT.Luk.w8478"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg186"><wg.head><wg.word xlink:href="NT.Luk.w8479"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg187"><wg.head><wg.word xlink:href="NT.Luk.w8480"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg188"><wg.head><wg.word xlink:href="NT.Luk.w8481"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Luk.w8482"/><wg.word xlink:href="NT.Luk.w8483"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg189"><wg.head><wg.word xlink:href="NT.Luk.w8485"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8484"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg190"><wg.head><wg.word xlink:href="NT.Luk.w8486"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg191"><wg.head><wg.word xlink:href="NT.Luk.w8487"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg192"><wg.head><wg.word xlink:href="NT.Luk.w8488"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg193"><wg.head><wg.word xlink:href="NT.Luk.w8490"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8489"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg194"><wg.head><wg.word xlink:href="NT.Luk.w8491"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg195"><wg.head><wg.word xlink:href="NT.Luk.w8492"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg196"><wg.head><wg.word xlink:href="NT.Luk.w8495"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8493"/><wg.word xlink:href="NT.Luk.w8494"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8496"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg197"><wg.head><wg.word xlink:href="NT.Luk.w8497"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg198"><wg.head><wg.word xlink:href="NT.Luk.w8498"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg199"><wg.head><wg.word xlink:href="NT.Luk.w8499"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg200"><wg.head><wg.word xlink:href="NT.Luk.w8500"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg201"><wg.head><wg.word xlink:href="NT.Luk.w8502"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8501"/></wg.specifier><wg.definer><cl.clause xlink:href="NT.Luk.10_c69"><wg.group xml:id="NT.Luk.10_wg202"><wg.head><wg.word xlink:href="NT.Luk.w8504"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8503"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg203"><wg.head><wg.word xlink:href="NT.Luk.w8507"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8505"/><wg.word xlink:href="NT.Luk.w8506"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg204"><wg.head><wg.word xlink:href="NT.Luk.w8508"/></wg.head></wg.group></cl.clause></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg205"><wg.head><wg.word xlink:href="NT.Luk.w8509"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg206"><wg.head><wg.word xlink:href="NT.Luk.w8510"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg207"><wg.head><wg.word xlink:href="NT.Luk.w8511"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg208"><wg.head><wg.word xlink:href="NT.Luk.w8513"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8512"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg209"><wg.head><wg.word xlink:href="NT.Luk.w8515"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8514"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg210"><wg.head><wg.word xlink:href="NT.Luk.w8517"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8516"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg211"><wg.connector><wg.word xlink:href="NT.Luk.w8518"/></wg.connector><wg.head><wg.word xlink:href="NT.Luk.w8519"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg212"><wg.connector><wg.word xlink:href="NT.Luk.w8520"/></wg.connector><wg.head><wg.word xlink:href="NT.Luk.w8524"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8521"/><wg.word xlink:href="NT.Luk.w8523"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8522"/></wg.definer><wg.qualifier><wg.word xlink:href="NT.Luk.w8526"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8525"/></wg.specifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg213"><wg.head><wg.word xlink:href="NT.Luk.w8527"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg214"><wg.head><wg.word xlink:href="NT.Luk.w8528"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg215"><wg.head><wg.word xlink:href="NT.Luk.w8529"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg216"><wg.head><wg.word xlink:href="NT.Luk.w8530"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Luk.w8531"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg217"><wg.head><wg.word xlink:href="NT.Luk.w8532"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg218"><wg.head><wg.word xlink:href="NT.Luk.w8533"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg219"><wg.head><wg.word xlink:href="NT.Luk.w8535"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8534"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg220"><wg.head><wg.word xlink:href="NT.Luk.w8536"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg221"><wg.head><wg.word xlink:href="NT.Luk.w8537"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg222"><wg.head><wg.word xlink:href="NT.Luk.w8538"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg223"><wg.head><wg.word xlink:href="NT.Luk.w8540"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8539"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg224"><wg.head><wg.word xlink:href="NT.Luk.w8541"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg225"><wg.head><wg.word xlink:href="NT.Luk.w8542"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg226"><wg.head><wg.word xlink:href="NT.Luk.w8543"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg227"><wg.head><wg.word xlink:href="NT.Luk.w8544"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg228"><wg.head><wg.word xlink:href="NT.Luk.w8545"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg229"><wg.head><wg.word xlink:href="NT.Luk.w8547"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8546"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8548"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg230"><wg.head><wg.word xlink:href="NT.Luk.w8549"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg231"><wg.head><wg.word xlink:href="NT.Luk.w8552"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8550"/><wg.word xlink:href="NT.Luk.w8551"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg232"><wg.head><wg.word xlink:href="NT.Luk.w8556"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8553"/><wg.word xlink:href="NT.Luk.w8555"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8554"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg233"><wg.head><wg.word xlink:href="NT.Luk.w8557"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg234"><wg.head><wg.word xlink:href="NT.Luk.w8560"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8558"/><wg.word xlink:href="NT.Luk.w8559"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8562"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8561"/></wg.specifier></wg.modifiers></wg.word></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg235"><wg.head><wg.word xlink:href="NT.Luk.w8563"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg236"><wg.head><wg.word xlink:href="NT.Luk.w8564"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg237"><wg.head><wg.word xlink:href="NT.Luk.w8565"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg238"><wg.head><wg.word xlink:href="NT.Luk.w8566"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg239"><wg.head><wg.word xlink:href="NT.Luk.w8567"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg240"><wg.head><wg.word xlink:href="NT.Luk.w8568"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Luk.w8570"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8569"/></wg.specifier></wg.modifiers></wg.word><wg.word xlink:href="NT.Luk.w8573"><wg.connector><wg.word xlink:href="NT.Luk.w8571"/></wg.connector><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8572"/></wg.specifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg241"><wg.head><wg.word xlink:href="NT.Luk.w8574"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg242"><wg.head><wg.word xlink:href="NT.Luk.w8575"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg243"><wg.head><wg.word xlink:href="NT.Luk.w8576"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg244"><wg.head><wg.word xlink:href="NT.Luk.w8578"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8577"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg245"><wg.connector><wg.word xlink:href="NT.Luk.w8579"/></wg.connector><wg.head><wg.word xlink:href="NT.Luk.w8580"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg246"><wg.head><wg.word xlink:href="NT.Luk.w8581"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg247"><wg.head><wg.word xlink:href="NT.Luk.w8582"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg248"><wg.head><wg.word xlink:href="NT.Luk.w8583"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg249"><wg.head><wg.word xlink:href="NT.Luk.w8584"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg250"><wg.head><wg.word xlink:href="NT.Luk.w8585"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg251"><wg.head><wg.word xlink:href="NT.Luk.w8587"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8586"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg252"><wg.head><wg.word xlink:href="NT.Luk.w8588"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg253"><wg.head><wg.word xlink:href="NT.Luk.w8589"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg254"><wg.head><wg.word xlink:href="NT.Luk.w8590"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg255"><wg.head><wg.word xlink:href="NT.Luk.w8591"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg256"><wg.head><wg.word xlink:href="NT.Luk.w8593"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8592"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg257"><wg.head><wg.word xlink:href="NT.Luk.w8594"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg258"><wg.head><wg.word xlink:href="NT.Luk.w8595"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg259"><wg.head><wg.word xlink:href="NT.Luk.w8596"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg260"><wg.head><wg.word xlink:href="NT.Luk.w8599"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8597"/><wg.word xlink:href="NT.Luk.w8598"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8600"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg261"><wg.head><wg.word xlink:href="NT.Luk.w8601"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg262"><wg.head><wg.word xlink:href="NT.Luk.w8602"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg263"><wg.head><wg.word xlink:href="NT.Luk.w8603"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg264"><wg.head><wg.word xlink:href="NT.Luk.w8604"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg265"><wg.head><wg.word xlink:href="NT.Luk.w8605"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg266"><wg.head><wg.word xlink:href="NT.Luk.w8607"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8606"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg267"><wg.head><wg.word xlink:href="NT.Luk.w8608"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg268"><wg.head><wg.word xlink:href="NT.Luk.w8609"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg269"><wg.head><wg.word xlink:href="NT.Luk.w8611"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8610"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg270"><wg.head><wg.word xlink:href="NT.Luk.w8612"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg271"><wg.head><wg.word xlink:href="NT.Luk.w8613"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg272"><wg.head><wg.word xlink:href="NT.Luk.w8614"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg273"><wg.head><wg.word xlink:href="NT.Luk.w8616"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8615"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg274"><wg.head><wg.word xlink:href="NT.Luk.w8617"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg275"><wg.head><wg.word xlink:href="NT.Luk.w8618"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg276"><wg.head><wg.word xlink:href="NT.Luk.w8620"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8619"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg277"><wg.head><wg.word xlink:href="NT.Luk.w8621"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg278"><wg.head><wg.word xlink:href="NT.Luk.w8622"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg279"><wg.head><wg.word xlink:href="NT.Luk.w8627"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg280"><wg.head><wg.word xlink:href="NT.Luk.w8623"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg281"><wg.head><wg.word xlink:href="NT.Luk.w8624"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg282"><wg.head><wg.word xlink:href="NT.Luk.w8626"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8625"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg283"><wg.head><wg.word xlink:href="NT.Luk.w8628"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg284"><wg.head><wg.word xlink:href="NT.Luk.w8629"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg285"><wg.head><wg.word xlink:href="NT.Luk.w8632"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8630"/><wg.word xlink:href="NT.Luk.w8631"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg286"><wg.head><wg.word xlink:href="NT.Luk.w8634"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8633"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg287"><wg.head><wg.word xlink:href="NT.Luk.w8635"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg288"><wg.head><wg.word xlink:href="NT.Luk.w8636"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg289"><wg.head><wg.word xlink:href="NT.Luk.w8638"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8637"/></wg.specifier><wg.definer><cl.clause xlink:href="NT.Luk.10_c97"><wg.group xml:id="NT.Luk.10_wg290"><wg.head><wg.word xlink:href="NT.Luk.w8640"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8639"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg291"><wg.head><wg.word xlink:href="NT.Luk.w8641"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg292"><wg.head><wg.word xlink:href="NT.Luk.w8642"/></wg.head></wg.group></cl.clause></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg293"><wg.head><wg.word xlink:href="NT.Luk.w8643"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg294"><wg.head><wg.word xlink:href="NT.Luk.w8644"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg295"><wg.head><wg.word xlink:href="NT.Luk.w8645"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg296"><wg.head><wg.word xlink:href="NT.Luk.w8646"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg297"><wg.head><wg.word xlink:href="NT.Luk.w8648"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Luk.w8647"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg298"><wg.connector><wg.word xlink:href="NT.Luk.w8649"/></wg.connector><wg.head><wg.word xlink:href="NT.Luk.w8650"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg299"><wg.head><wg.word xlink:href="NT.Luk.w8651"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg300"><wg.head><wg.word xlink:href="NT.Luk.w8652"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg301"><wg.head><wg.word xlink:href="NT.Luk.w8653"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg302"><wg.head><wg.word xlink:href="NT.Luk.w8654"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg303"><wg.head><wg.word xlink:href="NT.Luk.w8655"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg304"><wg.head><wg.word xlink:href="NT.Luk.w8656"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg305"><wg.head><wg.word xlink:href="NT.Luk.w8657"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg306"><wg.head><wg.word xlink:href="NT.Luk.w8658"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg307"><wg.head><wg.word xlink:href="NT.Luk.w8659"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg308"><wg.head><wg.word xlink:href="NT.Luk.w8660"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg309"><wg.head><wg.word xlink:href="NT.Luk.w8661"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg310"><wg.head><wg.word xlink:href="NT.Luk.w8662"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg311"><wg.head><wg.word xlink:href="NT.Luk.w8663"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg312"><wg.head><wg.word xlink:href="NT.Luk.w8664"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg313"><wg.head><wg.word xlink:href="NT.Luk.w8665"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg314"><wg.head><wg.word xlink:href="NT.Luk.w8666"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg315"><wg.head><wg.word xlink:href="NT.Luk.w8667"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg316"><wg.head><wg.word xlink:href="NT.Luk.w8668"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Luk.w8669"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg317"><wg.head><wg.word xlink:href="NT.Luk.w8670"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg318"><wg.head><wg.word xlink:href="NT.Luk.w8671"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg319"><wg.head><wg.word xlink:href="NT.Luk.w8672"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg320"><wg.head><wg.word xlink:href="NT.Luk.w8673"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg321"><wg.head><wg.word xlink:href="NT.Luk.w8674"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg322"><wg.head><wg.word xlink:href="NT.Luk.w8675"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg323"><wg.head><wg.word xlink:href="NT.Luk.w8676"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg324"><wg.head><wg.word xlink:href="NT.Luk.w8677"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Luk.w8678"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg325"><wg.head><wg.word xlink:href="NT.Luk.w8679"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg326"><wg.head><wg.word xlink:href="NT.Luk.w8680"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg327"><wg.head><wg.word xlink:href="NT.Luk.w8681"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg328"><wg.head><wg.word xlink:href="NT.Luk.w8682"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg329"><wg.head><wg.word xlink:href="NT.Luk.w8684"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8683"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg330"><wg.head><wg.word xlink:href="NT.Luk.w8687"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8685"/><wg.word xlink:href="NT.Luk.w8686"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg331"><wg.head><wg.word xlink:href="NT.Luk.w8688"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg332"><wg.head><wg.word xlink:href="NT.Luk.w8689"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg333"><wg.head><wg.word xlink:href="NT.Luk.w8690"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg334"><wg.head><wg.word xlink:href="NT.Luk.w8691"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg335"><wg.head><wg.word xlink:href="NT.Luk.w8692"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg336"><wg.head><wg.word xlink:href="NT.Luk.w8693"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg337"><wg.head><wg.word xlink:href="NT.Luk.w8694"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg338"><wg.head><wg.word xlink:href="NT.Luk.w8695"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg339"><wg.head><wg.word xlink:href="NT.Luk.w8696"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg340"><wg.head><wg.word xlink:href="NT.Luk.w8697"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Luk.w8699"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8698"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8700"/></wg.qualifier></wg.modifiers></wg.word></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg341"><wg.head><wg.word xlink:href="NT.Luk.w8704"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8701"/><wg.word xlink:href="NT.Luk.w8703"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8702"/></wg.definer><wg.qualifier><wg.word xlink:href="NT.Luk.w8705"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg342"><wg.connector><wg.word xlink:href="NT.Luk.w8706"/></wg.connector><wg.head><wg.word xlink:href="NT.Luk.w8710"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8707"/><wg.word xlink:href="NT.Luk.w8709"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8708"/></wg.definer><wg.qualifier><wg.word xlink:href="NT.Luk.w8711"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg343"><wg.connector><wg.word xlink:href="NT.Luk.w8712"/></wg.connector><wg.head><wg.word xlink:href="NT.Luk.w8716"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8713"/><wg.word xlink:href="NT.Luk.w8715"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8714"/></wg.definer><wg.qualifier><wg.word xlink:href="NT.Luk.w8717"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg344"><wg.connector><wg.word xlink:href="NT.Luk.w8718"/></wg.connector><wg.head><wg.word xlink:href="NT.Luk.w8722"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8719"/><wg.word xlink:href="NT.Luk.w8721"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8720"/></wg.definer><wg.qualifier><wg.word xlink:href="NT.Luk.w8723"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg345"><wg.head><wg.word xlink:href="NT.Luk.w8724"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg346"><wg.head><wg.word xlink:href="NT.Luk.w8726"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8725"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8727"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg347"><wg.head><wg.word xlink:href="NT.Luk.w8728"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg348"><wg.head><wg.word xlink:href="NT.Luk.w8729"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg349"><wg.head><wg.word xlink:href="NT.Luk.w8730"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg350"><wg.head><wg.word xlink:href="NT.Luk.w8731"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg351"><wg.head><wg.word xlink:href="NT.Luk.w8732"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg352"><wg.head><wg.word xlink:href="NT.Luk.w8733"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg353"><wg.head><wg.word xlink:href="NT.Luk.w8734"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg354"><wg.head><wg.word xlink:href="NT.Luk.w8735"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg355"><wg.head><wg.word xlink:href="NT.Luk.w8736"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg356"><wg.head><wg.word xlink:href="NT.Luk.w8737"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg357"><wg.head><wg.word xlink:href="NT.Luk.w8738"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg358"><wg.head><wg.word xlink:href="NT.Luk.w8739"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg359"><wg.head><wg.word xlink:href="NT.Luk.w8740"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg360"><wg.head><wg.word xlink:href="NT.Luk.w8741"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg361"><wg.head><wg.word xlink:href="NT.Luk.w8742"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg362"><wg.head><wg.word xlink:href="NT.Luk.w8743"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg363"><wg.head><wg.word xlink:href="NT.Luk.w8744"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg364"><wg.head><wg.word xlink:href="NT.Luk.w8747"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8745"/><wg.word xlink:href="NT.Luk.w8746"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg365"><wg.head><wg.word xlink:href="NT.Luk.w8748"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg366"><wg.head><wg.word xlink:href="NT.Luk.w8749"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg367"><wg.head><wg.word xlink:href="NT.Luk.w8750"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg368"><wg.head><wg.word xlink:href="NT.Luk.w8752"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Luk.w8751"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg369"><wg.head><wg.word xlink:href="NT.Luk.w8753"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg370"><wg.head><wg.word xlink:href="NT.Luk.w8755"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8754"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg371"><wg.head><wg.word xlink:href="NT.Luk.w8756"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg372"><wg.head><wg.word xlink:href="NT.Luk.w8757"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Luk.w8758"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg373"><wg.head><wg.word xlink:href="NT.Luk.w8759"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg374"><wg.head><wg.word xlink:href="NT.Luk.w8761"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8760"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg375"><wg.head><wg.word xlink:href="NT.Luk.w8763"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8762"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg376"><wg.head><wg.word xlink:href="NT.Luk.w8764"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg377"><wg.head><wg.word xlink:href="NT.Luk.w8765"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg378"><wg.head><wg.word xlink:href="NT.Luk.w8766"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg379"><wg.head><wg.word xlink:href="NT.Luk.w8767"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg380"><wg.head><wg.word xlink:href="NT.Luk.w8768"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg381"><wg.head><wg.word xlink:href="NT.Luk.w8769"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg382"><wg.head><wg.word xlink:href="NT.Luk.w8770"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg383"><wg.head><wg.word xlink:href="NT.Luk.w8771"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg384"><wg.head><wg.word xlink:href="NT.Luk.w8772"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg385"><wg.head><wg.word xlink:href="NT.Luk.w8773"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg386"><wg.head><wg.word xlink:href="NT.Luk.w8774"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg387"><wg.head><wg.word xlink:href="NT.Luk.w8775"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg388"><wg.head><wg.word xlink:href="NT.Luk.w8776"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg389"><wg.head><wg.word xlink:href="NT.Luk.w8778"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8777"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg390"><wg.head><wg.word xlink:href="NT.Luk.w8779"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg391"><wg.head><wg.word xlink:href="NT.Luk.w8780"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Luk.w8781"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg392"><wg.head><wg.word xlink:href="NT.Luk.w8782"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg393"><wg.head><wg.word xlink:href="NT.Luk.w8785"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8783"/><wg.word xlink:href="NT.Luk.w8784"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8786"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg394"><wg.head><wg.word xlink:href="NT.Luk.w8787"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg395"><wg.head><wg.word xlink:href="NT.Luk.w8788"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg396"><wg.head><wg.word xlink:href="NT.Luk.w8789"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg397"><wg.head><wg.word xlink:href="NT.Luk.w8790"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg398"><wg.head><wg.word xlink:href="NT.Luk.w8791"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg399"><wg.head><wg.word xlink:href="NT.Luk.w8792"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg400"><wg.head><wg.word xlink:href="NT.Luk.w8793"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg401"><wg.head><wg.word xlink:href="NT.Luk.w8794"><wg.modifiers><wg.definer><cl.clause xlink:href="NT.Luk.10_c142"><wg.group xml:id="NT.Luk.10_wg402"><wg.head><wg.word xlink:href="NT.Luk.w8795"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg403"><wg.head><wg.word xlink:href="NT.Luk.w8798"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8796"/><wg.word xlink:href="NT.Luk.w8797"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group></cl.clause></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg404"><wg.head><wg.word xlink:href="NT.Luk.w8799"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg405"><wg.head><wg.word xlink:href="NT.Luk.w8800"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg406"><wg.head><wg.word xlink:href="NT.Luk.w8801"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg407"><wg.head><wg.word xlink:href="NT.Luk.w8802"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg408"><wg.head><wg.word xlink:href="NT.Luk.w8803"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Luk.w8805"/><cl.clause xlink:href="NT.Luk.10_c146"><wg.group xml:id="NT.Luk.10_wg409"><wg.head><wg.word xlink:href="NT.Luk.w8806"/></wg.head></wg.group></cl.clause></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg410"><wg.head><wg.word xlink:href="NT.Luk.w8804"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg411"><wg.head><wg.word xlink:href="NT.Luk.w8807"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg412"><wg.head><wg.word xlink:href="NT.Luk.w8809"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8808"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg413"><wg.head><wg.word xlink:href="NT.Luk.w8810"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg414"><wg.head><wg.word xlink:href="NT.Luk.w8811"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg415"><wg.head><wg.word xlink:href="NT.Luk.w8812"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg416"><wg.head><wg.word xlink:href="NT.Luk.w8813"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg417"><wg.head><wg.word xlink:href="NT.Luk.w8814"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg418"><wg.head><wg.word xlink:href="NT.Luk.w8815"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg419"><wg.head><wg.word xlink:href="NT.Luk.w8817"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8816"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8818"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg420"><wg.head><wg.word xlink:href="NT.Luk.w8819"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg421"><wg.head><wg.word xlink:href="NT.Luk.w8820"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg422"><wg.connector><wg.word xlink:href="NT.Luk.w8821"/></wg.connector><wg.head><wg.word xlink:href="NT.Luk.w8822"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg423"><wg.head><wg.word xlink:href="NT.Luk.w8823"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg424"><wg.head><wg.word xlink:href="NT.Luk.w8825"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg425"><wg.head><wg.word xlink:href="NT.Luk.w8829"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8826"/><wg.word xlink:href="NT.Luk.w8827"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8828"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg426"><wg.head><wg.word xlink:href="NT.Luk.w8824"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg427"><wg.head><wg.word xlink:href="NT.Luk.w8830"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg428"><wg.head><wg.word xlink:href="NT.Luk.w8831"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg429"><wg.head><wg.word xlink:href="NT.Luk.w8833"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8832"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg430"><wg.head><wg.word xlink:href="NT.Luk.w8834"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg431"><wg.head><wg.word xlink:href="NT.Luk.w8835"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg432"><wg.head><wg.word xlink:href="NT.Luk.w8836"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg433"><wg.head><wg.word xlink:href="NT.Luk.w8837"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg434"><wg.head><wg.word xlink:href="NT.Luk.w8840"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8838"/><wg.word xlink:href="NT.Luk.w8839"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg435"><wg.head><wg.word xlink:href="NT.Luk.w8841"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg436"><wg.head><wg.word xlink:href="NT.Luk.w8842"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg437"><wg.head><wg.word xlink:href="NT.Luk.w8844"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Luk.w8843"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg438"><wg.head><wg.word xlink:href="NT.Luk.w8846"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8845"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg439"><wg.head><wg.word xlink:href="NT.Luk.w8847"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg440"><wg.head><wg.word xlink:href="NT.Luk.w8848"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg441"><wg.head><wg.word xlink:href="NT.Luk.w8849"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg442"><wg.head><wg.word xlink:href="NT.Luk.w8850"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg443"><wg.head><wg.word xlink:href="NT.Luk.w8851"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg444"><wg.head><wg.word xlink:href="NT.Luk.w8852"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg445"><wg.head><wg.word xlink:href="NT.Luk.w8853"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg446"><wg.head><wg.word xlink:href="NT.Luk.w8854"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg447"><wg.head><wg.word xlink:href="NT.Luk.w8855"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg448"><wg.head><wg.word xlink:href="NT.Luk.w8856"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg449"><wg.head><wg.word xlink:href="NT.Luk.w8859"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8857"/><wg.word xlink:href="NT.Luk.w8858"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg450"><wg.head><wg.word xlink:href="NT.Luk.w8860"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg451"><wg.head><wg.word xlink:href="NT.Luk.w8861"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg452"><wg.head><wg.word xlink:href="NT.Luk.w8862"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg453"><wg.head><wg.word xlink:href="NT.Luk.w8863"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Luk.w8866"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8865"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8864"/></wg.definer></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg454"><wg.head><wg.word xlink:href="NT.Luk.w8867"><wg.modifiers><wg.qualifier><cl.clause xlink:href="NT.Luk.10_c164"><wg.group xml:id="NT.Luk.10_wg455"><wg.head><wg.word xlink:href="NT.Luk.w8872"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8871"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg456"><wg.head><wg.word xlink:href="NT.Luk.w8875"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8873"/><wg.word xlink:href="NT.Luk.w8874"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group></cl.clause></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg457"><wg.head><wg.word xlink:href="NT.Luk.w8870"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg458"><wg.head><wg.word xlink:href="NT.Luk.w8868"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg459"><wg.head><wg.word xlink:href="NT.Luk.w8869"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg460"><wg.head><wg.word xlink:href="NT.Luk.w8876"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg461"><wg.head><wg.word xlink:href="NT.Luk.w8877"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg462"><wg.head><wg.word xlink:href="NT.Luk.w8878"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg463"><wg.head><wg.word xlink:href="NT.Luk.w8880"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8879"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg464"><wg.head><wg.word xlink:href="NT.Luk.w8882"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8881"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg465"><wg.head><wg.word xlink:href="NT.Luk.w8884"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8883"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg466"><wg.head><wg.word xlink:href="NT.Luk.w8885"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg467"><wg.head><wg.word xlink:href="NT.Luk.w8886"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg468"><wg.head><wg.word xlink:href="NT.Luk.w8887"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg469"><wg.head><wg.word xlink:href="NT.Luk.w8889"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8888"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg470"><wg.head><wg.word xlink:href="NT.Luk.w8890"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg471"><wg.head><wg.word xlink:href="NT.Luk.w8891"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg472"><wg.head><wg.word xlink:href="NT.Luk.w8892"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg473"><wg.head><wg.word xlink:href="NT.Luk.w8893"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg474"><wg.head><wg.word xlink:href="NT.Luk.w8894"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg475"><wg.head><wg.word xlink:href="NT.Luk.w8898"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8895"/><wg.word xlink:href="NT.Luk.w8897"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg476"><wg.head><wg.word xlink:href="NT.Luk.w8899"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg477"><wg.head><wg.word xlink:href="NT.Luk.w8896"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg478"><wg.head><wg.word xlink:href="NT.Luk.w8900"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg479"><wg.head><wg.word xlink:href="NT.Luk.w8901"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg480"><wg.head><wg.word xlink:href="NT.Luk.w8903"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8902"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8904"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg481"><wg.head><wg.word xlink:href="NT.Luk.w8905"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Luk.w8907"/><wg.word xlink:href="NT.Luk.w8909"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Luk.w8908"/></wg.qualifier></wg.modifiers></wg.word></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg482"><wg.head><wg.word xlink:href="NT.Luk.w8906"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg483"><wg.head><wg.word xlink:href="NT.Luk.w8910"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg484"><wg.head><wg.word xlink:href="NT.Luk.w8911"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg485"><wg.head><wg.word xlink:href="NT.Luk.w8912"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg486"><wg.head><wg.word xlink:href="NT.Luk.w8914"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg487"><wg.head><wg.word xlink:href="NT.Luk.w8915"><wg.modifiers><wg.definer><cl.clause xlink:href="NT.Luk.10_c175"><wg.group xml:id="NT.Luk.10_wg488"><wg.head><wg.word xlink:href="NT.Luk.w8916"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg489"><wg.head><wg.word xlink:href="NT.Luk.w8917"/></wg.head></wg.group></cl.clause></wg.definer><wg.qualifier><wg.word xlink:href="NT.Luk.w8913"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg490"><wg.head><wg.word xlink:href="NT.Luk.w8918"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg491"><wg.head><wg.word xlink:href="NT.Luk.w8919"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg492"><wg.head><wg.word xlink:href="NT.Luk.w8920"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg493"><wg.head><wg.word xlink:href="NT.Luk.w8923"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8921"/><wg.word xlink:href="NT.Luk.w8922"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8925"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8924"/></wg.specifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg494"><wg.head><wg.word xlink:href="NT.Luk.w8926"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg495"><wg.head><wg.word xlink:href="NT.Luk.w8928"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8927"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8929"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg496"><wg.head><wg.word xlink:href="NT.Luk.w8931"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg497"><wg.head><wg.word xlink:href="NT.Luk.w8932"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8930"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg498"><wg.head><wg.word xlink:href="NT.Luk.w8933"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg499"><wg.head><wg.word xlink:href="NT.Luk.w8936"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8934"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8935"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg500"><wg.head><wg.word xlink:href="NT.Luk.w8937"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg501"><wg.head><wg.word xlink:href="NT.Luk.w8938"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg502"><wg.head><wg.word xlink:href="NT.Luk.w8939"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg503"><wg.head><wg.word xlink:href="NT.Luk.w8940"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg504"><wg.head><wg.word xlink:href="NT.Luk.w8941"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg505"><wg.head><wg.word xlink:href="NT.Luk.w8942"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg506"><wg.head><wg.word xlink:href="NT.Luk.w8943"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg507"><wg.head><wg.word xlink:href="NT.Luk.w8944"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg508"><wg.head><wg.word xlink:href="NT.Luk.w8946"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8945"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Luk.w8947"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg509"><wg.head><wg.word xlink:href="NT.Luk.w8948"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg510"><wg.head><wg.word xlink:href="NT.Luk.w8951"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg511"><wg.head><wg.word xlink:href="NT.Luk.w8949"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg512"><wg.head><wg.word xlink:href="NT.Luk.w8950"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg513"><wg.head><wg.word xlink:href="NT.Luk.w8952"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg514"><wg.head><wg.word xlink:href="NT.Luk.w8953"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg515"><wg.head><wg.word xlink:href="NT.Luk.w8954"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg516"><wg.head><wg.word xlink:href="NT.Luk.w8955"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg517"><wg.head><wg.word xlink:href="NT.Luk.w8956"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg518"><wg.head><wg.word xlink:href="NT.Luk.w8957"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg519"><wg.head><wg.word xlink:href="NT.Luk.w8958"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg520"><wg.head><wg.word xlink:href="NT.Luk.w8959"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg521"><wg.head><wg.word xlink:href="NT.Luk.w8960"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg522"><wg.head><wg.word xlink:href="NT.Luk.w8961"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg523"><wg.head><wg.word xlink:href="NT.Luk.w8963"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8962"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg524"><wg.head><wg.word xlink:href="NT.Luk.w8964"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg525"><wg.head><wg.word xlink:href="NT.Luk.w8965"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg526"><wg.head><wg.word xlink:href="NT.Luk.w8966"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg527"><wg.head><wg.word xlink:href="NT.Luk.w8967"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg528"><wg.head><wg.word xlink:href="NT.Luk.w8968"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg529"><wg.head><wg.word xlink:href="NT.Luk.w8970"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8969"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg530"><wg.head><wg.word xlink:href="NT.Luk.w8972"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg531"><wg.head><wg.word xlink:href="NT.Luk.w8973"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg532"><wg.head><wg.word xlink:href="NT.Luk.w8974"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Luk.w8971"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg533"><wg.head><wg.word xlink:href="NT.Luk.w8975"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg534"><wg.head><wg.word xlink:href="NT.Luk.w8976"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg535"><wg.head><wg.word xlink:href="NT.Luk.w8979"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Luk.w8977"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Luk.w8978"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg536"><wg.head><wg.word xlink:href="NT.Luk.w8980"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg537"><wg.head><wg.word xlink:href="NT.Luk.w8981"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg538"><wg.head><wg.word xlink:href="NT.Luk.w8982"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg539"><wg.head><wg.word xlink:href="NT.Luk.w8983"/></wg.head></wg.group><wg.group xml:id="NT.Luk.10_wg540"><wg.head><wg.word xlink:href="NT.Luk.w8984"/></wg.head></wg.group></wg.groups></chapter>
+		-->
+<chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Luk" num="10">
+  <wg.groups>
+    <wg.group xml:id="NT.Luk.10_wg1">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8199"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg2">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8200">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8198"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg3">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8201"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg4">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8203">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8202"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg5">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8204">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8205"/>
+              <wg.word xlink:href="NT.Luk.w8206"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg6">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8207"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg7">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8208"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg8">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8209"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg9">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8211">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8210"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg10">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8212"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg11">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8214">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8213"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8215"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg12">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8218">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8216"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8217"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg13">
+      <wg.connector>
+        <wg.word xlink:href="NT.Luk.w8219"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8220">
+          <wg.modifiers>
+            <wg.definer>
+              <cl.clause xlink:href="NT.Luk.10_c3">
+                <wg.group xml:id="NT.Luk.10_wg14">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8221"/>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Luk.10_wg15">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8222"/>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Luk.10_wg16">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8223"/>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Luk.10_wg17">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8224"/>
+                  </wg.head>
+                </wg.group>
+              </cl.clause>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg18">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8225"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg19">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8226"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg20">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8228">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8227"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg21">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8230"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg22">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8231">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8229"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg23">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8232"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg24">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8234"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg25">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8235">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8233"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg26">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8236"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg27">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8237"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg28">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8238"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg29">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8240">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8239"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8242">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Luk.w8241"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg30">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8243"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg31">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8244"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg32">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8245"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg33">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8248">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8246"/>
+              <wg.word xlink:href="NT.Luk.w8247"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8249"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg34">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8250"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg35">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8251"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg36">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8252"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg37">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8253"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg38">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8254"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg39">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8255"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg40">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8257">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8256"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8258"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg41">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8259"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg42">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8260"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg43">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8261"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg44">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8262"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg45">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8263"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg46">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8264"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg47">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8265"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg48">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8266"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg49">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8267"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg50">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8270">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8268"/>
+              <wg.word xlink:href="NT.Luk.w8269"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg51">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8271"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg52">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8273">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8272"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg53">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8274"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg54">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8275"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg55">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8276"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg56">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8277"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg57">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8278"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg58">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8279"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg59">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8280"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg60">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8282">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8281"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8283"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg61">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8284"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg62">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8285"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg63">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8286"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg64">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8287"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg65">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8288">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8289"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg66">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8290"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg67">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8292">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8291"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg68">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8294">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8293"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8295"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg69">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8296"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg70">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8297"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg71">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8298"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg72">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8299"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg73">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8301">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8300"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg74">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8302"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg75">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8305"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg76">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8307">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8303"/>
+              <wg.word xlink:href="NT.Luk.w8306"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8304"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg77">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8308"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg78">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8309"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg79">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8310"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg80">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8311"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg81">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8312">
+          <wg.modifiers>
+            <wg.relator>
+              <wg.word xlink:href="NT.Luk.w8314">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Luk.w8313"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.relator>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg82">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8315">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8320">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Luk.w8319"/>
+                  </wg.specifier>
+                  <wg.qualifier>
+                    <wg.word xlink:href="NT.Luk.w8321"/>
+                  </wg.qualifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg83">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8316"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg84">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8318">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8317"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg85">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8322"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg86">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8323"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg87">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8325">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8324"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg88">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8327">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8326"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg89">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8328"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg90">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8330">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8329"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8332"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg91">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8331"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg92">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8333"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg93">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8334"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg94">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8335"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg95">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8336"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg96">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8337"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg97">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8339">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8338"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg98">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8340"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg99">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8341"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg100">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8342"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg101">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8346">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8343"/>
+            </wg.specifier>
+            <wg.relator>
+              <wg.word xlink:href="NT.Luk.w8345">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Luk.w8344"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.relator>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg102">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8347"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg103">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8348"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg104">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8349"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg105">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8350"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg106">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8352">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8351"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg107">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8354">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8353"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8356">
+                <wg.connector>
+                  <wg.word xlink:href="NT.Luk.w8355"/>
+                </wg.connector>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg108">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8358">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8357"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8361"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg109">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8359"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg110">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8360"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg111">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8362"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg112">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8363"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg113">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8364"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg114">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8365"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg115">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8366"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg116">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8367"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg117">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8370">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8368"/>
+              <wg.word xlink:href="NT.Luk.w8369"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8371"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg118">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8372"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg119">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8373"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg120">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8375">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8374"/>
+            </wg.specifier>
+            <wg.definer>
+              <cl.clause xlink:href="NT.Luk.10_c42">
+                <wg.group xml:id="NT.Luk.10_wg121">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8377">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Luk.w8376"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Luk.10_wg122">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8378"/>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Luk.10_wg123">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8381">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Luk.w8379"/>
+                          <wg.word xlink:href="NT.Luk.w8380"/>
+                        </wg.specifier>
+                        <wg.qualifier>
+                          <wg.word xlink:href="NT.Luk.w8382"/>
+                        </wg.qualifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Luk.10_wg124">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8385">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Luk.w8383"/>
+                          <wg.word xlink:href="NT.Luk.w8384"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+              </cl.clause>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg125">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8386"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg126">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8387"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg127">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8388"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg128">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8389"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg129">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8390"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg130">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8391"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg131">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8392"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg132">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8394">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8393"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8396">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Luk.w8395"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg133">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8397"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg134">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8398"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg135">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8399"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg136">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8403">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8401"/>
+              <wg.word xlink:href="NT.Luk.w8402"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8404"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg137">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8405">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8400"/>
+              <wg.word xlink:href="NT.Luk.w8409">
+                <wg.connector>
+                  <wg.word xlink:href="NT.Luk.w8407"/>
+                </wg.connector>
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Luk.w8408"/>
+                  </wg.specifier>
+                  <wg.definer>
+                    <wg.word xlink:href="NT.Luk.w8410"/>
+                  </wg.definer>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg138">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8406"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg139">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8411"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg140">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8412"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg141">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8413"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg142">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8414"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg143">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8415"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg144">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8416"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg145">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8417"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg146">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8418"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg147">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8420">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8419"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg148">
+      <wg.connector>
+        <wg.word xlink:href="NT.Luk.w8421"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8422"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg149">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8423"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg150">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8425">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8424"/>
+            </wg.specifier>
+            <wg.definer>
+              <cl.clause xlink:href="NT.Luk.10_c50">
+                <wg.group xml:id="NT.Luk.10_wg151">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8427">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Luk.w8426"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Luk.10_wg152">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8429">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Luk.w8428"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+              </cl.clause>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg153">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8430"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg154">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8431"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg155">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8433">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8432"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg156">
+      <wg.connector>
+        <wg.word xlink:href="NT.Luk.w8434"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8435"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg157">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8436"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg158">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8437"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg159">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8438"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg160">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8442">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8439"/>
+              <wg.word xlink:href="NT.Luk.w8441">
+                <wg.connector>
+                  <wg.word xlink:href="NT.Luk.w8440"/>
+                </wg.connector>
+              </wg.word>
+              <wg.word xlink:href="NT.Luk.w8448">
+                <wg.connector>
+                  <wg.word xlink:href="NT.Luk.w8447"/>
+                </wg.connector>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg161">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8443"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg162">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8446">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8444"/>
+              <wg.word xlink:href="NT.Luk.w8445"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg163">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8449"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg164">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8450"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg165">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8451"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg166">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8452"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg167">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8454">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8453"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg168">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8455"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg169">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8458">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8456"/>
+              <wg.word xlink:href="NT.Luk.w8457"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg170">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8459"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg171">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8461">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8460"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg172">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8462"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg173">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8463"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg174">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8464"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg175">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8465"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg176">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8467">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8466"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg177">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8468"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg178">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8469"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg179">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8470"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg180">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8473"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg181">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8474">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8471"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg182">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8472"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg183">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8475"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg184">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8477">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8476"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg185">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8478"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg186">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8479"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg187">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8480"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg188">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8481">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8482"/>
+              <wg.word xlink:href="NT.Luk.w8483"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg189">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8485">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8484"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg190">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8486"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg191">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8487"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg192">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8488"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg193">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8490">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8489"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg194">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8491"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg195">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8492"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg196">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8495">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8493"/>
+              <wg.word xlink:href="NT.Luk.w8494"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8496"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg197">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8497"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg198">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8498"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg199">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8499"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg200">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8500"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg201">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8502">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8501"/>
+            </wg.specifier>
+            <wg.definer>
+              <cl.clause xlink:href="NT.Luk.10_c69">
+                <wg.group xml:id="NT.Luk.10_wg202">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8504">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Luk.w8503"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Luk.10_wg203">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8507">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Luk.w8505"/>
+                          <wg.word xlink:href="NT.Luk.w8506"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Luk.10_wg204">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8508"/>
+                  </wg.head>
+                </wg.group>
+              </cl.clause>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg205">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8509"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg206">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8510"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg207">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8511"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg208">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8513">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8512"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg209">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8515">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8514"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg210">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8517">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8516"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg211">
+      <wg.connector>
+        <wg.word xlink:href="NT.Luk.w8518"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8519"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg212">
+      <wg.connector>
+        <wg.word xlink:href="NT.Luk.w8520"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8524">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8521"/>
+              <wg.word xlink:href="NT.Luk.w8523"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8522"/>
+            </wg.definer>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8526">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Luk.w8525"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg213">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8527"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg214">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8528"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg215">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8529"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg216">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8530">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8531"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg217">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8532"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg218">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8533"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg219">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8535">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8534"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg220">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8536"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg221">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8537"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg222">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8538"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg223">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8540">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8539"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg224">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8541"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg225">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8542"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg226">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8543"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg227">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8544"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg228">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8545"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg229">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8547">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8546"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8548"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg230">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8549"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg231">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8552">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8550"/>
+              <wg.word xlink:href="NT.Luk.w8551"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg232">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8556">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8553"/>
+              <wg.word xlink:href="NT.Luk.w8555"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8554"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg233">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8557"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg234">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8560">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8558"/>
+              <wg.word xlink:href="NT.Luk.w8559"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8562">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Luk.w8561"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg235">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8563"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg236">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8564"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg237">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8565"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg238">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8566"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg239">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8567"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg240">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8568">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8570">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Luk.w8569"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+              <wg.word xlink:href="NT.Luk.w8573">
+                <wg.connector>
+                  <wg.word xlink:href="NT.Luk.w8571"/>
+                </wg.connector>
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Luk.w8572"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg241">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8574"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg242">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8575"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg243">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8576"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg244">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8578">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8577"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg245">
+      <wg.connector>
+        <wg.word xlink:href="NT.Luk.w8579"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8580"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg246">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8581"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg247">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8582"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg248">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8583"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg249">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8584"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg250">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8585"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg251">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8587">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8586"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg252">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8588"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg253">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8589"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg254">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8590"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg255">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8591"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg256">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8593">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8592"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg257">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8594"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg258">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8595"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg259">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8596"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg260">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8599">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8597"/>
+              <wg.word xlink:href="NT.Luk.w8598"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8600"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg261">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8601"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg262">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8602"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg263">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8603"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg264">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8604"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg265">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8605"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg266">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8607">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8606"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg267">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8608"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg268">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8609"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg269">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8611">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8610"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg270">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8612"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg271">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8613"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg272">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8614"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg273">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8616">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8615"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg274">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8617"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg275">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8618"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg276">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8620">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8619"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg277">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8621"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg278">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8622"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg279">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8627"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg280">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8623"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg281">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8624"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg282">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8626">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8625"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg283">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8628"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg284">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8629"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg285">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8632">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8630"/>
+              <wg.word xlink:href="NT.Luk.w8631"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg286">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8634">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8633"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg287">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8635"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg288">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8636"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg289">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8638">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8637"/>
+            </wg.specifier>
+            <wg.definer>
+              <cl.clause xlink:href="NT.Luk.10_c97">
+                <wg.group xml:id="NT.Luk.10_wg290">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8640">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Luk.w8639"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Luk.10_wg291">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8641"/>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Luk.10_wg292">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8642"/>
+                  </wg.head>
+                </wg.group>
+              </cl.clause>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg293">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8643"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg294">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8644"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg295">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8645"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg296">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8646"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg297">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8648">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8647"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg298">
+      <wg.connector>
+        <wg.word xlink:href="NT.Luk.w8649"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8650"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg299">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8651"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg300">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8652"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg301">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8653"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg302">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8654"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg303">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8655"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg304">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8656"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg305">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8657"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg306">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8658"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg307">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8659"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg308">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8660"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg309">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8661"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg310">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8662"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg311">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8663"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg312">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8664"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg313">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8665"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg314">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8666"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg315">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8667"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg316">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8668">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8669"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg317">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8670"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg318">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8671"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg319">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8672"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg320">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8673"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg321">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8674"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg322">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8675"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg323">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8676"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg324">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8677">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8678"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg325">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8679"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg326">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8680"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg327">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8681"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg328">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8682"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg329">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8684">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8683"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg330">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8687">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8685"/>
+              <wg.word xlink:href="NT.Luk.w8686"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg331">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8688"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg332">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8689"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg333">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8690"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg334">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8691"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg335">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8692"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg336">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8693"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg337">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8694"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg338">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8695"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg339">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8696"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg340">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8697">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8699">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Luk.w8698"/>
+                  </wg.specifier>
+                  <wg.qualifier>
+                    <wg.word xlink:href="NT.Luk.w8700"/>
+                  </wg.qualifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg341">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8704">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8701"/>
+              <wg.word xlink:href="NT.Luk.w8703"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8702"/>
+            </wg.definer>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8705"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg342">
+      <wg.connector>
+        <wg.word xlink:href="NT.Luk.w8706"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8710">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8707"/>
+              <wg.word xlink:href="NT.Luk.w8709"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8708"/>
+            </wg.definer>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8711"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg343">
+      <wg.connector>
+        <wg.word xlink:href="NT.Luk.w8712"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8716">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8713"/>
+              <wg.word xlink:href="NT.Luk.w8715"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8714"/>
+            </wg.definer>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8717"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg344">
+      <wg.connector>
+        <wg.word xlink:href="NT.Luk.w8718"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8722">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8719"/>
+              <wg.word xlink:href="NT.Luk.w8721"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8720"/>
+            </wg.definer>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8723"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg345">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8724"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg346">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8726">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8725"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8727"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg347">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8728"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg348">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8729"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg349">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8730"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg350">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8731"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg351">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8732"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg352">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8733"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg353">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8734"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg354">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8735"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg355">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8736"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg356">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8737"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg357">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8738"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg358">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8739"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg359">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8740"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg360">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8741"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg361">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8742"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg362">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8743"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg363">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8744"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg364">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8747">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8745"/>
+              <wg.word xlink:href="NT.Luk.w8746"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg365">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8748"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg366">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8749"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg367">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8750"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg368">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8752">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8751"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg369">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8753"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg370">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8755">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8754"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg371">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8756"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg372">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8757">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8758"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg373">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8759"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg374">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8761">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8760"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg375">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8763">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8762"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg376">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8764"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg377">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8765"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg378">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8766"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg379">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8767"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg380">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8768"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg381">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8769"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg382">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8770"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg383">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8771"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg384">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8772"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg385">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8773"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg386">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8774"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg387">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8775"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg388">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8776"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg389">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8778">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8777"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg390">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8779"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg391">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8780">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8781"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg392">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8782"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg393">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8785">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8783"/>
+              <wg.word xlink:href="NT.Luk.w8784"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8786"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg394">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8787"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg395">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8788"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg396">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8789"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg397">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8790"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg398">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8791"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg399">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8792"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg400">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8793"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg401">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8794">
+          <wg.modifiers>
+            <wg.definer>
+              <cl.clause xlink:href="NT.Luk.10_c142">
+                <wg.group xml:id="NT.Luk.10_wg402">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8795"/>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Luk.10_wg403">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8798">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Luk.w8796"/>
+                          <wg.word xlink:href="NT.Luk.w8797"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+              </cl.clause>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg404">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8799"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg405">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8800"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg406">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8801"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg407">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8802"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg408">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8803">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8805"/>
+              <cl.clause xlink:href="NT.Luk.10_c146">
+                <wg.group xml:id="NT.Luk.10_wg409">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8806"/>
+                  </wg.head>
+                </wg.group>
+              </cl.clause>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg410">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8804"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg411">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8807"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg412">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8809">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8808"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg413">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8810"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg414">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8811"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg415">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8812"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg416">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8813"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg417">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8814"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg418">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8815"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg419">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8817">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8816"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8818"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg420">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8819"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg421">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8820"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg422">
+      <wg.connector>
+        <wg.word xlink:href="NT.Luk.w8821"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8822"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg423">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8823"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg424">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8825"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg425">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8829">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8826"/>
+              <wg.word xlink:href="NT.Luk.w8827"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8828"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg426">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8824"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg427">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8830"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg428">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8831"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg429">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8833">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8832"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg430">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8834"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg431">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8835"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg432">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8836"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg433">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8837"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg434">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8840">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8838"/>
+              <wg.word xlink:href="NT.Luk.w8839"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg435">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8841"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg436">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8842"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg437">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8844">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8843"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg438">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8846">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8845"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg439">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8847"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg440">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8848"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg441">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8849"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg442">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8850"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg443">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8851"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg444">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8852"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg445">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8853"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg446">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8854"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg447">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8855"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg448">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8856"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg449">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8859">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8857"/>
+              <wg.word xlink:href="NT.Luk.w8858"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg450">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8860"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg451">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8861"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg452">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8862"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg453">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8863">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8866">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Luk.w8865"/>
+                  </wg.specifier>
+                  <wg.definer>
+                    <wg.word xlink:href="NT.Luk.w8864"/>
+                  </wg.definer>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg454">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8867">
+          <wg.modifiers>
+            <wg.qualifier>
+              <cl.clause xlink:href="NT.Luk.10_c164">
+                <wg.group xml:id="NT.Luk.10_wg455">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8872">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Luk.w8871"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Luk.10_wg456">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8875">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Luk.w8873"/>
+                          <wg.word xlink:href="NT.Luk.w8874"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+              </cl.clause>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg457">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8870"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg458">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8868"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg459">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8869"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg460">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8876"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg461">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8877"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg462">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8878"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg463">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8880">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8879"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg464">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8882">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8881"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg465">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8884">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8883"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg466">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8885"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg467">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8886"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg468">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8887"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg469">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8889">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8888"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg470">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8890"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg471">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8891"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg472">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8892"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg473">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8893"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg474">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8894"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg475">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8898">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8895"/>
+              <wg.word xlink:href="NT.Luk.w8897"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg476">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8899"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg477">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8896"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg478">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8900"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg479">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8901"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg480">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8903">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8902"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8904"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg481">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8905">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8907"/>
+              <wg.word xlink:href="NT.Luk.w8909">
+                <wg.modifiers>
+                  <wg.qualifier>
+                    <wg.word xlink:href="NT.Luk.w8908"/>
+                  </wg.qualifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg482">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8906"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg483">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8910"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg484">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8911"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg485">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8912"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg486">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8914"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg487">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8915">
+          <wg.modifiers>
+            <wg.definer>
+              <cl.clause xlink:href="NT.Luk.10_c175">
+                <wg.group xml:id="NT.Luk.10_wg488">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8916"/>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Luk.10_wg489">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Luk.w8917"/>
+                  </wg.head>
+                </wg.group>
+              </cl.clause>
+            </wg.definer>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8913"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg490">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8918"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg491">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8919"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg492">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8920"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg493">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8923">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8921"/>
+              <wg.word xlink:href="NT.Luk.w8922"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8925">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Luk.w8924"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg494">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8926"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg495">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8928">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8927"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8929"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg496">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8931"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg497">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8932">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8930"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg498">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8933"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg499">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8936">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8934"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8935"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg500">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8937"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg501">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8938"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg502">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8939"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg503">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8940"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg504">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8941"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg505">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8942"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg506">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8943"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg507">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8944"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg508">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8946">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8945"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8947"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg509">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8948"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg510">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8951"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg511">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8949"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg512">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8950"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg513">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8952"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg514">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8953"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg515">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8954"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg516">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8955"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg517">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8956"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg518">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8957"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg519">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8958"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg520">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8959"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg521">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8960"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg522">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8961"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg523">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8963">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8962"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg524">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8964"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg525">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8965"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg526">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8966"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg527">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8967"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg528">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8968"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg529">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8970">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8969"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg530">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8972"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg531">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8973"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg532">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8974">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Luk.w8971"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg533">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8975"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg534">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8976"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg535">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8979">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Luk.w8977"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Luk.w8978"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg536">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8980"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg537">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8981"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg538">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8982"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg539">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8983"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Luk.10_wg540">
+      <wg.head>
+        <wg.word xlink:href="NT.Luk.w8984"/>
+      </wg.head>
+    </wg.group>
+  </wg.groups>
+</chapter>

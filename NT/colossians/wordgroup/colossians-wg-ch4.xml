@@ -14,4 +14,1433 @@ Copyright (c) 2005-6 OpenText.org
 
 contact: matt@opentext.org
 =================================================		
-		--><chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Col" num="4"><wg.groups><wg.group xml:id="NT.Col.4_wg1"><wg.head><wg.word xlink:href="NT.Col.w1298"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1297"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg2"><wg.head><wg.word xlink:href="NT.Col.w1300"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1299"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg3"><wg.connector><wg.word xlink:href="NT.Col.w1301"/></wg.connector><wg.head><wg.word xlink:href="NT.Col.w1303"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1302"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg4"><wg.head><wg.word xlink:href="NT.Col.w1305"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1304"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg5"><wg.head><wg.word xlink:href="NT.Col.w1306"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg6"><wg.head><wg.word xlink:href="NT.Col.w1307"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg7"><wg.head><wg.word xlink:href="NT.Col.w1308"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg8"><wg.head><wg.word xlink:href="NT.Col.w1309"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg9"><wg.head><wg.word xlink:href="NT.Col.w1310"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg10"><wg.head><wg.word xlink:href="NT.Col.w1311"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg11"><wg.head><wg.word xlink:href="NT.Col.w1312"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg12"><wg.head><wg.word xlink:href="NT.Col.w1314"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1313"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg13"><wg.head><wg.word xlink:href="NT.Col.w1316"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1315"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg14"><wg.head><wg.word xlink:href="NT.Col.w1317"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg15"><wg.head><wg.word xlink:href="NT.Col.w1318"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg16"><wg.head><wg.word xlink:href="NT.Col.w1320"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1319"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg17"><wg.head><wg.word xlink:href="NT.Col.w1322"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1321"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg18"><wg.head><wg.word xlink:href="NT.Col.w1323"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg19"><wg.head><wg.word xlink:href="NT.Col.w1324"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg20"><wg.head><wg.word xlink:href="NT.Col.w1325"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg21"><wg.head><wg.word xlink:href="NT.Col.w1327"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1326"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg22"><wg.head><wg.word xlink:href="NT.Col.w1328"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg23"><wg.head><wg.word xlink:href="NT.Col.w1330"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1329"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg24"><wg.head><wg.word xlink:href="NT.Col.w1331"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg25"><wg.head><wg.word xlink:href="NT.Col.w1332"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg26"><wg.head><wg.word xlink:href="NT.Col.w1333"><wg.modifiers><wg.qualifier><wg.word xlink:href="NT.Col.w1335"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1334"/></wg.specifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg27"><wg.head><wg.word xlink:href="NT.Col.w1336"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg28"><wg.head><wg.word xlink:href="NT.Col.w1338"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1337"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Col.w1340"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1339"/></wg.specifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg29"><wg.head><wg.word xlink:href="NT.Col.w1342"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1341"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg30"><wg.head><wg.word xlink:href="NT.Col.w1343"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg31"><wg.head><wg.word xlink:href="NT.Col.w1344"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg32"><wg.head><wg.word xlink:href="NT.Col.w1345"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg33"><wg.head><wg.word xlink:href="NT.Col.w1346"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg34"><wg.head><wg.word xlink:href="NT.Col.w1347"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg35"><wg.head><wg.word xlink:href="NT.Col.w1348"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg36"><wg.head><wg.word xlink:href="NT.Col.w1349"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg37"><wg.head><wg.word xlink:href="NT.Col.w1350"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg38"><wg.head><wg.word xlink:href="NT.Col.w1351"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg39"><wg.head><wg.word xlink:href="NT.Col.w1353"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1352"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg40"><wg.head><wg.word xlink:href="NT.Col.w1354"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg41"><wg.head><wg.word xlink:href="NT.Col.w1357"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1355"/><wg.word xlink:href="NT.Col.w1356"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg42"><wg.head><wg.word xlink:href="NT.Col.w1359"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1358"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg43"><wg.head><wg.word xlink:href="NT.Col.w1360"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg44"><wg.head><wg.word xlink:href="NT.Col.w1362"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1361"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Col.w1363"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg45"><wg.head><wg.word xlink:href="NT.Col.w1364"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg46"><wg.head><wg.word xlink:href="NT.Col.w1366"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1365"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg47"><wg.head><wg.word xlink:href="NT.Col.w1367"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg48"><wg.head><wg.word xlink:href="NT.Col.w1368"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg49"><wg.head><wg.word xlink:href="NT.Col.w1369"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg50"><wg.head><wg.word xlink:href="NT.Col.w1370"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg51"><wg.head><wg.word xlink:href="NT.Col.w1371"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg52"><wg.head><wg.word xlink:href="NT.Col.w1372"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg53"><wg.head><wg.word xlink:href="NT.Col.w1373"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Col.w1374"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg54"><wg.head><wg.word xlink:href="NT.Col.w1375"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg55"><wg.head><wg.word xlink:href="NT.Col.w1379"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1376"/></wg.specifier><wg.relator><wg.word xlink:href="NT.Col.w1378"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1377"/></wg.specifier></wg.modifiers></wg.word></wg.relator></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg56"><wg.head><wg.word xlink:href="NT.Col.w1380"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg57"><wg.head><wg.word xlink:href="NT.Col.w1381"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg58"><wg.head><wg.word xlink:href="NT.Col.w1382"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Col.w1385"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1383"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Col.w1384"/></wg.definer></wg.modifiers></wg.word><wg.word xlink:href="NT.Col.w1388"><wg.connector><wg.word xlink:href="NT.Col.w1386"/></wg.connector><wg.modifiers><wg.definer><wg.word xlink:href="NT.Col.w1387"/></wg.definer></wg.modifiers></wg.word><wg.word xlink:href="NT.Col.w1390"><wg.connector><wg.word xlink:href="NT.Col.w1389"/></wg.connector><wg.modifiers><wg.relator><wg.word xlink:href="NT.Col.w1392"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1391"/></wg.specifier></wg.modifiers></wg.word></wg.relator></wg.modifiers></wg.word></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg59"><wg.head><wg.word xlink:href="NT.Col.w1393"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg60"><wg.head><wg.word xlink:href="NT.Col.w1394"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg61"><wg.head><wg.word xlink:href="NT.Col.w1396"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1395"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg62"><wg.head><wg.word xlink:href="NT.Col.w1399"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1397"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Col.w1398"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg63"><wg.head><wg.word xlink:href="NT.Col.w1400"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg64"><wg.head><wg.word xlink:href="NT.Col.w1401"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg65"><wg.head><wg.word xlink:href="NT.Col.w1402"><wg.modifiers><wg.relator><wg.word xlink:href="NT.Col.w1404"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1403"/></wg.specifier></wg.modifiers></wg.word></wg.relator></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg66"><wg.head><wg.word xlink:href="NT.Col.w1405"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg67"><wg.head><wg.word xlink:href="NT.Col.w1406"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg68"><wg.head><wg.word xlink:href="NT.Col.w1408"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1407"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Col.w1409"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg69"><wg.head><wg.word xlink:href="NT.Col.w1411"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1410"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Col.w1416"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1412"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Col.w1413"/><wg.word xlink:href="NT.Col.w1415"><wg.connector><wg.word xlink:href="NT.Col.w1414"/></wg.connector></wg.word></wg.definer></wg.modifiers></wg.word></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg70"><wg.head><wg.word xlink:href="NT.Col.w1417"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg71"><wg.head><wg.word xlink:href="NT.Col.w1418"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg72"><wg.head><wg.word xlink:href="NT.Col.w1420"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1419"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg73"><wg.head><wg.word xlink:href="NT.Col.w1422"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg74"><wg.head><wg.word xlink:href="NT.Col.w1423"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg75"><wg.head><wg.word xlink:href="NT.Col.w1425"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1424"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Col.w1421"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg76"><wg.head><wg.word xlink:href="NT.Col.w1426"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg77"><wg.head><wg.word xlink:href="NT.Col.w1427"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg78"><wg.head><wg.word xlink:href="NT.Col.w1428"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Col.w1430"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1429"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Col.w1431"/></wg.qualifier></wg.modifiers></wg.word></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg79"><wg.connector><wg.word xlink:href="NT.Col.w1432"/></wg.connector><wg.head><wg.word xlink:href="NT.Col.w1433"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Col.w1435"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1434"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Col.w1436"/></wg.qualifier></wg.modifiers></wg.word></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg80"><wg.head><wg.word xlink:href="NT.Col.w1438"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1437"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg81"><wg.head><wg.word xlink:href="NT.Col.w1439"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg82"><wg.head><wg.word xlink:href="NT.Col.w1440"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg83"><wg.head><wg.word xlink:href="NT.Col.w1441"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg84"><wg.head><wg.word xlink:href="NT.Col.w1442"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg85"><wg.head><wg.word xlink:href="NT.Col.w1444"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1443"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg86"><wg.head><wg.word xlink:href="NT.Col.w1445"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg87"><wg.head><wg.word xlink:href="NT.Col.w1446"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg88"><wg.head><wg.word xlink:href="NT.Col.w1447"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg89"><wg.head><wg.word xlink:href="NT.Col.w1448"><wg.modifiers><wg.definer><cl.clause xlink:href="NT.Col.4_c31"><wg.group xml:id="NT.Col.4_wg90"><wg.head><wg.word xlink:href="NT.Col.w1450"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1449"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg91"><wg.head><wg.word xlink:href="NT.Col.w1451"/></wg.head></wg.group></cl.clause></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg92"><wg.head><wg.word xlink:href="NT.Col.w1453"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1452"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg93"><wg.head><wg.word xlink:href="NT.Col.w1455"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1454"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg94"><wg.head><wg.word xlink:href="NT.Col.w1456"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg95"><wg.head><wg.word xlink:href="NT.Col.w1457"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg96"><wg.head><wg.word xlink:href="NT.Col.w1458"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg97"><wg.head><wg.word xlink:href="NT.Col.w1461"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1459"/><wg.word xlink:href="NT.Col.w1460"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Col.w1463"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1462"/></wg.specifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg98"><wg.head><wg.word xlink:href="NT.Col.w1464"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg99"><wg.head><wg.word xlink:href="NT.Col.w1465"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg100"><wg.head><wg.word xlink:href="NT.Col.w1466"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg101"><wg.head><wg.word xlink:href="NT.Col.w1467"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg102"><wg.head><wg.word xlink:href="NT.Col.w1468"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg103"><wg.head><wg.word xlink:href="NT.Col.w1469"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg104"><wg.head><wg.word xlink:href="NT.Col.w1470"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Col.w1474"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1471"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Col.w1475"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Col.w1476"/></wg.definer></wg.modifiers></wg.word></wg.qualifier><wg.relator><wg.word xlink:href="NT.Col.w1473"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1472"/></wg.specifier></wg.modifiers></wg.word></wg.relator></wg.modifiers></wg.word></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg105"><wg.head><wg.word xlink:href="NT.Col.w1477"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg106"><wg.head><wg.word xlink:href="NT.Col.w1478"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg107"><wg.head><wg.word xlink:href="NT.Col.w1480"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1479"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg108"><wg.head><wg.word xlink:href="NT.Col.w1483"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1481"/><wg.word xlink:href="NT.Col.w1482"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg109"><wg.head><wg.word xlink:href="NT.Col.w1484"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg110"><wg.head><wg.word xlink:href="NT.Col.w1485"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg111"><wg.head><wg.word xlink:href="NT.Col.w1486"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg112"><wg.connector><wg.word xlink:href="NT.Col.w1487"/></wg.connector><wg.head><wg.word xlink:href="NT.Col.w1488"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg113"><wg.head><wg.word xlink:href="NT.Col.w1491"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1489"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Col.w1490"/></wg.definer><wg.qualifier><wg.word xlink:href="NT.Col.w1493"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1492"/></wg.specifier></wg.modifiers></wg.word></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg114"><wg.head><wg.word xlink:href="NT.Col.w1494"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg115"><wg.head><wg.word xlink:href="NT.Col.w1495"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg116"><wg.head><wg.word xlink:href="NT.Col.w1496"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg117"><wg.head><wg.word xlink:href="NT.Col.w1497"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg118"><wg.head><wg.word xlink:href="NT.Col.w1498"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg119"><wg.head><wg.word xlink:href="NT.Col.w1500"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Col.w1499"/></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg120"><wg.head><wg.word xlink:href="NT.Col.w1502"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1501"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg121"><wg.connector><wg.word xlink:href="NT.Col.w1503"/></wg.connector><wg.head><wg.word xlink:href="NT.Col.w1504"><wg.modifiers><wg.relator><wg.word xlink:href="NT.Col.w1506"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1505"/></wg.specifier></wg.modifiers></wg.word></wg.relator></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg122"><wg.connector><wg.word xlink:href="NT.Col.w1507"/></wg.connector><wg.head><wg.word xlink:href="NT.Col.w1508"><wg.modifiers><wg.relator><wg.word xlink:href="NT.Col.w1510"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1509"/></wg.specifier></wg.modifiers></wg.word></wg.relator></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg123"><wg.head><wg.word xlink:href="NT.Col.w1511"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg124"><wg.head><wg.word xlink:href="NT.Col.w1512"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg125"><wg.head><wg.word xlink:href="NT.Col.w1513"><wg.modifiers><wg.definer><wg.word xlink:href="NT.Col.w1515"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1514"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Col.w1517"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1516"/></wg.specifier></wg.modifiers></wg.word></wg.definer></wg.modifiers></wg.word></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg126"><wg.connector><wg.word xlink:href="NT.Col.w1518"/></wg.connector><wg.head><wg.word xlink:href="NT.Col.w1519"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg127"><wg.head><wg.word xlink:href="NT.Col.w1520"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg128"><wg.head><wg.word xlink:href="NT.Col.w1524"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1521"/></wg.specifier><wg.relator><wg.word xlink:href="NT.Col.w1523"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1522"/></wg.specifier></wg.modifiers></wg.word></wg.relator></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg129"><wg.connector><wg.word xlink:href="NT.Col.w1525"/></wg.connector><wg.head><wg.word xlink:href="NT.Col.w1526"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg130"><wg.connector><wg.word xlink:href="NT.Col.w1527"/></wg.connector><wg.head><wg.word xlink:href="NT.Col.w1532"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1528"/></wg.specifier><wg.relator><wg.word xlink:href="NT.Col.w1530"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1529"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Col.w1531"/></wg.qualifier></wg.modifiers></wg.word></wg.relator></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg131"><wg.head><wg.word xlink:href="NT.Col.w1533"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg132"><wg.head><wg.word xlink:href="NT.Col.w1534"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg133"><wg.head><wg.word xlink:href="NT.Col.w1535"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg134"><wg.head><wg.word xlink:href="NT.Col.w1537"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1536"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg135"><wg.head><wg.word xlink:href="NT.Col.w1539"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1538"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg136"><wg.head><wg.word xlink:href="NT.Col.w1540"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg137"><wg.head><wg.word xlink:href="NT.Col.w1541"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg138"><wg.head><wg.word xlink:href="NT.Col.w1542"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg139"><wg.head><wg.word xlink:href="NT.Col.w1546"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1543"/><wg.word xlink:href="NT.Col.w1544"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Col.w1545"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg140"><wg.head><wg.word xlink:href="NT.Col.w1547"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg141"><wg.head><wg.word xlink:href="NT.Col.w1548"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg142"><wg.head><wg.word xlink:href="NT.Col.w1549"><wg.modifiers><wg.relator><wg.word xlink:href="NT.Col.w1551"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1550"/></wg.specifier></wg.modifiers></wg.word></wg.relator></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg143"><wg.head><wg.word xlink:href="NT.Col.w1552"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg144"><wg.head><wg.word xlink:href="NT.Col.w1553"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg145"><wg.head><wg.word xlink:href="NT.Col.w1554"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg146"><wg.head><wg.word xlink:href="NT.Col.w1555"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg147"><wg.head><wg.word xlink:href="NT.Col.w1556"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg148"><wg.head><wg.word xlink:href="NT.Col.w1557"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg149"><wg.head><wg.word xlink:href="NT.Col.w1558"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg150"><wg.head><wg.word xlink:href="NT.Col.w1559"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg151"><wg.head><wg.word xlink:href="NT.Col.w1561"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1560"/></wg.specifier><wg.definer><cl.clause xlink:href="NT.Col.4_c50"><wg.group xml:id="NT.Col.4_wg152"><wg.head><wg.word xlink:href="NT.Col.w1562"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg153"><wg.head><wg.word xlink:href="NT.Col.w1563"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg154"><wg.head><wg.word xlink:href="NT.Col.w1565"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1564"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group></cl.clause></wg.definer></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg155"><wg.head><wg.word xlink:href="NT.Col.w1566"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg156"><wg.head><wg.word xlink:href="NT.Col.w1567"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg157"><wg.head><wg.word xlink:href="NT.Col.w1568"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg158"><wg.head><wg.word xlink:href="NT.Col.w1570"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1569"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg159"><wg.head><wg.word xlink:href="NT.Col.w1573"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1571"/></wg.specifier><wg.definer><wg.word xlink:href="NT.Col.w1572"/></wg.definer><wg.qualifier><wg.word xlink:href="NT.Col.w1574"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg160"><wg.head><wg.word xlink:href="NT.Col.w1575"/></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg161"><wg.head><wg.word xlink:href="NT.Col.w1578"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1577"/></wg.specifier><wg.qualifier><wg.word xlink:href="NT.Col.w1576"/></wg.qualifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg162"><wg.head><wg.word xlink:href="NT.Col.w1580"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1579"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group><wg.group xml:id="NT.Col.4_wg163"><wg.head><wg.word xlink:href="NT.Col.w1582"><wg.modifiers><wg.specifier><wg.word xlink:href="NT.Col.w1581"/></wg.specifier></wg.modifiers></wg.word></wg.head></wg.group></wg.groups></chapter>
+		-->
+<chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Col" num="4">
+  <wg.groups>
+    <wg.group xml:id="NT.Col.4_wg1">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1298">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1297"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg2">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1300">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1299"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg3">
+      <wg.connector>
+        <wg.word xlink:href="NT.Col.w1301"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1303">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1302"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg4">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1305">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1304"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg5">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1306"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg6">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1307"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg7">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1308"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg8">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1309"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg9">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1310"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg10">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1311"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg11">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1312"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg12">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1314">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1313"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg13">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1316">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1315"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg14">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1317"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg15">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1318"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg16">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1320">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1319"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg17">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1322">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1321"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg18">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1323"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg19">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1324"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg20">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1325"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg21">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1327">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1326"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg22">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1328"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg23">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1330">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1329"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg24">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1331"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg25">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1332"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg26">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1333">
+          <wg.modifiers>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Col.w1335">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Col.w1334"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg27">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1336"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg28">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1338">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1337"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Col.w1340">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Col.w1339"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg29">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1342">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1341"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg30">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1343"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg31">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1344"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg32">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1345"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg33">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1346"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg34">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1347"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg35">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1348"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg36">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1349"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg37">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1350"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg38">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1351"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg39">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1353">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1352"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg40">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1354"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg41">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1357">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1355"/>
+              <wg.word xlink:href="NT.Col.w1356"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg42">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1359">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1358"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg43">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1360"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg44">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1362">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1361"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Col.w1363"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg45">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1364"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg46">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1366">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1365"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg47">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1367"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg48">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1368"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg49">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1369"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg50">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1370"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg51">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1371"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg52">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1372"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg53">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1373">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Col.w1374"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg54">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1375"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg55">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1379">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1376"/>
+            </wg.specifier>
+            <wg.relator>
+              <wg.word xlink:href="NT.Col.w1378">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Col.w1377"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.relator>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg56">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1380"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg57">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1381"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg58">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1382">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Col.w1385">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Col.w1383"/>
+                  </wg.specifier>
+                  <wg.definer>
+                    <wg.word xlink:href="NT.Col.w1384"/>
+                  </wg.definer>
+                </wg.modifiers>
+              </wg.word>
+              <wg.word xlink:href="NT.Col.w1388">
+                <wg.connector>
+                  <wg.word xlink:href="NT.Col.w1386"/>
+                </wg.connector>
+                <wg.modifiers>
+                  <wg.definer>
+                    <wg.word xlink:href="NT.Col.w1387"/>
+                  </wg.definer>
+                </wg.modifiers>
+              </wg.word>
+              <wg.word xlink:href="NT.Col.w1390">
+                <wg.connector>
+                  <wg.word xlink:href="NT.Col.w1389"/>
+                </wg.connector>
+                <wg.modifiers>
+                  <wg.relator>
+                    <wg.word xlink:href="NT.Col.w1392">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Col.w1391"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.relator>
+                </wg.modifiers>
+              </wg.word>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg59">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1393"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg60">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1394"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg61">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1396">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1395"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg62">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1399">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1397"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Col.w1398"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg63">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1400"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg64">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1401"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg65">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1402">
+          <wg.modifiers>
+            <wg.relator>
+              <wg.word xlink:href="NT.Col.w1404">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Col.w1403"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.relator>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg66">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1405"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg67">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1406"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg68">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1408">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1407"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Col.w1409"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg69">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1411">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1410"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Col.w1416">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Col.w1412"/>
+                  </wg.specifier>
+                  <wg.definer>
+                    <wg.word xlink:href="NT.Col.w1413"/>
+                    <wg.word xlink:href="NT.Col.w1415">
+                      <wg.connector>
+                        <wg.word xlink:href="NT.Col.w1414"/>
+                      </wg.connector>
+                    </wg.word>
+                  </wg.definer>
+                </wg.modifiers>
+              </wg.word>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg70">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1417"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg71">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1418"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg72">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1420">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1419"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg73">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1422"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg74">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1423"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg75">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1425">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1424"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Col.w1421"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg76">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1426"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg77">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1427"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg78">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1428">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Col.w1430">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Col.w1429"/>
+                  </wg.specifier>
+                  <wg.qualifier>
+                    <wg.word xlink:href="NT.Col.w1431"/>
+                  </wg.qualifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg79">
+      <wg.connector>
+        <wg.word xlink:href="NT.Col.w1432"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1433">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Col.w1435">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Col.w1434"/>
+                  </wg.specifier>
+                  <wg.qualifier>
+                    <wg.word xlink:href="NT.Col.w1436"/>
+                  </wg.qualifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg80">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1438">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1437"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg81">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1439"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg82">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1440"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg83">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1441"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg84">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1442"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg85">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1444">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1443"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg86">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1445"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg87">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1446"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg88">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1447"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg89">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1448">
+          <wg.modifiers>
+            <wg.definer>
+              <cl.clause xlink:href="NT.Col.4_c31">
+                <wg.group xml:id="NT.Col.4_wg90">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Col.w1450">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Col.w1449"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Col.4_wg91">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Col.w1451"/>
+                  </wg.head>
+                </wg.group>
+              </cl.clause>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg92">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1453">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1452"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg93">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1455">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1454"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg94">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1456"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg95">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1457"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg96">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1458"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg97">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1461">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1459"/>
+              <wg.word xlink:href="NT.Col.w1460"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Col.w1463">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Col.w1462"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg98">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1464"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg99">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1465"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg100">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1466"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg101">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1467"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg102">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1468"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg103">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1469"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg104">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1470">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Col.w1474">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Col.w1471"/>
+                  </wg.specifier>
+                  <wg.qualifier>
+                    <wg.word xlink:href="NT.Col.w1475">
+                      <wg.modifiers>
+                        <wg.definer>
+                          <wg.word xlink:href="NT.Col.w1476"/>
+                        </wg.definer>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.qualifier>
+                  <wg.relator>
+                    <wg.word xlink:href="NT.Col.w1473">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Col.w1472"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.relator>
+                </wg.modifiers>
+              </wg.word>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg105">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1477"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg106">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1478"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg107">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1480">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1479"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg108">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1483">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1481"/>
+              <wg.word xlink:href="NT.Col.w1482"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg109">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1484"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg110">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1485"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg111">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1486"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg112">
+      <wg.connector>
+        <wg.word xlink:href="NT.Col.w1487"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1488"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg113">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1491">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1489"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Col.w1490"/>
+            </wg.definer>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Col.w1493">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Col.w1492"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg114">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1494"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg115">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1495"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg116">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1496"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg117">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1497"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg118">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1498"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg119">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1500">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Col.w1499"/>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg120">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1502">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1501"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg121">
+      <wg.connector>
+        <wg.word xlink:href="NT.Col.w1503"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1504">
+          <wg.modifiers>
+            <wg.relator>
+              <wg.word xlink:href="NT.Col.w1506">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Col.w1505"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.relator>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg122">
+      <wg.connector>
+        <wg.word xlink:href="NT.Col.w1507"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1508">
+          <wg.modifiers>
+            <wg.relator>
+              <wg.word xlink:href="NT.Col.w1510">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Col.w1509"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.relator>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg123">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1511"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg124">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1512"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg125">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1513">
+          <wg.modifiers>
+            <wg.definer>
+              <wg.word xlink:href="NT.Col.w1515">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Col.w1514"/>
+                  </wg.specifier>
+                  <wg.definer>
+                    <wg.word xlink:href="NT.Col.w1517">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Col.w1516"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.definer>
+                </wg.modifiers>
+              </wg.word>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg126">
+      <wg.connector>
+        <wg.word xlink:href="NT.Col.w1518"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1519"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg127">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1520"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg128">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1524">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1521"/>
+            </wg.specifier>
+            <wg.relator>
+              <wg.word xlink:href="NT.Col.w1523">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Col.w1522"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.relator>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg129">
+      <wg.connector>
+        <wg.word xlink:href="NT.Col.w1525"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1526"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg130">
+      <wg.connector>
+        <wg.word xlink:href="NT.Col.w1527"/>
+      </wg.connector>
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1532">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1528"/>
+            </wg.specifier>
+            <wg.relator>
+              <wg.word xlink:href="NT.Col.w1530">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Col.w1529"/>
+                  </wg.specifier>
+                  <wg.qualifier>
+                    <wg.word xlink:href="NT.Col.w1531"/>
+                  </wg.qualifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.relator>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg131">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1533"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg132">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1534"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg133">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1535"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg134">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1537">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1536"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg135">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1539">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1538"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg136">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1540"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg137">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1541"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg138">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1542"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg139">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1546">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1543"/>
+              <wg.word xlink:href="NT.Col.w1544"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Col.w1545"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg140">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1547"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg141">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1548"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg142">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1549">
+          <wg.modifiers>
+            <wg.relator>
+              <wg.word xlink:href="NT.Col.w1551">
+                <wg.modifiers>
+                  <wg.specifier>
+                    <wg.word xlink:href="NT.Col.w1550"/>
+                  </wg.specifier>
+                </wg.modifiers>
+              </wg.word>
+            </wg.relator>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg143">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1552"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg144">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1553"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg145">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1554"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg146">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1555"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg147">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1556"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg148">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1557"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg149">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1558"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg150">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1559"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg151">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1561">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1560"/>
+            </wg.specifier>
+            <wg.definer>
+              <cl.clause xlink:href="NT.Col.4_c50">
+                <wg.group xml:id="NT.Col.4_wg152">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Col.w1562"/>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Col.4_wg153">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Col.w1563"/>
+                  </wg.head>
+                </wg.group>
+                <wg.group xml:id="NT.Col.4_wg154">
+                  <wg.head>
+                    <wg.word xlink:href="NT.Col.w1565">
+                      <wg.modifiers>
+                        <wg.specifier>
+                          <wg.word xlink:href="NT.Col.w1564"/>
+                        </wg.specifier>
+                      </wg.modifiers>
+                    </wg.word>
+                  </wg.head>
+                </wg.group>
+              </cl.clause>
+            </wg.definer>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg155">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1566"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg156">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1567"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg157">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1568"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg158">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1570">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1569"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg159">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1573">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1571"/>
+            </wg.specifier>
+            <wg.definer>
+              <wg.word xlink:href="NT.Col.w1572"/>
+            </wg.definer>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Col.w1574"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg160">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1575"/>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg161">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1578">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1577"/>
+            </wg.specifier>
+            <wg.qualifier>
+              <wg.word xlink:href="NT.Col.w1576"/>
+            </wg.qualifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg162">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1580">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1579"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+    <wg.group xml:id="NT.Col.4_wg163">
+      <wg.head>
+        <wg.word xlink:href="NT.Col.w1582">
+          <wg.modifiers>
+            <wg.specifier>
+              <wg.word xlink:href="NT.Col.w1581"/>
+            </wg.specifier>
+          </wg.modifiers>
+        </wg.word>
+      </wg.head>
+    </wg.group>
+  </wg.groups>
+</chapter>

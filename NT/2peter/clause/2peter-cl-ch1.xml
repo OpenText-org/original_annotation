@@ -14,4 +14,974 @@ Copyright (c) 2005-6 OpenText.org
 
 contact: matt@opentext.org
 =================================================		
-		--><chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="2Pet" num="1"><cl.clause xml:id="NT.2Pet.1_c1" level="primary" structure="S-C"><cl.S><w xlink:href="NT.2Pet.w1"/><w xlink:href="NT.2Pet.w2"/><w xlink:href="NT.2Pet.w3"/><w xlink:href="NT.2Pet.w4"/><w xlink:href="NT.2Pet.w5"/><w xlink:href="NT.2Pet.w6"/><w xlink:href="NT.2Pet.w7"/></cl.S><cl.C><cl.clause xml:id="NT.2Pet.1_c2" level="embedded" structure="P-(C)-A"><cl.P><w xlink:href="NT.2Pet.w8"/><cl.C type="embed" parent="NT.2Pet.1_c2"><w xlink:href="NT.2Pet.w9"/><w xlink:href="NT.2Pet.w10"/><w xlink:href="NT.2Pet.w12"/></cl.C><w xlink:href="NT.2Pet.w11"/></cl.P><cl.A><w xlink:href="NT.2Pet.w13"/><w xlink:href="NT.2Pet.w14"/><w xlink:href="NT.2Pet.w15"/><w xlink:href="NT.2Pet.w16"/><w xlink:href="NT.2Pet.w17"/><w xlink:href="NT.2Pet.w18"/><w xlink:href="NT.2Pet.w19"/><w xlink:href="NT.2Pet.w20"/><w xlink:href="NT.2Pet.w21"/></cl.A></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.2Pet.1_c3" level="primary" connect="NT.2Pet.1_c1" structure="S-(C)-P-A"><cl.S><w xlink:href="NT.2Pet.w22"/><cl.C type="embed" parent="NT.2Pet.1_c3"><w xlink:href="NT.2Pet.w23"/></cl.C><w xlink:href="NT.2Pet.w24"/><w xlink:href="NT.2Pet.w25"/></cl.S><cl.P><w xlink:href="NT.2Pet.w26"/></cl.P><cl.A><w xlink:href="NT.2Pet.w27"/><w xlink:href="NT.2Pet.w28"/><w xlink:href="NT.2Pet.w29"/><w xlink:href="NT.2Pet.w30"/><w xlink:href="NT.2Pet.w31"/><w xlink:href="NT.2Pet.w32"/><w xlink:href="NT.2Pet.w33"/><w xlink:href="NT.2Pet.w34"/><w xlink:href="NT.2Pet.w35"/></cl.A></cl.clause><cl.clause xml:id="NT.2Pet.1_c4" level="secondary" connect="NT.2Pet.1_c3" structure="conj-C-(C)-(S)-P-A"><pl.conj><w xlink:href="NT.2Pet.w36"/></pl.conj><cl.C><w xlink:href="NT.2Pet.w37"/><cl.C type="embed" parent="NT.2Pet.1_c4"><w xlink:href="NT.2Pet.w38"/></cl.C><cl.S type="embed" parent="NT.2Pet.1_c4"><w xlink:href="NT.2Pet.w39"/><w xlink:href="NT.2Pet.w40"/><w xlink:href="NT.2Pet.w41"/><w xlink:href="NT.2Pet.w42"/></cl.S><w xlink:href="NT.2Pet.w43"/><w xlink:href="NT.2Pet.w44"/><w xlink:href="NT.2Pet.w45"/><w xlink:href="NT.2Pet.w46"/><w xlink:href="NT.2Pet.w47"/></cl.C><cl.P><w xlink:href="NT.2Pet.w48"/></cl.P><cl.A><w xlink:href="NT.2Pet.w49"/><w xlink:href="NT.2Pet.w50"/><w xlink:href="NT.2Pet.w51"/><cl.clause xml:id="NT.2Pet.1_c5" level="embedded" structure="P-C-A"><cl.P><w xlink:href="NT.2Pet.w52"/><w xlink:href="NT.2Pet.w53"/></cl.P><cl.C><w xlink:href="NT.2Pet.w54"/></cl.C><cl.A><w xlink:href="NT.2Pet.w55"/><w xlink:href="NT.2Pet.w56"/><w xlink:href="NT.2Pet.w57"/><w xlink:href="NT.2Pet.w58"/></cl.A></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.2Pet.1_c6" level="secondary2" connect="NT.2Pet.1_c4" structure="A-S-(C)-P"><cl.A><w xlink:href="NT.2Pet.w59"/><w xlink:href="NT.2Pet.w60"/></cl.A><cl.S><w xlink:href="NT.2Pet.w61"/><w xlink:href="NT.2Pet.w62"/><w xlink:href="NT.2Pet.w63"/><w xlink:href="NT.2Pet.w64"/><cl.C type="embed" parent="NT.2Pet.1_c6"><w xlink:href="NT.2Pet.w65"/></cl.C><w xlink:href="NT.2Pet.w66"/></cl.S><cl.P><w xlink:href="NT.2Pet.w67"/></cl.P></cl.clause><cl.clause xml:id="NT.2Pet.1_c7" level="secondary2" connect="NT.2Pet.1_c6" structure="conj-A-P-C-A"><pl.conj><w xlink:href="NT.2Pet.w68"/></pl.conj><cl.A><w xlink:href="NT.2Pet.w69"/><w xlink:href="NT.2Pet.w70"/></cl.A><cl.P><w xlink:href="NT.2Pet.w71"/></cl.P><cl.C><w xlink:href="NT.2Pet.w72"/><w xlink:href="NT.2Pet.w73"/><w xlink:href="NT.2Pet.w74"/></cl.C><cl.A><cl.clause xml:id="NT.2Pet.1_c8" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.2Pet.w75"/></cl.P><cl.A><w xlink:href="NT.2Pet.w76"/><w xlink:href="NT.2Pet.w77"/><w xlink:href="NT.2Pet.w78"/><w xlink:href="NT.2Pet.w79"/><w xlink:href="NT.2Pet.w80"/><w xlink:href="NT.2Pet.w81"/><w xlink:href="NT.2Pet.w82"/></cl.A></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.2Pet.1_c9" level="primary" connect="NT.2Pet.1_c3" structure="conj-A-conj-A-P-A-C"><pl.conj><w xlink:href="NT.2Pet.w83"/></pl.conj><cl.A><w xlink:href="NT.2Pet.w84"/><w xlink:href="NT.2Pet.w85"/></cl.A><pl.conj><w xlink:href="NT.2Pet.w86"/></pl.conj><cl.A><cl.clause xml:id="NT.2Pet.1_c10" level="embedded" structure="C-P"><cl.C><w xlink:href="NT.2Pet.w87"/><w xlink:href="NT.2Pet.w88"/></cl.C><cl.P><w xlink:href="NT.2Pet.w89"/></cl.P></cl.clause></cl.A><cl.P><w xlink:href="NT.2Pet.w90"/></cl.P><cl.A><w xlink:href="NT.2Pet.w91"/><w xlink:href="NT.2Pet.w92"/><w xlink:href="NT.2Pet.w93"/><w xlink:href="NT.2Pet.w94"/></cl.A><cl.C><w xlink:href="NT.2Pet.w95"/><w xlink:href="NT.2Pet.w96"/></cl.C></cl.clause><cl.clause xml:id="NT.2Pet.1_c11" level="primary" connect="NT.2Pet.1_c9" structure="A-(conj)-C"><cl.A><w xlink:href="NT.2Pet.w97"/><pl.conj type="embed" parent="NT.2Pet.1_c11"><w xlink:href="NT.2Pet.w98"/></pl.conj><w xlink:href="NT.2Pet.w99"/><w xlink:href="NT.2Pet.w100"/></cl.A><cl.C><w xlink:href="NT.2Pet.w101"/><w xlink:href="NT.2Pet.w102"/></cl.C></cl.clause><cl.clause xml:id="NT.2Pet.1_c12" level="primary" connect="NT.2Pet.1_c11" structure="A-(conj)-C"><cl.A><w xlink:href="NT.2Pet.w103"/><pl.conj type="embed" parent="NT.2Pet.1_c12"><w xlink:href="NT.2Pet.w104"/></pl.conj><w xlink:href="NT.2Pet.w105"/><w xlink:href="NT.2Pet.w106"/></cl.A><cl.C><w xlink:href="NT.2Pet.w107"/><w xlink:href="NT.2Pet.w108"/></cl.C></cl.clause><cl.clause xml:id="NT.2Pet.1_c13" level="primary" connect="NT.2Pet.1_c12" structure="A-(conj)-C"><cl.A><w xlink:href="NT.2Pet.w109"/><pl.conj type="embed" parent="NT.2Pet.1_c13"><w xlink:href="NT.2Pet.w110"/></pl.conj><w xlink:href="NT.2Pet.w111"/><w xlink:href="NT.2Pet.w112"/></cl.A><cl.C><w xlink:href="NT.2Pet.w113"/><w xlink:href="NT.2Pet.w114"/></cl.C></cl.clause><cl.clause xml:id="NT.2Pet.1_c14" level="primary" connect="NT.2Pet.1_c13" structure="A-(conj)-C"><cl.A><w xlink:href="NT.2Pet.w115"/><pl.conj type="embed" parent="NT.2Pet.1_c14"><w xlink:href="NT.2Pet.w116"/></pl.conj><w xlink:href="NT.2Pet.w117"/><w xlink:href="NT.2Pet.w118"/></cl.A><cl.C><w xlink:href="NT.2Pet.w119"/><w xlink:href="NT.2Pet.w120"/></cl.C></cl.clause><cl.clause xml:id="NT.2Pet.1_c15" level="primary" connect="NT.2Pet.1_c14" structure="A-(conj)-C"><cl.A><w xlink:href="NT.2Pet.w121"/><pl.conj type="embed" parent="NT.2Pet.1_c15"><w xlink:href="NT.2Pet.w122"/></pl.conj><w xlink:href="NT.2Pet.w123"/><w xlink:href="NT.2Pet.w124"/></cl.A><cl.C><w xlink:href="NT.2Pet.w125"/><w xlink:href="NT.2Pet.w126"/></cl.C></cl.clause><cl.clause xml:id="NT.2Pet.1_c16" level="primary" connect="NT.2Pet.1_c15" structure="A-(conj)-C"><cl.A><w xlink:href="NT.2Pet.w127"/><pl.conj type="embed" parent="NT.2Pet.1_c16"><w xlink:href="NT.2Pet.w128"/></pl.conj><w xlink:href="NT.2Pet.w129"/><w xlink:href="NT.2Pet.w130"/></cl.A><cl.C><w xlink:href="NT.2Pet.w131"/><w xlink:href="NT.2Pet.w132"/></cl.C></cl.clause><cl.clause xml:id="NT.2Pet.1_c17" level="primary" connect="NT.2Pet.1_c16" structure="A-(conj)-A-C-P-A"><cl.A><cl.clause xml:id="NT.2Pet.1_c18" level="embedded" structure="S-A-P"><cl.S><w xlink:href="NT.2Pet.w133"/></cl.S><cl.A><w xlink:href="NT.2Pet.w135"/></cl.A><cl.P><w xlink:href="NT.2Pet.w136"/></cl.P></cl.clause><pl.conj type="embed" parent="NT.2Pet.1_c17"><w xlink:href="NT.2Pet.w134"/></pl.conj><cl.clause xml:id="NT.2Pet.1_c19" level="embedded" structure="conj-P"><pl.conj><w xlink:href="NT.2Pet.w137"/></pl.conj><cl.P><w xlink:href="NT.2Pet.w138"/></cl.P></cl.clause></cl.A><cl.A><w xlink:href="NT.2Pet.w139"/></cl.A><cl.C><w xlink:href="NT.2Pet.w140"/><w xlink:href="NT.2Pet.w141"/><w xlink:href="NT.2Pet.w142"/></cl.C><cl.P><w xlink:href="NT.2Pet.w143"/></cl.P><cl.A><w xlink:href="NT.2Pet.w144"/><w xlink:href="NT.2Pet.w145"/><w xlink:href="NT.2Pet.w146"/><w xlink:href="NT.2Pet.w147"/><w xlink:href="NT.2Pet.w148"/><w xlink:href="NT.2Pet.w149"/><w xlink:href="NT.2Pet.w150"/><w xlink:href="NT.2Pet.w151"/></cl.A></cl.clause><cl.clause xml:id="NT.2Pet.1_c20" level="primary" connect="NT.2Pet.1_c17" structure="S-(conj)-C-P-A-A"><cl.S><cl.clause xml:id="NT.2Pet.1_c21" level="embedded" structure="A-A-P-S"><cl.A><w xlink:href="NT.2Pet.w152"/></cl.A><cl.A><w xlink:href="NT.2Pet.w154"/></cl.A><cl.P><w xlink:href="NT.2Pet.w155"/></cl.P><cl.S><w xlink:href="NT.2Pet.w156"/></cl.S></cl.clause><pl.conj type="embed" parent="NT.2Pet.1_c20"><w xlink:href="NT.2Pet.w153"/></pl.conj></cl.S><cl.C><w xlink:href="NT.2Pet.w157"/></cl.C><cl.P><w xlink:href="NT.2Pet.w158"/></cl.P><cl.A><cl.clause xml:id="NT.2Pet.1_c22" level="embedded" structure="P"><cl.P><w xlink:href="NT.2Pet.w159"/></cl.P></cl.clause></cl.A><cl.A><cl.clause xml:id="NT.2Pet.1_c23" level="embedded" structure="C-(P)"><cl.C><w xlink:href="NT.2Pet.w160"/><cl.P type="embed" parent="NT.2Pet.1_c23"><w xlink:href="NT.2Pet.w161"/></cl.P><w xlink:href="NT.2Pet.w162"/><w xlink:href="NT.2Pet.w163"/><w xlink:href="NT.2Pet.w164"/><w xlink:href="NT.2Pet.w165"/><w xlink:href="NT.2Pet.w166"/><w xlink:href="NT.2Pet.w167"/></cl.C></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.2Pet.1_c24" level="primary" connect="NT.2Pet.1_c20" structure="conj-A-add-P-C"><pl.conj><w xlink:href="NT.2Pet.w168"/></pl.conj><cl.A><w xlink:href="NT.2Pet.w169"/></cl.A><cl.add><w xlink:href="NT.2Pet.w170"/></cl.add><cl.P><w xlink:href="NT.2Pet.w171"/></cl.P><cl.C><cl.clause xml:id="NT.2Pet.1_c25" level="embedded" structure="C-C-P"><cl.C><w xlink:href="NT.2Pet.w172"/></cl.C><cl.C><w xlink:href="NT.2Pet.w173"/><w xlink:href="NT.2Pet.w174"/><w xlink:href="NT.2Pet.w175"/><w xlink:href="NT.2Pet.w176"/><w xlink:href="NT.2Pet.w177"/></cl.C><cl.P><w xlink:href="NT.2Pet.w178"/></cl.P></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.2Pet.1_c26" level="primary" connect="NT.2Pet.1_c24" structure="A-(conj)-A-P-A"><cl.A><cl.clause xml:id="NT.2Pet.1_c27" level="embedded" structure="C-P"><cl.C><w xlink:href="NT.2Pet.w179"/></cl.C><cl.P><w xlink:href="NT.2Pet.w181"/></cl.P></cl.clause><pl.conj type="embed" parent="NT.2Pet.1_c26"><w xlink:href="NT.2Pet.w180"/></pl.conj></cl.A><cl.A><w xlink:href="NT.2Pet.w182"/><w xlink:href="NT.2Pet.w183"/></cl.A><cl.P><w xlink:href="NT.2Pet.w184"/></cl.P><cl.A><w xlink:href="NT.2Pet.w185"/></cl.A></cl.clause><cl.clause xml:id="NT.2Pet.1_c28" level="primary" connect="NT.2Pet.1_c26" structure="A-conj-A-P-C-S"><cl.A><w xlink:href="NT.2Pet.w186"/></cl.A><pl.conj><w xlink:href="NT.2Pet.w187"/></pl.conj><cl.A><w xlink:href="NT.2Pet.w188"/></cl.A><cl.P><w xlink:href="NT.2Pet.w189"/></cl.P><cl.C><w xlink:href="NT.2Pet.w190"/></cl.C><cl.S><w xlink:href="NT.2Pet.w191"/><w xlink:href="NT.2Pet.w192"/><w xlink:href="NT.2Pet.w193"/><w xlink:href="NT.2Pet.w194"/><w xlink:href="NT.2Pet.w195"/><w xlink:href="NT.2Pet.w196"/><w xlink:href="NT.2Pet.w197"/><w xlink:href="NT.2Pet.w198"/><w xlink:href="NT.2Pet.w199"/><w xlink:href="NT.2Pet.w200"/><w xlink:href="NT.2Pet.w201"/><w xlink:href="NT.2Pet.w202"/><w xlink:href="NT.2Pet.w203"/></cl.S></cl.clause><cl.clause xml:id="NT.2Pet.1_c29" level="primary" connect="NT.2Pet.1_c28" structure="conj-P-C"><pl.conj><w xlink:href="NT.2Pet.w204"/></pl.conj><cl.P><w xlink:href="NT.2Pet.w205"/></cl.P><cl.C><cl.clause xml:id="NT.2Pet.1_c30" level="embedded" structure="A-C-P-A"><cl.A><w xlink:href="NT.2Pet.w206"/></cl.A><cl.C><w xlink:href="NT.2Pet.w207"/></cl.C><cl.P><w xlink:href="NT.2Pet.w208"/></cl.P><cl.A><w xlink:href="NT.2Pet.w209"/><w xlink:href="NT.2Pet.w210"/></cl.A></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.2Pet.1_c31" level="secondary" connect="NT.2Pet.1_c29" structure="conj-P"><pl.conj><w xlink:href="NT.2Pet.w211"/></pl.conj><cl.P><w xlink:href="NT.2Pet.w212"/></cl.P></cl.clause><cl.clause xml:id="NT.2Pet.1_c32" level="secondary" connect="NT.2Pet.1_c31" structure="conj-P-A"><pl.conj><w xlink:href="NT.2Pet.w213"/></pl.conj><cl.P><w xlink:href="NT.2Pet.w214"/></cl.P><cl.A><w xlink:href="NT.2Pet.w215"/><w xlink:href="NT.2Pet.w216"/><cl.clause xml:id="NT.2Pet.1_c33" level="embedded" structure="P"><cl.P><w xlink:href="NT.2Pet.w217"/></cl.P></cl.clause><w xlink:href="NT.2Pet.w218"/></cl.A></cl.clause><cl.clause xml:id="NT.2Pet.1_c34" level="primary" connect="NT.2Pet.1_c29" structure="C-conj-P-C-A"><cl.C><w xlink:href="NT.2Pet.w219"/></cl.C><pl.conj><w xlink:href="NT.2Pet.w220"/></pl.conj><cl.P><w xlink:href="NT.2Pet.w221"/></cl.P><cl.C><cl.clause xml:id="NT.2Pet.1_c35" level="embedded" structure="A-P-C-A"><cl.A><cl.clause xml:id="NT.2Pet.1_c36" level="embedded" structure="A-P-A"><cl.A><w xlink:href="NT.2Pet.w222"/><w xlink:href="NT.2Pet.w223"/></cl.A><cl.P><w xlink:href="NT.2Pet.w224"/></cl.P><cl.A><w xlink:href="NT.2Pet.w225"/><w xlink:href="NT.2Pet.w226"/><w xlink:href="NT.2Pet.w227"/><w xlink:href="NT.2Pet.w228"/></cl.A></cl.clause></cl.A><cl.P><w xlink:href="NT.2Pet.w229"/></cl.P><cl.C><w xlink:href="NT.2Pet.w230"/></cl.C><cl.A><w xlink:href="NT.2Pet.w231"/><w xlink:href="NT.2Pet.w232"/></cl.A></cl.clause></cl.C><cl.A><cl.clause xml:id="NT.2Pet.1_c37" level="embedded" structure="P"><cl.P><w xlink:href="NT.2Pet.w233"/></cl.P></cl.clause><cl.clause xml:id="NT.2Pet.1_c38" level="embedded" structure="conj-C-P-S"><pl.conj><w xlink:href="NT.2Pet.w234"/></pl.conj><cl.C><w xlink:href="NT.2Pet.w235"/></cl.C><cl.P><w xlink:href="NT.2Pet.w236"/></cl.P><cl.S><w xlink:href="NT.2Pet.w237"/><w xlink:href="NT.2Pet.w238"/><w xlink:href="NT.2Pet.w239"/><w xlink:href="NT.2Pet.w240"/><w xlink:href="NT.2Pet.w241"/></cl.S></cl.clause><cl.clause xml:id="NT.2Pet.1_c39" level="embedded" structure="conj-conj-S-P-C"><pl.conj><w xlink:href="NT.2Pet.w242"/></pl.conj><pl.conj><w xlink:href="NT.2Pet.w243"/></pl.conj><cl.S><w xlink:href="NT.2Pet.w244"/><w xlink:href="NT.2Pet.w245"/><w xlink:href="NT.2Pet.w246"/><w xlink:href="NT.2Pet.w247"/><w xlink:href="NT.2Pet.w248"/></cl.S><cl.P><w xlink:href="NT.2Pet.w249"/></cl.P><cl.C><w xlink:href="NT.2Pet.w250"/></cl.C></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.2Pet.1_c40" level="primary" connect="NT.2Pet.1_c34" structure="P-conj-conj-C"><cl.P><w xlink:href="NT.2Pet.w251"/></cl.P><pl.conj><w xlink:href="NT.2Pet.w252"/></pl.conj><pl.conj><w xlink:href="NT.2Pet.w253"/></pl.conj><cl.C><cl.clause xml:id="NT.2Pet.1_c41" level="embedded" structure="C-(P)"><cl.C><cl.clause xml:id="NT.2Pet.1_c42" level="embedded" structure="A-S-A-C-P"><cl.A><w xlink:href="NT.2Pet.w254"/></cl.A><cl.S><w xlink:href="NT.2Pet.w256"/></cl.S><cl.A><w xlink:href="NT.2Pet.w257"/><w xlink:href="NT.2Pet.w258"/><w xlink:href="NT.2Pet.w259"/><w xlink:href="NT.2Pet.w260"/></cl.A><cl.C><w xlink:href="NT.2Pet.w261"/><w xlink:href="NT.2Pet.w262"/><w xlink:href="NT.2Pet.w263"/></cl.C><cl.P><w xlink:href="NT.2Pet.w264"/></cl.P></cl.clause><cl.P type="embed" parent="NT.2Pet.1_c41"><w xlink:href="NT.2Pet.w255"/></cl.P></cl.C></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.2Pet.1_c43" level="primary" connect="NT.2Pet.1_c40" structure="A-conj-A-P-C-C"><cl.A><w xlink:href="NT.2Pet.w265"/></cl.A><pl.conj><w xlink:href="NT.2Pet.w266"/></pl.conj><cl.A><cl.clause xml:id="NT.2Pet.1_c44" level="embedded" structure="C-P"><cl.C><cl.clause xml:id="NT.2Pet.1_c45" level="embedded" structure="P"><cl.P><w xlink:href="NT.2Pet.w267"/></cl.P></cl.clause><w xlink:href="NT.2Pet.w268"/></cl.C><cl.P><w xlink:href="NT.2Pet.w269"/></cl.P></cl.clause></cl.A><cl.P><w xlink:href="NT.2Pet.w270"/></cl.P><cl.C><w xlink:href="NT.2Pet.w271"/></cl.C><cl.C><w xlink:href="NT.2Pet.w272"/><w xlink:href="NT.2Pet.w273"/><w xlink:href="NT.2Pet.w274"/><w xlink:href="NT.2Pet.w275"/><w xlink:href="NT.2Pet.w276"/><w xlink:href="NT.2Pet.w277"/><w xlink:href="NT.2Pet.w278"/><w xlink:href="NT.2Pet.w279"/><w xlink:href="NT.2Pet.w280"/></cl.C></cl.clause><cl.clause xml:id="NT.2Pet.1_c46" level="primary" connect="NT.2Pet.1_c43" structure="conj-C"><pl.conj><w xlink:href="NT.2Pet.w281"/></pl.conj><cl.C><cl.clause xml:id="NT.2Pet.1_c47" level="embedded" structure="C-(P)"><cl.C><w xlink:href="NT.2Pet.w282"/><cl.P type="embed" parent="NT.2Pet.1_c47"><w xlink:href="NT.2Pet.w283"/></cl.P><w xlink:href="NT.2Pet.w284"/><w xlink:href="NT.2Pet.w285"/><w xlink:href="NT.2Pet.w286"/></cl.C></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.2Pet.1_c48" level="primary" connect="NT.2Pet.1_c46" structure="C-(conj)"><cl.C><cl.clause xml:id="NT.2Pet.1_c49" level="embedded" structure="P-A-C"><cl.P><w xlink:href="NT.2Pet.w287"/></cl.P><cl.A><w xlink:href="NT.2Pet.w289"/><w xlink:href="NT.2Pet.w290"/><w xlink:href="NT.2Pet.w291"/></cl.A><cl.C><w xlink:href="NT.2Pet.w292"/><w xlink:href="NT.2Pet.w293"/><w xlink:href="NT.2Pet.w294"/></cl.C></cl.clause><pl.conj type="embed" parent="NT.2Pet.1_c48"><w xlink:href="NT.2Pet.w288"/></pl.conj></cl.C></cl.clause><cl.clause xml:id="NT.2Pet.1_c50" level="secondary" connect="NT.2Pet.1_c48" structure="S-(P)-(C)-A"><cl.S><w xlink:href="NT.2Pet.w295"/><cl.P type="embed" parent="NT.2Pet.1_c50"><w xlink:href="NT.2Pet.w296"/></cl.P><cl.C type="embed" parent="NT.2Pet.1_c50"><w xlink:href="NT.2Pet.w297"/></cl.C><w xlink:href="NT.2Pet.w298"/></cl.S><cl.A><w xlink:href="NT.2Pet.w299"/><w xlink:href="NT.2Pet.w300"/><w xlink:href="NT.2Pet.w301"/><w xlink:href="NT.2Pet.w302"/></cl.A></cl.clause><cl.clause xml:id="NT.2Pet.1_c51" level="secondary" projected="yes" connect="NT.2Pet.1_c50" structure="C-S-P"><cl.C><w xlink:href="NT.2Pet.w303"/><w xlink:href="NT.2Pet.w304"/><w xlink:href="NT.2Pet.w305"/><w xlink:href="NT.2Pet.w306"/><w xlink:href="NT.2Pet.w307"/><w xlink:href="NT.2Pet.w308"/></cl.C><cl.S><w xlink:href="NT.2Pet.w309"/></cl.S><cl.P><w xlink:href="NT.2Pet.w310"/></cl.P></cl.clause><cl.clause xml:id="NT.2Pet.1_c52" level="secondary2" projected="yes" connect="NT.2Pet.1_c51" structure="A-S-P"><cl.A><w xlink:href="NT.2Pet.w311"/><w xlink:href="NT.2Pet.w312"/></cl.A><cl.S><w xlink:href="NT.2Pet.w313"/></cl.S><cl.P><w xlink:href="NT.2Pet.w314"/></cl.P></cl.clause><cl.clause xml:id="NT.2Pet.1_c53" level="primary" connect="NT.2Pet.1_c48" structure="conj-C-(S)-(P)-A"><pl.conj><w xlink:href="NT.2Pet.w315"/></pl.conj><cl.C><w xlink:href="NT.2Pet.w316"/><w xlink:href="NT.2Pet.w317"/><w xlink:href="NT.2Pet.w318"/><cl.S type="embed" parent="NT.2Pet.1_c53"><w xlink:href="NT.2Pet.w319"/></cl.S><cl.P type="embed" parent="NT.2Pet.1_c53"><w xlink:href="NT.2Pet.w320"/></cl.P><cl.clause xml:id="NT.2Pet.1_c54" level="embedded" structure="A-P"><cl.A><w xlink:href="NT.2Pet.w321"/><w xlink:href="NT.2Pet.w322"/></cl.A><cl.P><w xlink:href="NT.2Pet.w323"/></cl.P></cl.clause></cl.C><cl.A><cl.clause xml:id="NT.2Pet.1_c55" level="embedded" structure="A-P-A"><cl.A><w xlink:href="NT.2Pet.w324"/><w xlink:href="NT.2Pet.w325"/></cl.A><cl.P><w xlink:href="NT.2Pet.w326"/></cl.P><cl.A><w xlink:href="NT.2Pet.w327"/><w xlink:href="NT.2Pet.w328"/><w xlink:href="NT.2Pet.w329"/><w xlink:href="NT.2Pet.w330"/></cl.A></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.2Pet.1_c56" level="primary" connect="NT.2Pet.1_c53" structure="conj-P-A-C"><pl.conj><w xlink:href="NT.2Pet.w331"/></pl.conj><cl.P><w xlink:href="NT.2Pet.w332"/></cl.P><cl.A><w xlink:href="NT.2Pet.w333"/></cl.A><cl.C><w xlink:href="NT.2Pet.w334"/><w xlink:href="NT.2Pet.w335"/><w xlink:href="NT.2Pet.w336"/></cl.C></cl.clause><cl.clause xml:id="NT.2Pet.1_c57" level="secondary" connect="NT.2Pet.1_c56" structure="A-(A)-(P)-A"><cl.A><cl.clause xml:id="NT.2Pet.1_c58" level="embedded" structure="C-P-A"><cl.C><w xlink:href="NT.2Pet.w337"/></cl.C><cl.P><w xlink:href="NT.2Pet.w340"/></cl.P><cl.A><w xlink:href="NT.2Pet.w341"/><w xlink:href="NT.2Pet.w342"/><cl.clause xml:id="NT.2Pet.1_c59" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.2Pet.w343"/></cl.P><cl.A><w xlink:href="NT.2Pet.w344"/><w xlink:href="NT.2Pet.w345"/><w xlink:href="NT.2Pet.w346"/></cl.A></cl.clause></cl.A></cl.clause><cl.A type="embed" parent="NT.2Pet.1_c57"><w xlink:href="NT.2Pet.w338"/></cl.A><cl.P type="embed" parent="NT.2Pet.1_c57"><w xlink:href="NT.2Pet.w339"/></cl.P><cl.clause xml:id="NT.2Pet.1_c60" level="embedded" structure="A-S-P"><cl.A><w xlink:href="NT.2Pet.w347"/><w xlink:href="NT.2Pet.w348"/></cl.A><cl.S><w xlink:href="NT.2Pet.w349"/></cl.S><cl.P><w xlink:href="NT.2Pet.w350"/></cl.P></cl.clause><cl.clause xml:id="NT.2Pet.1_c61" level="embedded" structure="conj-S-P-A"><pl.conj><w xlink:href="NT.2Pet.w351"/></pl.conj><cl.S><w xlink:href="NT.2Pet.w352"/></cl.S><cl.P><w xlink:href="NT.2Pet.w353"/></cl.P><cl.A><w xlink:href="NT.2Pet.w354"/><w xlink:href="NT.2Pet.w355"/><w xlink:href="NT.2Pet.w356"/><w xlink:href="NT.2Pet.w357"/></cl.A></cl.clause></cl.A><cl.A><cl.clause xml:id="NT.2Pet.1_c62" level="embedded" structure="C-A-P"><cl.C><w xlink:href="NT.2Pet.w358"/></cl.C><cl.A><w xlink:href="NT.2Pet.w359"/></cl.A><cl.P><w xlink:href="NT.2Pet.w360"/></cl.P></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.2Pet.1_c63" level="secondary2" connect="NT.2Pet.1_c57" structure="conj-S-A-A-P"><pl.conj><w xlink:href="NT.2Pet.w361"/></pl.conj><cl.S><w xlink:href="NT.2Pet.w362"/><w xlink:href="NT.2Pet.w363"/><w xlink:href="NT.2Pet.w364"/></cl.S><cl.A><w xlink:href="NT.2Pet.w365"/><w xlink:href="NT.2Pet.w366"/></cl.A><cl.A><w xlink:href="NT.2Pet.w367"/></cl.A><cl.P><w xlink:href="NT.2Pet.w368"/></cl.P></cl.clause><cl.clause xml:id="NT.2Pet.1_c64" level="secondary" connect="NT.2Pet.1_c63" structure="A-conj-A-P-S-A"><cl.A><w xlink:href="NT.2Pet.w369"/></cl.A><pl.conj><w xlink:href="NT.2Pet.w370"/></pl.conj><cl.A><w xlink:href="NT.2Pet.w371"/><w xlink:href="NT.2Pet.w372"/></cl.A><cl.P><w xlink:href="NT.2Pet.w373"/></cl.P><cl.S><w xlink:href="NT.2Pet.w374"/></cl.S><cl.A><w xlink:href="NT.2Pet.w375"/></cl.A></cl.clause><cl.clause xml:id="NT.2Pet.1_c65" level="secondary" connect="NT.2Pet.1_c64" structure="conj-A-P-A-S"><pl.conj><w xlink:href="NT.2Pet.w376"/></pl.conj><cl.A><cl.clause xml:id="NT.2Pet.1_c66" level="embedded" structure="A-P"><cl.A><w xlink:href="NT.2Pet.w377"/><w xlink:href="NT.2Pet.w378"/><w xlink:href="NT.2Pet.w379"/></cl.A><cl.P><w xlink:href="NT.2Pet.w380"/></cl.P></cl.clause></cl.A><cl.P><w xlink:href="NT.2Pet.w381"/></cl.P><cl.A><w xlink:href="NT.2Pet.w382"/><w xlink:href="NT.2Pet.w383"/></cl.A><cl.S><w xlink:href="NT.2Pet.w384"/></cl.S></cl.clause></chapter>
+		-->
+<chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="2Pet" num="1">
+  <cl.clause xml:id="NT.2Pet.1_c1" level="primary" structure="S-C">
+    <cl.S>
+      <w xlink:href="NT.2Pet.w1"/>
+      <w xlink:href="NT.2Pet.w2"/>
+      <w xlink:href="NT.2Pet.w3"/>
+      <w xlink:href="NT.2Pet.w4"/>
+      <w xlink:href="NT.2Pet.w5"/>
+      <w xlink:href="NT.2Pet.w6"/>
+      <w xlink:href="NT.2Pet.w7"/>
+    </cl.S>
+    <cl.C>
+      <cl.clause xml:id="NT.2Pet.1_c2" level="embedded" structure="P-(C)-A">
+        <cl.P>
+          <w xlink:href="NT.2Pet.w8"/>
+          <cl.C type="embed" parent="NT.2Pet.1_c2">
+            <w xlink:href="NT.2Pet.w9"/>
+            <w xlink:href="NT.2Pet.w10"/>
+            <w xlink:href="NT.2Pet.w12"/>
+          </cl.C>
+          <w xlink:href="NT.2Pet.w11"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.2Pet.w13"/>
+          <w xlink:href="NT.2Pet.w14"/>
+          <w xlink:href="NT.2Pet.w15"/>
+          <w xlink:href="NT.2Pet.w16"/>
+          <w xlink:href="NT.2Pet.w17"/>
+          <w xlink:href="NT.2Pet.w18"/>
+          <w xlink:href="NT.2Pet.w19"/>
+          <w xlink:href="NT.2Pet.w20"/>
+          <w xlink:href="NT.2Pet.w21"/>
+        </cl.A>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c3" level="primary" connect="NT.2Pet.1_c1" structure="S-(C)-P-A">
+    <cl.S>
+      <w xlink:href="NT.2Pet.w22"/>
+      <cl.C type="embed" parent="NT.2Pet.1_c3">
+        <w xlink:href="NT.2Pet.w23"/>
+      </cl.C>
+      <w xlink:href="NT.2Pet.w24"/>
+      <w xlink:href="NT.2Pet.w25"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w26"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w27"/>
+      <w xlink:href="NT.2Pet.w28"/>
+      <w xlink:href="NT.2Pet.w29"/>
+      <w xlink:href="NT.2Pet.w30"/>
+      <w xlink:href="NT.2Pet.w31"/>
+      <w xlink:href="NT.2Pet.w32"/>
+      <w xlink:href="NT.2Pet.w33"/>
+      <w xlink:href="NT.2Pet.w34"/>
+      <w xlink:href="NT.2Pet.w35"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c4" level="secondary" connect="NT.2Pet.1_c3" structure="conj-C-(C)-(S)-P-A">
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w36"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.2Pet.w37"/>
+      <cl.C type="embed" parent="NT.2Pet.1_c4">
+        <w xlink:href="NT.2Pet.w38"/>
+      </cl.C>
+      <cl.S type="embed" parent="NT.2Pet.1_c4">
+        <w xlink:href="NT.2Pet.w39"/>
+        <w xlink:href="NT.2Pet.w40"/>
+        <w xlink:href="NT.2Pet.w41"/>
+        <w xlink:href="NT.2Pet.w42"/>
+      </cl.S>
+      <w xlink:href="NT.2Pet.w43"/>
+      <w xlink:href="NT.2Pet.w44"/>
+      <w xlink:href="NT.2Pet.w45"/>
+      <w xlink:href="NT.2Pet.w46"/>
+      <w xlink:href="NT.2Pet.w47"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w48"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w49"/>
+      <w xlink:href="NT.2Pet.w50"/>
+      <w xlink:href="NT.2Pet.w51"/>
+      <cl.clause xml:id="NT.2Pet.1_c5" level="embedded" structure="P-C-A">
+        <cl.P>
+          <w xlink:href="NT.2Pet.w52"/>
+          <w xlink:href="NT.2Pet.w53"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.2Pet.w54"/>
+        </cl.C>
+        <cl.A>
+          <w xlink:href="NT.2Pet.w55"/>
+          <w xlink:href="NT.2Pet.w56"/>
+          <w xlink:href="NT.2Pet.w57"/>
+          <w xlink:href="NT.2Pet.w58"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c6" level="secondary2" connect="NT.2Pet.1_c4" structure="A-S-(C)-P">
+    <cl.A>
+      <w xlink:href="NT.2Pet.w59"/>
+      <w xlink:href="NT.2Pet.w60"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.2Pet.w61"/>
+      <w xlink:href="NT.2Pet.w62"/>
+      <w xlink:href="NT.2Pet.w63"/>
+      <w xlink:href="NT.2Pet.w64"/>
+      <cl.C type="embed" parent="NT.2Pet.1_c6">
+        <w xlink:href="NT.2Pet.w65"/>
+      </cl.C>
+      <w xlink:href="NT.2Pet.w66"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w67"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c7" level="secondary2" connect="NT.2Pet.1_c6" structure="conj-A-P-C-A">
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w68"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w69"/>
+      <w xlink:href="NT.2Pet.w70"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w71"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.2Pet.w72"/>
+      <w xlink:href="NT.2Pet.w73"/>
+      <w xlink:href="NT.2Pet.w74"/>
+    </cl.C>
+    <cl.A>
+      <cl.clause xml:id="NT.2Pet.1_c8" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.2Pet.w75"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.2Pet.w76"/>
+          <w xlink:href="NT.2Pet.w77"/>
+          <w xlink:href="NT.2Pet.w78"/>
+          <w xlink:href="NT.2Pet.w79"/>
+          <w xlink:href="NT.2Pet.w80"/>
+          <w xlink:href="NT.2Pet.w81"/>
+          <w xlink:href="NT.2Pet.w82"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c9" level="primary" connect="NT.2Pet.1_c3" structure="conj-A-conj-A-P-A-C">
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w83"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w84"/>
+      <w xlink:href="NT.2Pet.w85"/>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w86"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.2Pet.1_c10" level="embedded" structure="C-P">
+        <cl.C>
+          <w xlink:href="NT.2Pet.w87"/>
+          <w xlink:href="NT.2Pet.w88"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w89"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w90"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w91"/>
+      <w xlink:href="NT.2Pet.w92"/>
+      <w xlink:href="NT.2Pet.w93"/>
+      <w xlink:href="NT.2Pet.w94"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.2Pet.w95"/>
+      <w xlink:href="NT.2Pet.w96"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c11" level="primary" connect="NT.2Pet.1_c9" structure="A-(conj)-C">
+    <cl.A>
+      <w xlink:href="NT.2Pet.w97"/>
+      <pl.conj type="embed" parent="NT.2Pet.1_c11">
+        <w xlink:href="NT.2Pet.w98"/>
+      </pl.conj>
+      <w xlink:href="NT.2Pet.w99"/>
+      <w xlink:href="NT.2Pet.w100"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.2Pet.w101"/>
+      <w xlink:href="NT.2Pet.w102"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c12" level="primary" connect="NT.2Pet.1_c11" structure="A-(conj)-C">
+    <cl.A>
+      <w xlink:href="NT.2Pet.w103"/>
+      <pl.conj type="embed" parent="NT.2Pet.1_c12">
+        <w xlink:href="NT.2Pet.w104"/>
+      </pl.conj>
+      <w xlink:href="NT.2Pet.w105"/>
+      <w xlink:href="NT.2Pet.w106"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.2Pet.w107"/>
+      <w xlink:href="NT.2Pet.w108"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c13" level="primary" connect="NT.2Pet.1_c12" structure="A-(conj)-C">
+    <cl.A>
+      <w xlink:href="NT.2Pet.w109"/>
+      <pl.conj type="embed" parent="NT.2Pet.1_c13">
+        <w xlink:href="NT.2Pet.w110"/>
+      </pl.conj>
+      <w xlink:href="NT.2Pet.w111"/>
+      <w xlink:href="NT.2Pet.w112"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.2Pet.w113"/>
+      <w xlink:href="NT.2Pet.w114"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c14" level="primary" connect="NT.2Pet.1_c13" structure="A-(conj)-C">
+    <cl.A>
+      <w xlink:href="NT.2Pet.w115"/>
+      <pl.conj type="embed" parent="NT.2Pet.1_c14">
+        <w xlink:href="NT.2Pet.w116"/>
+      </pl.conj>
+      <w xlink:href="NT.2Pet.w117"/>
+      <w xlink:href="NT.2Pet.w118"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.2Pet.w119"/>
+      <w xlink:href="NT.2Pet.w120"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c15" level="primary" connect="NT.2Pet.1_c14" structure="A-(conj)-C">
+    <cl.A>
+      <w xlink:href="NT.2Pet.w121"/>
+      <pl.conj type="embed" parent="NT.2Pet.1_c15">
+        <w xlink:href="NT.2Pet.w122"/>
+      </pl.conj>
+      <w xlink:href="NT.2Pet.w123"/>
+      <w xlink:href="NT.2Pet.w124"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.2Pet.w125"/>
+      <w xlink:href="NT.2Pet.w126"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c16" level="primary" connect="NT.2Pet.1_c15" structure="A-(conj)-C">
+    <cl.A>
+      <w xlink:href="NT.2Pet.w127"/>
+      <pl.conj type="embed" parent="NT.2Pet.1_c16">
+        <w xlink:href="NT.2Pet.w128"/>
+      </pl.conj>
+      <w xlink:href="NT.2Pet.w129"/>
+      <w xlink:href="NT.2Pet.w130"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.2Pet.w131"/>
+      <w xlink:href="NT.2Pet.w132"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c17" level="primary" connect="NT.2Pet.1_c16" structure="A-(conj)-A-C-P-A">
+    <cl.A>
+      <cl.clause xml:id="NT.2Pet.1_c18" level="embedded" structure="S-A-P">
+        <cl.S>
+          <w xlink:href="NT.2Pet.w133"/>
+        </cl.S>
+        <cl.A>
+          <w xlink:href="NT.2Pet.w135"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w136"/>
+        </cl.P>
+      </cl.clause>
+      <pl.conj type="embed" parent="NT.2Pet.1_c17">
+        <w xlink:href="NT.2Pet.w134"/>
+      </pl.conj>
+      <cl.clause xml:id="NT.2Pet.1_c19" level="embedded" structure="conj-P">
+        <pl.conj>
+          <w xlink:href="NT.2Pet.w137"/>
+        </pl.conj>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w138"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w139"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.2Pet.w140"/>
+      <w xlink:href="NT.2Pet.w141"/>
+      <w xlink:href="NT.2Pet.w142"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w143"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w144"/>
+      <w xlink:href="NT.2Pet.w145"/>
+      <w xlink:href="NT.2Pet.w146"/>
+      <w xlink:href="NT.2Pet.w147"/>
+      <w xlink:href="NT.2Pet.w148"/>
+      <w xlink:href="NT.2Pet.w149"/>
+      <w xlink:href="NT.2Pet.w150"/>
+      <w xlink:href="NT.2Pet.w151"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c20" level="primary" connect="NT.2Pet.1_c17" structure="S-(conj)-C-P-A-A">
+    <cl.S>
+      <cl.clause xml:id="NT.2Pet.1_c21" level="embedded" structure="A-A-P-S">
+        <cl.A>
+          <w xlink:href="NT.2Pet.w152"/>
+        </cl.A>
+        <cl.A>
+          <w xlink:href="NT.2Pet.w154"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w155"/>
+        </cl.P>
+        <cl.S>
+          <w xlink:href="NT.2Pet.w156"/>
+        </cl.S>
+      </cl.clause>
+      <pl.conj type="embed" parent="NT.2Pet.1_c20">
+        <w xlink:href="NT.2Pet.w153"/>
+      </pl.conj>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.2Pet.w157"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w158"/>
+    </cl.P>
+    <cl.A>
+      <cl.clause xml:id="NT.2Pet.1_c22" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.2Pet.w159"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.2Pet.1_c23" level="embedded" structure="C-(P)">
+        <cl.C>
+          <w xlink:href="NT.2Pet.w160"/>
+          <cl.P type="embed" parent="NT.2Pet.1_c23">
+            <w xlink:href="NT.2Pet.w161"/>
+          </cl.P>
+          <w xlink:href="NT.2Pet.w162"/>
+          <w xlink:href="NT.2Pet.w163"/>
+          <w xlink:href="NT.2Pet.w164"/>
+          <w xlink:href="NT.2Pet.w165"/>
+          <w xlink:href="NT.2Pet.w166"/>
+          <w xlink:href="NT.2Pet.w167"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c24" level="primary" connect="NT.2Pet.1_c20" structure="conj-A-add-P-C">
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w168"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w169"/>
+    </cl.A>
+    <cl.add>
+      <w xlink:href="NT.2Pet.w170"/>
+    </cl.add>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w171"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.2Pet.1_c25" level="embedded" structure="C-C-P">
+        <cl.C>
+          <w xlink:href="NT.2Pet.w172"/>
+        </cl.C>
+        <cl.C>
+          <w xlink:href="NT.2Pet.w173"/>
+          <w xlink:href="NT.2Pet.w174"/>
+          <w xlink:href="NT.2Pet.w175"/>
+          <w xlink:href="NT.2Pet.w176"/>
+          <w xlink:href="NT.2Pet.w177"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w178"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c26" level="primary" connect="NT.2Pet.1_c24" structure="A-(conj)-A-P-A">
+    <cl.A>
+      <cl.clause xml:id="NT.2Pet.1_c27" level="embedded" structure="C-P">
+        <cl.C>
+          <w xlink:href="NT.2Pet.w179"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w181"/>
+        </cl.P>
+      </cl.clause>
+      <pl.conj type="embed" parent="NT.2Pet.1_c26">
+        <w xlink:href="NT.2Pet.w180"/>
+      </pl.conj>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w182"/>
+      <w xlink:href="NT.2Pet.w183"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w184"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w185"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c28" level="primary" connect="NT.2Pet.1_c26" structure="A-conj-A-P-C-S">
+    <cl.A>
+      <w xlink:href="NT.2Pet.w186"/>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w187"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w188"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w189"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.2Pet.w190"/>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.2Pet.w191"/>
+      <w xlink:href="NT.2Pet.w192"/>
+      <w xlink:href="NT.2Pet.w193"/>
+      <w xlink:href="NT.2Pet.w194"/>
+      <w xlink:href="NT.2Pet.w195"/>
+      <w xlink:href="NT.2Pet.w196"/>
+      <w xlink:href="NT.2Pet.w197"/>
+      <w xlink:href="NT.2Pet.w198"/>
+      <w xlink:href="NT.2Pet.w199"/>
+      <w xlink:href="NT.2Pet.w200"/>
+      <w xlink:href="NT.2Pet.w201"/>
+      <w xlink:href="NT.2Pet.w202"/>
+      <w xlink:href="NT.2Pet.w203"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c29" level="primary" connect="NT.2Pet.1_c28" structure="conj-P-C">
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w204"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w205"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.2Pet.1_c30" level="embedded" structure="A-C-P-A">
+        <cl.A>
+          <w xlink:href="NT.2Pet.w206"/>
+        </cl.A>
+        <cl.C>
+          <w xlink:href="NT.2Pet.w207"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w208"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.2Pet.w209"/>
+          <w xlink:href="NT.2Pet.w210"/>
+        </cl.A>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c31" level="secondary" connect="NT.2Pet.1_c29" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w211"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w212"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c32" level="secondary" connect="NT.2Pet.1_c31" structure="conj-P-A">
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w213"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w214"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w215"/>
+      <w xlink:href="NT.2Pet.w216"/>
+      <cl.clause xml:id="NT.2Pet.1_c33" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.2Pet.w217"/>
+        </cl.P>
+      </cl.clause>
+      <w xlink:href="NT.2Pet.w218"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c34" level="primary" connect="NT.2Pet.1_c29" structure="C-conj-P-C-A">
+    <cl.C>
+      <w xlink:href="NT.2Pet.w219"/>
+    </cl.C>
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w220"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w221"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.2Pet.1_c35" level="embedded" structure="A-P-C-A">
+        <cl.A>
+          <cl.clause xml:id="NT.2Pet.1_c36" level="embedded" structure="A-P-A">
+            <cl.A>
+              <w xlink:href="NT.2Pet.w222"/>
+              <w xlink:href="NT.2Pet.w223"/>
+            </cl.A>
+            <cl.P>
+              <w xlink:href="NT.2Pet.w224"/>
+            </cl.P>
+            <cl.A>
+              <w xlink:href="NT.2Pet.w225"/>
+              <w xlink:href="NT.2Pet.w226"/>
+              <w xlink:href="NT.2Pet.w227"/>
+              <w xlink:href="NT.2Pet.w228"/>
+            </cl.A>
+          </cl.clause>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w229"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.2Pet.w230"/>
+        </cl.C>
+        <cl.A>
+          <w xlink:href="NT.2Pet.w231"/>
+          <w xlink:href="NT.2Pet.w232"/>
+        </cl.A>
+      </cl.clause>
+    </cl.C>
+    <cl.A>
+      <cl.clause xml:id="NT.2Pet.1_c37" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.2Pet.w233"/>
+        </cl.P>
+      </cl.clause>
+      <cl.clause xml:id="NT.2Pet.1_c38" level="embedded" structure="conj-C-P-S">
+        <pl.conj>
+          <w xlink:href="NT.2Pet.w234"/>
+        </pl.conj>
+        <cl.C>
+          <w xlink:href="NT.2Pet.w235"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w236"/>
+        </cl.P>
+        <cl.S>
+          <w xlink:href="NT.2Pet.w237"/>
+          <w xlink:href="NT.2Pet.w238"/>
+          <w xlink:href="NT.2Pet.w239"/>
+          <w xlink:href="NT.2Pet.w240"/>
+          <w xlink:href="NT.2Pet.w241"/>
+        </cl.S>
+      </cl.clause>
+      <cl.clause xml:id="NT.2Pet.1_c39" level="embedded" structure="conj-conj-S-P-C">
+        <pl.conj>
+          <w xlink:href="NT.2Pet.w242"/>
+        </pl.conj>
+        <pl.conj>
+          <w xlink:href="NT.2Pet.w243"/>
+        </pl.conj>
+        <cl.S>
+          <w xlink:href="NT.2Pet.w244"/>
+          <w xlink:href="NT.2Pet.w245"/>
+          <w xlink:href="NT.2Pet.w246"/>
+          <w xlink:href="NT.2Pet.w247"/>
+          <w xlink:href="NT.2Pet.w248"/>
+        </cl.S>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w249"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.2Pet.w250"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c40" level="primary" connect="NT.2Pet.1_c34" structure="P-conj-conj-C">
+    <cl.P>
+      <w xlink:href="NT.2Pet.w251"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w252"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w253"/>
+    </pl.conj>
+    <cl.C>
+      <cl.clause xml:id="NT.2Pet.1_c41" level="embedded" structure="C-(P)">
+        <cl.C>
+          <cl.clause xml:id="NT.2Pet.1_c42" level="embedded" structure="A-S-A-C-P">
+            <cl.A>
+              <w xlink:href="NT.2Pet.w254"/>
+            </cl.A>
+            <cl.S>
+              <w xlink:href="NT.2Pet.w256"/>
+            </cl.S>
+            <cl.A>
+              <w xlink:href="NT.2Pet.w257"/>
+              <w xlink:href="NT.2Pet.w258"/>
+              <w xlink:href="NT.2Pet.w259"/>
+              <w xlink:href="NT.2Pet.w260"/>
+            </cl.A>
+            <cl.C>
+              <w xlink:href="NT.2Pet.w261"/>
+              <w xlink:href="NT.2Pet.w262"/>
+              <w xlink:href="NT.2Pet.w263"/>
+            </cl.C>
+            <cl.P>
+              <w xlink:href="NT.2Pet.w264"/>
+            </cl.P>
+          </cl.clause>
+          <cl.P type="embed" parent="NT.2Pet.1_c41">
+            <w xlink:href="NT.2Pet.w255"/>
+          </cl.P>
+        </cl.C>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c43" level="primary" connect="NT.2Pet.1_c40" structure="A-conj-A-P-C-C">
+    <cl.A>
+      <w xlink:href="NT.2Pet.w265"/>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w266"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.2Pet.1_c44" level="embedded" structure="C-P">
+        <cl.C>
+          <cl.clause xml:id="NT.2Pet.1_c45" level="embedded" structure="P">
+            <cl.P>
+              <w xlink:href="NT.2Pet.w267"/>
+            </cl.P>
+          </cl.clause>
+          <w xlink:href="NT.2Pet.w268"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w269"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w270"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.2Pet.w271"/>
+    </cl.C>
+    <cl.C>
+      <w xlink:href="NT.2Pet.w272"/>
+      <w xlink:href="NT.2Pet.w273"/>
+      <w xlink:href="NT.2Pet.w274"/>
+      <w xlink:href="NT.2Pet.w275"/>
+      <w xlink:href="NT.2Pet.w276"/>
+      <w xlink:href="NT.2Pet.w277"/>
+      <w xlink:href="NT.2Pet.w278"/>
+      <w xlink:href="NT.2Pet.w279"/>
+      <w xlink:href="NT.2Pet.w280"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c46" level="primary" connect="NT.2Pet.1_c43" structure="conj-C">
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w281"/>
+    </pl.conj>
+    <cl.C>
+      <cl.clause xml:id="NT.2Pet.1_c47" level="embedded" structure="C-(P)">
+        <cl.C>
+          <w xlink:href="NT.2Pet.w282"/>
+          <cl.P type="embed" parent="NT.2Pet.1_c47">
+            <w xlink:href="NT.2Pet.w283"/>
+          </cl.P>
+          <w xlink:href="NT.2Pet.w284"/>
+          <w xlink:href="NT.2Pet.w285"/>
+          <w xlink:href="NT.2Pet.w286"/>
+        </cl.C>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c48" level="primary" connect="NT.2Pet.1_c46" structure="C-(conj)">
+    <cl.C>
+      <cl.clause xml:id="NT.2Pet.1_c49" level="embedded" structure="P-A-C">
+        <cl.P>
+          <w xlink:href="NT.2Pet.w287"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.2Pet.w289"/>
+          <w xlink:href="NT.2Pet.w290"/>
+          <w xlink:href="NT.2Pet.w291"/>
+        </cl.A>
+        <cl.C>
+          <w xlink:href="NT.2Pet.w292"/>
+          <w xlink:href="NT.2Pet.w293"/>
+          <w xlink:href="NT.2Pet.w294"/>
+        </cl.C>
+      </cl.clause>
+      <pl.conj type="embed" parent="NT.2Pet.1_c48">
+        <w xlink:href="NT.2Pet.w288"/>
+      </pl.conj>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c50" level="secondary" connect="NT.2Pet.1_c48" structure="S-(P)-(C)-A">
+    <cl.S>
+      <w xlink:href="NT.2Pet.w295"/>
+      <cl.P type="embed" parent="NT.2Pet.1_c50">
+        <w xlink:href="NT.2Pet.w296"/>
+      </cl.P>
+      <cl.C type="embed" parent="NT.2Pet.1_c50">
+        <w xlink:href="NT.2Pet.w297"/>
+      </cl.C>
+      <w xlink:href="NT.2Pet.w298"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w299"/>
+      <w xlink:href="NT.2Pet.w300"/>
+      <w xlink:href="NT.2Pet.w301"/>
+      <w xlink:href="NT.2Pet.w302"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c51" level="secondary" projected="yes" connect="NT.2Pet.1_c50" structure="C-S-P">
+    <cl.C>
+      <w xlink:href="NT.2Pet.w303"/>
+      <w xlink:href="NT.2Pet.w304"/>
+      <w xlink:href="NT.2Pet.w305"/>
+      <w xlink:href="NT.2Pet.w306"/>
+      <w xlink:href="NT.2Pet.w307"/>
+      <w xlink:href="NT.2Pet.w308"/>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.2Pet.w309"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w310"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c52" level="secondary2" projected="yes" connect="NT.2Pet.1_c51" structure="A-S-P">
+    <cl.A>
+      <w xlink:href="NT.2Pet.w311"/>
+      <w xlink:href="NT.2Pet.w312"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.2Pet.w313"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w314"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c53" level="primary" connect="NT.2Pet.1_c48" structure="conj-C-(S)-(P)-A">
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w315"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.2Pet.w316"/>
+      <w xlink:href="NT.2Pet.w317"/>
+      <w xlink:href="NT.2Pet.w318"/>
+      <cl.S type="embed" parent="NT.2Pet.1_c53">
+        <w xlink:href="NT.2Pet.w319"/>
+      </cl.S>
+      <cl.P type="embed" parent="NT.2Pet.1_c53">
+        <w xlink:href="NT.2Pet.w320"/>
+      </cl.P>
+      <cl.clause xml:id="NT.2Pet.1_c54" level="embedded" structure="A-P">
+        <cl.A>
+          <w xlink:href="NT.2Pet.w321"/>
+          <w xlink:href="NT.2Pet.w322"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w323"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+    <cl.A>
+      <cl.clause xml:id="NT.2Pet.1_c55" level="embedded" structure="A-P-A">
+        <cl.A>
+          <w xlink:href="NT.2Pet.w324"/>
+          <w xlink:href="NT.2Pet.w325"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w326"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.2Pet.w327"/>
+          <w xlink:href="NT.2Pet.w328"/>
+          <w xlink:href="NT.2Pet.w329"/>
+          <w xlink:href="NT.2Pet.w330"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c56" level="primary" connect="NT.2Pet.1_c53" structure="conj-P-A-C">
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w331"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w332"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w333"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.2Pet.w334"/>
+      <w xlink:href="NT.2Pet.w335"/>
+      <w xlink:href="NT.2Pet.w336"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c57" level="secondary" connect="NT.2Pet.1_c56" structure="A-(A)-(P)-A">
+    <cl.A>
+      <cl.clause xml:id="NT.2Pet.1_c58" level="embedded" structure="C-P-A">
+        <cl.C>
+          <w xlink:href="NT.2Pet.w337"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w340"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.2Pet.w341"/>
+          <w xlink:href="NT.2Pet.w342"/>
+          <cl.clause xml:id="NT.2Pet.1_c59" level="embedded" structure="P-A">
+            <cl.P>
+              <w xlink:href="NT.2Pet.w343"/>
+            </cl.P>
+            <cl.A>
+              <w xlink:href="NT.2Pet.w344"/>
+              <w xlink:href="NT.2Pet.w345"/>
+              <w xlink:href="NT.2Pet.w346"/>
+            </cl.A>
+          </cl.clause>
+        </cl.A>
+      </cl.clause>
+      <cl.A type="embed" parent="NT.2Pet.1_c57">
+        <w xlink:href="NT.2Pet.w338"/>
+      </cl.A>
+      <cl.P type="embed" parent="NT.2Pet.1_c57">
+        <w xlink:href="NT.2Pet.w339"/>
+      </cl.P>
+      <cl.clause xml:id="NT.2Pet.1_c60" level="embedded" structure="A-S-P">
+        <cl.A>
+          <w xlink:href="NT.2Pet.w347"/>
+          <w xlink:href="NT.2Pet.w348"/>
+        </cl.A>
+        <cl.S>
+          <w xlink:href="NT.2Pet.w349"/>
+        </cl.S>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w350"/>
+        </cl.P>
+      </cl.clause>
+      <cl.clause xml:id="NT.2Pet.1_c61" level="embedded" structure="conj-S-P-A">
+        <pl.conj>
+          <w xlink:href="NT.2Pet.w351"/>
+        </pl.conj>
+        <cl.S>
+          <w xlink:href="NT.2Pet.w352"/>
+        </cl.S>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w353"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.2Pet.w354"/>
+          <w xlink:href="NT.2Pet.w355"/>
+          <w xlink:href="NT.2Pet.w356"/>
+          <w xlink:href="NT.2Pet.w357"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.2Pet.1_c62" level="embedded" structure="C-A-P">
+        <cl.C>
+          <w xlink:href="NT.2Pet.w358"/>
+        </cl.C>
+        <cl.A>
+          <w xlink:href="NT.2Pet.w359"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w360"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c63" level="secondary2" connect="NT.2Pet.1_c57" structure="conj-S-A-A-P">
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w361"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.2Pet.w362"/>
+      <w xlink:href="NT.2Pet.w363"/>
+      <w xlink:href="NT.2Pet.w364"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w365"/>
+      <w xlink:href="NT.2Pet.w366"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w367"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w368"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c64" level="secondary" connect="NT.2Pet.1_c63" structure="A-conj-A-P-S-A">
+    <cl.A>
+      <w xlink:href="NT.2Pet.w369"/>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w370"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w371"/>
+      <w xlink:href="NT.2Pet.w372"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w373"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.2Pet.w374"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w375"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.2Pet.1_c65" level="secondary" connect="NT.2Pet.1_c64" structure="conj-A-P-A-S">
+    <pl.conj>
+      <w xlink:href="NT.2Pet.w376"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.2Pet.1_c66" level="embedded" structure="A-P">
+        <cl.A>
+          <w xlink:href="NT.2Pet.w377"/>
+          <w xlink:href="NT.2Pet.w378"/>
+          <w xlink:href="NT.2Pet.w379"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.2Pet.w380"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.2Pet.w381"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.2Pet.w382"/>
+      <w xlink:href="NT.2Pet.w383"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.2Pet.w384"/>
+    </cl.S>
+  </cl.clause>
+</chapter>

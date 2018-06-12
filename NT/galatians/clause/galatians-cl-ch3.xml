@@ -14,4 +14,1271 @@ Copyright (c) 2005-6 OpenText.org
 
 contact: matt@opentext.org
 =================================================		
-		--><chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Gal" num="3"><cl.clause xml:id="NT.Gal.3_c1" level="primary" structure="add-S-C-P"><cl.add><w xlink:href="NT.Gal.w751"/><w xlink:href="NT.Gal.w752"/><w xlink:href="NT.Gal.w753"/></cl.add><cl.S><w xlink:href="NT.Gal.w754"/></cl.S><cl.C><w xlink:href="NT.Gal.w755"/></cl.C><cl.P><w xlink:href="NT.Gal.w756"/></cl.P></cl.clause><cl.clause xml:id="NT.Gal.3_c2" level="secondary" connect="NT.Gal.3_c1" structure="C-A-S-(P)"><cl.C><w xlink:href="NT.Gal.w757"/></cl.C><cl.A><w xlink:href="NT.Gal.w758"/><w xlink:href="NT.Gal.w759"/></cl.A><cl.S><w xlink:href="NT.Gal.w760"/><w xlink:href="NT.Gal.w761"/><cl.P type="embed" parent="NT.Gal.3_c2"><w xlink:href="NT.Gal.w762"/></cl.P><cl.clause xml:id="NT.Gal.3_c3" level="embedded" structure="P"><cl.P><w xlink:href="NT.Gal.w763"/></cl.P></cl.clause></cl.S></cl.clause><cl.clause xml:id="NT.Gal.3_c4" level="primary" connect="NT.Gal.3_c1" structure="C-(A)-(P)"><cl.C><cl.clause xml:id="NT.Gal.3_c5" level="embedded" structure="C-P-A"><cl.C><w xlink:href="NT.Gal.w764"/></cl.C><cl.P><w xlink:href="NT.Gal.w767"/></cl.P><cl.A><w xlink:href="NT.Gal.w768"/><w xlink:href="NT.Gal.w769"/></cl.A></cl.clause><cl.A type="embed" parent="NT.Gal.3_c4"><w xlink:href="NT.Gal.w765"/></cl.A><cl.P type="embed" parent="NT.Gal.3_c4"><w xlink:href="NT.Gal.w766"/></cl.P></cl.C></cl.clause><cl.clause xml:id="NT.Gal.3_c6" level="primary" connect="NT.Gal.3_c4" structure="A-C-P-A"><cl.A><w xlink:href="NT.Gal.w770"/><w xlink:href="NT.Gal.w771"/><w xlink:href="NT.Gal.w772"/></cl.A><cl.C><w xlink:href="NT.Gal.w773"/><w xlink:href="NT.Gal.w774"/></cl.C><cl.P><w xlink:href="NT.Gal.w775"/></cl.P><cl.A><w xlink:href="NT.Gal.w776"/><w xlink:href="NT.Gal.w777"/><w xlink:href="NT.Gal.w778"/><w xlink:href="NT.Gal.w779"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c7" level="primary" connect="NT.Gal.3_c6" structure="A-C-P"><cl.A><w xlink:href="NT.Gal.w780"/></cl.A><cl.C><w xlink:href="NT.Gal.w781"/></cl.C><cl.P><w xlink:href="NT.Gal.w782"/></cl.P></cl.clause><cl.clause xml:id="NT.Gal.3_c8" level="primary" connect="NT.Gal.3_c7" structure="A-A-A-P"><cl.A><cl.clause xml:id="NT.Gal.3_c9" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Gal.w783"/></cl.P><cl.A><w xlink:href="NT.Gal.w784"/></cl.A></cl.clause></cl.A><cl.A><w xlink:href="NT.Gal.w785"/></cl.A><cl.A><w xlink:href="NT.Gal.w786"/></cl.A><cl.P><w xlink:href="NT.Gal.w787"/></cl.P></cl.clause><cl.clause xml:id="NT.Gal.3_c10" level="primary" connect="NT.Gal.3_c8" structure="C-P-A"><cl.C><w xlink:href="NT.Gal.w788"/></cl.C><cl.P><w xlink:href="NT.Gal.w789"/></cl.P><cl.A><w xlink:href="NT.Gal.w790"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c11" level="secondary" connect="NT.Gal.3_c10" structure="conj-conj-A"><pl.conj><w xlink:href="NT.Gal.w791"/><w xlink:href="NT.Gal.w792"/></pl.conj><pl.conj><w xlink:href="NT.Gal.w793"/></pl.conj><cl.A><w xlink:href="NT.Gal.w794"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c12" level="primary" connect="NT.Gal.3_c10" structure="S-(conj)-A-A"><cl.S><cl.clause xml:id="NT.Gal.3_c13" level="embedded" structure="P-C-C"><cl.P><w xlink:href="NT.Gal.w795"/><w xlink:href="NT.Gal.w797"/></cl.P><cl.C><w xlink:href="NT.Gal.w798"/></cl.C><cl.C><w xlink:href="NT.Gal.w799"/><w xlink:href="NT.Gal.w800"/></cl.C></cl.clause><pl.conj type="embed" parent="NT.Gal.3_c12"><w xlink:href="NT.Gal.w796"/></pl.conj><cl.clause xml:id="NT.Gal.3_c14" level="embedded" structure="conj-P-C-A"><pl.conj><w xlink:href="NT.Gal.w801"/></pl.conj><cl.P><w xlink:href="NT.Gal.w802"/></cl.P><cl.C><w xlink:href="NT.Gal.w803"/></cl.C><cl.A><w xlink:href="NT.Gal.w804"/><w xlink:href="NT.Gal.w805"/></cl.A></cl.clause></cl.S><cl.A><w xlink:href="NT.Gal.w806"/><w xlink:href="NT.Gal.w807"/><w xlink:href="NT.Gal.w808"/></cl.A><cl.A><w xlink:href="NT.Gal.w809"/><w xlink:href="NT.Gal.w810"/><w xlink:href="NT.Gal.w811"/><w xlink:href="NT.Gal.w812"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c15" level="secondary" connect="NT.Gal.3_c12" structure="conj-S-P-C"><pl.conj><w xlink:href="NT.Gal.w813"/></pl.conj><cl.S><w xlink:href="NT.Gal.w814"/></cl.S><cl.P><w xlink:href="NT.Gal.w815"/></cl.P><cl.C><w xlink:href="NT.Gal.w816"/><w xlink:href="NT.Gal.w817"/></cl.C></cl.clause><cl.clause xml:id="NT.Gal.3_c16" level="secondary" connect="NT.Gal.3_c15" structure="conj-P-C-A"><pl.conj><w xlink:href="NT.Gal.w818"/></pl.conj><cl.P><w xlink:href="NT.Gal.w819"/></cl.P><cl.C><w xlink:href="NT.Gal.w820"/></cl.C><cl.A><w xlink:href="NT.Gal.w821"/><w xlink:href="NT.Gal.w822"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c17" level="primary" connect="NT.Gal.3_c12" structure="P-conj"><cl.P><w xlink:href="NT.Gal.w823"/></cl.P><pl.conj><w xlink:href="NT.Gal.w824"/></pl.conj></cl.clause><cl.clause xml:id="NT.Gal.3_c18" level="secondary" connect="NT.Gal.3_c17" structure="conj-S"><pl.conj><w xlink:href="NT.Gal.w825"/></pl.conj><cl.S><w xlink:href="NT.Gal.w826"/><w xlink:href="NT.Gal.w827"/><w xlink:href="NT.Gal.w828"/></cl.S></cl.clause><cl.clause xml:id="NT.Gal.3_c19" level="secondary" connect="NT.Gal.3_c18" structure="S-C-(P)"><cl.S><w xlink:href="NT.Gal.w829"/></cl.S><cl.C><w xlink:href="NT.Gal.w830"/><cl.P type="embed" parent="NT.Gal.3_c19"><w xlink:href="NT.Gal.w831"/></cl.P><w xlink:href="NT.Gal.w832"/></cl.C></cl.clause><cl.clause xml:id="NT.Gal.3_c20" level="primary" connect="NT.Gal.3_c17" structure="A-(conj)-(S)-P-C"><cl.A><cl.clause xml:id="NT.Gal.3_c21" level="embedded" structure="P"><cl.P><w xlink:href="NT.Gal.w833"/></cl.P></cl.clause><pl.conj type="embed" parent="NT.Gal.3_c20"><w xlink:href="NT.Gal.w834"/></pl.conj><cl.S type="embed" parent="NT.Gal.3_c20"><w xlink:href="NT.Gal.w835"/><w xlink:href="NT.Gal.w836"/></cl.S><cl.clause xml:id="NT.Gal.3_c22" level="embedded" structure="conj-A-P-C-S"><pl.conj><w xlink:href="NT.Gal.w837"/></pl.conj><cl.A><w xlink:href="NT.Gal.w838"/><w xlink:href="NT.Gal.w839"/></cl.A><cl.P><w xlink:href="NT.Gal.w840"/></cl.P><cl.C><w xlink:href="NT.Gal.w841"/><w xlink:href="NT.Gal.w842"/></cl.C><cl.S><w xlink:href="NT.Gal.w843"/><w xlink:href="NT.Gal.w844"/></cl.S></cl.clause></cl.A><cl.P><w xlink:href="NT.Gal.w845"/></cl.P><cl.C><w xlink:href="NT.Gal.w846"/><w xlink:href="NT.Gal.w847"/></cl.C></cl.clause><cl.clause xml:id="NT.Gal.3_c23" level="primary" projected="yes" connect="NT.Gal.3_c20" structure="conj-P-A-S"><pl.conj><w xlink:href="NT.Gal.w848"/></pl.conj><cl.P><w xlink:href="NT.Gal.w849"/></cl.P><cl.A><w xlink:href="NT.Gal.w850"/><w xlink:href="NT.Gal.w851"/></cl.A><cl.S><w xlink:href="NT.Gal.w852"/><w xlink:href="NT.Gal.w853"/><w xlink:href="NT.Gal.w854"/></cl.S></cl.clause><cl.clause xml:id="NT.Gal.3_c24" level="primary" connect="NT.Gal.3_c20" structure="conj-S-P-A"><pl.conj><w xlink:href="NT.Gal.w855"/></pl.conj><cl.S><w xlink:href="NT.Gal.w856"/><w xlink:href="NT.Gal.w857"/><w xlink:href="NT.Gal.w858"/></cl.S><cl.P><w xlink:href="NT.Gal.w859"/></cl.P><cl.A><w xlink:href="NT.Gal.w860"/><w xlink:href="NT.Gal.w861"/><w xlink:href="NT.Gal.w862"/><w xlink:href="NT.Gal.w863"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c25" level="primary" connect="NT.Gal.3_c24" structure="S-(conj)-A-P"><cl.S><cl.clause xml:id="NT.Gal.3_c26" level="embedded" structure="S-A-P"><cl.S><w xlink:href="NT.Gal.w864"/></cl.S><cl.A><w xlink:href="NT.Gal.w866"/><w xlink:href="NT.Gal.w867"/><w xlink:href="NT.Gal.w868"/></cl.A><cl.P><w xlink:href="NT.Gal.w869"/></cl.P></cl.clause><pl.conj type="embed" parent="NT.Gal.3_c25"><w xlink:href="NT.Gal.w865"/></pl.conj></cl.S><cl.A><w xlink:href="NT.Gal.w870"/><w xlink:href="NT.Gal.w871"/></cl.A><cl.P><w xlink:href="NT.Gal.w872"/></cl.P></cl.clause><cl.clause xml:id="NT.Gal.3_c27" level="primary" connect="NT.Gal.3_c25" structure="P-conj"><cl.P><w xlink:href="NT.Gal.w873"/></cl.P><pl.conj><w xlink:href="NT.Gal.w874"/></pl.conj></cl.clause><cl.clause xml:id="NT.Gal.3_c28" level="primary" projected="yes" connect="NT.Gal.3_c27" structure="conj-C-S"><pl.conj><w xlink:href="NT.Gal.w875"/></pl.conj><cl.C><w xlink:href="NT.Gal.w876"/></cl.C><cl.S><w xlink:href="NT.Gal.w877"/><cl.clause xml:id="NT.Gal.3_c29" level="embedded" structure="S-A-P-A-A"><cl.S><w xlink:href="NT.Gal.w878"/></cl.S><cl.A><w xlink:href="NT.Gal.w879"/></cl.A><cl.P><w xlink:href="NT.Gal.w880"/></cl.P><cl.A><cl.clause xml:id="NT.Gal.3_c30" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Gal.w881"/><w xlink:href="NT.Gal.w882"/><w xlink:href="NT.Gal.w883"/></cl.P><cl.A><w xlink:href="NT.Gal.w884"/><w xlink:href="NT.Gal.w885"/><w xlink:href="NT.Gal.w886"/><w xlink:href="NT.Gal.w887"/><w xlink:href="NT.Gal.w888"/></cl.A></cl.clause></cl.A><cl.A><cl.clause xml:id="NT.Gal.3_c31" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Gal.w889"/><w xlink:href="NT.Gal.w890"/></cl.P><cl.C><w xlink:href="NT.Gal.w891"/></cl.C></cl.clause></cl.A></cl.clause></cl.S></cl.clause><cl.clause xml:id="NT.Gal.3_c32" level="primary" connect="NT.Gal.3_c27" structure="S-C"><cl.S><cl.clause xml:id="NT.Gal.3_c33" level="embedded" structure="conj-conj-A-S-P-A"><pl.conj><w xlink:href="NT.Gal.w892"/></pl.conj><pl.conj><w xlink:href="NT.Gal.w893"/></pl.conj><cl.A><w xlink:href="NT.Gal.w894"/><w xlink:href="NT.Gal.w895"/></cl.A><cl.S><w xlink:href="NT.Gal.w896"/></cl.S><cl.P><w xlink:href="NT.Gal.w897"/></cl.P><cl.A><w xlink:href="NT.Gal.w898"/><w xlink:href="NT.Gal.w899"/><w xlink:href="NT.Gal.w900"/></cl.A></cl.clause></cl.S><cl.C><w xlink:href="NT.Gal.w901"/></cl.C></cl.clause><cl.clause xml:id="NT.Gal.3_c34" level="secondary" connect="NT.Gal.3_c32" structure="conj-S-A-P"><pl.conj><w xlink:href="NT.Gal.w902"/></pl.conj><cl.S><w xlink:href="NT.Gal.w903"/><w xlink:href="NT.Gal.w904"/></cl.S><cl.A><w xlink:href="NT.Gal.w905"/><w xlink:href="NT.Gal.w906"/></cl.A><cl.P><w xlink:href="NT.Gal.w907"/></cl.P></cl.clause><cl.clause xml:id="NT.Gal.3_c35" level="primary" connect="NT.Gal.3_c32" structure="S-(conj)-A-P-A"><cl.S><w xlink:href="NT.Gal.w908"/><pl.conj type="embed" parent="NT.Gal.3_c35"><w xlink:href="NT.Gal.w909"/></pl.conj><w xlink:href="NT.Gal.w910"/></cl.S><cl.A><w xlink:href="NT.Gal.w911"/></cl.A><cl.P><w xlink:href="NT.Gal.w912"/></cl.P><cl.A><w xlink:href="NT.Gal.w913"/><w xlink:href="NT.Gal.w914"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c36" level="primary" connect="NT.Gal.3_c35" structure="conj-S-P-A"><pl.conj><w xlink:href="NT.Gal.w915"/></pl.conj><cl.S><cl.clause xml:id="NT.Gal.3_c37" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Gal.w916"/><w xlink:href="NT.Gal.w917"/></cl.P><cl.C><w xlink:href="NT.Gal.w918"/></cl.C></cl.clause></cl.S><cl.P><w xlink:href="NT.Gal.w919"/></cl.P><cl.A><w xlink:href="NT.Gal.w920"/><w xlink:href="NT.Gal.w921"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c38" level="primary" connect="NT.Gal.3_c36" structure="S-C-P-A-A"><cl.S><w xlink:href="NT.Gal.w922"/></cl.S><cl.C><w xlink:href="NT.Gal.w923"/></cl.C><cl.P><w xlink:href="NT.Gal.w924"/></cl.P><cl.A><w xlink:href="NT.Gal.w925"/><w xlink:href="NT.Gal.w926"/><w xlink:href="NT.Gal.w927"/><w xlink:href="NT.Gal.w928"/><w xlink:href="NT.Gal.w929"/></cl.A><cl.A><cl.clause xml:id="NT.Gal.3_c39" level="embedded" structure="P-A-C"><cl.P><w xlink:href="NT.Gal.w930"/></cl.P><cl.A><w xlink:href="NT.Gal.w931"/><w xlink:href="NT.Gal.w932"/></cl.A><cl.C><w xlink:href="NT.Gal.w933"/></cl.C></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c40" level="secondary" connect="NT.Gal.3_c38" structure="conj-P"><pl.conj><w xlink:href="NT.Gal.w934"/></pl.conj><cl.P><w xlink:href="NT.Gal.w935"/></cl.P></cl.clause><cl.clause xml:id="NT.Gal.3_c41" level="secondary" projected="yes" connect="NT.Gal.3_c40" structure="C-S"><cl.C><w xlink:href="NT.Gal.w936"/></cl.C><cl.S><cl.clause xml:id="NT.Gal.3_c42" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Gal.w937"/><w xlink:href="NT.Gal.w938"/><w xlink:href="NT.Gal.w939"/></cl.P><cl.A><w xlink:href="NT.Gal.w940"/><w xlink:href="NT.Gal.w941"/></cl.A></cl.clause></cl.S></cl.clause><cl.clause xml:id="NT.Gal.3_c43" level="secondary" connect="NT.Gal.3_c38" structure="conj-A-S-P-A"><pl.conj><w xlink:href="NT.Gal.w942"/></pl.conj><cl.A><w xlink:href="NT.Gal.w943"/><w xlink:href="NT.Gal.w944"/><w xlink:href="NT.Gal.w945"/></cl.A><cl.S><w xlink:href="NT.Gal.w946"/><w xlink:href="NT.Gal.w947"/><w xlink:href="NT.Gal.w948"/><w xlink:href="NT.Gal.w949"/></cl.S><cl.P><w xlink:href="NT.Gal.w950"/></cl.P><cl.A><w xlink:href="NT.Gal.w951"/><w xlink:href="NT.Gal.w952"/><w xlink:href="NT.Gal.w953"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c44" level="secondary2" connect="NT.Gal.3_c43" structure="conj-C-P-A"><pl.conj><w xlink:href="NT.Gal.w954"/></pl.conj><cl.C><w xlink:href="NT.Gal.w955"/><w xlink:href="NT.Gal.w956"/><w xlink:href="NT.Gal.w957"/><w xlink:href="NT.Gal.w958"/></cl.C><cl.P><w xlink:href="NT.Gal.w959"/></cl.P><cl.A><w xlink:href="NT.Gal.w960"/><w xlink:href="NT.Gal.w961"/><w xlink:href="NT.Gal.w962"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c45" level="primary" connect="NT.Gal.3_c38" structure="add-A-P"><cl.add><w xlink:href="NT.Gal.w963"/></cl.add><cl.A><w xlink:href="NT.Gal.w964"/><w xlink:href="NT.Gal.w965"/></cl.A><cl.P><w xlink:href="NT.Gal.w966"/></cl.P></cl.clause><cl.clause xml:id="NT.Gal.3_c46" level="primary" projected="yes" connect="NT.Gal.3_c45" structure="conj-C-S-P"><pl.conj><w xlink:href="NT.Gal.w967"/></pl.conj><cl.C><w xlink:href="NT.Gal.w968"/><cl.clause xml:id="NT.Gal.3_c47" level="embedded" structure="P"><cl.P><w xlink:href="NT.Gal.w969"/></cl.P></cl.clause><w xlink:href="NT.Gal.w970"/></cl.C><cl.S><w xlink:href="NT.Gal.w971"/></cl.S><cl.P><w xlink:href="NT.Gal.w972"/></cl.P></cl.clause><cl.clause xml:id="NT.Gal.3_c48" level="primary" projected="yes" connect="NT.Gal.3_c46" structure="conj-P"><pl.conj><w xlink:href="NT.Gal.w973"/></pl.conj><cl.P><w xlink:href="NT.Gal.w974"/></cl.P></cl.clause><cl.clause xml:id="NT.Gal.3_c49" level="primary" connect="NT.Gal.3_c48" structure="C-(conj)-(P)-(S)"><cl.C><w xlink:href="NT.Gal.w975"/><pl.conj type="embed" parent="NT.Gal.3_c49"><w xlink:href="NT.Gal.w976"/></pl.conj><w xlink:href="NT.Gal.w977"/><cl.P type="embed" parent="NT.Gal.3_c49"><w xlink:href="NT.Gal.w978"/></cl.P><cl.S type="embed" parent="NT.Gal.3_c49"><w xlink:href="NT.Gal.w979"/><w xlink:href="NT.Gal.w980"/></cl.S><w xlink:href="NT.Gal.w981"/><w xlink:href="NT.Gal.w982"/><w xlink:href="NT.Gal.w983"/><w xlink:href="NT.Gal.w984"/></cl.C></cl.clause><cl.clause xml:id="NT.Gal.3_c50" level="primary" connect="NT.Gal.3_c49" structure="A-P-C-A"><cl.A><w xlink:href="NT.Gal.w985"/></cl.A><cl.P><w xlink:href="NT.Gal.w986"/></cl.P><cl.C><cl.clause xml:id="NT.Gal.3_c51" level="embedded" structure="C"><cl.C><w xlink:href="NT.Gal.w987"/><w xlink:href="NT.Gal.w988"/><w xlink:href="NT.Gal.w989"/></cl.C></cl.clause></cl.C><cl.A><w xlink:href="NT.Gal.w990"/><w xlink:href="NT.Gal.w991"/><w xlink:href="NT.Gal.w992"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c52" level="primary" connect="NT.Gal.3_c50" structure="conj-A-C"><pl.conj><w xlink:href="NT.Gal.w993"/></pl.conj><cl.A><w xlink:href="NT.Gal.w994"/><w xlink:href="NT.Gal.w995"/><w xlink:href="NT.Gal.w996"/></cl.A><cl.C><cl.clause xml:id="NT.Gal.3_c53" level="embedded" structure="C"><cl.C><w xlink:href="NT.Gal.w997"/><w xlink:href="NT.Gal.w998"/><w xlink:href="NT.Gal.w999"/><w xlink:href="NT.Gal.w1000"/></cl.C></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Gal.3_c54" level="secondary" connect="NT.Gal.3_c52" structure="S-P-C"><cl.S><w xlink:href="NT.Gal.w1001"/></cl.S><cl.P><w xlink:href="NT.Gal.w1002"/></cl.P><cl.C><w xlink:href="NT.Gal.w1003"/></cl.C></cl.clause><cl.clause xml:id="NT.Gal.3_c55" level="primary" connect="NT.Gal.3_c52" structure="C-conj-P"><cl.C><w xlink:href="NT.Gal.w1004"/></cl.C><pl.conj><w xlink:href="NT.Gal.w1005"/></pl.conj><cl.P><w xlink:href="NT.Gal.w1006"/></cl.P></cl.clause><cl.clause xml:id="NT.Gal.3_c56" level="primary" projected="yes" connect="NT.Gal.3_c55" structure="C-S-A-P-A"><cl.C><w xlink:href="NT.Gal.w1007"/><cl.clause xml:id="NT.Gal.3_c57" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Gal.w1008"/></cl.P><cl.A><w xlink:href="NT.Gal.w1009"/><w xlink:href="NT.Gal.w1010"/><w xlink:href="NT.Gal.w1011"/></cl.A></cl.clause></cl.C><cl.S><w xlink:href="NT.Gal.w1012"/><cl.clause xml:id="NT.Gal.3_c58" level="embedded" structure="A-P"><cl.A><w xlink:href="NT.Gal.w1013"/><w xlink:href="NT.Gal.w1014"/><w xlink:href="NT.Gal.w1015"/><w xlink:href="NT.Gal.w1016"/><w xlink:href="NT.Gal.w1017"/></cl.A><cl.P><w xlink:href="NT.Gal.w1018"/></cl.P></cl.clause><w xlink:href="NT.Gal.w1019"/></cl.S><cl.A><w xlink:href="NT.Gal.w1020"/></cl.A><cl.P><w xlink:href="NT.Gal.w1021"/></cl.P><cl.A><cl.clause xml:id="NT.Gal.3_c59" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Gal.w1022"/><w xlink:href="NT.Gal.w1023"/><w xlink:href="NT.Gal.w1024"/></cl.P><cl.C><w xlink:href="NT.Gal.w1025"/><w xlink:href="NT.Gal.w1026"/></cl.C></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c60" level="secondary" connect="NT.Gal.3_c61" structure="conj-conj-A-S"><pl.conj><w xlink:href="NT.Gal.w1027"/></pl.conj><pl.conj><w xlink:href="NT.Gal.w1028"/></pl.conj><cl.A><w xlink:href="NT.Gal.w1029"/><w xlink:href="NT.Gal.w1030"/></cl.A><cl.S><w xlink:href="NT.Gal.w1031"/><w xlink:href="NT.Gal.w1032"/></cl.S></cl.clause><cl.clause xml:id="NT.Gal.3_c61" level="primary" connect="NT.Gal.3_c55" structure="A-A"><cl.A><w xlink:href="NT.Gal.w1033"/></cl.A><cl.A><w xlink:href="NT.Gal.w1034"/><w xlink:href="NT.Gal.w1035"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c62" level="primary" connect="NT.Gal.3_c61" structure="C-(conj)-A-P-S"><cl.C><w xlink:href="NT.Gal.w1036"/><pl.conj type="embed" parent="NT.Gal.3_c62"><w xlink:href="NT.Gal.w1037"/></pl.conj><w xlink:href="NT.Gal.w1038"/></cl.C><cl.A><w xlink:href="NT.Gal.w1039"/><w xlink:href="NT.Gal.w1040"/></cl.A><cl.P><w xlink:href="NT.Gal.w1041"/></cl.P><cl.S><w xlink:href="NT.Gal.w1042"/><w xlink:href="NT.Gal.w1043"/></cl.S></cl.clause><cl.clause xml:id="NT.Gal.3_c63" level="primary" connect="NT.Gal.3_c62" structure="A-conj-S"><cl.A><w xlink:href="NT.Gal.w1044"/></cl.A><pl.conj><w xlink:href="NT.Gal.w1045"/></pl.conj><cl.S><w xlink:href="NT.Gal.w1046"/><w xlink:href="NT.Gal.w1047"/></cl.S></cl.clause><cl.clause xml:id="NT.Gal.3_c64" level="primary" connect="NT.Gal.3_c63" structure="A-P-A-A"><cl.A><w xlink:href="NT.Gal.w1048"/><w xlink:href="NT.Gal.w1049"/><w xlink:href="NT.Gal.w1050"/></cl.A><cl.P><w xlink:href="NT.Gal.w1051"/></cl.P><cl.A><cl.clause xml:id="NT.Gal.3_c65" level="embedded" structure="A-P-S"><cl.A><w xlink:href="NT.Gal.w1052"/><w xlink:href="NT.Gal.w1053"/></cl.A><cl.P><w xlink:href="NT.Gal.w1054"/></cl.P><cl.S><w xlink:href="NT.Gal.w1055"/><w xlink:href="NT.Gal.w1056"/><cl.clause xml:id="NT.Gal.3_c66" level="embedded" structure="C-P"><cl.C><w xlink:href="NT.Gal.w1057"/></cl.C><cl.P><w xlink:href="NT.Gal.w1058"/></cl.P></cl.clause></cl.S></cl.clause></cl.A><cl.A><cl.clause xml:id="NT.Gal.3_c67" level="embedded" structure="P-A-A"><cl.P><w xlink:href="NT.Gal.w1059"/></cl.P><cl.A><w xlink:href="NT.Gal.w1060"/><w xlink:href="NT.Gal.w1061"/></cl.A><cl.A><w xlink:href="NT.Gal.w1062"/><w xlink:href="NT.Gal.w1063"/><w xlink:href="NT.Gal.w1064"/></cl.A></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c68" level="primary" connect="NT.Gal.3_c64" structure="S-(conj)-A-A-P"><cl.S><w xlink:href="NT.Gal.w1065"/><pl.conj type="embed" parent="NT.Gal.3_c68"><w xlink:href="NT.Gal.w1066"/></pl.conj><w xlink:href="NT.Gal.w1067"/></cl.S><cl.A><w xlink:href="NT.Gal.w1068"/></cl.A><cl.A><w xlink:href="NT.Gal.w1069"/></cl.A><cl.P><w xlink:href="NT.Gal.w1070"/></cl.P></cl.clause><cl.clause xml:id="NT.Gal.3_c69" level="primary" connect="NT.Gal.3_c68" structure="S-(conj)-C-P"><cl.S><w xlink:href="NT.Gal.w1071"/><pl.conj type="embed" parent="NT.Gal.3_c69"><w xlink:href="NT.Gal.w1072"/></pl.conj><w xlink:href="NT.Gal.w1073"/></cl.S><cl.C><w xlink:href="NT.Gal.w1074"/></cl.C><cl.P><w xlink:href="NT.Gal.w1075"/></cl.P></cl.clause><cl.clause xml:id="NT.Gal.3_c70" level="primary" connect="NT.Gal.3_c69" structure="S-(conj)-A"><cl.S><w xlink:href="NT.Gal.w1076"/><pl.conj type="embed" parent="NT.Gal.3_c70"><w xlink:href="NT.Gal.w1077"/></pl.conj><w xlink:href="NT.Gal.w1078"/></cl.S><cl.A><w xlink:href="NT.Gal.w1079"/><w xlink:href="NT.Gal.w1080"/><w xlink:href="NT.Gal.w1081"/><w xlink:href="NT.Gal.w1082"/><w xlink:href="NT.Gal.w1083"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c71" level="primary" connect="NT.Gal.3_c70" structure="A-P"><cl.A><w xlink:href="NT.Gal.w1084"/></cl.A><cl.P><w xlink:href="NT.Gal.w1085"/></cl.P></cl.clause><cl.clause xml:id="NT.Gal.3_c72" level="secondary" connect="NT.Gal.3_c75" structure="conj-conj-P-S"><pl.conj><w xlink:href="NT.Gal.w1086"/></pl.conj><pl.conj><w xlink:href="NT.Gal.w1087"/></pl.conj><cl.P><w xlink:href="NT.Gal.w1088"/></cl.P><cl.S><w xlink:href="NT.Gal.w1089"/><cl.clause xml:id="NT.Gal.3_c73" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Gal.w1090"/><w xlink:href="NT.Gal.w1091"/></cl.P><cl.C><cl.clause xml:id="NT.Gal.3_c74" level="embedded" structure="P"><cl.P><w xlink:href="NT.Gal.w1092"/></cl.P></cl.clause></cl.C></cl.clause></cl.S></cl.clause><cl.clause xml:id="NT.Gal.3_c75" level="primary" connect="NT.Gal.3_c71" structure="A-A-A-P-S"><cl.A><w xlink:href="NT.Gal.w1093"/></cl.A><cl.A><w xlink:href="NT.Gal.w1094"/><w xlink:href="NT.Gal.w1095"/></cl.A><cl.A><w xlink:href="NT.Gal.w1096"/></cl.A><cl.P><w xlink:href="NT.Gal.w1097"/></cl.P><cl.S><w xlink:href="NT.Gal.w1098"/><w xlink:href="NT.Gal.w1099"/></cl.S></cl.clause><cl.clause xml:id="NT.Gal.3_c76" level="primary" connect="NT.Gal.3_c75" structure="conj-P-S-C-A"><pl.conj><w xlink:href="NT.Gal.w1100"/></pl.conj><cl.P><w xlink:href="NT.Gal.w1101"/></cl.P><cl.S><w xlink:href="NT.Gal.w1102"/><w xlink:href="NT.Gal.w1103"/></cl.S><cl.C><w xlink:href="NT.Gal.w1104"/><w xlink:href="NT.Gal.w1105"/></cl.C><cl.A><w xlink:href="NT.Gal.w1106"/><w xlink:href="NT.Gal.w1107"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c77" level="secondary" connect="NT.Gal.3_c76" structure="conj-S-A-P-C"><pl.conj><w xlink:href="NT.Gal.w1108"/></pl.conj><cl.S><w xlink:href="NT.Gal.w1109"/><w xlink:href="NT.Gal.w1110"/></cl.S><cl.A><w xlink:href="NT.Gal.w1111"/><w xlink:href="NT.Gal.w1112"/><w xlink:href="NT.Gal.w1113"/><w xlink:href="NT.Gal.w1114"/></cl.A><cl.P><w xlink:href="NT.Gal.w1115"/></cl.P><cl.C><cl.clause xml:id="NT.Gal.3_c78" level="embedded" structure="P"><cl.P><w xlink:href="NT.Gal.w1116"/><w xlink:href="NT.Gal.w1117"/></cl.P></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Gal.3_c79" level="primary" connect="NT.Gal.3_c76" structure="A-(conj)-A-P-A"><cl.A><cl.clause xml:id="NT.Gal.3_c80" level="embedded" structure="P-S"><cl.P><w xlink:href="NT.Gal.w1118"/><w xlink:href="NT.Gal.w1119"/><w xlink:href="NT.Gal.w1121"/></cl.P><cl.S><w xlink:href="NT.Gal.w1122"/><w xlink:href="NT.Gal.w1123"/></cl.S></cl.clause><pl.conj type="embed" parent="NT.Gal.3_c79"><w xlink:href="NT.Gal.w1120"/></pl.conj></cl.A><cl.A><w xlink:href="NT.Gal.w1124"/><w xlink:href="NT.Gal.w1125"/></cl.A><cl.P><w xlink:href="NT.Gal.w1126"/></cl.P><cl.A><cl.clause xml:id="NT.Gal.3_c81" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Gal.w1127"/></cl.P><cl.A><w xlink:href="NT.Gal.w1128"/><w xlink:href="NT.Gal.w1129"/><w xlink:href="NT.Gal.w1131"/><cl.clause xml:id="NT.Gal.3_c82" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Gal.w1130"/></cl.P><cl.C><cl.clause xml:id="NT.Gal.3_c83" level="embedded" structure="P"><cl.P><w xlink:href="NT.Gal.w1132"/></cl.P></cl.clause></cl.C></cl.clause></cl.A></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c84" level="primary" connect="NT.Gal.3_c79" structure="conj-S-C-P-A"><pl.conj><w xlink:href="NT.Gal.w1133"/></pl.conj><cl.S><w xlink:href="NT.Gal.w1134"/><w xlink:href="NT.Gal.w1135"/></cl.S><cl.C><w xlink:href="NT.Gal.w1136"/><w xlink:href="NT.Gal.w1137"/></cl.C><cl.P><w xlink:href="NT.Gal.w1138"/></cl.P><cl.A><w xlink:href="NT.Gal.w1139"/><w xlink:href="NT.Gal.w1140"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c85" level="secondary" connect="NT.Gal.3_c84" structure="conj-A-P"><pl.conj><w xlink:href="NT.Gal.w1141"/></pl.conj><cl.A><w xlink:href="NT.Gal.w1142"/><w xlink:href="NT.Gal.w1143"/></cl.A><cl.P><w xlink:href="NT.Gal.w1144"/></cl.P></cl.clause><cl.clause xml:id="NT.Gal.3_c86" level="secondary" connect="NT.Gal.3_c87" structure="P-conj-S"><cl.P><w xlink:href="NT.Gal.w1145"/></cl.P><pl.conj><w xlink:href="NT.Gal.w1146"/></pl.conj><cl.S><w xlink:href="NT.Gal.w1147"/><w xlink:href="NT.Gal.w1148"/></cl.S></cl.clause><cl.clause xml:id="NT.Gal.3_c87" level="primary" connect="NT.Gal.3_c84" structure="A-A-P"><cl.A><w xlink:href="NT.Gal.w1149"/></cl.A><cl.A><w xlink:href="NT.Gal.w1150"/><w xlink:href="NT.Gal.w1151"/></cl.A><cl.P><w xlink:href="NT.Gal.w1152"/></cl.P></cl.clause><cl.clause xml:id="NT.Gal.3_c88" level="primary" connect="NT.Gal.3_c87" structure="S-conj-C-P-A"><cl.S><w xlink:href="NT.Gal.w1153"/></cl.S><pl.conj><w xlink:href="NT.Gal.w1154"/></pl.conj><cl.C><w xlink:href="NT.Gal.w1155"/><w xlink:href="NT.Gal.w1156"/></cl.C><cl.P><w xlink:href="NT.Gal.w1157"/></cl.P><cl.A><w xlink:href="NT.Gal.w1158"/><w xlink:href="NT.Gal.w1159"/><w xlink:href="NT.Gal.w1160"/><w xlink:href="NT.Gal.w1161"/><w xlink:href="NT.Gal.w1162"/><w xlink:href="NT.Gal.w1163"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c89" level="primary" connect="NT.Gal.3_c88" structure="S-(conj)-C-P"><cl.S><cl.clause xml:id="NT.Gal.3_c90" level="embedded" structure="S-A-P"><cl.S><w xlink:href="NT.Gal.w1164"/></cl.S><cl.A><w xlink:href="NT.Gal.w1166"/><w xlink:href="NT.Gal.w1167"/></cl.A><cl.P><w xlink:href="NT.Gal.w1168"/></cl.P></cl.clause><pl.conj type="embed" parent="NT.Gal.3_c89"><w xlink:href="NT.Gal.w1165"/></pl.conj></cl.S><cl.C><w xlink:href="NT.Gal.w1169"/></cl.C><cl.P><w xlink:href="NT.Gal.w1170"/></cl.P></cl.clause><cl.clause xml:id="NT.Gal.3_c91" level="primary" connect="NT.Gal.3_c89" structure="A-P-S"><cl.A><w xlink:href="NT.Gal.w1171"/></cl.A><cl.P><w xlink:href="NT.Gal.w1172"/></cl.P><cl.S><w xlink:href="NT.Gal.w1173"/><w xlink:href="NT.Gal.w1174"/><w xlink:href="NT.Gal.w1175"/></cl.S></cl.clause><cl.clause xml:id="NT.Gal.3_c92" level="primary" connect="NT.Gal.3_c91" structure="A-P-S"><cl.A><w xlink:href="NT.Gal.w1176"/></cl.A><cl.P><w xlink:href="NT.Gal.w1177"/></cl.P><cl.S><w xlink:href="NT.Gal.w1178"/><w xlink:href="NT.Gal.w1179"/><w xlink:href="NT.Gal.w1180"/></cl.S></cl.clause><cl.clause xml:id="NT.Gal.3_c93" level="primary" connect="NT.Gal.3_c92" structure="A-P-S"><cl.A><w xlink:href="NT.Gal.w1181"/></cl.A><cl.P><w xlink:href="NT.Gal.w1182"/></cl.P><cl.S><w xlink:href="NT.Gal.w1183"/><w xlink:href="NT.Gal.w1184"/><w xlink:href="NT.Gal.w1185"/></cl.S></cl.clause><cl.clause xml:id="NT.Gal.3_c94" level="primary" connect="NT.Gal.3_c93" structure="S-(conj)-C-P-A"><cl.S><w xlink:href="NT.Gal.w1186"/><pl.conj type="embed" parent="NT.Gal.3_c94"><w xlink:href="NT.Gal.w1187"/></pl.conj><w xlink:href="NT.Gal.w1188"/></cl.S><cl.C><w xlink:href="NT.Gal.w1189"/></cl.C><cl.P><w xlink:href="NT.Gal.w1190"/></cl.P><cl.A><w xlink:href="NT.Gal.w1191"/><w xlink:href="NT.Gal.w1192"/><w xlink:href="NT.Gal.w1193"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c95" level="secondary" connect="NT.Gal.3_c96" structure="conj-conj-S-A"><pl.conj><w xlink:href="NT.Gal.w1194"/></pl.conj><pl.conj><w xlink:href="NT.Gal.w1195"/></pl.conj><cl.S><w xlink:href="NT.Gal.w1196"/></cl.S><cl.A><w xlink:href="NT.Gal.w1197"/></cl.A></cl.clause><cl.clause xml:id="NT.Gal.3_c96" level="primary" connect="NT.Gal.3_c94" structure="conj-C-P-C"><pl.conj><w xlink:href="NT.Gal.w1198"/></pl.conj><cl.C><w xlink:href="NT.Gal.w1199"/><w xlink:href="NT.Gal.w1200"/><w xlink:href="NT.Gal.w1201"/></cl.C><cl.P><w xlink:href="NT.Gal.w1202"/></cl.P><cl.C><w xlink:href="NT.Gal.w1203"/><w xlink:href="NT.Gal.w1204"/><w xlink:href="NT.Gal.w1205"/></cl.C></cl.clause></chapter>
+		-->
+<chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Gal" num="3">
+  <cl.clause xml:id="NT.Gal.3_c1" level="primary" structure="add-S-C-P">
+    <cl.add>
+      <w xlink:href="NT.Gal.w751"/>
+      <w xlink:href="NT.Gal.w752"/>
+      <w xlink:href="NT.Gal.w753"/>
+    </cl.add>
+    <cl.S>
+      <w xlink:href="NT.Gal.w754"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Gal.w755"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Gal.w756"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c2" level="secondary" connect="NT.Gal.3_c1" structure="C-A-S-(P)">
+    <cl.C>
+      <w xlink:href="NT.Gal.w757"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Gal.w758"/>
+      <w xlink:href="NT.Gal.w759"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Gal.w760"/>
+      <w xlink:href="NT.Gal.w761"/>
+      <cl.P type="embed" parent="NT.Gal.3_c2">
+        <w xlink:href="NT.Gal.w762"/>
+      </cl.P>
+      <cl.clause xml:id="NT.Gal.3_c3" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Gal.w763"/>
+        </cl.P>
+      </cl.clause>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c4" level="primary" connect="NT.Gal.3_c1" structure="C-(A)-(P)">
+    <cl.C>
+      <cl.clause xml:id="NT.Gal.3_c5" level="embedded" structure="C-P-A">
+        <cl.C>
+          <w xlink:href="NT.Gal.w764"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.Gal.w767"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Gal.w768"/>
+          <w xlink:href="NT.Gal.w769"/>
+        </cl.A>
+      </cl.clause>
+      <cl.A type="embed" parent="NT.Gal.3_c4">
+        <w xlink:href="NT.Gal.w765"/>
+      </cl.A>
+      <cl.P type="embed" parent="NT.Gal.3_c4">
+        <w xlink:href="NT.Gal.w766"/>
+      </cl.P>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c6" level="primary" connect="NT.Gal.3_c4" structure="A-C-P-A">
+    <cl.A>
+      <w xlink:href="NT.Gal.w770"/>
+      <w xlink:href="NT.Gal.w771"/>
+      <w xlink:href="NT.Gal.w772"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.Gal.w773"/>
+      <w xlink:href="NT.Gal.w774"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Gal.w775"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Gal.w776"/>
+      <w xlink:href="NT.Gal.w777"/>
+      <w xlink:href="NT.Gal.w778"/>
+      <w xlink:href="NT.Gal.w779"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c7" level="primary" connect="NT.Gal.3_c6" structure="A-C-P">
+    <cl.A>
+      <w xlink:href="NT.Gal.w780"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.Gal.w781"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Gal.w782"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c8" level="primary" connect="NT.Gal.3_c7" structure="A-A-A-P">
+    <cl.A>
+      <cl.clause xml:id="NT.Gal.3_c9" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Gal.w783"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Gal.w784"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Gal.w785"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Gal.w786"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w787"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c10" level="primary" connect="NT.Gal.3_c8" structure="C-P-A">
+    <cl.C>
+      <w xlink:href="NT.Gal.w788"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Gal.w789"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Gal.w790"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c11" level="secondary" connect="NT.Gal.3_c10" structure="conj-conj-A">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w791"/>
+      <w xlink:href="NT.Gal.w792"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Gal.w793"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Gal.w794"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c12" level="primary" connect="NT.Gal.3_c10" structure="S-(conj)-A-A">
+    <cl.S>
+      <cl.clause xml:id="NT.Gal.3_c13" level="embedded" structure="P-C-C">
+        <cl.P>
+          <w xlink:href="NT.Gal.w795"/>
+          <w xlink:href="NT.Gal.w797"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Gal.w798"/>
+        </cl.C>
+        <cl.C>
+          <w xlink:href="NT.Gal.w799"/>
+          <w xlink:href="NT.Gal.w800"/>
+        </cl.C>
+      </cl.clause>
+      <pl.conj type="embed" parent="NT.Gal.3_c12">
+        <w xlink:href="NT.Gal.w796"/>
+      </pl.conj>
+      <cl.clause xml:id="NT.Gal.3_c14" level="embedded" structure="conj-P-C-A">
+        <pl.conj>
+          <w xlink:href="NT.Gal.w801"/>
+        </pl.conj>
+        <cl.P>
+          <w xlink:href="NT.Gal.w802"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Gal.w803"/>
+        </cl.C>
+        <cl.A>
+          <w xlink:href="NT.Gal.w804"/>
+          <w xlink:href="NT.Gal.w805"/>
+        </cl.A>
+      </cl.clause>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Gal.w806"/>
+      <w xlink:href="NT.Gal.w807"/>
+      <w xlink:href="NT.Gal.w808"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Gal.w809"/>
+      <w xlink:href="NT.Gal.w810"/>
+      <w xlink:href="NT.Gal.w811"/>
+      <w xlink:href="NT.Gal.w812"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c15" level="secondary" connect="NT.Gal.3_c12" structure="conj-S-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w813"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Gal.w814"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Gal.w815"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Gal.w816"/>
+      <w xlink:href="NT.Gal.w817"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c16" level="secondary" connect="NT.Gal.3_c15" structure="conj-P-C-A">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w818"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Gal.w819"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Gal.w820"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Gal.w821"/>
+      <w xlink:href="NT.Gal.w822"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c17" level="primary" connect="NT.Gal.3_c12" structure="P-conj">
+    <cl.P>
+      <w xlink:href="NT.Gal.w823"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Gal.w824"/>
+    </pl.conj>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c18" level="secondary" connect="NT.Gal.3_c17" structure="conj-S">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w825"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Gal.w826"/>
+      <w xlink:href="NT.Gal.w827"/>
+      <w xlink:href="NT.Gal.w828"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c19" level="secondary" connect="NT.Gal.3_c18" structure="S-C-(P)">
+    <cl.S>
+      <w xlink:href="NT.Gal.w829"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Gal.w830"/>
+      <cl.P type="embed" parent="NT.Gal.3_c19">
+        <w xlink:href="NT.Gal.w831"/>
+      </cl.P>
+      <w xlink:href="NT.Gal.w832"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c20" level="primary" connect="NT.Gal.3_c17" structure="A-(conj)-(S)-P-C">
+    <cl.A>
+      <cl.clause xml:id="NT.Gal.3_c21" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Gal.w833"/>
+        </cl.P>
+      </cl.clause>
+      <pl.conj type="embed" parent="NT.Gal.3_c20">
+        <w xlink:href="NT.Gal.w834"/>
+      </pl.conj>
+      <cl.S type="embed" parent="NT.Gal.3_c20">
+        <w xlink:href="NT.Gal.w835"/>
+        <w xlink:href="NT.Gal.w836"/>
+      </cl.S>
+      <cl.clause xml:id="NT.Gal.3_c22" level="embedded" structure="conj-A-P-C-S">
+        <pl.conj>
+          <w xlink:href="NT.Gal.w837"/>
+        </pl.conj>
+        <cl.A>
+          <w xlink:href="NT.Gal.w838"/>
+          <w xlink:href="NT.Gal.w839"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Gal.w840"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Gal.w841"/>
+          <w xlink:href="NT.Gal.w842"/>
+        </cl.C>
+        <cl.S>
+          <w xlink:href="NT.Gal.w843"/>
+          <w xlink:href="NT.Gal.w844"/>
+        </cl.S>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w845"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Gal.w846"/>
+      <w xlink:href="NT.Gal.w847"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c23" level="primary" projected="yes" connect="NT.Gal.3_c20" structure="conj-P-A-S">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w848"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Gal.w849"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Gal.w850"/>
+      <w xlink:href="NT.Gal.w851"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Gal.w852"/>
+      <w xlink:href="NT.Gal.w853"/>
+      <w xlink:href="NT.Gal.w854"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c24" level="primary" connect="NT.Gal.3_c20" structure="conj-S-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w855"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Gal.w856"/>
+      <w xlink:href="NT.Gal.w857"/>
+      <w xlink:href="NT.Gal.w858"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Gal.w859"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Gal.w860"/>
+      <w xlink:href="NT.Gal.w861"/>
+      <w xlink:href="NT.Gal.w862"/>
+      <w xlink:href="NT.Gal.w863"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c25" level="primary" connect="NT.Gal.3_c24" structure="S-(conj)-A-P">
+    <cl.S>
+      <cl.clause xml:id="NT.Gal.3_c26" level="embedded" structure="S-A-P">
+        <cl.S>
+          <w xlink:href="NT.Gal.w864"/>
+        </cl.S>
+        <cl.A>
+          <w xlink:href="NT.Gal.w866"/>
+          <w xlink:href="NT.Gal.w867"/>
+          <w xlink:href="NT.Gal.w868"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Gal.w869"/>
+        </cl.P>
+      </cl.clause>
+      <pl.conj type="embed" parent="NT.Gal.3_c25">
+        <w xlink:href="NT.Gal.w865"/>
+      </pl.conj>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Gal.w870"/>
+      <w xlink:href="NT.Gal.w871"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w872"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c27" level="primary" connect="NT.Gal.3_c25" structure="P-conj">
+    <cl.P>
+      <w xlink:href="NT.Gal.w873"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Gal.w874"/>
+    </pl.conj>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c28" level="primary" projected="yes" connect="NT.Gal.3_c27" structure="conj-C-S">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w875"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Gal.w876"/>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.Gal.w877"/>
+      <cl.clause xml:id="NT.Gal.3_c29" level="embedded" structure="S-A-P-A-A">
+        <cl.S>
+          <w xlink:href="NT.Gal.w878"/>
+        </cl.S>
+        <cl.A>
+          <w xlink:href="NT.Gal.w879"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Gal.w880"/>
+        </cl.P>
+        <cl.A>
+          <cl.clause xml:id="NT.Gal.3_c30" level="embedded" structure="P-A">
+            <cl.P>
+              <w xlink:href="NT.Gal.w881"/>
+              <w xlink:href="NT.Gal.w882"/>
+              <w xlink:href="NT.Gal.w883"/>
+            </cl.P>
+            <cl.A>
+              <w xlink:href="NT.Gal.w884"/>
+              <w xlink:href="NT.Gal.w885"/>
+              <w xlink:href="NT.Gal.w886"/>
+              <w xlink:href="NT.Gal.w887"/>
+              <w xlink:href="NT.Gal.w888"/>
+            </cl.A>
+          </cl.clause>
+        </cl.A>
+        <cl.A>
+          <cl.clause xml:id="NT.Gal.3_c31" level="embedded" structure="P-C">
+            <cl.P>
+              <w xlink:href="NT.Gal.w889"/>
+              <w xlink:href="NT.Gal.w890"/>
+            </cl.P>
+            <cl.C>
+              <w xlink:href="NT.Gal.w891"/>
+            </cl.C>
+          </cl.clause>
+        </cl.A>
+      </cl.clause>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c32" level="primary" connect="NT.Gal.3_c27" structure="S-C">
+    <cl.S>
+      <cl.clause xml:id="NT.Gal.3_c33" level="embedded" structure="conj-conj-A-S-P-A">
+        <pl.conj>
+          <w xlink:href="NT.Gal.w892"/>
+        </pl.conj>
+        <pl.conj>
+          <w xlink:href="NT.Gal.w893"/>
+        </pl.conj>
+        <cl.A>
+          <w xlink:href="NT.Gal.w894"/>
+          <w xlink:href="NT.Gal.w895"/>
+        </cl.A>
+        <cl.S>
+          <w xlink:href="NT.Gal.w896"/>
+        </cl.S>
+        <cl.P>
+          <w xlink:href="NT.Gal.w897"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Gal.w898"/>
+          <w xlink:href="NT.Gal.w899"/>
+          <w xlink:href="NT.Gal.w900"/>
+        </cl.A>
+      </cl.clause>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Gal.w901"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c34" level="secondary" connect="NT.Gal.3_c32" structure="conj-S-A-P">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w902"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Gal.w903"/>
+      <w xlink:href="NT.Gal.w904"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Gal.w905"/>
+      <w xlink:href="NT.Gal.w906"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w907"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c35" level="primary" connect="NT.Gal.3_c32" structure="S-(conj)-A-P-A">
+    <cl.S>
+      <w xlink:href="NT.Gal.w908"/>
+      <pl.conj type="embed" parent="NT.Gal.3_c35">
+        <w xlink:href="NT.Gal.w909"/>
+      </pl.conj>
+      <w xlink:href="NT.Gal.w910"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Gal.w911"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w912"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Gal.w913"/>
+      <w xlink:href="NT.Gal.w914"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c36" level="primary" connect="NT.Gal.3_c35" structure="conj-S-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w915"/>
+    </pl.conj>
+    <cl.S>
+      <cl.clause xml:id="NT.Gal.3_c37" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Gal.w916"/>
+          <w xlink:href="NT.Gal.w917"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Gal.w918"/>
+        </cl.C>
+      </cl.clause>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Gal.w919"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Gal.w920"/>
+      <w xlink:href="NT.Gal.w921"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c38" level="primary" connect="NT.Gal.3_c36" structure="S-C-P-A-A">
+    <cl.S>
+      <w xlink:href="NT.Gal.w922"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Gal.w923"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Gal.w924"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Gal.w925"/>
+      <w xlink:href="NT.Gal.w926"/>
+      <w xlink:href="NT.Gal.w927"/>
+      <w xlink:href="NT.Gal.w928"/>
+      <w xlink:href="NT.Gal.w929"/>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.Gal.3_c39" level="embedded" structure="P-A-C">
+        <cl.P>
+          <w xlink:href="NT.Gal.w930"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Gal.w931"/>
+          <w xlink:href="NT.Gal.w932"/>
+        </cl.A>
+        <cl.C>
+          <w xlink:href="NT.Gal.w933"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c40" level="secondary" connect="NT.Gal.3_c38" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w934"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Gal.w935"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c41" level="secondary" projected="yes" connect="NT.Gal.3_c40" structure="C-S">
+    <cl.C>
+      <w xlink:href="NT.Gal.w936"/>
+    </cl.C>
+    <cl.S>
+      <cl.clause xml:id="NT.Gal.3_c42" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Gal.w937"/>
+          <w xlink:href="NT.Gal.w938"/>
+          <w xlink:href="NT.Gal.w939"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Gal.w940"/>
+          <w xlink:href="NT.Gal.w941"/>
+        </cl.A>
+      </cl.clause>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c43" level="secondary" connect="NT.Gal.3_c38" structure="conj-A-S-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w942"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Gal.w943"/>
+      <w xlink:href="NT.Gal.w944"/>
+      <w xlink:href="NT.Gal.w945"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Gal.w946"/>
+      <w xlink:href="NT.Gal.w947"/>
+      <w xlink:href="NT.Gal.w948"/>
+      <w xlink:href="NT.Gal.w949"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Gal.w950"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Gal.w951"/>
+      <w xlink:href="NT.Gal.w952"/>
+      <w xlink:href="NT.Gal.w953"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c44" level="secondary2" connect="NT.Gal.3_c43" structure="conj-C-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w954"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Gal.w955"/>
+      <w xlink:href="NT.Gal.w956"/>
+      <w xlink:href="NT.Gal.w957"/>
+      <w xlink:href="NT.Gal.w958"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Gal.w959"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Gal.w960"/>
+      <w xlink:href="NT.Gal.w961"/>
+      <w xlink:href="NT.Gal.w962"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c45" level="primary" connect="NT.Gal.3_c38" structure="add-A-P">
+    <cl.add>
+      <w xlink:href="NT.Gal.w963"/>
+    </cl.add>
+    <cl.A>
+      <w xlink:href="NT.Gal.w964"/>
+      <w xlink:href="NT.Gal.w965"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w966"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c46" level="primary" projected="yes" connect="NT.Gal.3_c45" structure="conj-C-S-P">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w967"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Gal.w968"/>
+      <cl.clause xml:id="NT.Gal.3_c47" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Gal.w969"/>
+        </cl.P>
+      </cl.clause>
+      <w xlink:href="NT.Gal.w970"/>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.Gal.w971"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Gal.w972"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c48" level="primary" projected="yes" connect="NT.Gal.3_c46" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w973"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Gal.w974"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c49" level="primary" connect="NT.Gal.3_c48" structure="C-(conj)-(P)-(S)">
+    <cl.C>
+      <w xlink:href="NT.Gal.w975"/>
+      <pl.conj type="embed" parent="NT.Gal.3_c49">
+        <w xlink:href="NT.Gal.w976"/>
+      </pl.conj>
+      <w xlink:href="NT.Gal.w977"/>
+      <cl.P type="embed" parent="NT.Gal.3_c49">
+        <w xlink:href="NT.Gal.w978"/>
+      </cl.P>
+      <cl.S type="embed" parent="NT.Gal.3_c49">
+        <w xlink:href="NT.Gal.w979"/>
+        <w xlink:href="NT.Gal.w980"/>
+      </cl.S>
+      <w xlink:href="NT.Gal.w981"/>
+      <w xlink:href="NT.Gal.w982"/>
+      <w xlink:href="NT.Gal.w983"/>
+      <w xlink:href="NT.Gal.w984"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c50" level="primary" connect="NT.Gal.3_c49" structure="A-P-C-A">
+    <cl.A>
+      <w xlink:href="NT.Gal.w985"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w986"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.Gal.3_c51" level="embedded" structure="C">
+        <cl.C>
+          <w xlink:href="NT.Gal.w987"/>
+          <w xlink:href="NT.Gal.w988"/>
+          <w xlink:href="NT.Gal.w989"/>
+        </cl.C>
+      </cl.clause>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Gal.w990"/>
+      <w xlink:href="NT.Gal.w991"/>
+      <w xlink:href="NT.Gal.w992"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c52" level="primary" connect="NT.Gal.3_c50" structure="conj-A-C">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w993"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Gal.w994"/>
+      <w xlink:href="NT.Gal.w995"/>
+      <w xlink:href="NT.Gal.w996"/>
+    </cl.A>
+    <cl.C>
+      <cl.clause xml:id="NT.Gal.3_c53" level="embedded" structure="C">
+        <cl.C>
+          <w xlink:href="NT.Gal.w997"/>
+          <w xlink:href="NT.Gal.w998"/>
+          <w xlink:href="NT.Gal.w999"/>
+          <w xlink:href="NT.Gal.w1000"/>
+        </cl.C>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c54" level="secondary" connect="NT.Gal.3_c52" structure="S-P-C">
+    <cl.S>
+      <w xlink:href="NT.Gal.w1001"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1002"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Gal.w1003"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c55" level="primary" connect="NT.Gal.3_c52" structure="C-conj-P">
+    <cl.C>
+      <w xlink:href="NT.Gal.w1004"/>
+    </cl.C>
+    <pl.conj>
+      <w xlink:href="NT.Gal.w1005"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1006"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c56" level="primary" projected="yes" connect="NT.Gal.3_c55" structure="C-S-A-P-A">
+    <cl.C>
+      <w xlink:href="NT.Gal.w1007"/>
+      <cl.clause xml:id="NT.Gal.3_c57" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Gal.w1008"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Gal.w1009"/>
+          <w xlink:href="NT.Gal.w1010"/>
+          <w xlink:href="NT.Gal.w1011"/>
+        </cl.A>
+      </cl.clause>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.Gal.w1012"/>
+      <cl.clause xml:id="NT.Gal.3_c58" level="embedded" structure="A-P">
+        <cl.A>
+          <w xlink:href="NT.Gal.w1013"/>
+          <w xlink:href="NT.Gal.w1014"/>
+          <w xlink:href="NT.Gal.w1015"/>
+          <w xlink:href="NT.Gal.w1016"/>
+          <w xlink:href="NT.Gal.w1017"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Gal.w1018"/>
+        </cl.P>
+      </cl.clause>
+      <w xlink:href="NT.Gal.w1019"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1020"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1021"/>
+    </cl.P>
+    <cl.A>
+      <cl.clause xml:id="NT.Gal.3_c59" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Gal.w1022"/>
+          <w xlink:href="NT.Gal.w1023"/>
+          <w xlink:href="NT.Gal.w1024"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Gal.w1025"/>
+          <w xlink:href="NT.Gal.w1026"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c60" level="secondary" connect="NT.Gal.3_c61" structure="conj-conj-A-S">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w1027"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Gal.w1028"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1029"/>
+      <w xlink:href="NT.Gal.w1030"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Gal.w1031"/>
+      <w xlink:href="NT.Gal.w1032"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c61" level="primary" connect="NT.Gal.3_c55" structure="A-A">
+    <cl.A>
+      <w xlink:href="NT.Gal.w1033"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1034"/>
+      <w xlink:href="NT.Gal.w1035"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c62" level="primary" connect="NT.Gal.3_c61" structure="C-(conj)-A-P-S">
+    <cl.C>
+      <w xlink:href="NT.Gal.w1036"/>
+      <pl.conj type="embed" parent="NT.Gal.3_c62">
+        <w xlink:href="NT.Gal.w1037"/>
+      </pl.conj>
+      <w xlink:href="NT.Gal.w1038"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1039"/>
+      <w xlink:href="NT.Gal.w1040"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1041"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Gal.w1042"/>
+      <w xlink:href="NT.Gal.w1043"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c63" level="primary" connect="NT.Gal.3_c62" structure="A-conj-S">
+    <cl.A>
+      <w xlink:href="NT.Gal.w1044"/>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.Gal.w1045"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Gal.w1046"/>
+      <w xlink:href="NT.Gal.w1047"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c64" level="primary" connect="NT.Gal.3_c63" structure="A-P-A-A">
+    <cl.A>
+      <w xlink:href="NT.Gal.w1048"/>
+      <w xlink:href="NT.Gal.w1049"/>
+      <w xlink:href="NT.Gal.w1050"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1051"/>
+    </cl.P>
+    <cl.A>
+      <cl.clause xml:id="NT.Gal.3_c65" level="embedded" structure="A-P-S">
+        <cl.A>
+          <w xlink:href="NT.Gal.w1052"/>
+          <w xlink:href="NT.Gal.w1053"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Gal.w1054"/>
+        </cl.P>
+        <cl.S>
+          <w xlink:href="NT.Gal.w1055"/>
+          <w xlink:href="NT.Gal.w1056"/>
+          <cl.clause xml:id="NT.Gal.3_c66" level="embedded" structure="C-P">
+            <cl.C>
+              <w xlink:href="NT.Gal.w1057"/>
+            </cl.C>
+            <cl.P>
+              <w xlink:href="NT.Gal.w1058"/>
+            </cl.P>
+          </cl.clause>
+        </cl.S>
+      </cl.clause>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.Gal.3_c67" level="embedded" structure="P-A-A">
+        <cl.P>
+          <w xlink:href="NT.Gal.w1059"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Gal.w1060"/>
+          <w xlink:href="NT.Gal.w1061"/>
+        </cl.A>
+        <cl.A>
+          <w xlink:href="NT.Gal.w1062"/>
+          <w xlink:href="NT.Gal.w1063"/>
+          <w xlink:href="NT.Gal.w1064"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c68" level="primary" connect="NT.Gal.3_c64" structure="S-(conj)-A-A-P">
+    <cl.S>
+      <w xlink:href="NT.Gal.w1065"/>
+      <pl.conj type="embed" parent="NT.Gal.3_c68">
+        <w xlink:href="NT.Gal.w1066"/>
+      </pl.conj>
+      <w xlink:href="NT.Gal.w1067"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1068"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1069"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1070"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c69" level="primary" connect="NT.Gal.3_c68" structure="S-(conj)-C-P">
+    <cl.S>
+      <w xlink:href="NT.Gal.w1071"/>
+      <pl.conj type="embed" parent="NT.Gal.3_c69">
+        <w xlink:href="NT.Gal.w1072"/>
+      </pl.conj>
+      <w xlink:href="NT.Gal.w1073"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Gal.w1074"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1075"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c70" level="primary" connect="NT.Gal.3_c69" structure="S-(conj)-A">
+    <cl.S>
+      <w xlink:href="NT.Gal.w1076"/>
+      <pl.conj type="embed" parent="NT.Gal.3_c70">
+        <w xlink:href="NT.Gal.w1077"/>
+      </pl.conj>
+      <w xlink:href="NT.Gal.w1078"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1079"/>
+      <w xlink:href="NT.Gal.w1080"/>
+      <w xlink:href="NT.Gal.w1081"/>
+      <w xlink:href="NT.Gal.w1082"/>
+      <w xlink:href="NT.Gal.w1083"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c71" level="primary" connect="NT.Gal.3_c70" structure="A-P">
+    <cl.A>
+      <w xlink:href="NT.Gal.w1084"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1085"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c72" level="secondary" connect="NT.Gal.3_c75" structure="conj-conj-P-S">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w1086"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Gal.w1087"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1088"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Gal.w1089"/>
+      <cl.clause xml:id="NT.Gal.3_c73" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Gal.w1090"/>
+          <w xlink:href="NT.Gal.w1091"/>
+        </cl.P>
+        <cl.C>
+          <cl.clause xml:id="NT.Gal.3_c74" level="embedded" structure="P">
+            <cl.P>
+              <w xlink:href="NT.Gal.w1092"/>
+            </cl.P>
+          </cl.clause>
+        </cl.C>
+      </cl.clause>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c75" level="primary" connect="NT.Gal.3_c71" structure="A-A-A-P-S">
+    <cl.A>
+      <w xlink:href="NT.Gal.w1093"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1094"/>
+      <w xlink:href="NT.Gal.w1095"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1096"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1097"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Gal.w1098"/>
+      <w xlink:href="NT.Gal.w1099"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c76" level="primary" connect="NT.Gal.3_c75" structure="conj-P-S-C-A">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w1100"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1101"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Gal.w1102"/>
+      <w xlink:href="NT.Gal.w1103"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Gal.w1104"/>
+      <w xlink:href="NT.Gal.w1105"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1106"/>
+      <w xlink:href="NT.Gal.w1107"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c77" level="secondary" connect="NT.Gal.3_c76" structure="conj-S-A-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w1108"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Gal.w1109"/>
+      <w xlink:href="NT.Gal.w1110"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1111"/>
+      <w xlink:href="NT.Gal.w1112"/>
+      <w xlink:href="NT.Gal.w1113"/>
+      <w xlink:href="NT.Gal.w1114"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1115"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.Gal.3_c78" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Gal.w1116"/>
+          <w xlink:href="NT.Gal.w1117"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c79" level="primary" connect="NT.Gal.3_c76" structure="A-(conj)-A-P-A">
+    <cl.A>
+      <cl.clause xml:id="NT.Gal.3_c80" level="embedded" structure="P-S">
+        <cl.P>
+          <w xlink:href="NT.Gal.w1118"/>
+          <w xlink:href="NT.Gal.w1119"/>
+          <w xlink:href="NT.Gal.w1121"/>
+        </cl.P>
+        <cl.S>
+          <w xlink:href="NT.Gal.w1122"/>
+          <w xlink:href="NT.Gal.w1123"/>
+        </cl.S>
+      </cl.clause>
+      <pl.conj type="embed" parent="NT.Gal.3_c79">
+        <w xlink:href="NT.Gal.w1120"/>
+      </pl.conj>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1124"/>
+      <w xlink:href="NT.Gal.w1125"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1126"/>
+    </cl.P>
+    <cl.A>
+      <cl.clause xml:id="NT.Gal.3_c81" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Gal.w1127"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Gal.w1128"/>
+          <w xlink:href="NT.Gal.w1129"/>
+          <w xlink:href="NT.Gal.w1131"/>
+          <cl.clause xml:id="NT.Gal.3_c82" level="embedded" structure="P-C">
+            <cl.P>
+              <w xlink:href="NT.Gal.w1130"/>
+            </cl.P>
+            <cl.C>
+              <cl.clause xml:id="NT.Gal.3_c83" level="embedded" structure="P">
+                <cl.P>
+                  <w xlink:href="NT.Gal.w1132"/>
+                </cl.P>
+              </cl.clause>
+            </cl.C>
+          </cl.clause>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c84" level="primary" connect="NT.Gal.3_c79" structure="conj-S-C-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w1133"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Gal.w1134"/>
+      <w xlink:href="NT.Gal.w1135"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Gal.w1136"/>
+      <w xlink:href="NT.Gal.w1137"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1138"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1139"/>
+      <w xlink:href="NT.Gal.w1140"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c85" level="secondary" connect="NT.Gal.3_c84" structure="conj-A-P">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w1141"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1142"/>
+      <w xlink:href="NT.Gal.w1143"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1144"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c86" level="secondary" connect="NT.Gal.3_c87" structure="P-conj-S">
+    <cl.P>
+      <w xlink:href="NT.Gal.w1145"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Gal.w1146"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Gal.w1147"/>
+      <w xlink:href="NT.Gal.w1148"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c87" level="primary" connect="NT.Gal.3_c84" structure="A-A-P">
+    <cl.A>
+      <w xlink:href="NT.Gal.w1149"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1150"/>
+      <w xlink:href="NT.Gal.w1151"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1152"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c88" level="primary" connect="NT.Gal.3_c87" structure="S-conj-C-P-A">
+    <cl.S>
+      <w xlink:href="NT.Gal.w1153"/>
+    </cl.S>
+    <pl.conj>
+      <w xlink:href="NT.Gal.w1154"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Gal.w1155"/>
+      <w xlink:href="NT.Gal.w1156"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1157"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1158"/>
+      <w xlink:href="NT.Gal.w1159"/>
+      <w xlink:href="NT.Gal.w1160"/>
+      <w xlink:href="NT.Gal.w1161"/>
+      <w xlink:href="NT.Gal.w1162"/>
+      <w xlink:href="NT.Gal.w1163"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c89" level="primary" connect="NT.Gal.3_c88" structure="S-(conj)-C-P">
+    <cl.S>
+      <cl.clause xml:id="NT.Gal.3_c90" level="embedded" structure="S-A-P">
+        <cl.S>
+          <w xlink:href="NT.Gal.w1164"/>
+        </cl.S>
+        <cl.A>
+          <w xlink:href="NT.Gal.w1166"/>
+          <w xlink:href="NT.Gal.w1167"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Gal.w1168"/>
+        </cl.P>
+      </cl.clause>
+      <pl.conj type="embed" parent="NT.Gal.3_c89">
+        <w xlink:href="NT.Gal.w1165"/>
+      </pl.conj>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Gal.w1169"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1170"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c91" level="primary" connect="NT.Gal.3_c89" structure="A-P-S">
+    <cl.A>
+      <w xlink:href="NT.Gal.w1171"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1172"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Gal.w1173"/>
+      <w xlink:href="NT.Gal.w1174"/>
+      <w xlink:href="NT.Gal.w1175"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c92" level="primary" connect="NT.Gal.3_c91" structure="A-P-S">
+    <cl.A>
+      <w xlink:href="NT.Gal.w1176"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1177"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Gal.w1178"/>
+      <w xlink:href="NT.Gal.w1179"/>
+      <w xlink:href="NT.Gal.w1180"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c93" level="primary" connect="NT.Gal.3_c92" structure="A-P-S">
+    <cl.A>
+      <w xlink:href="NT.Gal.w1181"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1182"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Gal.w1183"/>
+      <w xlink:href="NT.Gal.w1184"/>
+      <w xlink:href="NT.Gal.w1185"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c94" level="primary" connect="NT.Gal.3_c93" structure="S-(conj)-C-P-A">
+    <cl.S>
+      <w xlink:href="NT.Gal.w1186"/>
+      <pl.conj type="embed" parent="NT.Gal.3_c94">
+        <w xlink:href="NT.Gal.w1187"/>
+      </pl.conj>
+      <w xlink:href="NT.Gal.w1188"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Gal.w1189"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1190"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1191"/>
+      <w xlink:href="NT.Gal.w1192"/>
+      <w xlink:href="NT.Gal.w1193"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c95" level="secondary" connect="NT.Gal.3_c96" structure="conj-conj-S-A">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w1194"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Gal.w1195"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Gal.w1196"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Gal.w1197"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Gal.3_c96" level="primary" connect="NT.Gal.3_c94" structure="conj-C-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Gal.w1198"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Gal.w1199"/>
+      <w xlink:href="NT.Gal.w1200"/>
+      <w xlink:href="NT.Gal.w1201"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Gal.w1202"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Gal.w1203"/>
+      <w xlink:href="NT.Gal.w1204"/>
+      <w xlink:href="NT.Gal.w1205"/>
+    </cl.C>
+  </cl.clause>
+</chapter>

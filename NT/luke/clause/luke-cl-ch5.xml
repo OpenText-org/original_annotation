@@ -14,4 +14,2294 @@ Copyright (c) 2005-6 OpenText.org
 
 contact: matt@opentext.org
 =================================================		
-		--><chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Luke" num="5"><cl.clause xml:id="NT.Luke.5_c1" level="primary" structure="P-conj-A"><cl.P><w xlink:href="NT.Luk.w3392"/></cl.P><pl.conj><w xlink:href="NT.Luk.w3393"/></pl.conj><cl.A><cl.clause xml:id="NT.Luke.5_c2" level="embedded" structure="P-(S)-C"><cl.P><w xlink:href="NT.Luk.w3394"/><w xlink:href="NT.Luk.w3395"/><cl.S type="embed" parent="NT.Luke.5_c2"><w xlink:href="NT.Luk.w3396"/><w xlink:href="NT.Luk.w3397"/></cl.S><w xlink:href="NT.Luk.w3398"/></cl.P><cl.C><w xlink:href="NT.Luk.w3399"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c3" level="embedded" structure="conj-P-C"><pl.conj><w xlink:href="NT.Luk.w3400"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3401"/></cl.P><cl.C><w xlink:href="NT.Luk.w3402"/><w xlink:href="NT.Luk.w3403"/><w xlink:href="NT.Luk.w3404"/><w xlink:href="NT.Luk.w3405"/></cl.C></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c4" level="primary" connect="NT.Luke.5_c1" structure="conj-S-P-C"><pl.conj><w xlink:href="NT.Luk.w3406"/></pl.conj><cl.S><w xlink:href="NT.Luk.w3407"/></cl.S><cl.P><w xlink:href="NT.Luk.w3408"/></cl.P><cl.C><cl.clause xml:id="NT.Luke.5_c5" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Luk.w3409"/></cl.P><cl.A><w xlink:href="NT.Luk.w3410"/><w xlink:href="NT.Luk.w3411"/><w xlink:href="NT.Luk.w3412"/><w xlink:href="NT.Luk.w3413"/></cl.A></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c6" level="primary" connect="NT.Luke.5_c4" structure="conj-P-C"><pl.conj><w xlink:href="NT.Luk.w3414"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3415"/></cl.P><cl.C><w xlink:href="NT.Luk.w3416"/><w xlink:href="NT.Luk.w3417"/><cl.clause xml:id="NT.Luke.5_c7" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Luk.w3418"/></cl.P><cl.A><w xlink:href="NT.Luk.w3419"/><w xlink:href="NT.Luk.w3420"/><w xlink:href="NT.Luk.w3421"/></cl.A></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c8" level="primary" connect="NT.Luke.5_c6" structure="S-(conj)-A-P-C"><cl.S><w xlink:href="NT.Luk.w3422"/><pl.conj type="embed" parent="NT.Luke.5_c8"><w xlink:href="NT.Luk.w3423"/></pl.conj><w xlink:href="NT.Luk.w3424"/></cl.S><cl.A><cl.clause xml:id="NT.Luke.5_c9" level="embedded" structure="A-P"><cl.A><w xlink:href="NT.Luk.w3425"/><w xlink:href="NT.Luk.w3426"/></cl.A><cl.P><w xlink:href="NT.Luk.w3427"/></cl.P></cl.clause></cl.A><cl.P><w xlink:href="NT.Luk.w3428"/></cl.P><cl.C><w xlink:href="NT.Luk.w3429"/><w xlink:href="NT.Luk.w3430"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c10" level="primary" connect="NT.Luke.5_c8" structure="A-(conj)-P-C-C"><cl.A><cl.clause xml:id="NT.Luke.5_c11" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Luk.w3431"/></cl.P><cl.A><w xlink:href="NT.Luk.w3433"/><w xlink:href="NT.Luk.w3434"/><w xlink:href="NT.Luk.w3435"/><w xlink:href="NT.Luk.w3436"/></cl.A></cl.clause><pl.conj type="embed" parent="NT.Luke.5_c10"><w xlink:href="NT.Luk.w3432"/></pl.conj><cl.clause xml:id="NT.Luke.5_c12" level="embedded" structure="S-P-A"><cl.S><w xlink:href="NT.Luk.w3437"/></cl.S><cl.P><w xlink:href="NT.Luk.w3438"/></cl.P><cl.A><w xlink:href="NT.Luk.w3439"/></cl.A></cl.clause></cl.A><cl.P><w xlink:href="NT.Luk.w3440"/></cl.P><cl.C><w xlink:href="NT.Luk.w3441"/></cl.C><cl.C><cl.clause xml:id="NT.Luke.5_c13" level="embedded" structure="A-P-A"><cl.A><w xlink:href="NT.Luk.w3442"/><w xlink:href="NT.Luk.w3443"/><w xlink:href="NT.Luk.w3444"/></cl.A><cl.P><w xlink:href="NT.Luk.w3445"/></cl.P><cl.A><w xlink:href="NT.Luk.w3446"/></cl.A></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c14" level="primary" connect="NT.Luke.5_c10" structure="A-(conj)-P-C"><cl.A><cl.clause xml:id="NT.Luke.5_c15" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Luk.w3447"/></cl.P><cl.A><w xlink:href="NT.Luk.w3449"/><w xlink:href="NT.Luk.w3450"/><w xlink:href="NT.Luk.w3451"/></cl.A></cl.clause><pl.conj type="embed" parent="NT.Luke.5_c14"><w xlink:href="NT.Luk.w3448"/></pl.conj></cl.A><cl.P><w xlink:href="NT.Luk.w3452"/></cl.P><cl.C><w xlink:href="NT.Luk.w3453"/><w xlink:href="NT.Luk.w3454"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c16" level="secondary" connect="NT.Luke.5_c18" structure="conj-conj-P-C"><pl.conj><w xlink:href="NT.Luk.w3455"/></pl.conj><pl.conj><w xlink:href="NT.Luk.w3456"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3457"/></cl.P><cl.C><cl.clause xml:id="NT.Luke.5_c17" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3458"/></cl.P></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c18" level="primary" connect="NT.Luke.5_c14" structure="P-A"><cl.P><w xlink:href="NT.Luk.w3459"/></cl.P><cl.A><w xlink:href="NT.Luk.w3460"/><w xlink:href="NT.Luk.w3461"/><w xlink:href="NT.Luk.w3462"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c19" level="primary" projected="yes" connect="NT.Luke.5_c18" structure="P-A"><cl.P><w xlink:href="NT.Luk.w3463"/></cl.P><cl.A><w xlink:href="NT.Luk.w3464"/><w xlink:href="NT.Luk.w3465"/><w xlink:href="NT.Luk.w3466"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c20" level="primary" projected="yes" connect="NT.Luke.5_c19" structure="conj-P-C-A"><pl.conj><w xlink:href="NT.Luk.w3467"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3468"/></cl.P><cl.C><w xlink:href="NT.Luk.w3469"/><w xlink:href="NT.Luk.w3470"/><w xlink:href="NT.Luk.w3471"/></cl.C><cl.A><w xlink:href="NT.Luk.w3472"/><w xlink:href="NT.Luk.w3473"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c21" level="primary" connect="NT.Luke.5_c18" structure="conj-A-S-P"><pl.conj><w xlink:href="NT.Luk.w3474"/></pl.conj><cl.A><cl.clause xml:id="NT.Luke.5_c22" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3475"/></cl.P></cl.clause></cl.A><cl.S><w xlink:href="NT.Luk.w3476"/></cl.S><cl.P><w xlink:href="NT.Luk.w3477"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c23" level="primary" projected="yes" connect="NT.Luke.5_c21" structure="add-A-C-P"><cl.add><w xlink:href="NT.Luk.w3478"/></cl.add><cl.A><cl.clause xml:id="NT.Luke.5_c24" level="embedded" structure="A-P"><cl.A><w xlink:href="NT.Luk.w3479"/><w xlink:href="NT.Luk.w3480"/><w xlink:href="NT.Luk.w3481"/></cl.A><cl.P><w xlink:href="NT.Luk.w3482"/></cl.P></cl.clause></cl.A><cl.C><w xlink:href="NT.Luk.w3483"/></cl.C><cl.P><w xlink:href="NT.Luk.w3484"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c25" level="primary" projected="yes" connect="NT.Luke.5_c23" structure="A-(conj)-P-C"><cl.A><w xlink:href="NT.Luk.w3485"/><pl.conj type="embed" parent="NT.Luke.5_c25"><w xlink:href="NT.Luk.w3486"/></pl.conj><w xlink:href="NT.Luk.w3487"/><w xlink:href="NT.Luk.w3488"/><w xlink:href="NT.Luk.w3489"/></cl.A><cl.P><w xlink:href="NT.Luk.w3490"/></cl.P><cl.C><w xlink:href="NT.Luk.w3491"/><w xlink:href="NT.Luk.w3492"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c26" level="primary" connect="NT.Luke.5_c21" structure="conj-A-P-C"><pl.conj><w xlink:href="NT.Luk.w3493"/></pl.conj><cl.A><cl.clause xml:id="NT.Luke.5_c27" level="embedded" structure="C-P"><cl.C><w xlink:href="NT.Luk.w3494"/></cl.C><cl.P><w xlink:href="NT.Luk.w3495"/></cl.P></cl.clause></cl.A><cl.P><w xlink:href="NT.Luk.w3496"/></cl.P><cl.C><w xlink:href="NT.Luk.w3497"/><w xlink:href="NT.Luk.w3498"/><w xlink:href="NT.Luk.w3499"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c28" level="primary" connect="NT.Luke.5_c26" structure="P-conj-C"><cl.P><w xlink:href="NT.Luk.w3500"/></cl.P><pl.conj><w xlink:href="NT.Luk.w3501"/></pl.conj><cl.C><w xlink:href="NT.Luk.w3502"/><w xlink:href="NT.Luk.w3503"/><w xlink:href="NT.Luk.w3504"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c29" level="primary" connect="NT.Luke.5_c28" structure="conj-P-C-C"><pl.conj><w xlink:href="NT.Luk.w3505"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3506"/></cl.P><cl.C><w xlink:href="NT.Luk.w3507"/><w xlink:href="NT.Luk.w3508"/><w xlink:href="NT.Luk.w3509"/><w xlink:href="NT.Luk.w3510"/><w xlink:href="NT.Luk.w3511"/><w xlink:href="NT.Luk.w3512"/></cl.C><cl.C><cl.clause xml:id="NT.Luke.5_c30" level="embedded" structure="P-(A)-C"><cl.P><w xlink:href="NT.Luk.w3513"/><cl.A type="embed" parent="NT.Luke.5_c30"><cl.clause xml:id="NT.Luke.5_c31" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3514"/></cl.P></cl.clause></cl.A><w xlink:href="NT.Luk.w3515"/></cl.P><cl.C><w xlink:href="NT.Luk.w3516"/></cl.C></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c32" level="primary" connect="NT.Luke.5_c29" structure="conj-P"><pl.conj><w xlink:href="NT.Luk.w3517"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3518"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c33" level="primary" connect="NT.Luke.5_c32" structure="conj-P-C"><pl.conj><w xlink:href="NT.Luk.w3519"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3520"/></cl.P><cl.C><w xlink:href="NT.Luk.w3521"/><w xlink:href="NT.Luk.w3522"/><w xlink:href="NT.Luk.w3523"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c34" level="secondary" connect="NT.Luke.5_c33" structure="conj-P-S"><pl.conj><w xlink:href="NT.Luk.w3524"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3525"/></cl.P><cl.S><w xlink:href="NT.Luk.w3526"/></cl.S></cl.clause><cl.clause xml:id="NT.Luke.5_c35" level="primary" connect="NT.Luke.5_c33" structure="A-conj-S-P-C-A"><cl.A><cl.clause xml:id="NT.Luke.5_c36" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3527"/></cl.P></cl.clause></cl.A><pl.conj><w xlink:href="NT.Luk.w3528"/></pl.conj><cl.S><w xlink:href="NT.Luk.w3529"/><w xlink:href="NT.Luk.w3530"/></cl.S><cl.P><w xlink:href="NT.Luk.w3531"/></cl.P><cl.C><w xlink:href="NT.Luk.w3532"/><w xlink:href="NT.Luk.w3533"/><w xlink:href="NT.Luk.w3534"/></cl.C><cl.A><cl.clause xml:id="NT.Luke.5_c37" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3535"/></cl.P></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c38" level="primary" projected="yes" connect="NT.Luke.5_c35" structure="P-A"><cl.P><w xlink:href="NT.Luk.w3536"/></cl.P><cl.A><w xlink:href="NT.Luk.w3537"/><w xlink:href="NT.Luk.w3538"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c39" level="secondary" projected="yes" connect="NT.Luke.5_c38" structure="conj-C-P-add"><pl.conj><w xlink:href="NT.Luk.w3539"/></pl.conj><cl.C><w xlink:href="NT.Luk.w3540"/><w xlink:href="NT.Luk.w3541"/></cl.C><cl.P><w xlink:href="NT.Luk.w3542"/></cl.P><cl.add><w xlink:href="NT.Luk.w3543"/></cl.add></cl.clause><cl.clause xml:id="NT.Luke.5_c40" level="primary" connect="NT.Luke.5_c35" structure="S-conj-P-C-A"><cl.S><w xlink:href="NT.Luk.w3544"/></cl.S><pl.conj><w xlink:href="NT.Luk.w3545"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3546"/></cl.P><cl.C><w xlink:href="NT.Luk.w3547"/><w xlink:href="NT.Luk.w3548"/><w xlink:href="NT.Luk.w3549"/><w xlink:href="NT.Luk.w3550"/><w xlink:href="NT.Luk.w3551"/><w xlink:href="NT.Luk.w3552"/></cl.C><cl.A><w xlink:href="NT.Luk.w3553"/><w xlink:href="NT.Luk.w3554"/><w xlink:href="NT.Luk.w3555"/><w xlink:href="NT.Luk.w3556"/><w xlink:href="NT.Luk.w3557"/><cl.clause xml:id="NT.Luke.5_c41" level="embedded" structure="C-P"><cl.C><w xlink:href="NT.Luk.w3558"/></cl.C><cl.P><w xlink:href="NT.Luk.w3559"/></cl.P></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c42" level="primary" connect="NT.Luke.5_c40" structure="A-conj-conj-C"><cl.A><w xlink:href="NT.Luk.w3560"/></cl.A><pl.conj><w xlink:href="NT.Luk.w3561"/></pl.conj><pl.conj><w xlink:href="NT.Luk.w3562"/></pl.conj><cl.C><w xlink:href="NT.Luk.w3563"/><w xlink:href="NT.Luk.w3564"/><w xlink:href="NT.Luk.w3565"/><w xlink:href="NT.Luk.w3566"/><w xlink:href="NT.Luk.w3567"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c43" level="secondary" connect="NT.Luke.5_c42" structure="S-P-C"><cl.S><w xlink:href="NT.Luk.w3568"/></cl.S><cl.P><w xlink:href="NT.Luk.w3569"/></cl.P><cl.C><w xlink:href="NT.Luk.w3570"/><w xlink:href="NT.Luk.w3571"/><w xlink:href="NT.Luk.w3572"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c44" level="primary" connect="NT.Luke.5_c42" structure="conj-P-A-S"><pl.conj><w xlink:href="NT.Luk.w3573"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3574"/></cl.P><cl.A><w xlink:href="NT.Luk.w3575"/><w xlink:href="NT.Luk.w3576"/><w xlink:href="NT.Luk.w3577"/></cl.A><cl.S><w xlink:href="NT.Luk.w3578"/><w xlink:href="NT.Luk.w3579"/></cl.S></cl.clause><cl.clause xml:id="NT.Luke.5_c45" level="primary" projected="yes" connect="NT.Luke.5_c44" structure="A-P"><cl.A><w xlink:href="NT.Luk.w3580"/></cl.A><cl.P><w xlink:href="NT.Luk.w3581"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c46" level="primary" projected="yes" connect="NT.Luke.5_c45" structure="A-C-(P)"><cl.A><w xlink:href="NT.Luk.w3582"/><w xlink:href="NT.Luk.w3583"/><w xlink:href="NT.Luk.w3584"/></cl.A><cl.C><cl.clause xml:id="NT.Luke.5_c47" level="embedded" structure="C-P"><cl.C><w xlink:href="NT.Luk.w3585"/></cl.C><cl.P><w xlink:href="NT.Luk.w3587"/></cl.P></cl.clause><cl.P type="embed" parent="NT.Luke.5_c46"><w xlink:href="NT.Luk.w3586"/></cl.P></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c48" level="primary" connect="NT.Luke.5_c44" structure="conj-A-P-C"><pl.conj><w xlink:href="NT.Luk.w3588"/></pl.conj><cl.A><cl.clause xml:id="NT.Luke.5_c49" level="embedded" structure="P-C-A"><cl.P><w xlink:href="NT.Luk.w3589"/></cl.P><cl.C><w xlink:href="NT.Luk.w3590"/><w xlink:href="NT.Luk.w3591"/></cl.C><cl.A><w xlink:href="NT.Luk.w3592"/><w xlink:href="NT.Luk.w3593"/><w xlink:href="NT.Luk.w3594"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c50" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Luk.w3595"/></cl.P><cl.C><w xlink:href="NT.Luk.w3596"/></cl.C></cl.clause></cl.A><cl.P><w xlink:href="NT.Luk.w3597"/></cl.P><cl.C><w xlink:href="NT.Luk.w3598"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c51" level="primary" connect="NT.Luke.5_c48" structure="conj-P-A"><pl.conj><w xlink:href="NT.Luk.w3599"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3600"/></cl.P><cl.A><cl.clause xml:id="NT.Luke.5_c52" level="embedded" structure="P-S-A"><cl.P><w xlink:href="NT.Luk.w3601"/><w xlink:href="NT.Luk.w3602"/><w xlink:href="NT.Luk.w3603"/></cl.P><cl.S><w xlink:href="NT.Luk.w3604"/></cl.S><cl.A><w xlink:href="NT.Luk.w3605"/><w xlink:href="NT.Luk.w3606"/><w xlink:href="NT.Luk.w3607"/><w xlink:href="NT.Luk.w3608"/></cl.A></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c53" level="primary" connect="NT.Luke.5_c51" structure="conj-P"><pl.conj><w xlink:href="NT.Luk.w3609"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3610"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c54" level="primary" connect="NT.Luke.5_c53" structure="S"><cl.S><w xlink:href="NT.Luk.w3611"/><w xlink:href="NT.Luk.w3612"/><w xlink:href="NT.Luk.w3613"/></cl.S></cl.clause><cl.clause xml:id="NT.Luke.5_c55" level="primary" connect="NT.Luke.5_c54" structure="A-(conj)-A-P-C-A"><cl.A><cl.clause xml:id="NT.Luke.5_c56" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Luk.w3614"/></cl.P><cl.C><w xlink:href="NT.Luk.w3616"/><w xlink:href="NT.Luk.w3617"/></cl.C></cl.clause><pl.conj type="embed" parent="NT.Luke.5_c55"><w xlink:href="NT.Luk.w3615"/></pl.conj></cl.A><cl.A><cl.clause xml:id="NT.Luke.5_c57" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Luk.w3618"/></cl.P><cl.A><w xlink:href="NT.Luk.w3619"/><w xlink:href="NT.Luk.w3620"/></cl.A></cl.clause></cl.A><cl.P><w xlink:href="NT.Luk.w3621"/></cl.P><cl.C><w xlink:href="NT.Luk.w3622"/></cl.C><cl.A><cl.clause xml:id="NT.Luke.5_c58" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3623"/></cl.P></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c59" level="secondary" projected="yes" connect="NT.Luke.5_c60" structure="add-conj-P"><cl.add><w xlink:href="NT.Luk.w3624"/></cl.add><pl.conj><w xlink:href="NT.Luk.w3625"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3626"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c60" level="primary" projected="yes" connect="NT.Luke.5_c55" structure="P-C"><cl.P><w xlink:href="NT.Luk.w3627"/></cl.P><cl.C><cl.clause xml:id="NT.Luke.5_c61" level="embedded" structure="C-P"><cl.C><w xlink:href="NT.Luk.w3628"/></cl.C><cl.P><w xlink:href="NT.Luk.w3629"/></cl.P></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c62" level="primary" connect="NT.Luke.5_c55" structure="conj-A-P-C-A"><pl.conj><w xlink:href="NT.Luk.w3630"/></pl.conj><cl.A><cl.clause xml:id="NT.Luke.5_c63" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Luk.w3631"/></cl.P><cl.C><w xlink:href="NT.Luk.w3632"/><w xlink:href="NT.Luk.w3633"/></cl.C></cl.clause></cl.A><cl.P><w xlink:href="NT.Luk.w3634"/></cl.P><cl.C><w xlink:href="NT.Luk.w3635"/></cl.C><cl.A><cl.clause xml:id="NT.Luke.5_c64" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3636"/></cl.P></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c65" level="primary" projected="yes" connect="NT.Luke.5_c62" structure="P"><cl.P><w xlink:href="NT.Luk.w3637"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c66" level="primary" projected="yes" connect="NT.Luke.5_c65" structure="P"><cl.P><w xlink:href="NT.Luk.w3638"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c67" level="primary" connect="NT.Luke.5_c62" structure="conj-A-S-P-A"><pl.conj><w xlink:href="NT.Luk.w3639"/></pl.conj><cl.A><w xlink:href="NT.Luk.w3640"/></cl.A><cl.S><w xlink:href="NT.Luk.w3641"/><w xlink:href="NT.Luk.w3642"/></cl.S><cl.P><w xlink:href="NT.Luk.w3643"/></cl.P><cl.A><w xlink:href="NT.Luk.w3644"/><w xlink:href="NT.Luk.w3645"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c68" level="primary" connect="NT.Luke.5_c67" structure="conj-S-P-C-C"><pl.conj><w xlink:href="NT.Luk.w3646"/></pl.conj><cl.S><w xlink:href="NT.Luk.w3647"/></cl.S><cl.P><w xlink:href="NT.Luk.w3648"/></cl.P><cl.C><w xlink:href="NT.Luk.w3649"/></cl.C><cl.C><cl.clause xml:id="NT.Luke.5_c69" level="embedded" structure="C-P"><cl.C><w xlink:href="NT.Luk.w3650"/></cl.C><cl.P><w xlink:href="NT.Luk.w3651"/></cl.P></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c70" level="primary" projected="yes" connect="NT.Luke.5_c68" structure="conj-A-P-C-C"><pl.conj><w xlink:href="NT.Luk.w3652"/></pl.conj><cl.A><cl.clause xml:id="NT.Luke.5_c71" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3653"/></cl.P></cl.clause></cl.A><cl.P><w xlink:href="NT.Luk.w3654"/></cl.P><cl.C><w xlink:href="NT.Luk.w3655"/></cl.C><cl.C><w xlink:href="NT.Luk.w3656"/><w xlink:href="NT.Luk.w3657"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c72" level="primary" projected="yes" connect="NT.Luke.5_c70" structure="conj-P-A"><pl.conj><w xlink:href="NT.Luk.w3658"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3659"/></cl.P><cl.A><w xlink:href="NT.Luk.w3660"/><w xlink:href="NT.Luk.w3661"/><w xlink:href="NT.Luk.w3662"/><w xlink:href="NT.Luk.w3663"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c73" level="secondary" projected="yes" connect="NT.Luke.5_c72" structure="conj-P-S-A"><pl.conj><w xlink:href="NT.Luk.w3664"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3665"/></cl.P><cl.S><w xlink:href="NT.Luk.w3666"/></cl.S><cl.A><w xlink:href="NT.Luk.w3667"/><w xlink:href="NT.Luk.w3668"/><w xlink:href="NT.Luk.w3669"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c74" level="primary" connect="NT.Luke.5_c68" structure="P-conj-A-S"><cl.P><w xlink:href="NT.Luk.w3670"/></cl.P><pl.conj><w xlink:href="NT.Luk.w3671"/></pl.conj><cl.A><w xlink:href="NT.Luk.w3672"/></cl.A><cl.S><w xlink:href="NT.Luk.w3673"/><w xlink:href="NT.Luk.w3674"/><w xlink:href="NT.Luk.w3675"/><w xlink:href="NT.Luk.w3676"/></cl.S></cl.clause><cl.clause xml:id="NT.Luke.5_c75" level="primary" connect="NT.Luke.5_c74" structure="conj-P-S-A"><pl.conj><w xlink:href="NT.Luk.w3677"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3678"/></cl.P><cl.S><w xlink:href="NT.Luk.w3679"/><w xlink:href="NT.Luk.w3680"/></cl.S><cl.A><cl.clause xml:id="NT.Luke.5_c76" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3681"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c77" level="embedded" structure="conj-P-A"><pl.conj><w xlink:href="NT.Luk.w3682"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3683"/></cl.P><cl.A><w xlink:href="NT.Luk.w3684"/><w xlink:href="NT.Luk.w3685"/><w xlink:href="NT.Luk.w3686"/><w xlink:href="NT.Luk.w3687"/></cl.A></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c78" level="primary" connect="NT.Luke.5_c75" structure="S-conj-P-C"><cl.S><w xlink:href="NT.Luk.w3688"/></cl.S><pl.conj><w xlink:href="NT.Luk.w3689"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3690"/></cl.P><cl.C><cl.clause xml:id="NT.Luke.5_c79" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Luk.w3691"/></cl.P><cl.A><w xlink:href="NT.Luk.w3692"/><w xlink:href="NT.Luk.w3693"/><w xlink:href="NT.Luk.w3694"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c80" level="embedded" structure="conj-P"><pl.conj><w xlink:href="NT.Luk.w3695"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3696"/></cl.P></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c81" level="primary" connect="NT.Luke.5_c78" structure="conj-P-A"><pl.conj><w xlink:href="NT.Luk.w3697"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3698"/></cl.P><cl.A><w xlink:href="NT.Luk.w3699"/><w xlink:href="NT.Luk.w3700"/><w xlink:href="NT.Luk.w3701"/><w xlink:href="NT.Luk.w3702"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c82" level="primary" connect="NT.Luke.5_c81" structure="conj-S-P-C"><pl.conj><w xlink:href="NT.Luk.w3703"/></pl.conj><cl.S><w xlink:href="NT.Luk.w3704"/></cl.S><cl.P><w xlink:href="NT.Luk.w3705"/></cl.P><cl.C><cl.clause xml:id="NT.Luke.5_c83" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3706"/></cl.P></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c84" level="primary" connect="NT.Luke.5_c82" structure="conj-P-C-S"><pl.conj><w xlink:href="NT.Luk.w3707"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3708"/></cl.P><cl.C><cl.clause xml:id="NT.Luke.5_c85" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3709"/></cl.P></cl.clause></cl.C><cl.S><w xlink:href="NT.Luk.w3710"/><w xlink:href="NT.Luk.w3711"/><w xlink:href="NT.Luk.w3712"/></cl.S></cl.clause><cl.clause xml:id="NT.Luke.5_c86" level="secondary" connect="NT.Luke.5_c84" structure="S-P-C"><cl.S><w xlink:href="NT.Luk.w3713"/></cl.S><cl.P><w xlink:href="NT.Luk.w3714"/></cl.P><cl.C><cl.clause xml:id="NT.Luke.5_c87" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Luk.w3715"/></cl.P><cl.A><w xlink:href="NT.Luk.w3716"/><w xlink:href="NT.Luk.w3717"/><w xlink:href="NT.Luk.w3718"/><w xlink:href="NT.Luk.w3719"/><w xlink:href="NT.Luk.w3720"/><w xlink:href="NT.Luk.w3721"/><w xlink:href="NT.Luk.w3722"/><w xlink:href="NT.Luk.w3723"/><w xlink:href="NT.Luk.w3724"/></cl.A></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c88" level="primary" connect="NT.Luke.5_c84" structure="conj-S-P-A"><pl.conj><w xlink:href="NT.Luk.w3725"/></pl.conj><cl.S><w xlink:href="NT.Luk.w3726"/><w xlink:href="NT.Luk.w3727"/></cl.S><cl.P><w xlink:href="NT.Luk.w3728"/></cl.P><cl.A><cl.clause xml:id="NT.Luke.5_c89" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Luk.w3729"/><w xlink:href="NT.Luk.w3730"/><w xlink:href="NT.Luk.w3731"/></cl.P><cl.A><w xlink:href="NT.Luk.w3732"/></cl.A></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c90" level="primary" connect="NT.Luke.5_c88" structure="conj-P"><pl.conj><w xlink:href="NT.Luk.w3733"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3734"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c91" level="primary" connect="NT.Luke.5_c90" structure="S-C"><cl.S><w xlink:href="NT.Luk.w3735"/></cl.S><cl.C><cl.clause xml:id="NT.Luke.5_c92" level="embedded" structure="P-A-C"><cl.P><w xlink:href="NT.Luk.w3736"/></cl.P><cl.A><w xlink:href="NT.Luk.w3737"/><w xlink:href="NT.Luk.w3738"/></cl.A><cl.C><w xlink:href="NT.Luk.w3739"/><cl.clause xml:id="NT.Luke.5_c93" level="embedded" structure="S-P-C"><cl.S><w xlink:href="NT.Luk.w3740"/></cl.S><cl.P><w xlink:href="NT.Luk.w3741"/></cl.P><cl.C><cl.clause xml:id="NT.Luke.5_c94" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3742"/></cl.P></cl.clause></cl.C></cl.clause></cl.C></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c95" level="primary" connect="NT.Luke.5_c91" structure="conj-P-C"><pl.conj><w xlink:href="NT.Luk.w3743"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3744"/></cl.P><cl.C><cl.clause xml:id="NT.Luke.5_c96" level="embedded" structure="C-P"><cl.C><w xlink:href="NT.Luk.w3745"/></cl.C><cl.P><w xlink:href="NT.Luk.w3746"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c97" level="embedded" structure="conj-P-C-A"><pl.conj><w xlink:href="NT.Luk.w3747"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3748"/></cl.P><cl.C><w xlink:href="NT.Luk.w3749"/></cl.C><cl.A><w xlink:href="NT.Luk.w3750"/><w xlink:href="NT.Luk.w3751"/></cl.A></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c98" level="primary" connect="NT.Luke.5_c95" structure="conj-A-A-A-P-C-A-A-A"><pl.conj><w xlink:href="NT.Luk.w3752"/></pl.conj><cl.A><cl.clause xml:id="NT.Luke.5_c99" level="embedded" structure="A-P-C"><cl.A><w xlink:href="NT.Luk.w3753"/></cl.A><cl.P><w xlink:href="NT.Luk.w3754"/></cl.P><cl.C><cl.clause xml:id="NT.Luke.5_c100" level="embedded" structure="A-P-C-A"><cl.A><w xlink:href="NT.Luk.w3755"/></cl.A><cl.P><w xlink:href="NT.Luk.w3756"/></cl.P><cl.C><w xlink:href="NT.Luk.w3757"/></cl.C><cl.A><w xlink:href="NT.Luk.w3758"/><w xlink:href="NT.Luk.w3759"/><w xlink:href="NT.Luk.w3760"/></cl.A></cl.clause></cl.C></cl.clause></cl.A><cl.A><cl.clause xml:id="NT.Luke.5_c101" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Luk.w3761"/></cl.P><cl.A><w xlink:href="NT.Luk.w3762"/><w xlink:href="NT.Luk.w3763"/><w xlink:href="NT.Luk.w3764"/></cl.A></cl.clause></cl.A><cl.A><w xlink:href="NT.Luk.w3765"/><w xlink:href="NT.Luk.w3766"/><w xlink:href="NT.Luk.w3767"/></cl.A><cl.P><w xlink:href="NT.Luk.w3768"/></cl.P><cl.C><w xlink:href="NT.Luk.w3769"/></cl.C><cl.A><w xlink:href="NT.Luk.w3770"/><w xlink:href="NT.Luk.w3771"/><w xlink:href="NT.Luk.w3772"/></cl.A><cl.A><w xlink:href="NT.Luk.w3773"/><w xlink:href="NT.Luk.w3774"/><w xlink:href="NT.Luk.w3775"/></cl.A><cl.A><w xlink:href="NT.Luk.w3776"/><w xlink:href="NT.Luk.w3777"/><w xlink:href="NT.Luk.w3778"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c102" level="primary" connect="NT.Luke.5_c98" structure="conj-A-P"><pl.conj><w xlink:href="NT.Luk.w3779"/></pl.conj><cl.A><cl.clause xml:id="NT.Luke.5_c103" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Luk.w3780"/></cl.P><cl.C><w xlink:href="NT.Luk.w3781"/><w xlink:href="NT.Luk.w3782"/><w xlink:href="NT.Luk.w3783"/></cl.C></cl.clause></cl.A><cl.P><w xlink:href="NT.Luk.w3784"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c104" level="primary" projected="yes" connect="NT.Luke.5_c102" structure="add-P-C-S"><cl.add><w xlink:href="NT.Luk.w3785"/></cl.add><cl.P><w xlink:href="NT.Luk.w3786"/></cl.P><cl.C><w xlink:href="NT.Luk.w3787"/></cl.C><cl.S><w xlink:href="NT.Luk.w3788"/><w xlink:href="NT.Luk.w3789"/><w xlink:href="NT.Luk.w3790"/></cl.S></cl.clause><cl.clause xml:id="NT.Luke.5_c105" level="primary" connect="NT.Luke.5_c102" structure="conj-P-C-S-A"><pl.conj><w xlink:href="NT.Luk.w3791"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3792"/></cl.P><cl.C><cl.clause xml:id="NT.Luke.5_c106" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3793"/></cl.P></cl.clause></cl.C><cl.S><w xlink:href="NT.Luk.w3794"/><w xlink:href="NT.Luk.w3795"/><w xlink:href="NT.Luk.w3796"/><w xlink:href="NT.Luk.w3797"/><w xlink:href="NT.Luk.w3798"/></cl.S><cl.A><cl.clause xml:id="NT.Luke.5_c107" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3799"/></cl.P></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c108" level="primary" projected="yes" connect="NT.Luke.5_c105" structure="C-P-S"><cl.C><w xlink:href="NT.Luk.w3800"/></cl.C><cl.P><w xlink:href="NT.Luk.w3801"/></cl.P><cl.S><w xlink:href="NT.Luk.w3802"/></cl.S></cl.clause><cl.clause xml:id="NT.Luke.5_c109" level="secondary" projected="yes" connect="NT.Luke.5_c108" structure="S-P-C"><cl.S><w xlink:href="NT.Luk.w3803"/></cl.S><cl.P><w xlink:href="NT.Luk.w3804"/></cl.P><cl.C><w xlink:href="NT.Luk.w3805"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c110" level="primary" projected="yes" connect="NT.Luke.5_c108" structure="S-P-C"><cl.S><w xlink:href="NT.Luk.w3806"/></cl.S><cl.P><w xlink:href="NT.Luk.w3807"/></cl.P><cl.C><cl.clause xml:id="NT.Luke.5_c111" level="embedded" structure="C-P"><cl.C><w xlink:href="NT.Luk.w3808"/></cl.C><cl.P><w xlink:href="NT.Luk.w3809"/></cl.P></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c112" level="secondary" projected="yes" connect="NT.Luke.5_c110" structure="conj-A-A-S"><pl.conj><w xlink:href="NT.Luk.w3810"/></pl.conj><cl.A><w xlink:href="NT.Luk.w3811"/></cl.A><cl.A><w xlink:href="NT.Luk.w3812"/></cl.A><cl.S><w xlink:href="NT.Luk.w3813"/><w xlink:href="NT.Luk.w3814"/></cl.S></cl.clause><cl.clause xml:id="NT.Luke.5_c113" level="primary" connect="NT.Luke.5_c105" structure="A-(conj)-(S)-A-P-A"><cl.A><cl.clause xml:id="NT.Luke.5_c114" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Luk.w3815"/></cl.P><cl.C><w xlink:href="NT.Luk.w3819"/><w xlink:href="NT.Luk.w3820"/><w xlink:href="NT.Luk.w3821"/></cl.C></cl.clause><pl.conj type="embed" parent="NT.Luke.5_c113"><w xlink:href="NT.Luk.w3816"/></pl.conj><cl.S type="embed" parent="NT.Luke.5_c113"><w xlink:href="NT.Luk.w3817"/><w xlink:href="NT.Luk.w3818"/></cl.S></cl.A><cl.A><cl.clause xml:id="NT.Luke.5_c115" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3822"/></cl.P></cl.clause></cl.A><cl.P><w xlink:href="NT.Luk.w3823"/></cl.P><cl.A><w xlink:href="NT.Luk.w3824"/><w xlink:href="NT.Luk.w3825"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c116" level="primary" projected="yes" connect="NT.Luke.5_c113" structure="A-P-A"><cl.A><w xlink:href="NT.Luk.w3826"/></cl.A><cl.P><w xlink:href="NT.Luk.w3827"/></cl.P><cl.A><w xlink:href="NT.Luk.w3828"/><w xlink:href="NT.Luk.w3829"/><w xlink:href="NT.Luk.w3830"/><w xlink:href="NT.Luk.w3831"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c117" level="primary" projected="yes" connect="NT.Luke.5_c116" structure="S-P-C"><cl.S><w xlink:href="NT.Luk.w3832"/></cl.S><cl.P><w xlink:href="NT.Luk.w3833"/></cl.P><cl.C><w xlink:href="NT.Luk.w3834"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c118" level="secondary" projected="yes" connect="NT.Luke.5_c117" structure="P"><cl.P><w xlink:href="NT.Luk.w3835"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c119" level="secondary" projected="yes" connect="NT.Luke.5_c118" structure="P-C-S"><cl.P><w xlink:href="NT.Luk.w3836"/></cl.P><cl.C><w xlink:href="NT.Luk.w3837"/></cl.C><cl.S><w xlink:href="NT.Luk.w3838"/><w xlink:href="NT.Luk.w3839"/><w xlink:href="NT.Luk.w3840"/></cl.S></cl.clause><cl.clause xml:id="NT.Luke.5_c120" level="secondary" projected="yes" connect="NT.Luke.5_c118" structure="conj-P"><pl.conj><w xlink:href="NT.Luk.w3841"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3842"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c121" level="secondary" projected="yes" connect="NT.Luke.5_c120" structure="P"><cl.P><w xlink:href="NT.Luk.w3843"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c122" level="secondary" projected="yes" connect="NT.Luke.5_c121" structure="conj-P"><pl.conj><w xlink:href="NT.Luk.w3844"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3845"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c123" level="secondary" projected="yes" connect="NT.Luke.5_c117" structure="conj-conj-P"><pl.conj><w xlink:href="NT.Luk.w3846"/></pl.conj><pl.conj><w xlink:href="NT.Luk.w3847"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3848"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c124" level="secondary2" projected="yes" connect="NT.Luke.5_c123" structure="conj-S-C-P-A-C"><pl.conj><w xlink:href="NT.Luk.w3849"/></pl.conj><cl.S><w xlink:href="NT.Luk.w3850"/><w xlink:href="NT.Luk.w3851"/><w xlink:href="NT.Luk.w3852"/><w xlink:href="NT.Luk.w3853"/></cl.S><cl.C><w xlink:href="NT.Luk.w3854"/></cl.C><cl.P><w xlink:href="NT.Luk.w3855"/></cl.P><cl.A><w xlink:href="NT.Luk.w3856"/><w xlink:href="NT.Luk.w3857"/><w xlink:href="NT.Luk.w3858"/></cl.A><cl.C><cl.clause xml:id="NT.Luke.5_c125" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Luk.w3859"/></cl.P><cl.C><w xlink:href="NT.Luk.w3860"/></cl.C></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c126" level="primary" connect="NT.Luke.5_c113" structure="P-C"><cl.P><w xlink:href="NT.Luk.w3861"/></cl.P><cl.C><cl.clause xml:id="NT.Luke.5_c127" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3862"/><w xlink:href="NT.Luk.w3863"/></cl.P></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c128" level="primary" projected="yes" connect="NT.Luke.5_c126" structure="C-P"><cl.C><w xlink:href="NT.Luk.w3864"/></cl.C><cl.P><w xlink:href="NT.Luk.w3865"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c129" level="primary" projected="yes" connect="NT.Luke.5_c128" structure="P"><cl.P><w xlink:href="NT.Luk.w3866"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c130" level="primary" projected="yes" connect="NT.Luke.5_c129" structure="conj-P-C"><pl.conj><w xlink:href="NT.Luk.w3867"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3868"/></cl.P><cl.C><w xlink:href="NT.Luk.w3869"/><w xlink:href="NT.Luk.w3870"/><w xlink:href="NT.Luk.w3871"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c131" level="primary" projected="yes" connect="NT.Luke.5_c130" structure="P-A"><cl.P><w xlink:href="NT.Luk.w3872"/></cl.P><cl.A><w xlink:href="NT.Luk.w3873"/><w xlink:href="NT.Luk.w3874"/><w xlink:href="NT.Luk.w3875"/><w xlink:href="NT.Luk.w3876"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c132" level="primary" connect="NT.Luke.5_c126" structure="conj-A-A-A-P-A-A"><pl.conj><w xlink:href="NT.Luk.w3877"/></pl.conj><cl.A><w xlink:href="NT.Luk.w3878"/></cl.A><cl.A><cl.clause xml:id="NT.Luke.5_c133" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Luk.w3879"/></cl.P><cl.A><w xlink:href="NT.Luk.w3880"/><w xlink:href="NT.Luk.w3881"/></cl.A></cl.clause></cl.A><cl.A><cl.clause xml:id="NT.Luke.5_c134" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Luk.w3882"/></cl.P><cl.A><cl.clause xml:id="NT.Luke.5_c135" level="embedded" structure="A-P"><cl.A><w xlink:href="NT.Luk.w3883"/><w xlink:href="NT.Luk.w3884"/></cl.A><cl.P><w xlink:href="NT.Luk.w3885"/></cl.P></cl.clause></cl.A></cl.clause></cl.A><cl.P><w xlink:href="NT.Luk.w3886"/></cl.P><cl.A><w xlink:href="NT.Luk.w3887"/><w xlink:href="NT.Luk.w3888"/><w xlink:href="NT.Luk.w3889"/><w xlink:href="NT.Luk.w3890"/></cl.A><cl.A><cl.clause xml:id="NT.Luke.5_c136" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Luk.w3891"/></cl.P><cl.C><w xlink:href="NT.Luk.w3892"/><w xlink:href="NT.Luk.w3893"/></cl.C></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c137" level="primary" connect="NT.Luke.5_c132" structure="conj-S-P-C"><pl.conj><w xlink:href="NT.Luk.w3894"/></pl.conj><cl.S><w xlink:href="NT.Luk.w3895"/></cl.S><cl.P><w xlink:href="NT.Luk.w3896"/></cl.P><cl.C><w xlink:href="NT.Luk.w3897"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c138" level="primary" connect="NT.Luke.5_c137" structure="conj-P-C"><pl.conj><w xlink:href="NT.Luk.w3898"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3899"/></cl.P><cl.C><w xlink:href="NT.Luk.w3900"/><w xlink:href="NT.Luk.w3901"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c139" level="primary" connect="NT.Luke.5_c138" structure="conj-P-A-A"><pl.conj><w xlink:href="NT.Luk.w3902"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3903"/></cl.P><cl.A><w xlink:href="NT.Luk.w3904"/></cl.A><cl.A><cl.clause xml:id="NT.Luke.5_c140" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3905"/></cl.P></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c141" level="primary" projected="yes" connect="NT.Luke.5_c139" structure="conj-P-C-A"><pl.conj><w xlink:href="NT.Luk.w3906"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3907"/></cl.P><cl.C><w xlink:href="NT.Luk.w3908"/></cl.C><cl.A><w xlink:href="NT.Luk.w3909"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c142" level="primary" connect="NT.Luke.5_c139" structure="conj-A-P"><pl.conj><w xlink:href="NT.Luk.w3910"/></pl.conj><cl.A><w xlink:href="NT.Luk.w3911"/><w xlink:href="NT.Luk.w3912"/></cl.A><cl.P><w xlink:href="NT.Luk.w3913"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c143" level="primary" connect="NT.Luke.5_c142" structure="conj-P-C"><pl.conj><w xlink:href="NT.Luk.w3914"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3915"/></cl.P><cl.C><w xlink:href="NT.Luk.w3916"/><w xlink:href="NT.Luk.w3917"/><w xlink:href="NT.Luk.w3918"/><cl.clause xml:id="NT.Luke.5_c144" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Luk.w3919"/></cl.P><cl.A><w xlink:href="NT.Luk.w3920"/><w xlink:href="NT.Luk.w3921"/><w xlink:href="NT.Luk.w3922"/></cl.A></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c145" level="primary" connect="NT.Luke.5_c143" structure="conj-P-C"><pl.conj><w xlink:href="NT.Luk.w3923"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3924"/></cl.P><cl.C><w xlink:href="NT.Luk.w3925"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c146" level="primary" projected="yes" connect="NT.Luke.5_c145" structure="P-C"><cl.P><w xlink:href="NT.Luk.w3926"/></cl.P><cl.C><w xlink:href="NT.Luk.w3927"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c147" level="primary" connect="NT.Luke.5_c145" structure="conj-A-A-P-C"><pl.conj><w xlink:href="NT.Luk.w3928"/></pl.conj><cl.A><cl.clause xml:id="NT.Luke.5_c148" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Luk.w3929"/></cl.P><cl.C><w xlink:href="NT.Luk.w3930"/></cl.C></cl.clause></cl.A><cl.A><cl.clause xml:id="NT.Luke.5_c149" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3931"/></cl.P></cl.clause></cl.A><cl.P><w xlink:href="NT.Luk.w3932"/></cl.P><cl.C><w xlink:href="NT.Luk.w3933"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c150" level="primary" connect="NT.Luke.5_c147" structure="conj-P-C-S-C-A"><pl.conj><w xlink:href="NT.Luk.w3934"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3935"/></cl.P><cl.C><w xlink:href="NT.Luk.w3936"/><w xlink:href="NT.Luk.w3937"/></cl.C><cl.S><w xlink:href="NT.Luk.w3938"/></cl.S><cl.C><w xlink:href="NT.Luk.w3939"/></cl.C><cl.A><w xlink:href="NT.Luk.w3940"/><w xlink:href="NT.Luk.w3941"/><w xlink:href="NT.Luk.w3942"/><w xlink:href="NT.Luk.w3943"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c151" level="primary" connect="NT.Luke.5_c150" structure="conj-P-S-C"><pl.conj><w xlink:href="NT.Luk.w3944"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3945"/></cl.P><cl.S><w xlink:href="NT.Luk.w3946"/><w xlink:href="NT.Luk.w3947"/><w xlink:href="NT.Luk.w3948"/><w xlink:href="NT.Luk.w3949"/><w xlink:href="NT.Luk.w3950"/><cl.clause xml:id="NT.Luke.5_c152" level="embedded" structure="S-P-A"><cl.S><w xlink:href="NT.Luk.w3951"/></cl.S><cl.P><w xlink:href="NT.Luk.w3952"/></cl.P><cl.A><w xlink:href="NT.Luk.w3953"/><w xlink:href="NT.Luk.w3954"/></cl.A></cl.clause></cl.S><cl.C><cl.clause xml:id="NT.Luke.5_c153" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3955"/></cl.P></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c154" level="primary" connect="NT.Luke.5_c151" structure="conj-P-S-A-A"><pl.conj><w xlink:href="NT.Luk.w3956"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3957"/></cl.P><cl.S><w xlink:href="NT.Luk.w3958"/><w xlink:href="NT.Luk.w3959"/><w xlink:href="NT.Luk.w3960"/><w xlink:href="NT.Luk.w3961"/><w xlink:href="NT.Luk.w3962"/><w xlink:href="NT.Luk.w3963"/></cl.S><cl.A><w xlink:href="NT.Luk.w3964"/><w xlink:href="NT.Luk.w3965"/><w xlink:href="NT.Luk.w3966"/><w xlink:href="NT.Luk.w3967"/></cl.A><cl.A><cl.clause xml:id="NT.Luke.5_c155" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3968"/></cl.P></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c156" level="primary" projected="yes" connect="NT.Luke.5_c154" structure="A-A-P"><cl.A><w xlink:href="NT.Luk.w3969"/><w xlink:href="NT.Luk.w3970"/></cl.A><cl.A><w xlink:href="NT.Luk.w3971"/><w xlink:href="NT.Luk.w3972"/><w xlink:href="NT.Luk.w3973"/><w xlink:href="NT.Luk.w3974"/><w xlink:href="NT.Luk.w3975"/></cl.A><cl.P><w xlink:href="NT.Luk.w3976"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c157" level="primary" projected="yes" connect="NT.Luke.5_c156" structure="conj-P"><pl.conj><w xlink:href="NT.Luk.w3977"/></pl.conj><cl.P><w xlink:href="NT.Luk.w3978"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c158" level="primary" connect="NT.Luke.5_c154" structure="conj-A-S-P-A"><pl.conj><w xlink:href="NT.Luk.w3979"/></pl.conj><cl.A><cl.clause xml:id="NT.Luke.5_c159" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3980"/></cl.P></cl.clause></cl.A><cl.S><w xlink:href="NT.Luk.w3981"/><w xlink:href="NT.Luk.w3982"/></cl.S><cl.P><w xlink:href="NT.Luk.w3983"/></cl.P><cl.A><w xlink:href="NT.Luk.w3984"/><w xlink:href="NT.Luk.w3985"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c160" level="primary" projected="yes" connect="NT.Luke.5_c158" structure="A-C-(P)-(S)"><cl.A><w xlink:href="NT.Luk.w3986"/></cl.A><cl.C><w xlink:href="NT.Luk.w3987"/><cl.P type="embed" parent="NT.Luke.5_c160"><w xlink:href="NT.Luk.w3988"/></cl.P><cl.S type="embed" parent="NT.Luke.5_c160"><cl.clause xml:id="NT.Luke.5_c161" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w3989"/><w xlink:href="NT.Luk.w3990"/></cl.P></cl.clause></cl.S><w xlink:href="NT.Luk.w3991"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c162" level="primary" projected="yes" connect="NT.Luke.5_c160" structure="conj-S"><pl.conj><w xlink:href="NT.Luk.w3992"/></pl.conj><cl.S><cl.clause xml:id="NT.Luke.5_c163" level="embedded" structure="P-(A)"><cl.P><w xlink:href="NT.Luk.w3993"/><cl.A type="embed" parent="NT.Luke.5_c163"><w xlink:href="NT.Luk.w3994"/></cl.A><w xlink:href="NT.Luk.w3995"/></cl.P></cl.clause></cl.S></cl.clause><cl.clause xml:id="NT.Luke.5_c164" level="primary" projected="yes" connect="NT.Luke.5_c162" structure="A-P-A"><cl.A><w xlink:href="NT.Luk.w3996"/></cl.A><cl.P><w xlink:href="NT.Luk.w3997"/></cl.P><cl.A><cl.clause xml:id="NT.Luke.5_c165" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Luk.w3998"/></cl.P><cl.C><w xlink:href="NT.Luk.w3999"/></cl.C></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c166" level="primary" projected="yes" connect="NT.Luke.5_c164" structure="conj-C-A"><pl.conj><w xlink:href="NT.Luk.w4000"/></pl.conj><cl.C><w xlink:href="NT.Luk.w4001"/></cl.C><cl.A><w xlink:href="NT.Luk.w4002"/><w xlink:href="NT.Luk.w4003"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c167" level="primary" connect="NT.Luke.5_c158" structure="S-conj-P-A"><cl.S><w xlink:href="NT.Luk.w4004"/></cl.S><pl.conj><w xlink:href="NT.Luk.w4005"/></pl.conj><cl.P><w xlink:href="NT.Luk.w4006"/></cl.P><cl.A><w xlink:href="NT.Luk.w4007"/><w xlink:href="NT.Luk.w4008"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c168" level="primary" projected="yes" connect="NT.Luke.5_c167" structure="S-P-A"><cl.S><w xlink:href="NT.Luk.w4009"/><w xlink:href="NT.Luk.w4010"/><w xlink:href="NT.Luk.w4011"/></cl.S><cl.P><w xlink:href="NT.Luk.w4012"/></cl.P><cl.A><w xlink:href="NT.Luk.w4013"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c169" level="primary" projected="yes" connect="NT.Luke.5_c168" structure="conj-C-P"><pl.conj><w xlink:href="NT.Luk.w4014"/></pl.conj><cl.C><w xlink:href="NT.Luk.w4015"/></cl.C><cl.P><w xlink:href="NT.Luk.w4016"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c170" level="primary" projected="yes" connect="NT.Luke.5_c169" structure="conj-conj-S"><pl.conj><w xlink:href="NT.Luk.w4017"/></pl.conj><pl.conj><w xlink:href="NT.Luk.w4018"/></pl.conj><cl.S><w xlink:href="NT.Luk.w4019"/><w xlink:href="NT.Luk.w4020"/><w xlink:href="NT.Luk.w4021"/></cl.S></cl.clause><cl.clause xml:id="NT.Luke.5_c171" level="primary" projected="yes" connect="NT.Luke.5_c170" structure="S-(conj)-P"><cl.S><w xlink:href="NT.Luk.w4022"/><pl.conj type="embed" parent="NT.Luke.5_c171"><w xlink:href="NT.Luk.w4023"/></pl.conj><w xlink:href="NT.Luk.w4024"/></cl.S><cl.P><w xlink:href="NT.Luk.w4025"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c172" level="primary" projected="yes" connect="NT.Luke.5_c171" structure="conj-P"><pl.conj><w xlink:href="NT.Luk.w4026"/></pl.conj><cl.P><w xlink:href="NT.Luk.w4027"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c173" level="primary" connect="NT.Luke.5_c167" structure="S-(conj)-P-A"><cl.S><w xlink:href="NT.Luk.w4028"/><pl.conj type="embed" parent="NT.Luke.5_c173"><w xlink:href="NT.Luk.w4029"/></pl.conj><w xlink:href="NT.Luk.w4030"/></cl.S><cl.P><w xlink:href="NT.Luk.w4031"/></cl.P><cl.A><w xlink:href="NT.Luk.w4032"/><w xlink:href="NT.Luk.w4033"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c174" level="primary" projected="yes" connect="NT.Luke.5_c173" structure="A-P-C"><cl.A><w xlink:href="NT.Luk.w4034"/></cl.A><cl.P><w xlink:href="NT.Luk.w4035"/></cl.P><cl.C><cl.clause xml:id="NT.Luke.5_c175" level="embedded" structure="S-A-P-C"><cl.S><w xlink:href="NT.Luk.w4036"/><w xlink:href="NT.Luk.w4037"/><w xlink:href="NT.Luk.w4038"/><w xlink:href="NT.Luk.w4039"/></cl.S><cl.A><cl.clause xml:id="NT.Luke.5_c176" level="embedded" structure="A-S-A-P"><cl.A><w xlink:href="NT.Luk.w4040"/><w xlink:href="NT.Luk.w4041"/></cl.A><cl.S><w xlink:href="NT.Luk.w4042"/><w xlink:href="NT.Luk.w4043"/></cl.S><cl.A><w xlink:href="NT.Luk.w4044"/><w xlink:href="NT.Luk.w4045"/></cl.A><cl.P><w xlink:href="NT.Luk.w4046"/></cl.P></cl.clause></cl.A><cl.P><w xlink:href="NT.Luk.w4047"/></cl.P><cl.C><cl.clause xml:id="NT.Luke.5_c177" level="embedded" structure="P"><cl.P><w xlink:href="NT.Luk.w4048"/></cl.P></cl.clause></cl.C></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c178" level="primary" projected="yes" connect="NT.Luke.5_c174" structure="P-conj-S"><cl.P><w xlink:href="NT.Luk.w4049"/></cl.P><pl.conj><w xlink:href="NT.Luk.w4050"/></pl.conj><cl.S><w xlink:href="NT.Luk.w4051"/></cl.S></cl.clause><cl.clause xml:id="NT.Luke.5_c179" level="secondary" projected="yes" connect="NT.Luke.5_c178" structure="conj-conj-P-A-S"><pl.conj><w xlink:href="NT.Luk.w4052"/></pl.conj><pl.conj><w xlink:href="NT.Luk.w4053"/></pl.conj><cl.P><w xlink:href="NT.Luk.w4054"/></cl.P><cl.A><w xlink:href="NT.Luk.w4055"/><w xlink:href="NT.Luk.w4056"/></cl.A><cl.S><w xlink:href="NT.Luk.w4057"/><w xlink:href="NT.Luk.w4058"/></cl.S></cl.clause><cl.clause xml:id="NT.Luke.5_c180" level="primary" projected="yes" connect="NT.Luke.5_c178" structure="conj-P-A"><pl.conj><w xlink:href="NT.Luk.w4059"/></pl.conj><cl.P><w xlink:href="NT.Luk.w4060"/></cl.P><cl.A><w xlink:href="NT.Luk.w4061"/><w xlink:href="NT.Luk.w4062"/><w xlink:href="NT.Luk.w4063"/><w xlink:href="NT.Luk.w4064"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c181" level="primary" connect="NT.Luke.5_c173" structure="P-conj-conj-C-A"><cl.P><w xlink:href="NT.Luk.w4065"/></cl.P><pl.conj><w xlink:href="NT.Luk.w4066"/></pl.conj><pl.conj><w xlink:href="NT.Luk.w4067"/></pl.conj><cl.C><w xlink:href="NT.Luk.w4068"/></cl.C><cl.A><w xlink:href="NT.Luk.w4069"/><w xlink:href="NT.Luk.w4070"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c182" level="primary" projected="yes" connect="NT.Luke.5_c181" structure="conj-S-A-P-A"><pl.conj><w xlink:href="NT.Luk.w4071"/></pl.conj><cl.S><w xlink:href="NT.Luk.w4072"/></cl.S><cl.A><cl.clause xml:id="NT.Luke.5_c183" level="embedded" structure="C-A-P"><cl.C><w xlink:href="NT.Luk.w4073"/></cl.C><cl.A><w xlink:href="NT.Luk.w4074"/><w xlink:href="NT.Luk.w4075"/><w xlink:href="NT.Luk.w4076"/></cl.A><cl.P><w xlink:href="NT.Luk.w4077"/></cl.P></cl.clause></cl.A><cl.P><w xlink:href="NT.Luk.w4078"/></cl.P><cl.A><w xlink:href="NT.Luk.w4079"/><w xlink:href="NT.Luk.w4080"/><w xlink:href="NT.Luk.w4081"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c184" level="secondary" projected="yes" connect="NT.Luke.5_c185" structure="conj-conj-A-A"><pl.conj><w xlink:href="NT.Luk.w4082"/></pl.conj><pl.conj><w xlink:href="NT.Luk.w4083"/></pl.conj><cl.A><w xlink:href="NT.Luk.w4084"/></cl.A><cl.A><w xlink:href="NT.Luk.w4085"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c185" level="primary" projected="yes" connect="NT.Luke.5_c182" structure="A-S-P"><cl.A><w xlink:href="NT.Luk.w4086"/></cl.A><cl.S><w xlink:href="NT.Luk.w4087"/><w xlink:href="NT.Luk.w4088"/></cl.S><cl.P><w xlink:href="NT.Luk.w4089"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c186" level="primary" projected="yes" connect="NT.Luke.5_c185" structure="conj-C-A-P-S"><pl.conj><w xlink:href="NT.Luk.w4090"/></pl.conj><cl.C><w xlink:href="NT.Luk.w4091"/><w xlink:href="NT.Luk.w4092"/></cl.C><cl.A><w xlink:href="NT.Luk.w4093"/></cl.A><cl.P><w xlink:href="NT.Luk.w4094"/></cl.P><cl.S><w xlink:href="NT.Luk.w4095"/><w xlink:href="NT.Luk.w4096"/><w xlink:href="NT.Luk.w4097"/><w xlink:href="NT.Luk.w4098"/><w xlink:href="NT.Luk.w4099"/><w xlink:href="NT.Luk.w4100"/></cl.S></cl.clause><cl.clause xml:id="NT.Luke.5_c187" level="primary" projected="yes" connect="NT.Luke.5_c186" structure="conj-S-P-C-A"><pl.conj><w xlink:href="NT.Luk.w4101"/></pl.conj><cl.S><w xlink:href="NT.Luk.w4102"/></cl.S><cl.P><w xlink:href="NT.Luk.w4103"/></cl.P><cl.C><w xlink:href="NT.Luk.w4104"/><w xlink:href="NT.Luk.w4105"/></cl.C><cl.A><w xlink:href="NT.Luk.w4106"/><w xlink:href="NT.Luk.w4107"/><w xlink:href="NT.Luk.w4108"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c188" level="secondary" projected="yes" connect="NT.Luke.5_c189" structure="conj-conj-A-A"><pl.conj><w xlink:href="NT.Luk.w4109"/></pl.conj><pl.conj><w xlink:href="NT.Luk.w4110"/></pl.conj><cl.A><w xlink:href="NT.Luk.w4111"/></cl.A><cl.A><w xlink:href="NT.Luk.w4112"/></cl.A></cl.clause><cl.clause xml:id="NT.Luke.5_c189" level="primary" projected="yes" connect="NT.Luke.5_c187" structure="P-S-C"><cl.P><w xlink:href="NT.Luk.w4113"/></cl.P><cl.S><w xlink:href="NT.Luk.w4114"/><w xlink:href="NT.Luk.w4115"/><w xlink:href="NT.Luk.w4116"/><w xlink:href="NT.Luk.w4117"/></cl.S><cl.C><w xlink:href="NT.Luk.w4118"/><w xlink:href="NT.Luk.w4119"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c190" level="primary" projected="yes" connect="NT.Luke.5_c189" structure="conj-S-P"><pl.conj><w xlink:href="NT.Luk.w4120"/></pl.conj><cl.S><w xlink:href="NT.Luk.w4121"/></cl.S><cl.P><w xlink:href="NT.Luk.w4122"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c191" level="primary" projected="yes" connect="NT.Luke.5_c190" structure="conj-S-P"><pl.conj><w xlink:href="NT.Luk.w4123"/></pl.conj><cl.S><w xlink:href="NT.Luk.w4124"/><w xlink:href="NT.Luk.w4125"/></cl.S><cl.P><w xlink:href="NT.Luk.w4126"/></cl.P></cl.clause><cl.clause xml:id="NT.Luke.5_c192" level="primary" projected="yes" connect="NT.Luke.5_c191" structure="conj-S-C"><pl.conj><w xlink:href="NT.Luk.w4127"/></pl.conj><cl.S><w xlink:href="NT.Luk.w4128"/><w xlink:href="NT.Luk.w4129"/></cl.S><cl.C><w xlink:href="NT.Luk.w4130"/><w xlink:href="NT.Luk.w4131"/><w xlink:href="NT.Luk.w4132"/><w xlink:href="NT.Luk.w4133"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c193" level="primary" projected="yes" connect="NT.Luke.5_c192" structure="conj-S-A-P-C"><pl.conj><w xlink:href="NT.Luk.w4134"/></pl.conj><cl.S><w xlink:href="NT.Luk.w4135"/></cl.S><cl.A><cl.clause xml:id="NT.Luke.5_c194" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Luk.w4136"/></cl.P><cl.C><w xlink:href="NT.Luk.w4137"/></cl.C></cl.clause></cl.A><cl.P><w xlink:href="NT.Luk.w4138"/></cl.P><cl.C><w xlink:href="NT.Luk.w4139"/></cl.C></cl.clause><cl.clause xml:id="NT.Luke.5_c195" level="primary" projected="yes" connect="NT.Luke.5_c193" structure="P-conj"><cl.P><w xlink:href="NT.Luk.w4140"/></cl.P><pl.conj><w xlink:href="NT.Luk.w4141"/></pl.conj></cl.clause><cl.clause xml:id="NT.Luke.5_c196" level="primary" projected="yes" connect="NT.Luke.5_c195" structure="S-C-P"><cl.S><w xlink:href="NT.Luk.w4142"/><w xlink:href="NT.Luk.w4143"/></cl.S><cl.C><w xlink:href="NT.Luk.w4144"/></cl.C><cl.P><w xlink:href="NT.Luk.w4145"/></cl.P></cl.clause></chapter>
+		-->
+<chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Luke" num="5">
+  <cl.clause xml:id="NT.Luke.5_c1" level="primary" structure="P-conj-A">
+    <cl.P>
+      <w xlink:href="NT.Luk.w3392"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3393"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c2" level="embedded" structure="P-(S)-C">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3394"/>
+          <w xlink:href="NT.Luk.w3395"/>
+          <cl.S type="embed" parent="NT.Luke.5_c2">
+            <w xlink:href="NT.Luk.w3396"/>
+            <w xlink:href="NT.Luk.w3397"/>
+          </cl.S>
+          <w xlink:href="NT.Luk.w3398"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Luk.w3399"/>
+        </cl.C>
+      </cl.clause>
+      <cl.clause xml:id="NT.Luke.5_c3" level="embedded" structure="conj-P-C">
+        <pl.conj>
+          <w xlink:href="NT.Luk.w3400"/>
+        </pl.conj>
+        <cl.P>
+          <w xlink:href="NT.Luk.w3401"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Luk.w3402"/>
+          <w xlink:href="NT.Luk.w3403"/>
+          <w xlink:href="NT.Luk.w3404"/>
+          <w xlink:href="NT.Luk.w3405"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c4" level="primary" connect="NT.Luke.5_c1" structure="conj-S-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3406"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3407"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3408"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c5" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3409"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3410"/>
+          <w xlink:href="NT.Luk.w3411"/>
+          <w xlink:href="NT.Luk.w3412"/>
+          <w xlink:href="NT.Luk.w3413"/>
+        </cl.A>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c6" level="primary" connect="NT.Luke.5_c4" structure="conj-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3414"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3415"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3416"/>
+      <w xlink:href="NT.Luk.w3417"/>
+      <cl.clause xml:id="NT.Luke.5_c7" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3418"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3419"/>
+          <w xlink:href="NT.Luk.w3420"/>
+          <w xlink:href="NT.Luk.w3421"/>
+        </cl.A>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c8" level="primary" connect="NT.Luke.5_c6" structure="S-(conj)-A-P-C">
+    <cl.S>
+      <w xlink:href="NT.Luk.w3422"/>
+      <pl.conj type="embed" parent="NT.Luke.5_c8">
+        <w xlink:href="NT.Luk.w3423"/>
+      </pl.conj>
+      <w xlink:href="NT.Luk.w3424"/>
+    </cl.S>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c9" level="embedded" structure="A-P">
+        <cl.A>
+          <w xlink:href="NT.Luk.w3425"/>
+          <w xlink:href="NT.Luk.w3426"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Luk.w3427"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3428"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3429"/>
+      <w xlink:href="NT.Luk.w3430"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c10" level="primary" connect="NT.Luke.5_c8" structure="A-(conj)-P-C-C">
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c11" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3431"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3433"/>
+          <w xlink:href="NT.Luk.w3434"/>
+          <w xlink:href="NT.Luk.w3435"/>
+          <w xlink:href="NT.Luk.w3436"/>
+        </cl.A>
+      </cl.clause>
+      <pl.conj type="embed" parent="NT.Luke.5_c10">
+        <w xlink:href="NT.Luk.w3432"/>
+      </pl.conj>
+      <cl.clause xml:id="NT.Luke.5_c12" level="embedded" structure="S-P-A">
+        <cl.S>
+          <w xlink:href="NT.Luk.w3437"/>
+        </cl.S>
+        <cl.P>
+          <w xlink:href="NT.Luk.w3438"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3439"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3440"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3441"/>
+    </cl.C>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c13" level="embedded" structure="A-P-A">
+        <cl.A>
+          <w xlink:href="NT.Luk.w3442"/>
+          <w xlink:href="NT.Luk.w3443"/>
+          <w xlink:href="NT.Luk.w3444"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Luk.w3445"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3446"/>
+        </cl.A>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c14" level="primary" connect="NT.Luke.5_c10" structure="A-(conj)-P-C">
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c15" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3447"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3449"/>
+          <w xlink:href="NT.Luk.w3450"/>
+          <w xlink:href="NT.Luk.w3451"/>
+        </cl.A>
+      </cl.clause>
+      <pl.conj type="embed" parent="NT.Luke.5_c14">
+        <w xlink:href="NT.Luk.w3448"/>
+      </pl.conj>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3452"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3453"/>
+      <w xlink:href="NT.Luk.w3454"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c16" level="secondary" connect="NT.Luke.5_c18" structure="conj-conj-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3455"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3456"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3457"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c17" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3458"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c18" level="primary" connect="NT.Luke.5_c14" structure="P-A">
+    <cl.P>
+      <w xlink:href="NT.Luk.w3459"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3460"/>
+      <w xlink:href="NT.Luk.w3461"/>
+      <w xlink:href="NT.Luk.w3462"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c19" level="primary" projected="yes" connect="NT.Luke.5_c18" structure="P-A">
+    <cl.P>
+      <w xlink:href="NT.Luk.w3463"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3464"/>
+      <w xlink:href="NT.Luk.w3465"/>
+      <w xlink:href="NT.Luk.w3466"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c20" level="primary" projected="yes" connect="NT.Luke.5_c19" structure="conj-P-C-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3467"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3468"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3469"/>
+      <w xlink:href="NT.Luk.w3470"/>
+      <w xlink:href="NT.Luk.w3471"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3472"/>
+      <w xlink:href="NT.Luk.w3473"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c21" level="primary" connect="NT.Luke.5_c18" structure="conj-A-S-P">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3474"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c22" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3475"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3476"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3477"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c23" level="primary" projected="yes" connect="NT.Luke.5_c21" structure="add-A-C-P">
+    <cl.add>
+      <w xlink:href="NT.Luk.w3478"/>
+    </cl.add>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c24" level="embedded" structure="A-P">
+        <cl.A>
+          <w xlink:href="NT.Luk.w3479"/>
+          <w xlink:href="NT.Luk.w3480"/>
+          <w xlink:href="NT.Luk.w3481"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Luk.w3482"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3483"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3484"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c25" level="primary" projected="yes" connect="NT.Luke.5_c23" structure="A-(conj)-P-C">
+    <cl.A>
+      <w xlink:href="NT.Luk.w3485"/>
+      <pl.conj type="embed" parent="NT.Luke.5_c25">
+        <w xlink:href="NT.Luk.w3486"/>
+      </pl.conj>
+      <w xlink:href="NT.Luk.w3487"/>
+      <w xlink:href="NT.Luk.w3488"/>
+      <w xlink:href="NT.Luk.w3489"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3490"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3491"/>
+      <w xlink:href="NT.Luk.w3492"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c26" level="primary" connect="NT.Luke.5_c21" structure="conj-A-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3493"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c27" level="embedded" structure="C-P">
+        <cl.C>
+          <w xlink:href="NT.Luk.w3494"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.Luk.w3495"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3496"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3497"/>
+      <w xlink:href="NT.Luk.w3498"/>
+      <w xlink:href="NT.Luk.w3499"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c28" level="primary" connect="NT.Luke.5_c26" structure="P-conj-C">
+    <cl.P>
+      <w xlink:href="NT.Luk.w3500"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3501"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3502"/>
+      <w xlink:href="NT.Luk.w3503"/>
+      <w xlink:href="NT.Luk.w3504"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c29" level="primary" connect="NT.Luke.5_c28" structure="conj-P-C-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3505"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3506"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3507"/>
+      <w xlink:href="NT.Luk.w3508"/>
+      <w xlink:href="NT.Luk.w3509"/>
+      <w xlink:href="NT.Luk.w3510"/>
+      <w xlink:href="NT.Luk.w3511"/>
+      <w xlink:href="NT.Luk.w3512"/>
+    </cl.C>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c30" level="embedded" structure="P-(A)-C">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3513"/>
+          <cl.A type="embed" parent="NT.Luke.5_c30">
+            <cl.clause xml:id="NT.Luke.5_c31" level="embedded" structure="P">
+              <cl.P>
+                <w xlink:href="NT.Luk.w3514"/>
+              </cl.P>
+            </cl.clause>
+          </cl.A>
+          <w xlink:href="NT.Luk.w3515"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Luk.w3516"/>
+        </cl.C>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c32" level="primary" connect="NT.Luke.5_c29" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3517"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3518"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c33" level="primary" connect="NT.Luke.5_c32" structure="conj-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3519"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3520"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3521"/>
+      <w xlink:href="NT.Luk.w3522"/>
+      <w xlink:href="NT.Luk.w3523"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c34" level="secondary" connect="NT.Luke.5_c33" structure="conj-P-S">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3524"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3525"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3526"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c35" level="primary" connect="NT.Luke.5_c33" structure="A-conj-S-P-C-A">
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c36" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3527"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3528"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3529"/>
+      <w xlink:href="NT.Luk.w3530"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3531"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3532"/>
+      <w xlink:href="NT.Luk.w3533"/>
+      <w xlink:href="NT.Luk.w3534"/>
+    </cl.C>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c37" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3535"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c38" level="primary" projected="yes" connect="NT.Luke.5_c35" structure="P-A">
+    <cl.P>
+      <w xlink:href="NT.Luk.w3536"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3537"/>
+      <w xlink:href="NT.Luk.w3538"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c39" level="secondary" projected="yes" connect="NT.Luke.5_c38" structure="conj-C-P-add">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3539"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3540"/>
+      <w xlink:href="NT.Luk.w3541"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3542"/>
+    </cl.P>
+    <cl.add>
+      <w xlink:href="NT.Luk.w3543"/>
+    </cl.add>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c40" level="primary" connect="NT.Luke.5_c35" structure="S-conj-P-C-A">
+    <cl.S>
+      <w xlink:href="NT.Luk.w3544"/>
+    </cl.S>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3545"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3546"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3547"/>
+      <w xlink:href="NT.Luk.w3548"/>
+      <w xlink:href="NT.Luk.w3549"/>
+      <w xlink:href="NT.Luk.w3550"/>
+      <w xlink:href="NT.Luk.w3551"/>
+      <w xlink:href="NT.Luk.w3552"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3553"/>
+      <w xlink:href="NT.Luk.w3554"/>
+      <w xlink:href="NT.Luk.w3555"/>
+      <w xlink:href="NT.Luk.w3556"/>
+      <w xlink:href="NT.Luk.w3557"/>
+      <cl.clause xml:id="NT.Luke.5_c41" level="embedded" structure="C-P">
+        <cl.C>
+          <w xlink:href="NT.Luk.w3558"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.Luk.w3559"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c42" level="primary" connect="NT.Luke.5_c40" structure="A-conj-conj-C">
+    <cl.A>
+      <w xlink:href="NT.Luk.w3560"/>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3561"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3562"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3563"/>
+      <w xlink:href="NT.Luk.w3564"/>
+      <w xlink:href="NT.Luk.w3565"/>
+      <w xlink:href="NT.Luk.w3566"/>
+      <w xlink:href="NT.Luk.w3567"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c43" level="secondary" connect="NT.Luke.5_c42" structure="S-P-C">
+    <cl.S>
+      <w xlink:href="NT.Luk.w3568"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3569"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3570"/>
+      <w xlink:href="NT.Luk.w3571"/>
+      <w xlink:href="NT.Luk.w3572"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c44" level="primary" connect="NT.Luke.5_c42" structure="conj-P-A-S">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3573"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3574"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3575"/>
+      <w xlink:href="NT.Luk.w3576"/>
+      <w xlink:href="NT.Luk.w3577"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3578"/>
+      <w xlink:href="NT.Luk.w3579"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c45" level="primary" projected="yes" connect="NT.Luke.5_c44" structure="A-P">
+    <cl.A>
+      <w xlink:href="NT.Luk.w3580"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3581"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c46" level="primary" projected="yes" connect="NT.Luke.5_c45" structure="A-C-(P)">
+    <cl.A>
+      <w xlink:href="NT.Luk.w3582"/>
+      <w xlink:href="NT.Luk.w3583"/>
+      <w xlink:href="NT.Luk.w3584"/>
+    </cl.A>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c47" level="embedded" structure="C-P">
+        <cl.C>
+          <w xlink:href="NT.Luk.w3585"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.Luk.w3587"/>
+        </cl.P>
+      </cl.clause>
+      <cl.P type="embed" parent="NT.Luke.5_c46">
+        <w xlink:href="NT.Luk.w3586"/>
+      </cl.P>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c48" level="primary" connect="NT.Luke.5_c44" structure="conj-A-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3588"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c49" level="embedded" structure="P-C-A">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3589"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Luk.w3590"/>
+          <w xlink:href="NT.Luk.w3591"/>
+        </cl.C>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3592"/>
+          <w xlink:href="NT.Luk.w3593"/>
+          <w xlink:href="NT.Luk.w3594"/>
+        </cl.A>
+      </cl.clause>
+      <cl.clause xml:id="NT.Luke.5_c50" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3595"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Luk.w3596"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3597"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3598"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c51" level="primary" connect="NT.Luke.5_c48" structure="conj-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3599"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3600"/>
+    </cl.P>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c52" level="embedded" structure="P-S-A">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3601"/>
+          <w xlink:href="NT.Luk.w3602"/>
+          <w xlink:href="NT.Luk.w3603"/>
+        </cl.P>
+        <cl.S>
+          <w xlink:href="NT.Luk.w3604"/>
+        </cl.S>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3605"/>
+          <w xlink:href="NT.Luk.w3606"/>
+          <w xlink:href="NT.Luk.w3607"/>
+          <w xlink:href="NT.Luk.w3608"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c53" level="primary" connect="NT.Luke.5_c51" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3609"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3610"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c54" level="primary" connect="NT.Luke.5_c53" structure="S">
+    <cl.S>
+      <w xlink:href="NT.Luk.w3611"/>
+      <w xlink:href="NT.Luk.w3612"/>
+      <w xlink:href="NT.Luk.w3613"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c55" level="primary" connect="NT.Luke.5_c54" structure="A-(conj)-A-P-C-A">
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c56" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3614"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Luk.w3616"/>
+          <w xlink:href="NT.Luk.w3617"/>
+        </cl.C>
+      </cl.clause>
+      <pl.conj type="embed" parent="NT.Luke.5_c55">
+        <w xlink:href="NT.Luk.w3615"/>
+      </pl.conj>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c57" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3618"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3619"/>
+          <w xlink:href="NT.Luk.w3620"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3621"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3622"/>
+    </cl.C>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c58" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3623"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c59" level="secondary" projected="yes" connect="NT.Luke.5_c60" structure="add-conj-P">
+    <cl.add>
+      <w xlink:href="NT.Luk.w3624"/>
+    </cl.add>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3625"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3626"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c60" level="primary" projected="yes" connect="NT.Luke.5_c55" structure="P-C">
+    <cl.P>
+      <w xlink:href="NT.Luk.w3627"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c61" level="embedded" structure="C-P">
+        <cl.C>
+          <w xlink:href="NT.Luk.w3628"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.Luk.w3629"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c62" level="primary" connect="NT.Luke.5_c55" structure="conj-A-P-C-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3630"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c63" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3631"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Luk.w3632"/>
+          <w xlink:href="NT.Luk.w3633"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3634"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3635"/>
+    </cl.C>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c64" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3636"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c65" level="primary" projected="yes" connect="NT.Luke.5_c62" structure="P">
+    <cl.P>
+      <w xlink:href="NT.Luk.w3637"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c66" level="primary" projected="yes" connect="NT.Luke.5_c65" structure="P">
+    <cl.P>
+      <w xlink:href="NT.Luk.w3638"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c67" level="primary" connect="NT.Luke.5_c62" structure="conj-A-S-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3639"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3640"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3641"/>
+      <w xlink:href="NT.Luk.w3642"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3643"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3644"/>
+      <w xlink:href="NT.Luk.w3645"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c68" level="primary" connect="NT.Luke.5_c67" structure="conj-S-P-C-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3646"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3647"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3648"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3649"/>
+    </cl.C>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c69" level="embedded" structure="C-P">
+        <cl.C>
+          <w xlink:href="NT.Luk.w3650"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.Luk.w3651"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c70" level="primary" projected="yes" connect="NT.Luke.5_c68" structure="conj-A-P-C-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3652"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c71" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3653"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3654"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3655"/>
+    </cl.C>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3656"/>
+      <w xlink:href="NT.Luk.w3657"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c72" level="primary" projected="yes" connect="NT.Luke.5_c70" structure="conj-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3658"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3659"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3660"/>
+      <w xlink:href="NT.Luk.w3661"/>
+      <w xlink:href="NT.Luk.w3662"/>
+      <w xlink:href="NT.Luk.w3663"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c73" level="secondary" projected="yes" connect="NT.Luke.5_c72" structure="conj-P-S-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3664"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3665"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3666"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3667"/>
+      <w xlink:href="NT.Luk.w3668"/>
+      <w xlink:href="NT.Luk.w3669"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c74" level="primary" connect="NT.Luke.5_c68" structure="P-conj-A-S">
+    <cl.P>
+      <w xlink:href="NT.Luk.w3670"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3671"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3672"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3673"/>
+      <w xlink:href="NT.Luk.w3674"/>
+      <w xlink:href="NT.Luk.w3675"/>
+      <w xlink:href="NT.Luk.w3676"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c75" level="primary" connect="NT.Luke.5_c74" structure="conj-P-S-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3677"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3678"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3679"/>
+      <w xlink:href="NT.Luk.w3680"/>
+    </cl.S>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c76" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3681"/>
+        </cl.P>
+      </cl.clause>
+      <cl.clause xml:id="NT.Luke.5_c77" level="embedded" structure="conj-P-A">
+        <pl.conj>
+          <w xlink:href="NT.Luk.w3682"/>
+        </pl.conj>
+        <cl.P>
+          <w xlink:href="NT.Luk.w3683"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3684"/>
+          <w xlink:href="NT.Luk.w3685"/>
+          <w xlink:href="NT.Luk.w3686"/>
+          <w xlink:href="NT.Luk.w3687"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c78" level="primary" connect="NT.Luke.5_c75" structure="S-conj-P-C">
+    <cl.S>
+      <w xlink:href="NT.Luk.w3688"/>
+    </cl.S>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3689"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3690"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c79" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3691"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3692"/>
+          <w xlink:href="NT.Luk.w3693"/>
+          <w xlink:href="NT.Luk.w3694"/>
+        </cl.A>
+      </cl.clause>
+      <cl.clause xml:id="NT.Luke.5_c80" level="embedded" structure="conj-P">
+        <pl.conj>
+          <w xlink:href="NT.Luk.w3695"/>
+        </pl.conj>
+        <cl.P>
+          <w xlink:href="NT.Luk.w3696"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c81" level="primary" connect="NT.Luke.5_c78" structure="conj-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3697"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3698"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3699"/>
+      <w xlink:href="NT.Luk.w3700"/>
+      <w xlink:href="NT.Luk.w3701"/>
+      <w xlink:href="NT.Luk.w3702"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c82" level="primary" connect="NT.Luke.5_c81" structure="conj-S-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3703"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3704"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3705"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c83" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3706"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c84" level="primary" connect="NT.Luke.5_c82" structure="conj-P-C-S">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3707"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3708"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c85" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3709"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3710"/>
+      <w xlink:href="NT.Luk.w3711"/>
+      <w xlink:href="NT.Luk.w3712"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c86" level="secondary" connect="NT.Luke.5_c84" structure="S-P-C">
+    <cl.S>
+      <w xlink:href="NT.Luk.w3713"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3714"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c87" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3715"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3716"/>
+          <w xlink:href="NT.Luk.w3717"/>
+          <w xlink:href="NT.Luk.w3718"/>
+          <w xlink:href="NT.Luk.w3719"/>
+          <w xlink:href="NT.Luk.w3720"/>
+          <w xlink:href="NT.Luk.w3721"/>
+          <w xlink:href="NT.Luk.w3722"/>
+          <w xlink:href="NT.Luk.w3723"/>
+          <w xlink:href="NT.Luk.w3724"/>
+        </cl.A>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c88" level="primary" connect="NT.Luke.5_c84" structure="conj-S-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3725"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3726"/>
+      <w xlink:href="NT.Luk.w3727"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3728"/>
+    </cl.P>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c89" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3729"/>
+          <w xlink:href="NT.Luk.w3730"/>
+          <w xlink:href="NT.Luk.w3731"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3732"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c90" level="primary" connect="NT.Luke.5_c88" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3733"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3734"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c91" level="primary" connect="NT.Luke.5_c90" structure="S-C">
+    <cl.S>
+      <w xlink:href="NT.Luk.w3735"/>
+    </cl.S>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c92" level="embedded" structure="P-A-C">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3736"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3737"/>
+          <w xlink:href="NT.Luk.w3738"/>
+        </cl.A>
+        <cl.C>
+          <w xlink:href="NT.Luk.w3739"/>
+          <cl.clause xml:id="NT.Luke.5_c93" level="embedded" structure="S-P-C">
+            <cl.S>
+              <w xlink:href="NT.Luk.w3740"/>
+            </cl.S>
+            <cl.P>
+              <w xlink:href="NT.Luk.w3741"/>
+            </cl.P>
+            <cl.C>
+              <cl.clause xml:id="NT.Luke.5_c94" level="embedded" structure="P">
+                <cl.P>
+                  <w xlink:href="NT.Luk.w3742"/>
+                </cl.P>
+              </cl.clause>
+            </cl.C>
+          </cl.clause>
+        </cl.C>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c95" level="primary" connect="NT.Luke.5_c91" structure="conj-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3743"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3744"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c96" level="embedded" structure="C-P">
+        <cl.C>
+          <w xlink:href="NT.Luk.w3745"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.Luk.w3746"/>
+        </cl.P>
+      </cl.clause>
+      <cl.clause xml:id="NT.Luke.5_c97" level="embedded" structure="conj-P-C-A">
+        <pl.conj>
+          <w xlink:href="NT.Luk.w3747"/>
+        </pl.conj>
+        <cl.P>
+          <w xlink:href="NT.Luk.w3748"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Luk.w3749"/>
+        </cl.C>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3750"/>
+          <w xlink:href="NT.Luk.w3751"/>
+        </cl.A>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c98" level="primary" connect="NT.Luke.5_c95" structure="conj-A-A-A-P-C-A-A-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3752"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c99" level="embedded" structure="A-P-C">
+        <cl.A>
+          <w xlink:href="NT.Luk.w3753"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Luk.w3754"/>
+        </cl.P>
+        <cl.C>
+          <cl.clause xml:id="NT.Luke.5_c100" level="embedded" structure="A-P-C-A">
+            <cl.A>
+              <w xlink:href="NT.Luk.w3755"/>
+            </cl.A>
+            <cl.P>
+              <w xlink:href="NT.Luk.w3756"/>
+            </cl.P>
+            <cl.C>
+              <w xlink:href="NT.Luk.w3757"/>
+            </cl.C>
+            <cl.A>
+              <w xlink:href="NT.Luk.w3758"/>
+              <w xlink:href="NT.Luk.w3759"/>
+              <w xlink:href="NT.Luk.w3760"/>
+            </cl.A>
+          </cl.clause>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c101" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3761"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3762"/>
+          <w xlink:href="NT.Luk.w3763"/>
+          <w xlink:href="NT.Luk.w3764"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3765"/>
+      <w xlink:href="NT.Luk.w3766"/>
+      <w xlink:href="NT.Luk.w3767"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3768"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3769"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3770"/>
+      <w xlink:href="NT.Luk.w3771"/>
+      <w xlink:href="NT.Luk.w3772"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3773"/>
+      <w xlink:href="NT.Luk.w3774"/>
+      <w xlink:href="NT.Luk.w3775"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3776"/>
+      <w xlink:href="NT.Luk.w3777"/>
+      <w xlink:href="NT.Luk.w3778"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c102" level="primary" connect="NT.Luke.5_c98" structure="conj-A-P">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3779"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c103" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3780"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Luk.w3781"/>
+          <w xlink:href="NT.Luk.w3782"/>
+          <w xlink:href="NT.Luk.w3783"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3784"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c104" level="primary" projected="yes" connect="NT.Luke.5_c102" structure="add-P-C-S">
+    <cl.add>
+      <w xlink:href="NT.Luk.w3785"/>
+    </cl.add>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3786"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3787"/>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3788"/>
+      <w xlink:href="NT.Luk.w3789"/>
+      <w xlink:href="NT.Luk.w3790"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c105" level="primary" connect="NT.Luke.5_c102" structure="conj-P-C-S-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3791"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3792"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c106" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3793"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3794"/>
+      <w xlink:href="NT.Luk.w3795"/>
+      <w xlink:href="NT.Luk.w3796"/>
+      <w xlink:href="NT.Luk.w3797"/>
+      <w xlink:href="NT.Luk.w3798"/>
+    </cl.S>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c107" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3799"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c108" level="primary" projected="yes" connect="NT.Luke.5_c105" structure="C-P-S">
+    <cl.C>
+      <w xlink:href="NT.Luk.w3800"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3801"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3802"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c109" level="secondary" projected="yes" connect="NT.Luke.5_c108" structure="S-P-C">
+    <cl.S>
+      <w xlink:href="NT.Luk.w3803"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3804"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3805"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c110" level="primary" projected="yes" connect="NT.Luke.5_c108" structure="S-P-C">
+    <cl.S>
+      <w xlink:href="NT.Luk.w3806"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3807"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c111" level="embedded" structure="C-P">
+        <cl.C>
+          <w xlink:href="NT.Luk.w3808"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.Luk.w3809"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c112" level="secondary" projected="yes" connect="NT.Luke.5_c110" structure="conj-A-A-S">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3810"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3811"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3812"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3813"/>
+      <w xlink:href="NT.Luk.w3814"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c113" level="primary" connect="NT.Luke.5_c105" structure="A-(conj)-(S)-A-P-A">
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c114" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3815"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Luk.w3819"/>
+          <w xlink:href="NT.Luk.w3820"/>
+          <w xlink:href="NT.Luk.w3821"/>
+        </cl.C>
+      </cl.clause>
+      <pl.conj type="embed" parent="NT.Luke.5_c113">
+        <w xlink:href="NT.Luk.w3816"/>
+      </pl.conj>
+      <cl.S type="embed" parent="NT.Luke.5_c113">
+        <w xlink:href="NT.Luk.w3817"/>
+        <w xlink:href="NT.Luk.w3818"/>
+      </cl.S>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c115" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3822"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3823"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3824"/>
+      <w xlink:href="NT.Luk.w3825"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c116" level="primary" projected="yes" connect="NT.Luke.5_c113" structure="A-P-A">
+    <cl.A>
+      <w xlink:href="NT.Luk.w3826"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3827"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3828"/>
+      <w xlink:href="NT.Luk.w3829"/>
+      <w xlink:href="NT.Luk.w3830"/>
+      <w xlink:href="NT.Luk.w3831"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c117" level="primary" projected="yes" connect="NT.Luke.5_c116" structure="S-P-C">
+    <cl.S>
+      <w xlink:href="NT.Luk.w3832"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3833"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3834"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c118" level="secondary" projected="yes" connect="NT.Luke.5_c117" structure="P">
+    <cl.P>
+      <w xlink:href="NT.Luk.w3835"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c119" level="secondary" projected="yes" connect="NT.Luke.5_c118" structure="P-C-S">
+    <cl.P>
+      <w xlink:href="NT.Luk.w3836"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3837"/>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3838"/>
+      <w xlink:href="NT.Luk.w3839"/>
+      <w xlink:href="NT.Luk.w3840"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c120" level="secondary" projected="yes" connect="NT.Luke.5_c118" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3841"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3842"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c121" level="secondary" projected="yes" connect="NT.Luke.5_c120" structure="P">
+    <cl.P>
+      <w xlink:href="NT.Luk.w3843"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c122" level="secondary" projected="yes" connect="NT.Luke.5_c121" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3844"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3845"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c123" level="secondary" projected="yes" connect="NT.Luke.5_c117" structure="conj-conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3846"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3847"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3848"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c124" level="secondary2" projected="yes" connect="NT.Luke.5_c123" structure="conj-S-C-P-A-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3849"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3850"/>
+      <w xlink:href="NT.Luk.w3851"/>
+      <w xlink:href="NT.Luk.w3852"/>
+      <w xlink:href="NT.Luk.w3853"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3854"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3855"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3856"/>
+      <w xlink:href="NT.Luk.w3857"/>
+      <w xlink:href="NT.Luk.w3858"/>
+    </cl.A>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c125" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3859"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Luk.w3860"/>
+        </cl.C>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c126" level="primary" connect="NT.Luke.5_c113" structure="P-C">
+    <cl.P>
+      <w xlink:href="NT.Luk.w3861"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c127" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3862"/>
+          <w xlink:href="NT.Luk.w3863"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c128" level="primary" projected="yes" connect="NT.Luke.5_c126" structure="C-P">
+    <cl.C>
+      <w xlink:href="NT.Luk.w3864"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3865"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c129" level="primary" projected="yes" connect="NT.Luke.5_c128" structure="P">
+    <cl.P>
+      <w xlink:href="NT.Luk.w3866"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c130" level="primary" projected="yes" connect="NT.Luke.5_c129" structure="conj-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3867"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3868"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3869"/>
+      <w xlink:href="NT.Luk.w3870"/>
+      <w xlink:href="NT.Luk.w3871"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c131" level="primary" projected="yes" connect="NT.Luke.5_c130" structure="P-A">
+    <cl.P>
+      <w xlink:href="NT.Luk.w3872"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3873"/>
+      <w xlink:href="NT.Luk.w3874"/>
+      <w xlink:href="NT.Luk.w3875"/>
+      <w xlink:href="NT.Luk.w3876"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c132" level="primary" connect="NT.Luke.5_c126" structure="conj-A-A-A-P-A-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3877"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3878"/>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c133" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3879"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3880"/>
+          <w xlink:href="NT.Luk.w3881"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c134" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3882"/>
+        </cl.P>
+        <cl.A>
+          <cl.clause xml:id="NT.Luke.5_c135" level="embedded" structure="A-P">
+            <cl.A>
+              <w xlink:href="NT.Luk.w3883"/>
+              <w xlink:href="NT.Luk.w3884"/>
+            </cl.A>
+            <cl.P>
+              <w xlink:href="NT.Luk.w3885"/>
+            </cl.P>
+          </cl.clause>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3886"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3887"/>
+      <w xlink:href="NT.Luk.w3888"/>
+      <w xlink:href="NT.Luk.w3889"/>
+      <w xlink:href="NT.Luk.w3890"/>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c136" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3891"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Luk.w3892"/>
+          <w xlink:href="NT.Luk.w3893"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c137" level="primary" connect="NT.Luke.5_c132" structure="conj-S-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3894"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3895"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3896"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3897"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c138" level="primary" connect="NT.Luke.5_c137" structure="conj-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3898"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3899"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3900"/>
+      <w xlink:href="NT.Luk.w3901"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c139" level="primary" connect="NT.Luke.5_c138" structure="conj-P-A-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3902"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3903"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3904"/>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c140" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3905"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c141" level="primary" projected="yes" connect="NT.Luke.5_c139" structure="conj-P-C-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3906"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3907"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3908"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3909"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c142" level="primary" connect="NT.Luke.5_c139" structure="conj-A-P">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3910"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3911"/>
+      <w xlink:href="NT.Luk.w3912"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3913"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c143" level="primary" connect="NT.Luke.5_c142" structure="conj-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3914"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3915"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3916"/>
+      <w xlink:href="NT.Luk.w3917"/>
+      <w xlink:href="NT.Luk.w3918"/>
+      <cl.clause xml:id="NT.Luke.5_c144" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3919"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3920"/>
+          <w xlink:href="NT.Luk.w3921"/>
+          <w xlink:href="NT.Luk.w3922"/>
+        </cl.A>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c145" level="primary" connect="NT.Luke.5_c143" structure="conj-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3923"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3924"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3925"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c146" level="primary" projected="yes" connect="NT.Luke.5_c145" structure="P-C">
+    <cl.P>
+      <w xlink:href="NT.Luk.w3926"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3927"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c147" level="primary" connect="NT.Luke.5_c145" structure="conj-A-A-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3928"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c148" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3929"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Luk.w3930"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c149" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3931"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3932"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3933"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c150" level="primary" connect="NT.Luke.5_c147" structure="conj-P-C-S-C-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3934"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3935"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3936"/>
+      <w xlink:href="NT.Luk.w3937"/>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3938"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3939"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3940"/>
+      <w xlink:href="NT.Luk.w3941"/>
+      <w xlink:href="NT.Luk.w3942"/>
+      <w xlink:href="NT.Luk.w3943"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c151" level="primary" connect="NT.Luke.5_c150" structure="conj-P-S-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3944"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3945"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3946"/>
+      <w xlink:href="NT.Luk.w3947"/>
+      <w xlink:href="NT.Luk.w3948"/>
+      <w xlink:href="NT.Luk.w3949"/>
+      <w xlink:href="NT.Luk.w3950"/>
+      <cl.clause xml:id="NT.Luke.5_c152" level="embedded" structure="S-P-A">
+        <cl.S>
+          <w xlink:href="NT.Luk.w3951"/>
+        </cl.S>
+        <cl.P>
+          <w xlink:href="NT.Luk.w3952"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Luk.w3953"/>
+          <w xlink:href="NT.Luk.w3954"/>
+        </cl.A>
+      </cl.clause>
+    </cl.S>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c153" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3955"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c154" level="primary" connect="NT.Luke.5_c151" structure="conj-P-S-A-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3956"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3957"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3958"/>
+      <w xlink:href="NT.Luk.w3959"/>
+      <w xlink:href="NT.Luk.w3960"/>
+      <w xlink:href="NT.Luk.w3961"/>
+      <w xlink:href="NT.Luk.w3962"/>
+      <w xlink:href="NT.Luk.w3963"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3964"/>
+      <w xlink:href="NT.Luk.w3965"/>
+      <w xlink:href="NT.Luk.w3966"/>
+      <w xlink:href="NT.Luk.w3967"/>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c155" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3968"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c156" level="primary" projected="yes" connect="NT.Luke.5_c154" structure="A-A-P">
+    <cl.A>
+      <w xlink:href="NT.Luk.w3969"/>
+      <w xlink:href="NT.Luk.w3970"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3971"/>
+      <w xlink:href="NT.Luk.w3972"/>
+      <w xlink:href="NT.Luk.w3973"/>
+      <w xlink:href="NT.Luk.w3974"/>
+      <w xlink:href="NT.Luk.w3975"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3976"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c157" level="primary" projected="yes" connect="NT.Luke.5_c156" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3977"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3978"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c158" level="primary" connect="NT.Luke.5_c154" structure="conj-A-S-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3979"/>
+    </pl.conj>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c159" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3980"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Luk.w3981"/>
+      <w xlink:href="NT.Luk.w3982"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3983"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w3984"/>
+      <w xlink:href="NT.Luk.w3985"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c160" level="primary" projected="yes" connect="NT.Luke.5_c158" structure="A-C-(P)-(S)">
+    <cl.A>
+      <w xlink:href="NT.Luk.w3986"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.Luk.w3987"/>
+      <cl.P type="embed" parent="NT.Luke.5_c160">
+        <w xlink:href="NT.Luk.w3988"/>
+      </cl.P>
+      <cl.S type="embed" parent="NT.Luke.5_c160">
+        <cl.clause xml:id="NT.Luke.5_c161" level="embedded" structure="P">
+          <cl.P>
+            <w xlink:href="NT.Luk.w3989"/>
+            <w xlink:href="NT.Luk.w3990"/>
+          </cl.P>
+        </cl.clause>
+      </cl.S>
+      <w xlink:href="NT.Luk.w3991"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c162" level="primary" projected="yes" connect="NT.Luke.5_c160" structure="conj-S">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w3992"/>
+    </pl.conj>
+    <cl.S>
+      <cl.clause xml:id="NT.Luke.5_c163" level="embedded" structure="P-(A)">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3993"/>
+          <cl.A type="embed" parent="NT.Luke.5_c163">
+            <w xlink:href="NT.Luk.w3994"/>
+          </cl.A>
+          <w xlink:href="NT.Luk.w3995"/>
+        </cl.P>
+      </cl.clause>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c164" level="primary" projected="yes" connect="NT.Luke.5_c162" structure="A-P-A">
+    <cl.A>
+      <w xlink:href="NT.Luk.w3996"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w3997"/>
+    </cl.P>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c165" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Luk.w3998"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Luk.w3999"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c166" level="primary" projected="yes" connect="NT.Luke.5_c164" structure="conj-C-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4000"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Luk.w4001"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Luk.w4002"/>
+      <w xlink:href="NT.Luk.w4003"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c167" level="primary" connect="NT.Luke.5_c158" structure="S-conj-P-A">
+    <cl.S>
+      <w xlink:href="NT.Luk.w4004"/>
+    </cl.S>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4005"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w4006"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w4007"/>
+      <w xlink:href="NT.Luk.w4008"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c168" level="primary" projected="yes" connect="NT.Luke.5_c167" structure="S-P-A">
+    <cl.S>
+      <w xlink:href="NT.Luk.w4009"/>
+      <w xlink:href="NT.Luk.w4010"/>
+      <w xlink:href="NT.Luk.w4011"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w4012"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w4013"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c169" level="primary" projected="yes" connect="NT.Luke.5_c168" structure="conj-C-P">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4014"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Luk.w4015"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Luk.w4016"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c170" level="primary" projected="yes" connect="NT.Luke.5_c169" structure="conj-conj-S">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4017"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4018"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Luk.w4019"/>
+      <w xlink:href="NT.Luk.w4020"/>
+      <w xlink:href="NT.Luk.w4021"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c171" level="primary" projected="yes" connect="NT.Luke.5_c170" structure="S-(conj)-P">
+    <cl.S>
+      <w xlink:href="NT.Luk.w4022"/>
+      <pl.conj type="embed" parent="NT.Luke.5_c171">
+        <w xlink:href="NT.Luk.w4023"/>
+      </pl.conj>
+      <w xlink:href="NT.Luk.w4024"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w4025"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c172" level="primary" projected="yes" connect="NT.Luke.5_c171" structure="conj-P">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4026"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w4027"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c173" level="primary" connect="NT.Luke.5_c167" structure="S-(conj)-P-A">
+    <cl.S>
+      <w xlink:href="NT.Luk.w4028"/>
+      <pl.conj type="embed" parent="NT.Luke.5_c173">
+        <w xlink:href="NT.Luk.w4029"/>
+      </pl.conj>
+      <w xlink:href="NT.Luk.w4030"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w4031"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w4032"/>
+      <w xlink:href="NT.Luk.w4033"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c174" level="primary" projected="yes" connect="NT.Luke.5_c173" structure="A-P-C">
+    <cl.A>
+      <w xlink:href="NT.Luk.w4034"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w4035"/>
+    </cl.P>
+    <cl.C>
+      <cl.clause xml:id="NT.Luke.5_c175" level="embedded" structure="S-A-P-C">
+        <cl.S>
+          <w xlink:href="NT.Luk.w4036"/>
+          <w xlink:href="NT.Luk.w4037"/>
+          <w xlink:href="NT.Luk.w4038"/>
+          <w xlink:href="NT.Luk.w4039"/>
+        </cl.S>
+        <cl.A>
+          <cl.clause xml:id="NT.Luke.5_c176" level="embedded" structure="A-S-A-P">
+            <cl.A>
+              <w xlink:href="NT.Luk.w4040"/>
+              <w xlink:href="NT.Luk.w4041"/>
+            </cl.A>
+            <cl.S>
+              <w xlink:href="NT.Luk.w4042"/>
+              <w xlink:href="NT.Luk.w4043"/>
+            </cl.S>
+            <cl.A>
+              <w xlink:href="NT.Luk.w4044"/>
+              <w xlink:href="NT.Luk.w4045"/>
+            </cl.A>
+            <cl.P>
+              <w xlink:href="NT.Luk.w4046"/>
+            </cl.P>
+          </cl.clause>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Luk.w4047"/>
+        </cl.P>
+        <cl.C>
+          <cl.clause xml:id="NT.Luke.5_c177" level="embedded" structure="P">
+            <cl.P>
+              <w xlink:href="NT.Luk.w4048"/>
+            </cl.P>
+          </cl.clause>
+        </cl.C>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c178" level="primary" projected="yes" connect="NT.Luke.5_c174" structure="P-conj-S">
+    <cl.P>
+      <w xlink:href="NT.Luk.w4049"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4050"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Luk.w4051"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c179" level="secondary" projected="yes" connect="NT.Luke.5_c178" structure="conj-conj-P-A-S">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4052"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4053"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w4054"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w4055"/>
+      <w xlink:href="NT.Luk.w4056"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Luk.w4057"/>
+      <w xlink:href="NT.Luk.w4058"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c180" level="primary" projected="yes" connect="NT.Luke.5_c178" structure="conj-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4059"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Luk.w4060"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w4061"/>
+      <w xlink:href="NT.Luk.w4062"/>
+      <w xlink:href="NT.Luk.w4063"/>
+      <w xlink:href="NT.Luk.w4064"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c181" level="primary" connect="NT.Luke.5_c173" structure="P-conj-conj-C-A">
+    <cl.P>
+      <w xlink:href="NT.Luk.w4065"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4066"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4067"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Luk.w4068"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Luk.w4069"/>
+      <w xlink:href="NT.Luk.w4070"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c182" level="primary" projected="yes" connect="NT.Luke.5_c181" structure="conj-S-A-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4071"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Luk.w4072"/>
+    </cl.S>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c183" level="embedded" structure="C-A-P">
+        <cl.C>
+          <w xlink:href="NT.Luk.w4073"/>
+        </cl.C>
+        <cl.A>
+          <w xlink:href="NT.Luk.w4074"/>
+          <w xlink:href="NT.Luk.w4075"/>
+          <w xlink:href="NT.Luk.w4076"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Luk.w4077"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w4078"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Luk.w4079"/>
+      <w xlink:href="NT.Luk.w4080"/>
+      <w xlink:href="NT.Luk.w4081"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c184" level="secondary" projected="yes" connect="NT.Luke.5_c185" structure="conj-conj-A-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4082"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4083"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Luk.w4084"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Luk.w4085"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c185" level="primary" projected="yes" connect="NT.Luke.5_c182" structure="A-S-P">
+    <cl.A>
+      <w xlink:href="NT.Luk.w4086"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Luk.w4087"/>
+      <w xlink:href="NT.Luk.w4088"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w4089"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c186" level="primary" projected="yes" connect="NT.Luke.5_c185" structure="conj-C-A-P-S">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4090"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Luk.w4091"/>
+      <w xlink:href="NT.Luk.w4092"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Luk.w4093"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w4094"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Luk.w4095"/>
+      <w xlink:href="NT.Luk.w4096"/>
+      <w xlink:href="NT.Luk.w4097"/>
+      <w xlink:href="NT.Luk.w4098"/>
+      <w xlink:href="NT.Luk.w4099"/>
+      <w xlink:href="NT.Luk.w4100"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c187" level="primary" projected="yes" connect="NT.Luke.5_c186" structure="conj-S-P-C-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4101"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Luk.w4102"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w4103"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w4104"/>
+      <w xlink:href="NT.Luk.w4105"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Luk.w4106"/>
+      <w xlink:href="NT.Luk.w4107"/>
+      <w xlink:href="NT.Luk.w4108"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c188" level="secondary" projected="yes" connect="NT.Luke.5_c189" structure="conj-conj-A-A">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4109"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4110"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Luk.w4111"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Luk.w4112"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c189" level="primary" projected="yes" connect="NT.Luke.5_c187" structure="P-S-C">
+    <cl.P>
+      <w xlink:href="NT.Luk.w4113"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Luk.w4114"/>
+      <w xlink:href="NT.Luk.w4115"/>
+      <w xlink:href="NT.Luk.w4116"/>
+      <w xlink:href="NT.Luk.w4117"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Luk.w4118"/>
+      <w xlink:href="NT.Luk.w4119"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c190" level="primary" projected="yes" connect="NT.Luke.5_c189" structure="conj-S-P">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4120"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Luk.w4121"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w4122"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c191" level="primary" projected="yes" connect="NT.Luke.5_c190" structure="conj-S-P">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4123"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Luk.w4124"/>
+      <w xlink:href="NT.Luk.w4125"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Luk.w4126"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c192" level="primary" projected="yes" connect="NT.Luke.5_c191" structure="conj-S-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4127"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Luk.w4128"/>
+      <w xlink:href="NT.Luk.w4129"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Luk.w4130"/>
+      <w xlink:href="NT.Luk.w4131"/>
+      <w xlink:href="NT.Luk.w4132"/>
+      <w xlink:href="NT.Luk.w4133"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c193" level="primary" projected="yes" connect="NT.Luke.5_c192" structure="conj-S-A-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4134"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Luk.w4135"/>
+    </cl.S>
+    <cl.A>
+      <cl.clause xml:id="NT.Luke.5_c194" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Luk.w4136"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Luk.w4137"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Luk.w4138"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Luk.w4139"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c195" level="primary" projected="yes" connect="NT.Luke.5_c193" structure="P-conj">
+    <cl.P>
+      <w xlink:href="NT.Luk.w4140"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Luk.w4141"/>
+    </pl.conj>
+  </cl.clause>
+  <cl.clause xml:id="NT.Luke.5_c196" level="primary" projected="yes" connect="NT.Luke.5_c195" structure="S-C-P">
+    <cl.S>
+      <w xlink:href="NT.Luk.w4142"/>
+      <w xlink:href="NT.Luk.w4143"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Luk.w4144"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Luk.w4145"/>
+    </cl.P>
+  </cl.clause>
+</chapter>

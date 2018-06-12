@@ -14,4 +14,1343 @@ Copyright (c) 2005-6 OpenText.org
 
 contact: matt@opentext.org
 =================================================		
-		--><chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Rom" num="7"><cl.clause xml:id="NT.Rom.7_c1" level="primary" structure="conj-P-add"><pl.conj><w xlink:href="NT.Rom.w2624"/></pl.conj><cl.P><w xlink:href="NT.Rom.w2625"/></cl.P><cl.add><w xlink:href="NT.Rom.w2626"/></cl.add></cl.clause><cl.clause xml:id="NT.Rom.7_c2" level="secondary" connect="NT.Rom.7_c1" structure="C-(conj)-P"><cl.C><cl.clause xml:id="NT.Rom.7_c3" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Rom.w2627"/></cl.P><cl.C><w xlink:href="NT.Rom.w2629"/></cl.C></cl.clause><pl.conj type="embed" parent="NT.Rom.7_c2"><w xlink:href="NT.Rom.w2628"/></pl.conj></cl.C><cl.P><w xlink:href="NT.Rom.w2630"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c4" level="secondary" connect="NT.Rom.7_c1" structure="conj-S-P-C-A"><pl.conj><w xlink:href="NT.Rom.w2631"/></pl.conj><cl.S><w xlink:href="NT.Rom.w2632"/><w xlink:href="NT.Rom.w2633"/></cl.S><cl.P><w xlink:href="NT.Rom.w2634"/></cl.P><cl.C><w xlink:href="NT.Rom.w2635"/><w xlink:href="NT.Rom.w2636"/></cl.C><cl.A><cl.clause xml:id="NT.Rom.7_c5" level="embedded" structure="A-P"><cl.A><w xlink:href="NT.Rom.w2637"/><w xlink:href="NT.Rom.w2638"/><w xlink:href="NT.Rom.w2639"/></cl.A><cl.P><w xlink:href="NT.Rom.w2640"/></cl.P></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c6" level="secondary" connect="NT.Rom.7_c4" structure="S-(conj)-C-P-A"><cl.S><w xlink:href="NT.Rom.w2641"/><pl.conj type="embed" parent="NT.Rom.7_c6"><w xlink:href="NT.Rom.w2642"/></pl.conj><w xlink:href="NT.Rom.w2643"/><w xlink:href="NT.Rom.w2644"/></cl.S><cl.C><w xlink:href="NT.Rom.w2645"/><cl.clause xml:id="NT.Rom.7_c7" level="embedded" structure="P"><cl.P><w xlink:href="NT.Rom.w2646"/></cl.P></cl.clause><w xlink:href="NT.Rom.w2647"/></cl.C><cl.P><w xlink:href="NT.Rom.w2648"/></cl.P><cl.A><w xlink:href="NT.Rom.w2649"/></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c8" level="secondary2" connect="NT.Rom.7_c9" structure="conj-conj-P-S"><pl.conj><w xlink:href="NT.Rom.w2650"/></pl.conj><pl.conj><w xlink:href="NT.Rom.w2651"/></pl.conj><cl.P><w xlink:href="NT.Rom.w2652"/></cl.P><cl.S><w xlink:href="NT.Rom.w2653"/><w xlink:href="NT.Rom.w2654"/></cl.S></cl.clause><cl.clause xml:id="NT.Rom.7_c9" level="secondary" connect="NT.Rom.7_c6" structure="P-A"><cl.P><w xlink:href="NT.Rom.w2655"/></cl.P><cl.A><w xlink:href="NT.Rom.w2656"/><w xlink:href="NT.Rom.w2657"/><w xlink:href="NT.Rom.w2658"/><w xlink:href="NT.Rom.w2659"/><w xlink:href="NT.Rom.w2660"/></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c10" level="secondary2" connect="NT.Rom.7_c11" structure="conj-conj-P-S"><pl.conj><w xlink:href="NT.Rom.w2661"/></pl.conj><pl.conj><w xlink:href="NT.Rom.w2662"/></pl.conj><cl.P><w xlink:href="NT.Rom.w2663"/></cl.P><cl.S><w xlink:href="NT.Rom.w2664"/><w xlink:href="NT.Rom.w2665"/></cl.S></cl.clause><cl.clause xml:id="NT.Rom.7_c11" level="secondary" connect="NT.Rom.7_c9" structure="C-P"><cl.C><w xlink:href="NT.Rom.w2666"/></cl.C><cl.P><w xlink:href="NT.Rom.w2667"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c12" level="secondary2" connect="NT.Rom.7_c11" structure="conj-P-A"><pl.conj><w xlink:href="NT.Rom.w2668"/></pl.conj><cl.P><w xlink:href="NT.Rom.w2669"/></cl.P><cl.A><w xlink:href="NT.Rom.w2670"/><w xlink:href="NT.Rom.w2671"/></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c13" level="secondary2" connect="NT.Rom.7_c14" structure="conj-conj-P-S"><pl.conj><w xlink:href="NT.Rom.w2672"/></pl.conj><pl.conj><w xlink:href="NT.Rom.w2673"/></pl.conj><cl.P><w xlink:href="NT.Rom.w2674"/></cl.P><cl.S><w xlink:href="NT.Rom.w2675"/><w xlink:href="NT.Rom.w2676"/></cl.S></cl.clause><cl.clause xml:id="NT.Rom.7_c14" level="secondary" connect="NT.Rom.7_c11" structure="C-P-A-A"><cl.C><w xlink:href="NT.Rom.w2677"/></cl.C><cl.P><w xlink:href="NT.Rom.w2678"/></cl.P><cl.A><w xlink:href="NT.Rom.w2679"/><w xlink:href="NT.Rom.w2680"/><w xlink:href="NT.Rom.w2681"/></cl.A><cl.A><cl.clause xml:id="NT.Rom.7_c15" level="embedded" structure="P-S-C-A"><cl.P><w xlink:href="NT.Rom.w2682"/><w xlink:href="NT.Rom.w2683"/><w xlink:href="NT.Rom.w2684"/></cl.P><cl.S><w xlink:href="NT.Rom.w2685"/></cl.S><cl.C><w xlink:href="NT.Rom.w2686"/></cl.C><cl.A><cl.clause xml:id="NT.Rom.7_c16" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Rom.w2687"/></cl.P><cl.A><w xlink:href="NT.Rom.w2688"/><w xlink:href="NT.Rom.w2689"/></cl.A></cl.clause></cl.A></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c17" level="primary" connect="NT.Rom.7_c1" structure="conj-add-conj-S-P-C-A-A"><pl.conj><w xlink:href="NT.Rom.w2690"/></pl.conj><cl.add><w xlink:href="NT.Rom.w2691"/><w xlink:href="NT.Rom.w2692"/></cl.add><pl.conj><w xlink:href="NT.Rom.w2693"/></pl.conj><cl.S><w xlink:href="NT.Rom.w2694"/></cl.S><cl.P><w xlink:href="NT.Rom.w2695"/></cl.P><cl.C><w xlink:href="NT.Rom.w2696"/><w xlink:href="NT.Rom.w2697"/></cl.C><cl.A><w xlink:href="NT.Rom.w2698"/><w xlink:href="NT.Rom.w2699"/><w xlink:href="NT.Rom.w2700"/><w xlink:href="NT.Rom.w2701"/><w xlink:href="NT.Rom.w2702"/></cl.A><cl.A><cl.clause xml:id="NT.Rom.7_c18" level="embedded" structure="P-S-A"><cl.P><w xlink:href="NT.Rom.w2703"/><w xlink:href="NT.Rom.w2704"/><w xlink:href="NT.Rom.w2705"/></cl.P><cl.S><w xlink:href="NT.Rom.w2706"/></cl.S><cl.A><w xlink:href="NT.Rom.w2707"/><cl.clause xml:id="NT.Rom.7_c19" level="embedded" structure="P-(A)"><cl.P><w xlink:href="NT.Rom.w2708"/><cl.A type="embed" parent="NT.Rom.7_c19"><w xlink:href="NT.Rom.w2709"/><w xlink:href="NT.Rom.w2710"/></cl.A><w xlink:href="NT.Rom.w2711"/></cl.P></cl.clause></cl.A></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c20" level="secondary" connect="NT.Rom.7_c17" structure="conj-P-C"><pl.conj><w xlink:href="NT.Rom.w2712"/></pl.conj><cl.P><w xlink:href="NT.Rom.w2713"/></cl.P><cl.C><w xlink:href="NT.Rom.w2714"/><w xlink:href="NT.Rom.w2715"/></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c21" level="secondary" connect="NT.Rom.7_c22" structure="conj-conj-P-A"><pl.conj><w xlink:href="NT.Rom.w2716"/></pl.conj><pl.conj><w xlink:href="NT.Rom.w2717"/></pl.conj><cl.P><w xlink:href="NT.Rom.w2718"/></cl.P><cl.A><w xlink:href="NT.Rom.w2719"/><w xlink:href="NT.Rom.w2720"/><w xlink:href="NT.Rom.w2721"/></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c22" level="primary" connect="NT.Rom.7_c17" structure="S-P-A-A"><cl.S><w xlink:href="NT.Rom.w2722"/><w xlink:href="NT.Rom.w2723"/><w xlink:href="NT.Rom.w2724"/><w xlink:href="NT.Rom.w2725"/><w xlink:href="NT.Rom.w2726"/><w xlink:href="NT.Rom.w2727"/><w xlink:href="NT.Rom.w2728"/><w xlink:href="NT.Rom.w2729"/></cl.S><cl.P><w xlink:href="NT.Rom.w2730"/></cl.P><cl.A><w xlink:href="NT.Rom.w2731"/><w xlink:href="NT.Rom.w2732"/><w xlink:href="NT.Rom.w2733"/><w xlink:href="NT.Rom.w2734"/></cl.A><cl.A><cl.clause xml:id="NT.Rom.7_c23" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Rom.w2735"/><w xlink:href="NT.Rom.w2736"/><w xlink:href="NT.Rom.w2737"/></cl.P><cl.C><w xlink:href="NT.Rom.w2738"/><w xlink:href="NT.Rom.w2739"/></cl.C></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c24" level="primary" connect="NT.Rom.7_c22" structure="A-conj-P-A-A"><cl.A><w xlink:href="NT.Rom.w2740"/></cl.A><pl.conj><w xlink:href="NT.Rom.w2741"/></pl.conj><cl.P><w xlink:href="NT.Rom.w2742"/></cl.P><cl.A><w xlink:href="NT.Rom.w2743"/><w xlink:href="NT.Rom.w2744"/><w xlink:href="NT.Rom.w2745"/></cl.A><cl.A><cl.clause xml:id="NT.Rom.7_c25" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Rom.w2746"/></cl.P><cl.C><cl.clause xml:id="NT.Rom.7_c26" level="embedded" structure="A-P"><cl.A><w xlink:href="NT.Rom.w2747"/><w xlink:href="NT.Rom.w2748"/></cl.A><cl.P><w xlink:href="NT.Rom.w2749"/></cl.P></cl.clause></cl.C></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c27" level="secondary" connect="NT.Rom.7_c24" structure="conj-P-S-A"><pl.conj><w xlink:href="NT.Rom.w2750"/></pl.conj><cl.P><w xlink:href="NT.Rom.w2751"/></cl.P><cl.S><w xlink:href="NT.Rom.w2752"/></cl.S><cl.A><w xlink:href="NT.Rom.w2753"/><w xlink:href="NT.Rom.w2754"/><w xlink:href="NT.Rom.w2755"/><w xlink:href="NT.Rom.w2756"/><w xlink:href="NT.Rom.w2757"/><w xlink:href="NT.Rom.w2758"/><w xlink:href="NT.Rom.w2759"/></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c28" level="primary" connect="NT.Rom.7_c24" structure="C-conj-P"><cl.C><w xlink:href="NT.Rom.w2760"/></cl.C><pl.conj><w xlink:href="NT.Rom.w2761"/></pl.conj><cl.P><w xlink:href="NT.Rom.w2762"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c29" level="primary" projected="yes" connect="NT.Rom.7_c28" structure="S-C"><cl.S><w xlink:href="NT.Rom.w2763"/><w xlink:href="NT.Rom.w2764"/></cl.S><cl.C><w xlink:href="NT.Rom.w2765"/></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c30" level="primary" connect="NT.Rom.7_c28" structure="A-P"><cl.A><w xlink:href="NT.Rom.w2766"/></cl.A><cl.P><w xlink:href="NT.Rom.w2767"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c31" level="primary" connect="NT.Rom.7_c30" structure="conj-C-A-P"><pl.conj><w xlink:href="NT.Rom.w2768"/></pl.conj><cl.C><w xlink:href="NT.Rom.w2769"/><w xlink:href="NT.Rom.w2770"/></cl.C><cl.A><w xlink:href="NT.Rom.w2771"/></cl.A><cl.P><w xlink:href="NT.Rom.w2772"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c32" level="secondary" connect="NT.Rom.7_c31" structure="conj-A-A"><pl.conj><w xlink:href="NT.Rom.w2773"/></pl.conj><cl.A><w xlink:href="NT.Rom.w2774"/></cl.A><cl.A><w xlink:href="NT.Rom.w2775"/><w xlink:href="NT.Rom.w2776"/></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c33" level="primary" connect="NT.Rom.7_c31" structure="C-(conj)-(conj)-A-P"><cl.C><w xlink:href="NT.Rom.w2777"/><pl.conj type="embed" parent="NT.Rom.7_c33"><w xlink:href="NT.Rom.w2778"/></pl.conj><pl.conj type="embed" parent="NT.Rom.7_c33"><w xlink:href="NT.Rom.w2779"/></pl.conj><w xlink:href="NT.Rom.w2780"/></cl.C><cl.A><w xlink:href="NT.Rom.w2781"/></cl.A><cl.P><w xlink:href="NT.Rom.w2782"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c34" level="secondary" connect="NT.Rom.7_c33" structure="conj-A-S-P"><pl.conj><w xlink:href="NT.Rom.w2783"/></pl.conj><cl.A><w xlink:href="NT.Rom.w2784"/></cl.A><cl.S><w xlink:href="NT.Rom.w2785"/><w xlink:href="NT.Rom.w2786"/></cl.S><cl.P><w xlink:href="NT.Rom.w2787"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c35" level="secondary" projected="yes" connect="NT.Rom.7_c34" structure="A-P"><cl.A><w xlink:href="NT.Rom.w2788"/></cl.A><cl.P><w xlink:href="NT.Rom.w2789"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c36" level="primary" connect="NT.Rom.7_c33" structure="A-S-P-A-C"><cl.A><cl.clause xml:id="NT.Rom.7_c37" level="embedded" structure="C-conj-P-A"><cl.C><w xlink:href="NT.Rom.w2790"/></cl.C><pl.conj><w xlink:href="NT.Rom.w2791"/></pl.conj><cl.P><w xlink:href="NT.Rom.w2792"/></cl.P><cl.A><w xlink:href="NT.Rom.w2795"/><w xlink:href="NT.Rom.w2796"/><w xlink:href="NT.Rom.w2797"/></cl.A></cl.clause></cl.A><cl.S><w xlink:href="NT.Rom.w2793"/><w xlink:href="NT.Rom.w2794"/></cl.S><cl.P><w xlink:href="NT.Rom.w2798"/></cl.P><cl.A><w xlink:href="NT.Rom.w2799"/><w xlink:href="NT.Rom.w2800"/></cl.A><cl.C><w xlink:href="NT.Rom.w2801"/><w xlink:href="NT.Rom.w2802"/></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c38" level="primary" connect="NT.Rom.7_c36" structure="A-(conj)-S-C"><cl.A><w xlink:href="NT.Rom.w2803"/><pl.conj type="embed" parent="NT.Rom.7_c38"><w xlink:href="NT.Rom.w2804"/></pl.conj><w xlink:href="NT.Rom.w2805"/></cl.A><cl.S><w xlink:href="NT.Rom.w2806"/></cl.S><cl.C><w xlink:href="NT.Rom.w2807"/></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c39" level="primary" connect="NT.Rom.7_c38" structure="S-conj-P-A-A"><cl.S><w xlink:href="NT.Rom.w2808"/></cl.S><pl.conj><w xlink:href="NT.Rom.w2809"/></pl.conj><cl.P><w xlink:href="NT.Rom.w2810"/></cl.P><cl.A><w xlink:href="NT.Rom.w2811"/><w xlink:href="NT.Rom.w2812"/></cl.A><cl.A><w xlink:href="NT.Rom.w2813"/></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c40" level="secondary" connect="NT.Rom.7_c41" structure="P-conj-S"><cl.P><w xlink:href="NT.Rom.w2814"/></cl.P><pl.conj><w xlink:href="NT.Rom.w2815"/></pl.conj><cl.S><w xlink:href="NT.Rom.w2816"/><w xlink:href="NT.Rom.w2817"/></cl.S></cl.clause><cl.clause xml:id="NT.Rom.7_c41" level="primary" connect="NT.Rom.7_c39" structure="S-P"><cl.S><w xlink:href="NT.Rom.w2818"/><w xlink:href="NT.Rom.w2819"/></cl.S><cl.P><w xlink:href="NT.Rom.w2820"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c42" level="primary" connect="NT.Rom.7_c41" structure="S-conj-P"><cl.S><w xlink:href="NT.Rom.w2821"/></cl.S><pl.conj><w xlink:href="NT.Rom.w2822"/></pl.conj><cl.P><w xlink:href="NT.Rom.w2823"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c43" level="primary" connect="NT.Rom.7_c42" structure="conj-P-C-S-A"><pl.conj><w xlink:href="NT.Rom.w2824"/></pl.conj><cl.P><w xlink:href="NT.Rom.w2825"/></cl.P><cl.C><w xlink:href="NT.Rom.w2826"/></cl.C><cl.S><w xlink:href="NT.Rom.w2827"/><w xlink:href="NT.Rom.w2828"/><w xlink:href="NT.Rom.w2829"/><w xlink:href="NT.Rom.w2830"/><w xlink:href="NT.Rom.w2831"/><w xlink:href="NT.Rom.w2832"/></cl.S><cl.A><w xlink:href="NT.Rom.w2833"/><w xlink:href="NT.Rom.w2834"/></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c44" level="primary" connect="NT.Rom.7_c43" structure="S-(conj)-A-P-C"><cl.S><w xlink:href="NT.Rom.w2835"/><pl.conj type="embed" parent="NT.Rom.7_c44"><w xlink:href="NT.Rom.w2836"/></pl.conj><w xlink:href="NT.Rom.w2837"/></cl.S><cl.A><cl.clause xml:id="NT.Rom.7_c45" level="embedded" structure="C-P-A"><cl.C><w xlink:href="NT.Rom.w2838"/></cl.C><cl.P><w xlink:href="NT.Rom.w2839"/></cl.P><cl.A><w xlink:href="NT.Rom.w2840"/><w xlink:href="NT.Rom.w2841"/><w xlink:href="NT.Rom.w2842"/></cl.A></cl.clause></cl.A><cl.P><w xlink:href="NT.Rom.w2843"/></cl.P><cl.C><w xlink:href="NT.Rom.w2844"/></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c46" level="primary" connect="NT.Rom.7_c44" structure="conj-A-P"><pl.conj><w xlink:href="NT.Rom.w2845"/></pl.conj><cl.A><w xlink:href="NT.Rom.w2846"/><w xlink:href="NT.Rom.w2847"/></cl.A><cl.P><w xlink:href="NT.Rom.w2848"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c47" level="primary" connect="NT.Rom.7_c46" structure="conj-S-(conj)-C"><pl.conj><w xlink:href="NT.Rom.w2849"/></pl.conj><cl.S><w xlink:href="NT.Rom.w2850"/><pl.conj type="embed" parent="NT.Rom.7_c47"><w xlink:href="NT.Rom.w2851"/></pl.conj><w xlink:href="NT.Rom.w2852"/></cl.S><cl.C><w xlink:href="NT.Rom.w2853"/></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c48" level="primary" connect="NT.Rom.7_c47" structure="conj-S-C"><pl.conj><w xlink:href="NT.Rom.w2854"/></pl.conj><cl.S><w xlink:href="NT.Rom.w2855"/><w xlink:href="NT.Rom.w2856"/></cl.S><cl.C><w xlink:href="NT.Rom.w2857"/><w xlink:href="NT.Rom.w2858"/><w xlink:href="NT.Rom.w2859"/><w xlink:href="NT.Rom.w2860"/><w xlink:href="NT.Rom.w2861"/></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c49" level="primary" connect="NT.Rom.7_c48" structure="S-(conj)-C-P-C"><cl.S><w xlink:href="NT.Rom.w2862"/><pl.conj type="embed" parent="NT.Rom.7_c49"><w xlink:href="NT.Rom.w2863"/></pl.conj><w xlink:href="NT.Rom.w2864"/></cl.S><cl.C><w xlink:href="NT.Rom.w2865"/></cl.C><cl.P><w xlink:href="NT.Rom.w2866"/></cl.P><cl.C><w xlink:href="NT.Rom.w2867"/></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c50" level="primary" connect="NT.Rom.7_c49" structure="A-P"><cl.A><w xlink:href="NT.Rom.w2868"/></cl.A><cl.P><w xlink:href="NT.Rom.w2869"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c51" level="primary" connect="NT.Rom.7_c50" structure="conj-S"><pl.conj><w xlink:href="NT.Rom.w2870"/></pl.conj><cl.S><w xlink:href="NT.Rom.w2871"/><w xlink:href="NT.Rom.w2872"/></cl.S></cl.clause><cl.clause xml:id="NT.Rom.7_c52" level="secondary" connect="NT.Rom.7_c51" structure="conj-P-S-A"><pl.conj><w xlink:href="NT.Rom.w2873"/></pl.conj><cl.P><w xlink:href="NT.Rom.w2874"/></cl.P><cl.S><w xlink:href="NT.Rom.w2875"/></cl.S><cl.A><cl.clause xml:id="NT.Rom.7_c53" level="embedded" structure="A-C-P-C"><cl.A><w xlink:href="NT.Rom.w2876"/><w xlink:href="NT.Rom.w2877"/><w xlink:href="NT.Rom.w2878"/></cl.A><cl.C><w xlink:href="NT.Rom.w2879"/></cl.C><cl.P><w xlink:href="NT.Rom.w2880"/></cl.P><cl.C><w xlink:href="NT.Rom.w2881"/></cl.C></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c54" level="secondary2" connect="NT.Rom.7_c52" structure="conj-P-C-A-S-A"><pl.conj><w xlink:href="NT.Rom.w2882"/></pl.conj><cl.P><w xlink:href="NT.Rom.w2883"/></cl.P><cl.C><w xlink:href="NT.Rom.w2886"/></cl.C><cl.A><w xlink:href="NT.Rom.w2884"/><w xlink:href="NT.Rom.w2885"/></cl.A><cl.S><w xlink:href="NT.Rom.w2887"/><w xlink:href="NT.Rom.w2888"/></cl.S><cl.A><w xlink:href="NT.Rom.w2889"/><w xlink:href="NT.Rom.w2890"/><w xlink:href="NT.Rom.w2891"/></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c55" level="primary" connect="NT.Rom.7_c51" structure="P-conj"><cl.P><w xlink:href="NT.Rom.w2892"/></cl.P><pl.conj><w xlink:href="NT.Rom.w2893"/></pl.conj></cl.clause><cl.clause xml:id="NT.Rom.7_c56" level="secondary" connect="NT.Rom.7_c55" structure="conj-S-C-P"><pl.conj><w xlink:href="NT.Rom.w2894"/></pl.conj><cl.S><w xlink:href="NT.Rom.w2895"/><w xlink:href="NT.Rom.w2896"/></cl.S><cl.C><w xlink:href="NT.Rom.w2897"/></cl.C><cl.P><w xlink:href="NT.Rom.w2898"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c57" level="secondary" connect="NT.Rom.7_c56" structure="S-conj-C-P-A"><cl.S><w xlink:href="NT.Rom.w2899"/></cl.S><pl.conj><w xlink:href="NT.Rom.w2900"/></pl.conj><cl.C><w xlink:href="NT.Rom.w2901"/></cl.C><cl.P><w xlink:href="NT.Rom.w2902"/></cl.P><cl.A><cl.clause xml:id="NT.Rom.7_c58" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Rom.w2903"/></cl.P><cl.A><w xlink:href="NT.Rom.w2904"/><w xlink:href="NT.Rom.w2905"/><w xlink:href="NT.Rom.w2906"/></cl.A></cl.clause></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c59" level="primary" connect="NT.Rom.7_c55" structure="C-A-P"><cl.C><cl.clause xml:id="NT.Rom.7_c60" level="embedded" structure="C-conj-P"><cl.C><w xlink:href="NT.Rom.w2907"/></cl.C><pl.conj><w xlink:href="NT.Rom.w2908"/></pl.conj><cl.P><w xlink:href="NT.Rom.w2909"/></cl.P></cl.clause></cl.C><cl.A><w xlink:href="NT.Rom.w2910"/></cl.A><cl.P><w xlink:href="NT.Rom.w2911"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c61" level="primary" connect="NT.Rom.7_c59" structure="A-conj-C-P"><cl.A><w xlink:href="NT.Rom.w2912"/></cl.A><pl.conj><w xlink:href="NT.Rom.w2913"/></pl.conj><cl.C><w xlink:href="NT.Rom.w2914"/></cl.C><cl.P><w xlink:href="NT.Rom.w2915"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c62" level="primary" connect="NT.Rom.7_c61" structure="C-P"><cl.C><w xlink:href="NT.Rom.w2916"/></cl.C><cl.P><w xlink:href="NT.Rom.w2917"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c63" level="primary" connect="NT.Rom.7_c62" structure="conj-C-P"><pl.conj><w xlink:href="NT.Rom.w2918"/></pl.conj><cl.C><w xlink:href="NT.Rom.w2919"/></cl.C><cl.P><w xlink:href="NT.Rom.w2920"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c64" level="primary" connect="NT.Rom.7_c63" structure="C-P"><cl.C><w xlink:href="NT.Rom.w2921"/></cl.C><cl.P><w xlink:href="NT.Rom.w2922"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c65" level="secondary" connect="NT.Rom.7_c67" structure="conj-conj-C-A-P"><pl.conj><w xlink:href="NT.Rom.w2923"/></pl.conj><pl.conj><w xlink:href="NT.Rom.w2924"/></pl.conj><cl.C><w xlink:href="NT.Rom.w2925"/></cl.C><cl.A><w xlink:href="NT.Rom.w2926"/></cl.A><cl.P><w xlink:href="NT.Rom.w2927"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c66" level="secondary" connect="NT.Rom.7_c65" structure="C-P"><cl.C><w xlink:href="NT.Rom.w2928"/></cl.C><cl.P><w xlink:href="NT.Rom.w2929"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c67" level="primary" connect="NT.Rom.7_c64" structure="P-A"><cl.P><w xlink:href="NT.Rom.w2930"/></cl.P><cl.A><w xlink:href="NT.Rom.w2931"/><w xlink:href="NT.Rom.w2932"/></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c68" level="primary" projected="yes" connect="NT.Rom.7_c67" structure="conj-C"><pl.conj><w xlink:href="NT.Rom.w2933"/></pl.conj><cl.C><w xlink:href="NT.Rom.w2934"/></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c69" level="primary" connect="NT.Rom.7_c67" structure="A-conj-A-S-P-C"><cl.A><w xlink:href="NT.Rom.w2935"/></cl.A><pl.conj><w xlink:href="NT.Rom.w2936"/></pl.conj><cl.A><w xlink:href="NT.Rom.w2937"/></cl.A><cl.S><w xlink:href="NT.Rom.w2938"/></cl.S><cl.P><w xlink:href="NT.Rom.w2939"/></cl.P><cl.C><w xlink:href="NT.Rom.w2940"/></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c70" level="primary" connect="NT.Rom.7_c69" structure="conj-S"><pl.conj><w xlink:href="NT.Rom.w2941"/></pl.conj><cl.S><w xlink:href="NT.Rom.w2942"/><cl.clause xml:id="NT.Rom.7_c71" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Rom.w2943"/></cl.P><cl.A><w xlink:href="NT.Rom.w2944"/><w xlink:href="NT.Rom.w2945"/></cl.A></cl.clause><w xlink:href="NT.Rom.w2946"/></cl.S></cl.clause><cl.clause xml:id="NT.Rom.7_c72" level="primary" connect="NT.Rom.7_c70" structure="P-conj"><cl.P><w xlink:href="NT.Rom.w2947"/></cl.P><pl.conj><w xlink:href="NT.Rom.w2948"/></pl.conj></cl.clause><cl.clause xml:id="NT.Rom.7_c73" level="secondary" connect="NT.Rom.7_c72" structure="conj-A-P-A-S"><pl.conj><w xlink:href="NT.Rom.w2949"/></pl.conj><cl.A><w xlink:href="NT.Rom.w2950"/></cl.A><cl.P><w xlink:href="NT.Rom.w2951"/></cl.P><cl.A><w xlink:href="NT.Rom.w2952"/><w xlink:href="NT.Rom.w2953"/><cl.clause xml:id="NT.Rom.7_c74" level="embedded" structure="S-P-A"><cl.S><w xlink:href="NT.Rom.w2954"/></cl.S><cl.P><w xlink:href="NT.Rom.w2955"/></cl.P><cl.A><w xlink:href="NT.Rom.w2956"/><w xlink:href="NT.Rom.w2957"/><w xlink:href="NT.Rom.w2958"/><w xlink:href="NT.Rom.w2959"/></cl.A></cl.clause></cl.A><cl.S><w xlink:href="NT.Rom.w2960"/></cl.S></cl.clause><cl.clause xml:id="NT.Rom.7_c75" level="primary" connect="NT.Rom.7_c72" structure="S-P-C"><cl.S><cl.clause xml:id="NT.Rom.7_c76" level="embedded" structure="P-(conj)"><cl.P><w xlink:href="NT.Rom.w2961"/><pl.conj type="embed" parent="NT.Rom.7_c76"><w xlink:href="NT.Rom.w2962"/></pl.conj><w xlink:href="NT.Rom.w2963"/></cl.P></cl.clause></cl.S><cl.P><w xlink:href="NT.Rom.w2964"/></cl.P><cl.C><w xlink:href="NT.Rom.w2965"/></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c77" level="primary" connect="NT.Rom.7_c75" structure="S-A"><cl.S><cl.clause xml:id="NT.Rom.7_c78" level="embedded" structure="P-(conj)-C"><cl.P><w xlink:href="NT.Rom.w2966"/><pl.conj type="embed" parent="NT.Rom.7_c78"><w xlink:href="NT.Rom.w2967"/></pl.conj><w xlink:href="NT.Rom.w2968"/></cl.P><cl.C><w xlink:href="NT.Rom.w2969"/><w xlink:href="NT.Rom.w2970"/></cl.C></cl.clause></cl.S><cl.A><w xlink:href="NT.Rom.w2971"/></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c79" level="primary" connect="NT.Rom.7_c77" structure="A-conj-C-(P)"><cl.A><w xlink:href="NT.Rom.w2972"/></cl.A><pl.conj><w xlink:href="NT.Rom.w2973"/></pl.conj><cl.C><cl.clause xml:id="NT.Rom.7_c80" level="embedded" structure="C-(P)"><cl.C><w xlink:href="NT.Rom.w2974"/><cl.P type="embed" parent="NT.Rom.7_c80"><w xlink:href="NT.Rom.w2975"/></cl.P><w xlink:href="NT.Rom.w2977"/></cl.C></cl.clause><cl.P type="embed" parent="NT.Rom.7_c79"><w xlink:href="NT.Rom.w2976"/></cl.P></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c81" level="primary" connect="NT.Rom.7_c79" structure="conj-C-(A)-(P)"><pl.conj><w xlink:href="NT.Rom.w2978"/></pl.conj><cl.C><w xlink:href="NT.Rom.w2979"/><cl.A type="embed" parent="NT.Rom.7_c81"><w xlink:href="NT.Rom.w2980"/></cl.A><cl.P type="embed" parent="NT.Rom.7_c81"><w xlink:href="NT.Rom.w2981"/></cl.P><w xlink:href="NT.Rom.w2982"/></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c82" level="primary" connect="NT.Rom.7_c81" structure="C-P"><cl.C><w xlink:href="NT.Rom.w2983"/></cl.C><cl.P><w xlink:href="NT.Rom.w2984"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c83" level="secondary" connect="NT.Rom.7_c85" structure="conj-conj-C-A-P"><pl.conj><w xlink:href="NT.Rom.w2985"/></pl.conj><pl.conj><w xlink:href="NT.Rom.w2986"/></pl.conj><cl.C><w xlink:href="NT.Rom.w2987"/></cl.C><cl.A><w xlink:href="NT.Rom.w2988"/></cl.A><cl.P><w xlink:href="NT.Rom.w2989"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c84" level="secondary" connect="NT.Rom.7_c83" structure="S-C-P"><cl.S><w xlink:href="NT.Rom.w2990"/></cl.S><cl.C><w xlink:href="NT.Rom.w2991"/></cl.C><cl.P><w xlink:href="NT.Rom.w2992"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c85" level="primary" connect="NT.Rom.7_c82" structure="A-S-P-C"><cl.A><w xlink:href="NT.Rom.w2993"/></cl.A><cl.S><w xlink:href="NT.Rom.w2994"/></cl.S><cl.P><w xlink:href="NT.Rom.w2995"/></cl.P><cl.C><w xlink:href="NT.Rom.w2996"/></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c86" level="primary" connect="NT.Rom.7_c85" structure="conj-S"><pl.conj><w xlink:href="NT.Rom.w2997"/></pl.conj><cl.S><w xlink:href="NT.Rom.w2998"/><cl.clause xml:id="NT.Rom.7_c87" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Rom.w2999"/></cl.P><cl.A><w xlink:href="NT.Rom.w3000"/><w xlink:href="NT.Rom.w3001"/></cl.A></cl.clause><w xlink:href="NT.Rom.w3002"/></cl.S></cl.clause><cl.clause xml:id="NT.Rom.7_c88" level="primary" connect="NT.Rom.7_c86" structure="P-conj-C-C"><cl.P><w xlink:href="NT.Rom.w3003"/></cl.P><pl.conj><w xlink:href="NT.Rom.w3004"/></pl.conj><cl.C><w xlink:href="NT.Rom.w3005"/><w xlink:href="NT.Rom.w3006"/></cl.C><cl.C><w xlink:href="NT.Rom.w3009"/><cl.clause xml:id="NT.Rom.7_c89" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Rom.w3007"/><w xlink:href="NT.Rom.w3008"/></cl.P><cl.C><cl.clause xml:id="NT.Rom.7_c90" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Rom.w3010"/></cl.P><cl.C><w xlink:href="NT.Rom.w3011"/><w xlink:href="NT.Rom.w3012"/></cl.C></cl.clause></cl.C></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c91" level="secondary" connect="NT.Rom.7_c88" structure="conj-C-S-P"><pl.conj><w xlink:href="NT.Rom.w3013"/></pl.conj><cl.C><w xlink:href="NT.Rom.w3014"/></cl.C><cl.S><w xlink:href="NT.Rom.w3015"/><w xlink:href="NT.Rom.w3016"/></cl.S><cl.P><w xlink:href="NT.Rom.w3017"/></cl.P></cl.clause><cl.clause xml:id="NT.Rom.7_c92" level="primary" connect="NT.Rom.7_c88" structure="P-conj-A-A"><cl.P><w xlink:href="NT.Rom.w3018"/></cl.P><pl.conj><w xlink:href="NT.Rom.w3019"/></pl.conj><cl.A><w xlink:href="NT.Rom.w3020"/><w xlink:href="NT.Rom.w3021"/><w xlink:href="NT.Rom.w3022"/><w xlink:href="NT.Rom.w3023"/></cl.A><cl.A><w xlink:href="NT.Rom.w3024"/><w xlink:href="NT.Rom.w3025"/><w xlink:href="NT.Rom.w3026"/><w xlink:href="NT.Rom.w3027"/></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c93" level="primary" connect="NT.Rom.7_c92" structure="P-conj-C-(A)"><cl.P><w xlink:href="NT.Rom.w3028"/></cl.P><pl.conj><w xlink:href="NT.Rom.w3029"/></pl.conj><cl.C><w xlink:href="NT.Rom.w3030"/><w xlink:href="NT.Rom.w3031"/><cl.A type="embed" parent="NT.Rom.7_c93"><w xlink:href="NT.Rom.w3032"/><w xlink:href="NT.Rom.w3033"/><w xlink:href="NT.Rom.w3034"/><w xlink:href="NT.Rom.w3035"/></cl.A><cl.clause xml:id="NT.Rom.7_c94" level="embedded" structure="P-C"><cl.P><w xlink:href="NT.Rom.w3036"/></cl.P><cl.C><w xlink:href="NT.Rom.w3037"/><w xlink:href="NT.Rom.w3038"/><w xlink:href="NT.Rom.w3039"/><w xlink:href="NT.Rom.w3040"/><w xlink:href="NT.Rom.w3041"/></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c95" level="embedded" structure="conj-P-C-A"><pl.conj><w xlink:href="NT.Rom.w3042"/></pl.conj><cl.P><w xlink:href="NT.Rom.w3043"/></cl.P><cl.C><w xlink:href="NT.Rom.w3044"/></cl.C><cl.A><w xlink:href="NT.Rom.w3045"/><w xlink:href="NT.Rom.w3046"/><w xlink:href="NT.Rom.w3047"/><w xlink:href="NT.Rom.w3048"/><w xlink:href="NT.Rom.w3049"/><cl.clause xml:id="NT.Rom.7_c96" level="embedded" structure="P-A"><cl.P><w xlink:href="NT.Rom.w3050"/><w xlink:href="NT.Rom.w3051"/></cl.P><cl.A><w xlink:href="NT.Rom.w3052"/><w xlink:href="NT.Rom.w3053"/><w xlink:href="NT.Rom.w3054"/><w xlink:href="NT.Rom.w3055"/></cl.A></cl.clause></cl.A></cl.clause></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c97" level="primary" connect="NT.Rom.7_c93" structure="C-(S)"><cl.C><w xlink:href="NT.Rom.w3056"/><cl.S type="embed" parent="NT.Rom.7_c97"><w xlink:href="NT.Rom.w3057"/></cl.S><w xlink:href="NT.Rom.w3058"/></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c98" level="primary" connect="NT.Rom.7_c97" structure="S-C-P-A"><cl.S><w xlink:href="NT.Rom.w3059"/></cl.S><cl.C><w xlink:href="NT.Rom.w3060"/></cl.C><cl.P><w xlink:href="NT.Rom.w3061"/></cl.P><cl.A><w xlink:href="NT.Rom.w3062"/><w xlink:href="NT.Rom.w3063"/><w xlink:href="NT.Rom.w3064"/><w xlink:href="NT.Rom.w3065"/><w xlink:href="NT.Rom.w3066"/><w xlink:href="NT.Rom.w3067"/></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c99" level="primary" connect="NT.Rom.7_c98" structure="S-conj-C-A"><cl.S><w xlink:href="NT.Rom.w3068"/></cl.S><pl.conj><w xlink:href="NT.Rom.w3069"/></pl.conj><cl.C><w xlink:href="NT.Rom.w3070"/><w xlink:href="NT.Rom.w3071"/></cl.C><cl.A><w xlink:href="NT.Rom.w3072"/><w xlink:href="NT.Rom.w3073"/><w xlink:href="NT.Rom.w3074"/><w xlink:href="NT.Rom.w3075"/><w xlink:href="NT.Rom.w3076"/><w xlink:href="NT.Rom.w3077"/></cl.A></cl.clause><cl.clause xml:id="NT.Rom.7_c100" level="primary" connect="NT.Rom.7_c99" structure="conj-conj-S-A-(conj)-P-C"><pl.conj><w xlink:href="NT.Rom.w3078"/></pl.conj><pl.conj><w xlink:href="NT.Rom.w3079"/></pl.conj><cl.S><w xlink:href="NT.Rom.w3080"/><w xlink:href="NT.Rom.w3081"/></cl.S><cl.A><w xlink:href="NT.Rom.w3082"/><pl.conj type="embed" parent="NT.Rom.7_c100"><w xlink:href="NT.Rom.w3083"/></pl.conj><w xlink:href="NT.Rom.w3084"/></cl.A><cl.P><w xlink:href="NT.Rom.w3085"/></cl.P><cl.C><w xlink:href="NT.Rom.w3086"/><w xlink:href="NT.Rom.w3087"/></cl.C></cl.clause><cl.clause xml:id="NT.Rom.7_c101" level="primary" connect="NT.Rom.7_c100" structure="A-(conj)-C"><cl.A><w xlink:href="NT.Rom.w3088"/><pl.conj type="embed" parent="NT.Rom.7_c101"><w xlink:href="NT.Rom.w3089"/></pl.conj><w xlink:href="NT.Rom.w3090"/></cl.A><cl.C><w xlink:href="NT.Rom.w3091"/><w xlink:href="NT.Rom.w3092"/></cl.C></cl.clause></chapter>
+		-->
+<chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Rom" num="7">
+  <cl.clause xml:id="NT.Rom.7_c1" level="primary" structure="conj-P-add">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2624"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2625"/>
+    </cl.P>
+    <cl.add>
+      <w xlink:href="NT.Rom.w2626"/>
+    </cl.add>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c2" level="secondary" connect="NT.Rom.7_c1" structure="C-(conj)-P">
+    <cl.C>
+      <cl.clause xml:id="NT.Rom.7_c3" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Rom.w2627"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Rom.w2629"/>
+        </cl.C>
+      </cl.clause>
+      <pl.conj type="embed" parent="NT.Rom.7_c2">
+        <w xlink:href="NT.Rom.w2628"/>
+      </pl.conj>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2630"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c4" level="secondary" connect="NT.Rom.7_c1" structure="conj-S-P-C-A">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2631"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2632"/>
+      <w xlink:href="NT.Rom.w2633"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2634"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2635"/>
+      <w xlink:href="NT.Rom.w2636"/>
+    </cl.C>
+    <cl.A>
+      <cl.clause xml:id="NT.Rom.7_c5" level="embedded" structure="A-P">
+        <cl.A>
+          <w xlink:href="NT.Rom.w2637"/>
+          <w xlink:href="NT.Rom.w2638"/>
+          <w xlink:href="NT.Rom.w2639"/>
+        </cl.A>
+        <cl.P>
+          <w xlink:href="NT.Rom.w2640"/>
+        </cl.P>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c6" level="secondary" connect="NT.Rom.7_c4" structure="S-(conj)-C-P-A">
+    <cl.S>
+      <w xlink:href="NT.Rom.w2641"/>
+      <pl.conj type="embed" parent="NT.Rom.7_c6">
+        <w xlink:href="NT.Rom.w2642"/>
+      </pl.conj>
+      <w xlink:href="NT.Rom.w2643"/>
+      <w xlink:href="NT.Rom.w2644"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2645"/>
+      <cl.clause xml:id="NT.Rom.7_c7" level="embedded" structure="P">
+        <cl.P>
+          <w xlink:href="NT.Rom.w2646"/>
+        </cl.P>
+      </cl.clause>
+      <w xlink:href="NT.Rom.w2647"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2648"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2649"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c8" level="secondary2" connect="NT.Rom.7_c9" structure="conj-conj-P-S">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2650"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2651"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2652"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2653"/>
+      <w xlink:href="NT.Rom.w2654"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c9" level="secondary" connect="NT.Rom.7_c6" structure="P-A">
+    <cl.P>
+      <w xlink:href="NT.Rom.w2655"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2656"/>
+      <w xlink:href="NT.Rom.w2657"/>
+      <w xlink:href="NT.Rom.w2658"/>
+      <w xlink:href="NT.Rom.w2659"/>
+      <w xlink:href="NT.Rom.w2660"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c10" level="secondary2" connect="NT.Rom.7_c11" structure="conj-conj-P-S">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2661"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2662"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2663"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2664"/>
+      <w xlink:href="NT.Rom.w2665"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c11" level="secondary" connect="NT.Rom.7_c9" structure="C-P">
+    <cl.C>
+      <w xlink:href="NT.Rom.w2666"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2667"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c12" level="secondary2" connect="NT.Rom.7_c11" structure="conj-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2668"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2669"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2670"/>
+      <w xlink:href="NT.Rom.w2671"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c13" level="secondary2" connect="NT.Rom.7_c14" structure="conj-conj-P-S">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2672"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2673"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2674"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2675"/>
+      <w xlink:href="NT.Rom.w2676"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c14" level="secondary" connect="NT.Rom.7_c11" structure="C-P-A-A">
+    <cl.C>
+      <w xlink:href="NT.Rom.w2677"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2678"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2679"/>
+      <w xlink:href="NT.Rom.w2680"/>
+      <w xlink:href="NT.Rom.w2681"/>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.Rom.7_c15" level="embedded" structure="P-S-C-A">
+        <cl.P>
+          <w xlink:href="NT.Rom.w2682"/>
+          <w xlink:href="NT.Rom.w2683"/>
+          <w xlink:href="NT.Rom.w2684"/>
+        </cl.P>
+        <cl.S>
+          <w xlink:href="NT.Rom.w2685"/>
+        </cl.S>
+        <cl.C>
+          <w xlink:href="NT.Rom.w2686"/>
+        </cl.C>
+        <cl.A>
+          <cl.clause xml:id="NT.Rom.7_c16" level="embedded" structure="P-A">
+            <cl.P>
+              <w xlink:href="NT.Rom.w2687"/>
+            </cl.P>
+            <cl.A>
+              <w xlink:href="NT.Rom.w2688"/>
+              <w xlink:href="NT.Rom.w2689"/>
+            </cl.A>
+          </cl.clause>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c17" level="primary" connect="NT.Rom.7_c1" structure="conj-add-conj-S-P-C-A-A">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2690"/>
+    </pl.conj>
+    <cl.add>
+      <w xlink:href="NT.Rom.w2691"/>
+      <w xlink:href="NT.Rom.w2692"/>
+    </cl.add>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2693"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2694"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2695"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2696"/>
+      <w xlink:href="NT.Rom.w2697"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2698"/>
+      <w xlink:href="NT.Rom.w2699"/>
+      <w xlink:href="NT.Rom.w2700"/>
+      <w xlink:href="NT.Rom.w2701"/>
+      <w xlink:href="NT.Rom.w2702"/>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.Rom.7_c18" level="embedded" structure="P-S-A">
+        <cl.P>
+          <w xlink:href="NT.Rom.w2703"/>
+          <w xlink:href="NT.Rom.w2704"/>
+          <w xlink:href="NT.Rom.w2705"/>
+        </cl.P>
+        <cl.S>
+          <w xlink:href="NT.Rom.w2706"/>
+        </cl.S>
+        <cl.A>
+          <w xlink:href="NT.Rom.w2707"/>
+          <cl.clause xml:id="NT.Rom.7_c19" level="embedded" structure="P-(A)">
+            <cl.P>
+              <w xlink:href="NT.Rom.w2708"/>
+              <cl.A type="embed" parent="NT.Rom.7_c19">
+                <w xlink:href="NT.Rom.w2709"/>
+                <w xlink:href="NT.Rom.w2710"/>
+              </cl.A>
+              <w xlink:href="NT.Rom.w2711"/>
+            </cl.P>
+          </cl.clause>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c20" level="secondary" connect="NT.Rom.7_c17" structure="conj-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2712"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2713"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2714"/>
+      <w xlink:href="NT.Rom.w2715"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c21" level="secondary" connect="NT.Rom.7_c22" structure="conj-conj-P-A">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2716"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2717"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2718"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2719"/>
+      <w xlink:href="NT.Rom.w2720"/>
+      <w xlink:href="NT.Rom.w2721"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c22" level="primary" connect="NT.Rom.7_c17" structure="S-P-A-A">
+    <cl.S>
+      <w xlink:href="NT.Rom.w2722"/>
+      <w xlink:href="NT.Rom.w2723"/>
+      <w xlink:href="NT.Rom.w2724"/>
+      <w xlink:href="NT.Rom.w2725"/>
+      <w xlink:href="NT.Rom.w2726"/>
+      <w xlink:href="NT.Rom.w2727"/>
+      <w xlink:href="NT.Rom.w2728"/>
+      <w xlink:href="NT.Rom.w2729"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2730"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2731"/>
+      <w xlink:href="NT.Rom.w2732"/>
+      <w xlink:href="NT.Rom.w2733"/>
+      <w xlink:href="NT.Rom.w2734"/>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.Rom.7_c23" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Rom.w2735"/>
+          <w xlink:href="NT.Rom.w2736"/>
+          <w xlink:href="NT.Rom.w2737"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Rom.w2738"/>
+          <w xlink:href="NT.Rom.w2739"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c24" level="primary" connect="NT.Rom.7_c22" structure="A-conj-P-A-A">
+    <cl.A>
+      <w xlink:href="NT.Rom.w2740"/>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2741"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2742"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2743"/>
+      <w xlink:href="NT.Rom.w2744"/>
+      <w xlink:href="NT.Rom.w2745"/>
+    </cl.A>
+    <cl.A>
+      <cl.clause xml:id="NT.Rom.7_c25" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Rom.w2746"/>
+        </cl.P>
+        <cl.C>
+          <cl.clause xml:id="NT.Rom.7_c26" level="embedded" structure="A-P">
+            <cl.A>
+              <w xlink:href="NT.Rom.w2747"/>
+              <w xlink:href="NT.Rom.w2748"/>
+            </cl.A>
+            <cl.P>
+              <w xlink:href="NT.Rom.w2749"/>
+            </cl.P>
+          </cl.clause>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c27" level="secondary" connect="NT.Rom.7_c24" structure="conj-P-S-A">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2750"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2751"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2752"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2753"/>
+      <w xlink:href="NT.Rom.w2754"/>
+      <w xlink:href="NT.Rom.w2755"/>
+      <w xlink:href="NT.Rom.w2756"/>
+      <w xlink:href="NT.Rom.w2757"/>
+      <w xlink:href="NT.Rom.w2758"/>
+      <w xlink:href="NT.Rom.w2759"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c28" level="primary" connect="NT.Rom.7_c24" structure="C-conj-P">
+    <cl.C>
+      <w xlink:href="NT.Rom.w2760"/>
+    </cl.C>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2761"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2762"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c29" level="primary" projected="yes" connect="NT.Rom.7_c28" structure="S-C">
+    <cl.S>
+      <w xlink:href="NT.Rom.w2763"/>
+      <w xlink:href="NT.Rom.w2764"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2765"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c30" level="primary" connect="NT.Rom.7_c28" structure="A-P">
+    <cl.A>
+      <w xlink:href="NT.Rom.w2766"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2767"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c31" level="primary" connect="NT.Rom.7_c30" structure="conj-C-A-P">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2768"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2769"/>
+      <w xlink:href="NT.Rom.w2770"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2771"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2772"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c32" level="secondary" connect="NT.Rom.7_c31" structure="conj-A-A">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2773"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2774"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2775"/>
+      <w xlink:href="NT.Rom.w2776"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c33" level="primary" connect="NT.Rom.7_c31" structure="C-(conj)-(conj)-A-P">
+    <cl.C>
+      <w xlink:href="NT.Rom.w2777"/>
+      <pl.conj type="embed" parent="NT.Rom.7_c33">
+        <w xlink:href="NT.Rom.w2778"/>
+      </pl.conj>
+      <pl.conj type="embed" parent="NT.Rom.7_c33">
+        <w xlink:href="NT.Rom.w2779"/>
+      </pl.conj>
+      <w xlink:href="NT.Rom.w2780"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2781"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2782"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c34" level="secondary" connect="NT.Rom.7_c33" structure="conj-A-S-P">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2783"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2784"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2785"/>
+      <w xlink:href="NT.Rom.w2786"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2787"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c35" level="secondary" projected="yes" connect="NT.Rom.7_c34" structure="A-P">
+    <cl.A>
+      <w xlink:href="NT.Rom.w2788"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2789"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c36" level="primary" connect="NT.Rom.7_c33" structure="A-S-P-A-C">
+    <cl.A>
+      <cl.clause xml:id="NT.Rom.7_c37" level="embedded" structure="C-conj-P-A">
+        <cl.C>
+          <w xlink:href="NT.Rom.w2790"/>
+        </cl.C>
+        <pl.conj>
+          <w xlink:href="NT.Rom.w2791"/>
+        </pl.conj>
+        <cl.P>
+          <w xlink:href="NT.Rom.w2792"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Rom.w2795"/>
+          <w xlink:href="NT.Rom.w2796"/>
+          <w xlink:href="NT.Rom.w2797"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2793"/>
+      <w xlink:href="NT.Rom.w2794"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2798"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2799"/>
+      <w xlink:href="NT.Rom.w2800"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2801"/>
+      <w xlink:href="NT.Rom.w2802"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c38" level="primary" connect="NT.Rom.7_c36" structure="A-(conj)-S-C">
+    <cl.A>
+      <w xlink:href="NT.Rom.w2803"/>
+      <pl.conj type="embed" parent="NT.Rom.7_c38">
+        <w xlink:href="NT.Rom.w2804"/>
+      </pl.conj>
+      <w xlink:href="NT.Rom.w2805"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2806"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2807"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c39" level="primary" connect="NT.Rom.7_c38" structure="S-conj-P-A-A">
+    <cl.S>
+      <w xlink:href="NT.Rom.w2808"/>
+    </cl.S>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2809"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2810"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2811"/>
+      <w xlink:href="NT.Rom.w2812"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2813"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c40" level="secondary" connect="NT.Rom.7_c41" structure="P-conj-S">
+    <cl.P>
+      <w xlink:href="NT.Rom.w2814"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2815"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2816"/>
+      <w xlink:href="NT.Rom.w2817"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c41" level="primary" connect="NT.Rom.7_c39" structure="S-P">
+    <cl.S>
+      <w xlink:href="NT.Rom.w2818"/>
+      <w xlink:href="NT.Rom.w2819"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2820"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c42" level="primary" connect="NT.Rom.7_c41" structure="S-conj-P">
+    <cl.S>
+      <w xlink:href="NT.Rom.w2821"/>
+    </cl.S>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2822"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2823"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c43" level="primary" connect="NT.Rom.7_c42" structure="conj-P-C-S-A">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2824"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2825"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2826"/>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2827"/>
+      <w xlink:href="NT.Rom.w2828"/>
+      <w xlink:href="NT.Rom.w2829"/>
+      <w xlink:href="NT.Rom.w2830"/>
+      <w xlink:href="NT.Rom.w2831"/>
+      <w xlink:href="NT.Rom.w2832"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2833"/>
+      <w xlink:href="NT.Rom.w2834"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c44" level="primary" connect="NT.Rom.7_c43" structure="S-(conj)-A-P-C">
+    <cl.S>
+      <w xlink:href="NT.Rom.w2835"/>
+      <pl.conj type="embed" parent="NT.Rom.7_c44">
+        <w xlink:href="NT.Rom.w2836"/>
+      </pl.conj>
+      <w xlink:href="NT.Rom.w2837"/>
+    </cl.S>
+    <cl.A>
+      <cl.clause xml:id="NT.Rom.7_c45" level="embedded" structure="C-P-A">
+        <cl.C>
+          <w xlink:href="NT.Rom.w2838"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.Rom.w2839"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Rom.w2840"/>
+          <w xlink:href="NT.Rom.w2841"/>
+          <w xlink:href="NT.Rom.w2842"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2843"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2844"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c46" level="primary" connect="NT.Rom.7_c44" structure="conj-A-P">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2845"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2846"/>
+      <w xlink:href="NT.Rom.w2847"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2848"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c47" level="primary" connect="NT.Rom.7_c46" structure="conj-S-(conj)-C">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2849"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2850"/>
+      <pl.conj type="embed" parent="NT.Rom.7_c47">
+        <w xlink:href="NT.Rom.w2851"/>
+      </pl.conj>
+      <w xlink:href="NT.Rom.w2852"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2853"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c48" level="primary" connect="NT.Rom.7_c47" structure="conj-S-C">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2854"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2855"/>
+      <w xlink:href="NT.Rom.w2856"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2857"/>
+      <w xlink:href="NT.Rom.w2858"/>
+      <w xlink:href="NT.Rom.w2859"/>
+      <w xlink:href="NT.Rom.w2860"/>
+      <w xlink:href="NT.Rom.w2861"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c49" level="primary" connect="NT.Rom.7_c48" structure="S-(conj)-C-P-C">
+    <cl.S>
+      <w xlink:href="NT.Rom.w2862"/>
+      <pl.conj type="embed" parent="NT.Rom.7_c49">
+        <w xlink:href="NT.Rom.w2863"/>
+      </pl.conj>
+      <w xlink:href="NT.Rom.w2864"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2865"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2866"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2867"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c50" level="primary" connect="NT.Rom.7_c49" structure="A-P">
+    <cl.A>
+      <w xlink:href="NT.Rom.w2868"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2869"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c51" level="primary" connect="NT.Rom.7_c50" structure="conj-S">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2870"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2871"/>
+      <w xlink:href="NT.Rom.w2872"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c52" level="secondary" connect="NT.Rom.7_c51" structure="conj-P-S-A">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2873"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2874"/>
+    </cl.P>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2875"/>
+    </cl.S>
+    <cl.A>
+      <cl.clause xml:id="NT.Rom.7_c53" level="embedded" structure="A-C-P-C">
+        <cl.A>
+          <w xlink:href="NT.Rom.w2876"/>
+          <w xlink:href="NT.Rom.w2877"/>
+          <w xlink:href="NT.Rom.w2878"/>
+        </cl.A>
+        <cl.C>
+          <w xlink:href="NT.Rom.w2879"/>
+        </cl.C>
+        <cl.P>
+          <w xlink:href="NT.Rom.w2880"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Rom.w2881"/>
+        </cl.C>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c54" level="secondary2" connect="NT.Rom.7_c52" structure="conj-P-C-A-S-A">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2882"/>
+    </pl.conj>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2883"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2886"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2884"/>
+      <w xlink:href="NT.Rom.w2885"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2887"/>
+      <w xlink:href="NT.Rom.w2888"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2889"/>
+      <w xlink:href="NT.Rom.w2890"/>
+      <w xlink:href="NT.Rom.w2891"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c55" level="primary" connect="NT.Rom.7_c51" structure="P-conj">
+    <cl.P>
+      <w xlink:href="NT.Rom.w2892"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2893"/>
+    </pl.conj>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c56" level="secondary" connect="NT.Rom.7_c55" structure="conj-S-C-P">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2894"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2895"/>
+      <w xlink:href="NT.Rom.w2896"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2897"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2898"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c57" level="secondary" connect="NT.Rom.7_c56" structure="S-conj-C-P-A">
+    <cl.S>
+      <w xlink:href="NT.Rom.w2899"/>
+    </cl.S>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2900"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2901"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2902"/>
+    </cl.P>
+    <cl.A>
+      <cl.clause xml:id="NT.Rom.7_c58" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Rom.w2903"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Rom.w2904"/>
+          <w xlink:href="NT.Rom.w2905"/>
+          <w xlink:href="NT.Rom.w2906"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c59" level="primary" connect="NT.Rom.7_c55" structure="C-A-P">
+    <cl.C>
+      <cl.clause xml:id="NT.Rom.7_c60" level="embedded" structure="C-conj-P">
+        <cl.C>
+          <w xlink:href="NT.Rom.w2907"/>
+        </cl.C>
+        <pl.conj>
+          <w xlink:href="NT.Rom.w2908"/>
+        </pl.conj>
+        <cl.P>
+          <w xlink:href="NT.Rom.w2909"/>
+        </cl.P>
+      </cl.clause>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2910"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2911"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c61" level="primary" connect="NT.Rom.7_c59" structure="A-conj-C-P">
+    <cl.A>
+      <w xlink:href="NT.Rom.w2912"/>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2913"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2914"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2915"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c62" level="primary" connect="NT.Rom.7_c61" structure="C-P">
+    <cl.C>
+      <w xlink:href="NT.Rom.w2916"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2917"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c63" level="primary" connect="NT.Rom.7_c62" structure="conj-C-P">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2918"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2919"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2920"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c64" level="primary" connect="NT.Rom.7_c63" structure="C-P">
+    <cl.C>
+      <w xlink:href="NT.Rom.w2921"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2922"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c65" level="secondary" connect="NT.Rom.7_c67" structure="conj-conj-C-A-P">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2923"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2924"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2925"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2926"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2927"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c66" level="secondary" connect="NT.Rom.7_c65" structure="C-P">
+    <cl.C>
+      <w xlink:href="NT.Rom.w2928"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2929"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c67" level="primary" connect="NT.Rom.7_c64" structure="P-A">
+    <cl.P>
+      <w xlink:href="NT.Rom.w2930"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2931"/>
+      <w xlink:href="NT.Rom.w2932"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c68" level="primary" projected="yes" connect="NT.Rom.7_c67" structure="conj-C">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2933"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2934"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c69" level="primary" connect="NT.Rom.7_c67" structure="A-conj-A-S-P-C">
+    <cl.A>
+      <w xlink:href="NT.Rom.w2935"/>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2936"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2937"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2938"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2939"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2940"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c70" level="primary" connect="NT.Rom.7_c69" structure="conj-S">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2941"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2942"/>
+      <cl.clause xml:id="NT.Rom.7_c71" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Rom.w2943"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Rom.w2944"/>
+          <w xlink:href="NT.Rom.w2945"/>
+        </cl.A>
+      </cl.clause>
+      <w xlink:href="NT.Rom.w2946"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c72" level="primary" connect="NT.Rom.7_c70" structure="P-conj">
+    <cl.P>
+      <w xlink:href="NT.Rom.w2947"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2948"/>
+    </pl.conj>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c73" level="secondary" connect="NT.Rom.7_c72" structure="conj-A-P-A-S">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2949"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2950"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2951"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2952"/>
+      <w xlink:href="NT.Rom.w2953"/>
+      <cl.clause xml:id="NT.Rom.7_c74" level="embedded" structure="S-P-A">
+        <cl.S>
+          <w xlink:href="NT.Rom.w2954"/>
+        </cl.S>
+        <cl.P>
+          <w xlink:href="NT.Rom.w2955"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Rom.w2956"/>
+          <w xlink:href="NT.Rom.w2957"/>
+          <w xlink:href="NT.Rom.w2958"/>
+          <w xlink:href="NT.Rom.w2959"/>
+        </cl.A>
+      </cl.clause>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2960"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c75" level="primary" connect="NT.Rom.7_c72" structure="S-P-C">
+    <cl.S>
+      <cl.clause xml:id="NT.Rom.7_c76" level="embedded" structure="P-(conj)">
+        <cl.P>
+          <w xlink:href="NT.Rom.w2961"/>
+          <pl.conj type="embed" parent="NT.Rom.7_c76">
+            <w xlink:href="NT.Rom.w2962"/>
+          </pl.conj>
+          <w xlink:href="NT.Rom.w2963"/>
+        </cl.P>
+      </cl.clause>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2964"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2965"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c77" level="primary" connect="NT.Rom.7_c75" structure="S-A">
+    <cl.S>
+      <cl.clause xml:id="NT.Rom.7_c78" level="embedded" structure="P-(conj)-C">
+        <cl.P>
+          <w xlink:href="NT.Rom.w2966"/>
+          <pl.conj type="embed" parent="NT.Rom.7_c78">
+            <w xlink:href="NT.Rom.w2967"/>
+          </pl.conj>
+          <w xlink:href="NT.Rom.w2968"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Rom.w2969"/>
+          <w xlink:href="NT.Rom.w2970"/>
+        </cl.C>
+      </cl.clause>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2971"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c79" level="primary" connect="NT.Rom.7_c77" structure="A-conj-C-(P)">
+    <cl.A>
+      <w xlink:href="NT.Rom.w2972"/>
+    </cl.A>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2973"/>
+    </pl.conj>
+    <cl.C>
+      <cl.clause xml:id="NT.Rom.7_c80" level="embedded" structure="C-(P)">
+        <cl.C>
+          <w xlink:href="NT.Rom.w2974"/>
+          <cl.P type="embed" parent="NT.Rom.7_c80">
+            <w xlink:href="NT.Rom.w2975"/>
+          </cl.P>
+          <w xlink:href="NT.Rom.w2977"/>
+        </cl.C>
+      </cl.clause>
+      <cl.P type="embed" parent="NT.Rom.7_c79">
+        <w xlink:href="NT.Rom.w2976"/>
+      </cl.P>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c81" level="primary" connect="NT.Rom.7_c79" structure="conj-C-(A)-(P)">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2978"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2979"/>
+      <cl.A type="embed" parent="NT.Rom.7_c81">
+        <w xlink:href="NT.Rom.w2980"/>
+      </cl.A>
+      <cl.P type="embed" parent="NT.Rom.7_c81">
+        <w xlink:href="NT.Rom.w2981"/>
+      </cl.P>
+      <w xlink:href="NT.Rom.w2982"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c82" level="primary" connect="NT.Rom.7_c81" structure="C-P">
+    <cl.C>
+      <w xlink:href="NT.Rom.w2983"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2984"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c83" level="secondary" connect="NT.Rom.7_c85" structure="conj-conj-C-A-P">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2985"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2986"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2987"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Rom.w2988"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2989"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c84" level="secondary" connect="NT.Rom.7_c83" structure="S-C-P">
+    <cl.S>
+      <w xlink:href="NT.Rom.w2990"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2991"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2992"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c85" level="primary" connect="NT.Rom.7_c82" structure="A-S-P-C">
+    <cl.A>
+      <w xlink:href="NT.Rom.w2993"/>
+    </cl.A>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2994"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Rom.w2995"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Rom.w2996"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c86" level="primary" connect="NT.Rom.7_c85" structure="conj-S">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w2997"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Rom.w2998"/>
+      <cl.clause xml:id="NT.Rom.7_c87" level="embedded" structure="P-A">
+        <cl.P>
+          <w xlink:href="NT.Rom.w2999"/>
+        </cl.P>
+        <cl.A>
+          <w xlink:href="NT.Rom.w3000"/>
+          <w xlink:href="NT.Rom.w3001"/>
+        </cl.A>
+      </cl.clause>
+      <w xlink:href="NT.Rom.w3002"/>
+    </cl.S>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c88" level="primary" connect="NT.Rom.7_c86" structure="P-conj-C-C">
+    <cl.P>
+      <w xlink:href="NT.Rom.w3003"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w3004"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Rom.w3005"/>
+      <w xlink:href="NT.Rom.w3006"/>
+    </cl.C>
+    <cl.C>
+      <w xlink:href="NT.Rom.w3009"/>
+      <cl.clause xml:id="NT.Rom.7_c89" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Rom.w3007"/>
+          <w xlink:href="NT.Rom.w3008"/>
+        </cl.P>
+        <cl.C>
+          <cl.clause xml:id="NT.Rom.7_c90" level="embedded" structure="P-C">
+            <cl.P>
+              <w xlink:href="NT.Rom.w3010"/>
+            </cl.P>
+            <cl.C>
+              <w xlink:href="NT.Rom.w3011"/>
+              <w xlink:href="NT.Rom.w3012"/>
+            </cl.C>
+          </cl.clause>
+        </cl.C>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c91" level="secondary" connect="NT.Rom.7_c88" structure="conj-C-S-P">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w3013"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Rom.w3014"/>
+    </cl.C>
+    <cl.S>
+      <w xlink:href="NT.Rom.w3015"/>
+      <w xlink:href="NT.Rom.w3016"/>
+    </cl.S>
+    <cl.P>
+      <w xlink:href="NT.Rom.w3017"/>
+    </cl.P>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c92" level="primary" connect="NT.Rom.7_c88" structure="P-conj-A-A">
+    <cl.P>
+      <w xlink:href="NT.Rom.w3018"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w3019"/>
+    </pl.conj>
+    <cl.A>
+      <w xlink:href="NT.Rom.w3020"/>
+      <w xlink:href="NT.Rom.w3021"/>
+      <w xlink:href="NT.Rom.w3022"/>
+      <w xlink:href="NT.Rom.w3023"/>
+    </cl.A>
+    <cl.A>
+      <w xlink:href="NT.Rom.w3024"/>
+      <w xlink:href="NT.Rom.w3025"/>
+      <w xlink:href="NT.Rom.w3026"/>
+      <w xlink:href="NT.Rom.w3027"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c93" level="primary" connect="NT.Rom.7_c92" structure="P-conj-C-(A)">
+    <cl.P>
+      <w xlink:href="NT.Rom.w3028"/>
+    </cl.P>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w3029"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Rom.w3030"/>
+      <w xlink:href="NT.Rom.w3031"/>
+      <cl.A type="embed" parent="NT.Rom.7_c93">
+        <w xlink:href="NT.Rom.w3032"/>
+        <w xlink:href="NT.Rom.w3033"/>
+        <w xlink:href="NT.Rom.w3034"/>
+        <w xlink:href="NT.Rom.w3035"/>
+      </cl.A>
+      <cl.clause xml:id="NT.Rom.7_c94" level="embedded" structure="P-C">
+        <cl.P>
+          <w xlink:href="NT.Rom.w3036"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Rom.w3037"/>
+          <w xlink:href="NT.Rom.w3038"/>
+          <w xlink:href="NT.Rom.w3039"/>
+          <w xlink:href="NT.Rom.w3040"/>
+          <w xlink:href="NT.Rom.w3041"/>
+        </cl.C>
+      </cl.clause>
+      <cl.clause xml:id="NT.Rom.7_c95" level="embedded" structure="conj-P-C-A">
+        <pl.conj>
+          <w xlink:href="NT.Rom.w3042"/>
+        </pl.conj>
+        <cl.P>
+          <w xlink:href="NT.Rom.w3043"/>
+        </cl.P>
+        <cl.C>
+          <w xlink:href="NT.Rom.w3044"/>
+        </cl.C>
+        <cl.A>
+          <w xlink:href="NT.Rom.w3045"/>
+          <w xlink:href="NT.Rom.w3046"/>
+          <w xlink:href="NT.Rom.w3047"/>
+          <w xlink:href="NT.Rom.w3048"/>
+          <w xlink:href="NT.Rom.w3049"/>
+          <cl.clause xml:id="NT.Rom.7_c96" level="embedded" structure="P-A">
+            <cl.P>
+              <w xlink:href="NT.Rom.w3050"/>
+              <w xlink:href="NT.Rom.w3051"/>
+            </cl.P>
+            <cl.A>
+              <w xlink:href="NT.Rom.w3052"/>
+              <w xlink:href="NT.Rom.w3053"/>
+              <w xlink:href="NT.Rom.w3054"/>
+              <w xlink:href="NT.Rom.w3055"/>
+            </cl.A>
+          </cl.clause>
+        </cl.A>
+      </cl.clause>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c97" level="primary" connect="NT.Rom.7_c93" structure="C-(S)">
+    <cl.C>
+      <w xlink:href="NT.Rom.w3056"/>
+      <cl.S type="embed" parent="NT.Rom.7_c97">
+        <w xlink:href="NT.Rom.w3057"/>
+      </cl.S>
+      <w xlink:href="NT.Rom.w3058"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c98" level="primary" connect="NT.Rom.7_c97" structure="S-C-P-A">
+    <cl.S>
+      <w xlink:href="NT.Rom.w3059"/>
+    </cl.S>
+    <cl.C>
+      <w xlink:href="NT.Rom.w3060"/>
+    </cl.C>
+    <cl.P>
+      <w xlink:href="NT.Rom.w3061"/>
+    </cl.P>
+    <cl.A>
+      <w xlink:href="NT.Rom.w3062"/>
+      <w xlink:href="NT.Rom.w3063"/>
+      <w xlink:href="NT.Rom.w3064"/>
+      <w xlink:href="NT.Rom.w3065"/>
+      <w xlink:href="NT.Rom.w3066"/>
+      <w xlink:href="NT.Rom.w3067"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c99" level="primary" connect="NT.Rom.7_c98" structure="S-conj-C-A">
+    <cl.S>
+      <w xlink:href="NT.Rom.w3068"/>
+    </cl.S>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w3069"/>
+    </pl.conj>
+    <cl.C>
+      <w xlink:href="NT.Rom.w3070"/>
+      <w xlink:href="NT.Rom.w3071"/>
+    </cl.C>
+    <cl.A>
+      <w xlink:href="NT.Rom.w3072"/>
+      <w xlink:href="NT.Rom.w3073"/>
+      <w xlink:href="NT.Rom.w3074"/>
+      <w xlink:href="NT.Rom.w3075"/>
+      <w xlink:href="NT.Rom.w3076"/>
+      <w xlink:href="NT.Rom.w3077"/>
+    </cl.A>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c100" level="primary" connect="NT.Rom.7_c99" structure="conj-conj-S-A-(conj)-P-C">
+    <pl.conj>
+      <w xlink:href="NT.Rom.w3078"/>
+    </pl.conj>
+    <pl.conj>
+      <w xlink:href="NT.Rom.w3079"/>
+    </pl.conj>
+    <cl.S>
+      <w xlink:href="NT.Rom.w3080"/>
+      <w xlink:href="NT.Rom.w3081"/>
+    </cl.S>
+    <cl.A>
+      <w xlink:href="NT.Rom.w3082"/>
+      <pl.conj type="embed" parent="NT.Rom.7_c100">
+        <w xlink:href="NT.Rom.w3083"/>
+      </pl.conj>
+      <w xlink:href="NT.Rom.w3084"/>
+    </cl.A>
+    <cl.P>
+      <w xlink:href="NT.Rom.w3085"/>
+    </cl.P>
+    <cl.C>
+      <w xlink:href="NT.Rom.w3086"/>
+      <w xlink:href="NT.Rom.w3087"/>
+    </cl.C>
+  </cl.clause>
+  <cl.clause xml:id="NT.Rom.7_c101" level="primary" connect="NT.Rom.7_c100" structure="A-(conj)-C">
+    <cl.A>
+      <w xlink:href="NT.Rom.w3088"/>
+      <pl.conj type="embed" parent="NT.Rom.7_c101">
+        <w xlink:href="NT.Rom.w3089"/>
+      </pl.conj>
+      <w xlink:href="NT.Rom.w3090"/>
+    </cl.A>
+    <cl.C>
+      <w xlink:href="NT.Rom.w3091"/>
+      <w xlink:href="NT.Rom.w3092"/>
+    </cl.C>
+  </cl.clause>
+</chapter>
